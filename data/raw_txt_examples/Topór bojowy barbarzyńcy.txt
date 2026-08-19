@@ -1,0 +1,72 @@
+{{Broń
+ |Ikona                 = Topór bojowy barbarzyńcy (ikona) (by Vultus123).png
+ |Nazwa                 = Topór bojowy barbarzyńcy
+ |Podnazwa              = Gothic 3,G3:ZB
+ |Nazwa angielska       = Barbarian Battle Axe
+ |Obraz                 = Topór_bojowy_barbarzyńcy_(by_Vultus123).png
+ |Podpis obrazu         = Topór bojowy barbarzyńcy w Gothic 3
+ |Typ                   = Broń dwuręczna
+ |Opis                  = ''Nawet [[Orkowie|ork]] bałby się tej broni.''
+ |Wymagane umiejętności = [[Duży oręż II]]
+ |Wymagane atrybuty     = [[Siła]]: 250
+ |Obrażenia             = 120 (60 w wersji [[Zużycie broni|zużytej]])
+ |Dodatkowe             = [[Zabójca orków]]
+ |Posiadacz             = [[Nordmarczycy]], [[Zabójcy orków]], [[Gorn]]
+ |Handlarze             = Brak
+ |Wartość kupna         = {{Wartość|Złoto|35000}}
+ |Wartość sprzedaży     = {{Wartość|Złoto|10500}}
+ |Występowanie          = [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]]
+ |Kod                   = It_Axe_BarbarianAxe_01
+}}
+{{Broń
+ |Ikona                 = Topór bojowy barbarzyńcy G3ZB ico.png
+ |Nazwa                 = Topór bojowy barbarzyńcy
+ |Podnazwa              = Gothic 3,G3:ZB
+ |Nazwa angielska       = Barbarian Battle Axe
+ |Obraz                 = Topór_bojowy_barbarzyńcy_(by_Vultus123).png
+ |Podpis obrazu         = Topór bojowy barbarzyńcy w Gothic 3: Zmierzch Bogów
+ |Typ                   = Broń dwuręczna
+ |Opis                  = ''Nawet [[Orkowie|ork]] bałby się tej broni.''
+ |Wymagane umiejętności = [[Duży oręż II]]
+ |Wymagane atrybuty     = [[Siła]]: 250
+ |Obrażenia             = 115
+ |Dodatkowe             = [[Zabójca orków]]
+ |Posiadacz             = Brak
+ |Handlarze             = Brak
+ |Wartość kupna         = {{Wartość|Złoto|35000}}
+ |Wartość sprzedaży     = {{Wartość|Złoto|8750}}
+ |Występowanie          = [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]]
+ |Kod                   = It_Axe_BarbarianAxe_01
+}}
+'''Topór bojowy barbarzyńcy''' – dwuręczny topór występujący w [[Gothic 3]] i [[Gothic 3: Zmierzch Bogów]].
+
+== Gothic 3 ==
+=== Wygląd ===
+Trzon topora jest srebrny z charakterystycznymi zdobieniami. Obuch jest ułożony symetrycznie względem trzonu oraz zachowuje jego kolorystykę i styl tworząc jednolitą całość.
+
+=== Występowanie ===
+Broń używana jest głównie w [[Nordmar]]ze przez niektórych wojowników i [[Zabójcy orków|zabójców orków]], a także przez starego przyjaciela [[Bezimienny|Bezimiennego]] – [[Gorn]]a, są to jednak [[Zużycie broni|zużyte]] egzemplarze. Jedna sztuka tego topora znajduje się również w 37. otwartej z kolei [[Ciężka skrzynia|ciężkiej skrzyni]] spośród rozmieszczonych na obszarze [[Myrtana|Myrtany]], [[Varant]]u i [[Nordmar]]u.
+
+=== Statystyki ===
+Wartość topora wynosi 10 500 [[Złoto|sztuk złota]] przy sprzedaży. W trakcie kupna cena rośnie do 35 000 sztuk złota. Broń zadaje 120 punktów [[Obrażenia|obrażeń]] (60 w wersji zużytej), a żeby jej używać, wymagane jest 250 punktów [[Siła|siły]] i zdolnosć ''[[Duży oręż II]]''. Dodatkowo podczas korzystania z oręża bohater automatycznie ma opanowaną umiejętność ''[[Zabójca orków]]''.
+
+== Gothic 3: Zmierzch Bogów ==
+=== Wygląd ===
+Wygląd broni nie uległ zmianom względem podstawowej wersji gry.
+
+=== Występowanie ===
+W grze występuje tylko jeden egzemplarz. Można go znaleźć w 9. otwartej z kolei ciężkiej skrzyni spośród rozmieszczonych w Myrtanie. Z topora nie korzysta żadna z [[wikipedia:pl:Bohater niezależny|postaci niezależnych]] ani nie sprzedaje go żaden [[Handel|handlarz]].
+
+=== Statystyki ===
+Wysokość zadawanych obrażeń spadła do 115 punktów, podobnie jak cena sprzedaży, która wynosi teraz 8750 sztuk złota. Reszta parametrów pozostała bez zmian.
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Quest Pack 4]] ===
+W [[Modyfikacja|modyfikacji]] [[Quest Pack 4]] topór bojowy barbarzyńcy nie dodaje zdolności zabójcy orków.
+
+== Ciekawostki ==
+* W [[Gothic II]] oraz [[ArcaniA: Upadek Setarrif]] występuje broń o podobnej nazwie – [[barbarzyński topór bojowy]].
+* Na zdjęciach opublikowanych przed premierą Gothic 3 można było zobaczyć orków używających tego topora, jednak w finalnej wersji gry jest dzierżony tylko przez ludzi.
+[[Kategoria:Broń dwuręczna z Gothic 3]]
+[[Kategoria:Broń dwuręczna z Gothic 3: Zmierzch Bogów]]

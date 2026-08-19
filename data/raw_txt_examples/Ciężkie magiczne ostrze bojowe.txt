@@ -1,0 +1,46 @@
+{{Broń
+ |Ikona                 = Ciężkie magiczne ostrze bojowe G2 ikona.png
+ |Nazwa                 = Ciężkie magiczne ostrze bojowe
+ |Nazwa angielska       = Heavy Ore Battle Blade
+ |Podnazwa              = Gothic II,GII:NK
+ |Obraz                 = Mściwa stal (G1).png
+ |Typ                   = Miecz dwuręczny z rudy
+ |Opis                  = Brak
+ |Wymagane atrybuty     = [[Siła]]: 90
+ |Obrażenia             = 90 (sieczne)
+ |Wartość kupna         = {{Wartość|złoto|1200}}
+ |Wartość sprzedaży     = {{Wartość|złoto|360}}
+ |Występowanie          = [[Gothic II]]
+ |Kod                   = ItMw_2H_Special_03
+}}
+{{Broń
+ |Ikona                 = Ciężkie magiczne ostrze bojowe G2 ikona.png
+ |Nazwa                 = Ciężkie magiczne ostrze bojowe
+ |Nazwa angielska       = Heavy Ore Battle Blade
+ |Podnazwa              = Gothic II,GII:NK
+ |Obraz                 = Mściwa stal (G1).png
+ |Typ                   = Miecz dwuręczny z rudy
+ |Opis                  = Brak
+ |Wymagane atrybuty     = [[Siła]]: 140
+ |Obrażenia             = 160 (sieczne)
+ |Dodatkowe             = Premia do walki bronią dwuręczną: 10%
+ |Posiadacz             = Brak
+ |Handlarze             = Brak
+ |Wartość kupna         = {{Wartość|złoto|1800}}
+ |Wartość sprzedaży     = {{Wartość|złoto|270}}
+ |Występowanie          = [[Gothic II]]
+ |Kod                   = ItMw_2H_Special_03
+}}
+'''Ciężkie magiczne ostrze bojowe''' – oręż występujący w [[Gothic II]]. W [[Gothic]] występuje identyczna broń o nazwie [[mściwa stal]].
+
+== Gothic II ==
+Miecz ten jest bronią dwuręczną, posiada 6 par charakterystycznych ostrych kolców, zmniejszających swój rozmiar wraz z odległością od rękojeści. [[Bezimienny]] może nauczyć się [[Wykuwanie ciężkiego magicznego ostrza bojowego|wykuwać]] ten miecz u [[Kowalstwo|kowala]] [[Bennet]]a, mieszkającego na [[Farma Onara|farmie Onara]], lecz dopiero w [[Polowanie na smoki (rozdział)|IV rozdziale]] i tylko jeśli został [[Łowcy smoków|łowcą smoków]].
+
+=== Składniki ===
+* 1 pręt [[Rozgrzana stal|gorącej stali]];
+* 4 [[Bryłka rudy|bryłki rudy]].
+
+== Gothic II: Noc Kruka ==
+W dodatku Noc Kruka zwiększono obrażenia zadawane przez oręż do 160 punktów, ostrze zwiększa także umiejętność posługiwania się bronią dwuręczną. Podniesienie broni wymaga 140 puntów [[Siła|siły]]. Jej wartość wzrasta do 1800 sztuk [[Złoto|złota]], lecz sprzedać ją można tylko za 270.
+[[Kategoria:Broń dwuręczna z Gothic II]]
+[[ru:Тяжелый рудный боевой клинок орков]]

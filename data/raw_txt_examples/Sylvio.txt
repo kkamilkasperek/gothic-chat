@@ -1,0 +1,49 @@
+{{Cytat|Sylvio nie ma przyjaciół. Jedynie popleczników pełznących za nim krok w krok.|[[Rethon]] o Sylviu|plik = Sylvio nie ma przyjaciół.ogg}}
+{{Postać
+ |Imię                 = Sylvio
+ |Obraz                = <gallery>
+Sylvio (Gothic II) (by Gothicfan94).png|Najemnik
+Sylvio lowca(by PaladynLothar).png|Łowca smoków
+</gallery>
+ |Podpis obrazu        = Sylvio w Gothic II
+ |Gildia               = [[Najemnicy Lee|Najemnik]], [[Łowcy smoków|Łowca smoków]] (od [[Polowanie na smoki (rozdział)|IV rozdziału]])
+ |Poziom               = 40
+ |Miejsce zamieszkania = [[Dalekie południe]] (przed akcją gry)<ref name="a">Dialog z [[Khaled]]em: „Przybyłem tu wraz z Sylviem z południa. Należeliśmy do armii najemników, którzy walczyli z orkami”.</ref>, [[Farma Onara]], [[Lodowa kraina]] (od IV rozdziału)
+ |Miejsce urzędowania  = [[Kuchnia Thekli]], Wejście na tereny lodowej krainy (od IV rozdziału)
+ |Posiadana broń       = [[Kiepski miecz]]
+ |Posiadana zbroja     = [[Ciężki pancerz najemnika]], [[Ciężki pancerz łowcy smoków]] (od IV rozdziału)
+ |Występowanie         = [[Gothic II]]
+ |Status               = Nie żyje
+ |Dubbing              = [[Adam Bauman]]
+ |Kod                  = Sld_806_Sylvio (najemnik), Djg_700_Sylvio (łowca smoków)
+ |Przedmiot kradzieży  = {{Wartość|Złoto|210}} (najemnik), {{Wartość|Złoto|560}} (łowca smoków)
+ |Wymagana zręczność   = 80 (najemnik), 78 (łowca smoków)
+}}
+'''Sylvio''' – postać występująca w [[Gothic II]]. Jest to [[Najemnicy Lee|najemnik]] mieszkający na [[Farma Onara|farmie Onara]], a później [[Łowcy smoków|łowca smoków]].
+
+== Przed akcją gry ==
+Pochodzi z [[Dalekie południe|dalekiego południa]], gdzie walczył z [[Orkowie|orkami]] w armii najemników<ref name="a"/>. W nieznanych okolicznościach dowiedział się, że [[Lee]] szuka ludzi, więc objął dowództwo nad grupą chętnych i wraz ze swoimi towarzyszami broni opuścił armię<ref>Dialog z [[Jarvis]]em: „Ich szefem był Sylvio”. W dialogach mowa jest o armii, a najemników na farmę przybyło kilku, stąd wniosek, że musiał to być odłam składający się z chętnych.</ref>. Następnie udał się na północ, gdzie dołączył do najemników z dawnej [[Kolonia karna|kolonii]], uznając zwierzchnictwo Lee<ref>Dialog z [[Jarvis]]em: „Nie byli w Kolonii, ale walczyli z orkami - dalej na południu. Jakimś sposobem dowiedzieli się, że Lee szuka ludzi”.</ref><ref>Dialog z [[Jarvis]]em: „Uznał przywództwo Lee […]”.</ref>.
+
+== Gothic II ==
+Sylvio przesiaduje w [[Kuchnia Thekli|kuchni Thekli]] wraz ze swoim kompanem [[Bullko|Bullkiem]]. Dowodzi on niewielką podgrupą najemników<ref>Dialog z [[Gunnar (Gothic II)|Gunnarem]]: „Ich szefem jest Sylvio”.</ref>, która nie wierzy w plan Lee i stara się podburzyć resztę, by zamiast tego realizowali jego strategię<ref>Dialogi z [[Jarvis]]em: „Wśród nas, najemników, tworzą się dwa obozy. Sylvio i jego ludzie nie wierzą, że Lee ma dobry plan. […] Uznał przywództwo Lee, ale teraz próbuje podburzać przeciwko niemu najemników, żeby nie realizowali jego planu”.</ref>. Do grupy Sylvia należą: Bullko, [[Rod]], [[Sentenza]], [[Fester]] i [[Raoul]]. Pozostali najemnicy są neutralni lub stoją po stronie Lee<ref>Dialog z [[Jarvis]]em: „Po pierwsze Sylvio i jego prawa ręka Bullko. Potem Rod, Sentenza, Fester i Raoul. Reszta jest neutralna albo stoi po stronie Lee”.</ref>. Jest uważany za niebezpiecznego i aroganckiego najemnika, który często demonstruje poczucie wyższości wobec innych, dzięki czemu zdobył sobie posłuch<ref>Dialog z [[Jan (Gothic II)|Jan]]em: „Ich przywódca zwał się Sylvio. Chłopie, co to był muł! Traktował mnie, jakbym był jego własnością”.</ref><ref>Dialog z [[Khaled]]em: „To bardzo niebezpieczny człowiek! I ma posłuch wśród wielu najemników. Lepiej z nim nie zadzierać”.</ref>. Uważa, że najemnicy powinni wykorzystać rozbite siły [[Paladyni|paladynów]] i zacząć plądrować małe farmy poza [[Miasto Khorinis|miastem]], eliminować niewielkie patrole [[Straż miejska|straży]] oraz napadać na podróżnych zamiast czekać na kapitulację sił królewskich<ref>Dialog z [[Jarvis]]em: „Mówi, że reszta paladynów nie odważy się nas tutaj zaatakować i chce wykorzystać sytuację. Plądrować małe farmy, rozprawić się z małymi patrolami straży poza miastem, złupić podróżnych”.</ref>. Wyznaje zasadę, że najlepszą obroną jest atak<ref>Dialog z [[Raoul]]em: „Sylvio zawsze powtarza, że najlepszą obroną jest atak, i ma do cholery rację”.</ref>.
+[[Plik:Sylvio i Bullko w karczmie GII.png|310px|left|thumb|Sylvio przesiadujący w kuchni Thekli]]
+Jeśli [[Bezimienny]] spróbuje porozmawiać z Sylviem, ten stwierdzi, że nie pozwolił mu się do siebie odezwać i przerwie rozmowę. Sprawia problem [[Thekla|Thekli]], uprzykrzając jej życie. Bohater może skonfrontować najemnika, który w odpowiedzi zagrozi mu pobiciem przez Bullka. Uważa Lee za świetnego wojownika, z którym nie chciałby się mierzyć, o ile nie zostanie zmuszony.
+
+Gdy usłyszał o pojawieniu się [[Smoki z Khorinis|smoków]] w [[Górnicza Dolina|Górniczej Dolinie]], zaczął przekonywać najemników na farmie na wyprawę do dawnej kolonii karnej, obiecując sławę i bogactwo. Rozkazał [[Kowalstwo|kowalowi]] z farmy – [[Bennet]]owi – przygotować odpowiednie wyposażenie, a następnie wyruszył w drogę z innymi, współtworząc gildię łowców smoków<ref>Dialog z [[Lee]]: „Ten sukinsyn, Sylvio, dowiedział się o smokach w Górniczej Dolinie i namieszał w głowach wszystkim na farmie. Przekonywał chłopaków, żeby poszli z nim do Doliny. Obiecywał bogactwa, sławę, zaszczyty… […] Kazali Bennetowi przygotować dla siebie odpowiednie wyposażenie i wyruszyli w drogę”.</ref>. Sylvio, wraz ze swoimi ludźmi, próbował objąć dowództwo nad powiększającym się ugrupowaniem łowców, lecz ci nie uznali jego zwierzchnictwa<ref>Dialog z [[Kurgan]]em: „Kiedy Sylvio próbował odgrywać rolę szefa, bardzo szybko pokazaliśmy jemu i jego koleżkom, co na ten temat sądzimy”.</ref>. Przez krótki czas przebywał w [[Zamek w Górniczej Dolinie|zamku]]<ref>Dialog z [[Rethon]]em: „W zamku? Tak, był tutaj. Jednak tylko przez chwilę. Porozmawiał z kilkoma osobami i wyruszył dalej”.</ref>, lecz szybko go opuścił, udając się do [[Lodowa kraina|lodowej krainy]] wraz z Bullkiem i innymi łowcami, gdzie podobno żył najtrudniejszy do pokonania smok.
+[[Plik:Sylvio i Bullko przy ognisku GII.png|310px|right|thumb|Sylvio w lodowej krainie]]
+Przebywa u wejścia do lodowej krainy w niewielkim obozowisku. Wszyscy jego ludzie z wyjątkiem Bullka zginęli w starciu z dwoma [[Lodowy golem|lodowymi golemami]], które strzegą przejścia dalej. Oferuje Bezimiennemu 1000 sztuk [[Złoto|złota]] za [[Dwa lodowe golemy dla Sylvia|pozbycie się]] problemu, gdyż ten chce rozejrzeć się po lodowej krainie i znaleźć skarb należący do [[Finkregh|lodowego smoka]]. Po zabiciu [[Golemy|golemów]] ten nie płaci od razu, a zamiast tego każe protagoniście iść przodem, mówiąc, że otrzyma zapłatę po zabiciu smoka. Sylvio nie zapuszcza się głębiej do doliny, a na prośbę o pomoc Bezimiennego stwierdza, że ten świetnie sobie radzi. Po zabiciu lodowego smoka przez Bezimiennego Sylvio każe oddać wszystkie znalezione skarby, a następnie atakuje bohatera, twierdząc, że to jego będą sławić za pokonanie gada. Po krótkiej walce ginie z ręki Bezimiennego.
+
+=== Zlecane zadania ===
+* [[Dwa lodowe golemy dla Sylvia]]
+
+== Modyfikacje ==
+{{Główny artykuł|Sylvio/Modyfikacje}}
+
+== Przypisy ==
+[[Kategoria:Postacie z Gothic II]]
+[[Kategoria:Najemnicy]]
+[[Kategoria:Łowcy smoków]]
+[[Kategoria:Antagoniści]]
+[[cs:Sylvio]]
+[[it:Sylvio]]
+[[ru:Сильвио (Gothic II)]]

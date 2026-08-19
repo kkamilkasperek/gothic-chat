@@ -1,0 +1,36 @@
+{{Przedmiot
+ |Ikona                = Mora Sul ikona.png
+ |Nazwa                = Kamień teleportacyjny do Mora Sul
+ |Obraz                = Kamień telportacyjny.png
+ |Podpis obrazu        = Kamień teleportacyjny do Mora Sul
+ |Typ                  = Kamień teleportacyjny
+ |Opis            = ''Teleport do Mora Sul.''
+ |Właściciel           = [[Ilja]]
+ |Rzadkość             = Bardzo rzadkie (2 sztuki)
+ |Dodatkowe            = Po użyciu przenosi do [[Mora Sul]]
+ |Wartość kupna        = {{Wartość|złoto|1000}}
+ |Wartość sprzedaży = {{Wartość|złoto|300}}
+ |Występowanie         = [[Gothic 3]]
+ |Questowy             = Nie
+ |Kod                  = It_Teleport_MoraSul
+}}
+'''Kamień teleportacyjny do Mora Sul''' – jeden z [[Kamienie teleportacyjne (Gothic 3 i Zmierzch Bogów)|kamieni teleportacyjnych]] oraz przedmiot występujący w [[Gothic 3]].
+
+== Gothic 3 ==
+Kamień można użyć do teleportacji do miasta [[Mora Sul]]. Po użyciu, wokół [[Bezimienny|Bezimiennego]] zaczynają się wydzielać kłęby różowo-fioletowego dymu, a bohater wykonuje charakterystyczną inkantację, po której zostaje przeniesiony do konkretnego punktu w mieście. Korzystanie z kamienia nie zużywa punktów [[Mana|many]].
+
+Kamień można znaleźć na stole koło [[Bandaro]]. Drugi znajduje się w posiadaniu [[Ilja|Ilji]].
+
+Kamień można sprzedać za 300 sztuk [[Złoto|złota]]. Przy odkupie jego wartość rośnie do 1000 sztuk złota.
+
+<gallery widths="310" position="center" captionalign="center">
+Kamień teleportacyjny do Mora Sul.png|Położenie pierwszego kamienia
+Ilja (Gothic 3) (by Gothicfan94).png|Ilja – posiadacz drugiego kamienia
+</gallery>
+
+== Zobacz także ==
+* [[Kamienie teleportacyjne (Gothic 3 i Zmierzch Bogów)|Lista wszystkich kamieni teleportacyjnych]]
+[[Kategoria:Przedmioty z Gothic 3]]
+[[Kategoria:Przedmioty teleportacyjne]]
+
+[[ru:Камень телепортации в Мора Сул]]

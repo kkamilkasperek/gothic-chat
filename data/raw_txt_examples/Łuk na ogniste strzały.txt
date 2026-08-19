@@ -1,0 +1,27 @@
+{{Niekanon}}
+{{Broń
+ |Ikona             = Pogromca orków (ikonka) (G1).png
+ |Nazwa             = Łuk na ogniste strzały
+ |Obraz             = Pogromca orków (G1).png
+ |Podpis obrazu     = Łuk na ogniste strzały
+ |Typ               = Łuk
+ |Opis              = ''Łuk na ogniste strzały, Zadaje obrażenia ogniem''
+ |Wymagane atrybuty = [[Zręczność]]: 15
+ |Obrażenia         = 10 (od ognia)
+ |Posiadacz         = Brak
+ |Handlarze         = Brak
+ |Wartość kupna     = {{Wartość|ruda|200}}
+ |Wartość sprzedaży = {{Wartość|ruda|100}}
+ |Występowanie      = [[Die Bedrohung]]
+ |Questowy          = [[Na tropie magicznych skrzyń]]
+ |Kod               = ItRw_FlameBow
+}}
+'''Łuk na ogniste strzały''' – broń dystansowa występująca w [[Modyfikacja|modyfikacji]] do [[Gothic]] pod tytułem [[Die Bedrohung]].
+
+== Die Bedrohung ==
+Jest to specjalny łuk, jedyna broń, którą można zabić [[Strażnik wody|strażnika wody]] strzegącego ołtarza położonego na przeciwległym brzegu jeziora w pobliżu bramy do [[Nowy Obóz|Nowego Obozu]]. [[Paranor]] musi użyć go do pokonania owego stworzenia podczas rozwiązywania [[Na tropie magicznych skrzyń|zagadki magicznych skrzyń]]. Łuk jest unikatowy i można go znaleźć przy wspomnianym ołtarzu wody. Do korzystania z niego niezbędne są [[Ognista strzała#Die Bedrohung|ogniste strzały]] – gdy bohater przejdzie tuż przed ołtarzem, automatycznie otrzyma 30 tych pocisków.
+
+Broń zadaje 10 punktów [[Obrażenia|obrażeń]] od ognia i wymaga 15 punktów [[Zręczność|zręczności]], aby móc jej używać. Wartość łuku wynosi 200 [[Bryłka rudy|bryłek rudy]], przy sprzedaży spada ona do 100 bryłek.
+[[Kategoria:Łuki z modyfikacji]]
+[[Kategoria:Die Bedrohung]]
+[[Kategoria:Przedmioty związane z zadaniami z Die Bedrohung]]

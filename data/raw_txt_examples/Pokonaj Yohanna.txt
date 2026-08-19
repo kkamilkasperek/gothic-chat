@@ -1,0 +1,37 @@
+{{Zadanie
+ |Nazwa                = Pokonaj Yohanna
+ |Nazwa angielska      = Beat Yohann
+ |Obraz                = Pokonaj_Yohanna_(pierwsza_wypowiedź)_(G3ZB)_(by_Kubar906).png
+ |Podpis obrazu        = Początek zadania
+ |Zleceniodawca        = [[Derex]]
+ |Start                = [[Arena w Geldern]]
+ |Koniec               = Arena w [[Geldern]]
+ |Poprzednie           = Brak
+ |Część zadania        = Brak
+ |Następne             = [[Pokonaj Brennusa]]
+ |Dostępność           = Wszyscy
+ |Nagroda              = 2000 [[Punkty doświadczenia|punktów doświadczenia]]
+ |Występowanie         = [[Gothic 3: Zmierzch Bogów]]
+}}
+'''Pokonaj Yohanna''' – zadanie poboczne występujące w [[Gothic 3: Zmierzch Bogów]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[Derex]]a.
+
+== Krok po kroku ==
+# Porozmawiaj z Derexem na [[Arena w Geldern|arenie w Geldern]].
+# Pokonaj [[Yohann]]a w pojedynku.
+
+== Przebieg zadania ==
+=== Pierwszy przeciwnik ===
+Będąc w [[Geldern]], Bezimienny zagląda na tamtejszą arenę. Pyta on Derexa – jej zarządcę – czy mógłby zmierzyć się z jednym z [[Gladiatorzy|gladiatorów]]. Derex szybko objaśnia bohaterowi zasady areny, a następnie poleca, żeby stawił czoło Yohannowi.
+
+=== Walka ===
+Mężczyźni wchodzą na arenę i dobywają broni. Yohann posługuje się zwykłym [[miecz]]em, a jego opancerzenie to [[lekki pancerz buntownika]]. Bohater szybko powala przeciwnika. Po wszystkim zadanie dobiega końca i kończy się powodzeniem.
+
+<gallery widths="310" position="center" captionalign="center">
+Pokonaj_Yohanna_(walka)_(G3ZB)_(by_Kubar906).png|Walka
+Pokonaj Brennusa (początek zadania).png|Koniec zadania, a jednocześnie początek kolejnego
+</gallery>
+
+== Wpis z dziennika ==
+{{Cytat|Yohann jest więc pierwszym, którego muszę położyć na łopatki.}}
+[[Kategoria:Zadania poboczne z Gothic 3: Zmierzch Bogów]]
+[[Kategoria:Zadania w Geldern z Gothic 3: Zmierzch Bogów]]

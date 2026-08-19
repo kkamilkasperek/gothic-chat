@@ -1,0 +1,326 @@
+{{Inne znaczenia|gry z 2001 roku|Seria Gothic|Seria Gothic}}
+{{Muzyka do artykułu|Gothic (muzyka).ogg}}
+{{Gra
+ |Nazwa                = Gothic
+ |Okładka              = Gothic 1 box.png
+ |Podpis obrazu        = Jedna z okładek gry
+ |Gatunek              = [[wikipedia:pl:Fabularna gra akcji|Action RPG]]
+ |Producent            = [[Piranha Bytes]]
+ |Wydawca              = Europa: [[Egmont Interactive]], USA: [[Xicat Interactive]]
+ |Dystrybutor w Polsce = [[CD Projekt]]
+ |Data wydania         = '''Świat:''' 15 marca 2001, '''Polska:''' 28 marca 2002
+ |Sprzedaż             = Nieznana
+ |Odbiór               = 8;9/10 (IMDB)<ref>https://www.imdb.com/title/tt0889068/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Gothic%25202001</ref>, 8;7/10 (Metacritic)<ref name="metacritic.com">https://www.metacritic.com/game/gothic/</ref>, 9;0/10 (Gry-online)<ref>https://www.gry-online.pl/gra-ocena.asp?ID=5012#pc</ref>
+ |Platformy            = PC, Nintendo Switch<ref>W wydaniu [[Gothic Classic]].</ref>
+ |Silnik               = [[ZenGin]]
+ |Wymagania            = Procesor Intel Pentium III 700 MHz (zalecane 1;2 GHz dla kart graficznych bez T&L), 256 MB RAM (dla Windows XP zalecane 512 MB), Karta graficzna 3D z 32 MB z obsługą DirectX 7 (zalecana 64 MB), 2;2 GB wolnego miejsca na twardym dysku, Karta dźwiękowa zgodna z DirectX 8, System operacyjny: Microsoft Windows 98/2000/XP
+ |Nośnik               = 3 płyty CD, 1 płyta DVD, Cyfrowy
+ |Aktualna wersja      = 1.08k
+}}
+'''Gothic''' – gra z gatunku [[wikipedia:pl:Fabularna gra akcji|action RPG]] będąca pierwszą częścią [[Seria Gothic|serii Gothic]] stworzonej przez [[Piranha Bytes]]. Jej premiera miała miejsce 15 marca 2001 roku, a wersja polska ukazała się 28 marca 2002 roku. Wydawcą tytułu na rynek europejski zostało [[Egmont Interactive]], a za dystrybucję gry w Polsce odpowiadało [[CD Projekt]]. Przejście gry obejmujące fabułę główną wraz z misjami pobocznymi zajmuje około 30 godzin. 19 lutego 2020 potwierdzono rozpoczęcie prac nad [[Gothic Remake|Remake'iem]] Gothic'a<ref>https://steamcommunity.com/app/950670/discussions/0/1742267854809566431/</ref>, a 28 września 2023 ukazało się wydanie gry na konsole Nintendo Switch nazwane [[Gothic Classic]]<ref>https://discord.com/channels/533175482804338688/654692297988112385/1156896226504101889</ref>.
+
+== Fabuła gry ==
+=== Główny wątek ===
+[[Plik:Bezimienny (Gothic I) (by Gothicfan94).png|left|thumb|150px|Bezimienny bohater]]
+Gra osadzona jest w quasi-średniowiecznym świecie fantasy. Akcja toczy się na terenie [[Kolonia karna|kolonii karnej]] otoczonej [[Magiczna bariera|magiczną barierą]]. Więzienie to powstało z powodu pogarszającej się sytuacji na froncie w [[II wojna z orkami|wojnie z orkami]] i zapotrzebowaniu na [[Magiczna ruda|magiczną rudę]], którą mieli wydobywać więźniowie. Król [[Rhobar II]] wydał rozkaz otoczenia więzienia magiczną barierą, by uniemożliwić ucieczkę, lecz z powodu naruszenia struktury zaklęcia ta nadspodziewanie się rozrosła, przez co [[skazańcy]] przejęli kontrolę nad kolonią, wykorzystując konsternację [[Straż więzienna|straży]]. Od tej pory skazańcy prowadzili handel wymienny z [[król]]em, wymieniając magiczną rudę w zamian za towary z zewnętrznego świata.
+[[Plik:Kamień ogniskujący (Gothic).png|150px|right|thumb|Kamień ogniskujący]]
+Gra przedstawia perspektywę [[Bezimienny|Bezimiennego bohatera]], który zostaje zrzucony do kolonii 10 lat po utworzeniu magicznej bariery<ref name="a">[http://cdn.akamai.steamstatic.com/steam/apps/39500/manuals/G3_Manual_UK.pdf?t=141339 Instrukcja] do [[Gothic 3]]</ref>. Tam zapoznaje się ze społeczeństwem pod barierą i dołącza do jednego z trzech głównych obozów. Następnie na zlecenie swojego zwierzchnika bohater wspomaga [[Bractwo Śniącego|bractwo]] w [[Wielkie przywołanie|przywołaniu]] bóstwa, które wyznają – [[Śniący|Śniącego]]. Według wizji, które im zesłał, ma on uwolnić wszystkich więźniów spod bariery. Okazuje się jednak, że Śniący jest tak naprawdę demonem, a Bezimienny zostaje odesłany do [[Magowie wody|magów wody]] z [[Nowy Obóz|Nowego Obozu]], którzy planują wysadzić barierę za pomocą ładunku energii zgromadzonego w zbieranym od lat [[Kopiec rudy|kopcu]]. Bezimienny odnajduje wymagane do rytuału [[kamienie ogniskujące]], a następnie zostaje odesłany do [[Magowie ognia|magów ognia]] ze [[Stary Obóz|Starego Obozu]], którzy mają wesprzeć magów wody w wysadzeniu bariery. Okazuje się jednak, że wszyscy magowie ognia zostali zamordowani na rozkaz [[Gomez]]a – zarządcy Starego Obozu – w związku z ich sprzeciwem na [[Zajęcie Wolnej Kopalni|atak]] na należącą do Nowego Obozu [[Wolna Kopalnia|Wolną Kopalnię]] po [[Zawalenie Starej Kopalni|zawaleniu Starej Kopalni]]. W związku z tym przywódca magów wody – [[Saturas]] – odsyła Bezimiennego do [[Xardas]]a – maga, który opuścił Stary Obóz przed laty.
+[[Plik:Śniący (Gothic).png|280px|left|thumb|Śniący – główny antagonista gry]]
+Od Xardasa Bezimienny dowiaduje się, że przyczyną nadmiernego rozrostu bariery był właśnie Śniący przywołany przez [[Orkowie|orków]] około 1000 lat przed akcją gry<ref name="a" />. Bohater zostaje odesłany do [[Świątynia Śniącego|świątyni demona]], gdzie spotyka pięciu [[Ożywieńczy szamani orków|ożywieńczych szamanów]], którzy przyzwali Śniącego. Bezimienny pokonuje czterech z nich, zabierając ich [[Sztylety szamanów-ożywieńców|sztylety]], oraz odnajduje [[Uriziel|tajemniczy miecz]]. Ostatni z szamanów jest jednak niewrażliwy na ciosy bohatera, dlatego ten wraca na powierzchnię. Xardas rozpoznaje w odnalezionym orężu starożytny miecz Uriziel, który pozbawiony jest jednak swoich magicznych właściwości. Bohater z pomocą swojego przyjaciela [[Milten]]a ładuje miecz, wykorzystując zgromadzony przez magów wody kopiec rudy, a następnie wraca do świątyni, by pokonać ostatnią przeszkodę na drodze do Śniącego. Tuż przed ostatnią komnatą bohater spotyka Xardasa, który [[Teleportacja|teleportował]] się do świątyni. Ten wyjaśnia, jak pokonać Śniącego, po czym w wyniku działania [[Magia Śniącego|magii Śniącego]] zasypia. Bezimienny stacza bój z fanatycznymi wyznawcami Śniącego, a następnie, wykorzystując znalezione wcześniej sztylety, przebija serca szamanów zgromadzone w [[Kaplica serc|kapliczkach]] wokół demona. Po przebiciu ostatniego serca [[Portal w świątyni Śniącego|portal]] za demonem otwiera się i Śniący zostaje wciągnięty do [[Wymiar Beliara|królestwa Beliara]]. W tym momencie gra się kończy.
+
+=== Ciągłość fabuły ===
+Fabuła podzielona jest na 6 [[Rozdziały|rozdziałów]], każdy stanowiący logiczny podpunkt opowiadanej historii. W zależności od aktualnego rozdziału zmienia się świat pod magiczną barierą w związku z wydarzeniami, które mają miejsce.
+
+=== Spis zadań ===
+{{Główny artykuł|Zadania w Gothic}}
+
+== Główne gildie ==
+[[Plik:Blizna i Arto rozmowa.png|250px|right|thumb|Magnaci – jedna z najwyżej postawionych gildii w kolonii]]
+Społeczeństwo pod magiczną barierą podzielone jest na 3 obozy. Każdy z nich ma swoją unikalną hierarchię. Bezimienny może zostać oficjalnym członkiem niektórych z wymienionych gildii podczas rozgrywki, pnąc się po drabinie społecznej. Możliwe do dołączenia gildie zależą od wyborów bohatera i obozu, którego będzie członkiem. Do najważniejszych gildii w kolonii należą:
+
+=== Stary Obóz ===
+* [[Magnaci]] – najbogatsi mieszkańcy kolonii odpowiedzialni za handel magiczną rudą z królem<ref>Dialog z bezimiennym [[kopacze]]m: „Magnaci. To oni organizują wymianę rudy z królem.”</ref>.
+* [[Magowie ognia]] – magowie kręgu ognia biorący udział w tworzeniu bariery.
+* [[Strażnicy Starego Obozu]] – grupa wojowników zajmująca się dbaniem o porządek w Starym Obozie i [[Stara Kopalnia|kopalni]].
+* [[Cienie]] – wyszkoleni ludzie na usługach Gomeza.
+* [[Kopacze]] – pracownicy wydobywający magiczną rudę ze Starej Kopalni.
+[[Plik:Krety przy pracy G.png|280px|right|thumb|Krety – najniższa gildia w Nowym Obozie]]
+=== Nowy Obóz ===
+* [[Magowie wody]] – magowie kręgu wody biorący udział w tworzeniu bariery.
+* [[Najemnicy Lee]] – wojownicy na usługach magów wody.
+* [[Szkodnicy]] – mieszkańcy kolonii przynależni do Nowego Obozu.
+* [[Krety]] – pracownicy wydobywający magiczną rudę w Wolnej Kopalni.
+* [[Zbieracze]] – zbieracze [[ryż]]u pracujący na [[Pola ryżowe w Nowym Obozie|polach ryżowych]] Nowego Obozu.
+
+=== Obóz Bractwa ===
+* [[Guru]] – najwyższa kasta Bractwa Śniącego wykorzystująca [[Magia|magię]].
+* [[Strażnicy świątynni]] – wojownicy na usługach Bractwa Śniącego.
+* [[Nowicjusze Bractwa Śniącego]] – najniższa kasta Bractwa Śniącego zamieszkująca obóz.
+
+== Umiejętności ==
+Bezimienny zostaje zrzucony pod barierę, nie mając żadnych zdolności. Zdobywając [[punkty doświadczenia]], bohater osiąga kolejne poziomy, za które dostaje [[punkty nauki]]. Następnie protagonista może wydać te punkty u jednego z [[Nauczyciele w Gothic|nauczycieli]], ucząc się nowych zdolności lub zwiększając swoje atrybuty. Umiejętności dostępne w grze to:
+[[Plik:Bezimienny zabijający orka.png|310px|right|thumb|Bezimienny walczący z orkiem]]
+* [[Umiejętność walki|umiejętność walki bronią jednoręczną]];
+* [[Umiejętność walki|umiejętność walki bronią dwuręczną]];
+* [[Umiejętność walki|umiejętność walki łukiem]];
+* [[Umiejętność walki|umiejętność walki kuszą]];
+* [[Otwieranie zamków (umiejętność)|otwieranie zamków]];
+* [[kradzież kieszonkowa]];
+* [[Magia|6 kręgów magii]];
+* [[skradanie]];
+* [[akrobatyka]].
+
+Oprócz tego Bezimienny może zwiększać swoją [[Siła|siłę]], [[zręczność]] i liczbę punktów [[Mana|many]], a także uczyć się pozyskiwania rozmaitych trofeów łowieckich.
+
+== Ekwipunek ==
+Gracz może wyposażyć Bezimiennego w szereg broni, pancerzy i artefaktów, które zwiększają zadawane obrażenia, poziom ochrony lub liczbę punktów atrybutów. W grze są dostępne<ref>Wliczając w to również przedmioty dostępne tylko dla postaci niezależnych oraz za pomocą kodów.</ref>:
+[[Plik:Topór Lee (by Cassidy005).png|250px|right|thumb|[[Topór wojenny]]]]
+* 63 [[Bronie w Gothic|bronie jednoręczne]];
+* 45 [[Bronie w Gothic|broni dwuręcznych]];
+* 21 [[Bronie w Gothic|łuków]];
+* 4 [[Bronie w Gothic|kusze]];
+* 35 [[Pancerze w Gothic|pancerzy]];
+* 19 [[Amulety w Gothic|amuletów]];
+* 25 [[Pierścienie w Gothic|pierścieni]].
+
+Przedmioty w ekwipunku są podzielone na kategorie (bronie, pancerze, magia, pisma, napoje, jedzenie, artefakty i pozostałe), by ułatwić nawigację po zebranych przedmiotach.
+
+== Bestiariusz ==
+[[Plik:Młody ścierwojad (G1) (by Kubar906).png|250px|right|thumb|Ścierwojad]]
+* '''[[Chrząszcz]]''' – niewielki owad bytujący przy odpadkach i porzuconych budynkach.
+* '''[[Kretoszczur]]''' – pozbawione włosia stworzenia zamieszkujące niewielkie jaskinie. Można spotkać również jego [[Młody kretoszczur|młode osobniki]].
+* '''[[Ścierwojad]]''' – ptak nielot zamieszkujący równiny kolonii. Okazjonalnie napotkać można [[Młody ścierwojad|młode ścierwojady]].
+* '''[[Goblin]]''' – humanoidalny potwór walczący [[Pałka|pałką]] lub [[Zardzewiały miecz|zardzewiałym mieczem]].
+** '''[[Czarny goblin]]''' – groźniejsza odmiana goblina walcząca [[Kij z gwoździem|kijem z gwoździem]].
+** '''[[Goblin wojownik]]''' – najgroźniejsza odmiana goblina walcząca [[Maczuga|maczugą]].
+* '''[[Krwiopijca]]''' – latający owad bytujący przy zbiornikach wodnych.
+* '''[[Wilk]]''' – pospolity ssak zamieszkujący lasy.
+* '''[[Jaszczur]]''' – stadny gad żyjący w okolicach zbiorników wodnych.
+* '''[[Ognisty jaszczur]]''' – ognista odmiana zwykłego jaszczura ziejąca ogniem.
+* '''[[Topielec]]''' – drapieżny gad żyjący nad wodą.
+[[Plik:Troll (Gothic I) (by SpY).png|250px|right|thumb|Troll]]
+* '''[[Pełzacz]]''' – duży owad żyjący w kopalniach i podziemnych korytarzach.
+** '''[[Pełzacz wojownik]]''' – groźniejsza odmiana pełzacza o większej odporności i sile ataku.
+** '''[[Świątynny pełzacz]]''' – najgroźniejsza odmiana pełzacza zamieszkująca świątynię Śniącego.
+** '''[[Królowa pełzaczy]]''' – królowa-matka pełzaczy. Występuje tylko jeden okaz w Starej Kopalni.
+* '''[[Zębacz]]''' – drapieżny gad zamieszkujący górskie tereny.
+* '''[[Ogar]]''' – drapieżny potwór przebywający na drodze do [[Górska forteca|górskiej fortecy]].
+* '''[[Brzytwiak|Brzytwa]]''' – drapieżny gad stadny zamieszkujący [[ziemie orków]].
+* '''[[Kąsacz]]''' – drapieżny gad zamieszkujący ziemie orków.
+* '''[[Orkowy pies]]''' – ssak przypominający wilka zamieszkujący ziemie orków.
+* '''[[Cieniostwór]]''' – drapieżny potwór zamieszkujący zacienione lasy i jaskinie.
+* '''[[Troll]]''' – ogromna bestia zamieszkująca górzyste tereny. W grze występuje też unikatowy [[Młody troll|młody osobnik]].
+* '''[[Wąż błotny]]''' – olbrzymi gad zamieszkujący tereny bagniste.
+[[Plik:Książe Demonów GI.png|250px|right|thumb|Książę demonów]]
+* '''[[Harpia]]''' – latający humanoidalny potwór występujący w kanionie trolli i górskiej fortecy.
+* '''[[Golemy]]''' – magiczne istoty powiązane z żywiołami.
+** '''[[Kamienny golem]]''' – kamienny wariant golema. Przy starej fortecy można spotkać unikatowego kamiennego golema nazwanego [[Golem mostowy|golemem mostowym]].
+** '''[[Lodowy golem]]''' – lodowy wariant golema posługujący się zaklęciami lodu.
+** '''[[Ognisty golem]]''' – ognisty wariant golema posługujący się zaklęciami ognia.
+* '''[[Szkielet]]''' – [[Ożywieńcy|ożywieniec]] pozbawiony tkanki miękkiej walczący zardzewiałym mieczem lub [[Wyszczerbiony topór|wyszczerbionym toporem]].
+** '''[[Szkielet mag]]''' – odmiana szkieletu korzystająca z magii. W grze można spotkać unikatowego [[Szkielet maga z Wieży Mgieł|szkielet maga powiązanego z Wieżą Mgieł]].
+** '''[[Szkielet zwiadowca]]''' – groźniejsza odmiana szkieletu walcząca [[Siekacz (sierp)|siekaczem]].
+** '''[[Szkielet wojownik]]''' – najgroźniejsza odmiana szkieletu posługująca się wyszczerbionym toporem.
+* '''[[Zombie|Zombi]]''' – rozkładający się ożywieniec. W grze występuje również [[Nadzorca]] będący zombi dotkniętym klątwą.
+* '''[[Opiekunowie świątyni]]''' – orkowi ożywieńcy strzegący świątyni Śniącego.
+** '''[[Starsi opiekunowie świątyni]]''' – silniejsza odmiana opiekunów świątyni.
+* '''[[Pomniejszy demon]]''' – magiczna istota broniąca świątyni Śniącego. Unikatowy [[Demon ognia|osobnik]] strzeże wieży Xardasa.
+* '''[[Książę demonów]]''' – groźniejsza odmiana demona. Strzeże serc kapłanów wokół Śniącego.
+
+== Najważniejsze postacie ==
+[[Plik:Kirgo trening G.png|250px|right|thumb|Kirgo podczas treningu]]
+* '''[[Bezimienny]]''' – główny bohater gry. Zostaje zrzucony do kolonii, gdzie próbuje przetrwać i znaleźć sposób na ucieczkę.
+* '''[[Diego]]''' – przywódca cieni w Starym Obozie, mentor Bezimiennego.
+* '''[[Milten]]''' – młody mag ognia ze Starego Obozu. Jako jedyny został przyjęty do kręgu ognia po stworzeniu magicznej bariery. Jeden z przyjaciół Bezimiennego.
+* '''[[Corristo]]''' – [[Arcymagowie ognia|arcymag ognia]] ze Starego Obozu.
+* '''[[Gomez]]''' – zarządca Starego Obozu oraz magnatów. Jeden z najważniejszych ludzi pod barierą.
+* '''[[Gorn]]''' – najemnik z Nowego Obozu. Jeden z przyjaciół Bezimiennego.
+* '''[[Lares]]''' – przywódca szkodników z Nowego Obozu.
+* '''[[Lee]]''' – przywódca najemników z Nowego Obozu. Dawny generał na dworze króla Rhobara II. Strącony do kolonii po tym, jak [[szlachta]] wrobiła go w zabójstwo [[Żona Rhobara II|żony króla]].
+* '''[[Saturas]]''' – [[Arcymagowie wody|arcymag wody]] z Nowego Obozu.
+* '''[[Lester]]''' – nowicjusz z Obozu Bractwa. Jeden z przyjaciół Bezimiennego.
+* '''[[Cor Kalom]]''' – guru-[[Alchemia|alchemik]] z Obozu Bractwa. Fanatyczny wyznawca Śniącego.
+* '''[[Y'Berion]]''' – najważniejszy guru w Obozie Bractwa.
+* '''[[Cor Angar]]''' – przywódca straży świątynnej.
+* '''[[Xardas]]''' – [[Nekromanci|nekromanta]] mieszkający w [[Wieża Xardasa w Górniczej Dolinie|wieży]] położonej na ziemiach orków. Dawny mag ognia, który opuścił Stary Obóz w związku z niepochwalanymi przez Gomeza i Corristo eksperymentami.
+
+== Świat gry ==
+[[Plik:Gothic najważniejsze lokacje.png|left|thumb|250px|Najważniejsze lokacje w kolonii karnej. 1 – Stary Obóz; 2 – Nowy Obóz; 3 – Obóz Bractwa; 4 – Wieża Xardasa]]
+Świat gry stanowi obszar więzienia otoczonego magiczną barierą. Występują w nim 3 główne obozy oraz mniejsze lokacje pomiędzy nimi. Na terenie kolonii znajdują się obszary górskie, rosną dwa lasy oraz przepływają trzy rzeki. Na wschodzie rozciągają się tereny bagniste. Świat ten oprócz ludzi zamieszkują różnorodne potwory oraz orkowie.
+
+=== Główne obozy ===
+* [[Stary Obóz]] – najstarszy i największy ze wszystkich obozów<ref>Dialog z [[Diego|Diegiem]]: „Największy i najstarszy jest tak zwany Stary Obóz.”</ref>. Zlokalizowany jest na [[Zamek w Górniczej Dolinie|zamku]] i jego okolicach, które przed powstaniem bariery zamieszkiwane były przez [[Straż więzienna|straż więzienną]]. Rządzą w nim magnaci, którzy pod rządami Gomeza prowadzą handel wymienny z królem. W zamian za towary z zewnętrznego świata przekazują wydobytą w kopalni magiczną rudę. Na terenie obozu obowiązuje hierarchia. Jej najniższy stopień stanowią kopacze wydobywający rudę, następnie są cienie, strażnicy i magowie ognia, a najwyżej postawieni są magnaci. Obóz dzieli się na [[zewnętrzny pierścień]], gdzie znajduje się między innymi [[Targowisko w Starym Obozie|targowisko]] i [[Arena w Starym Obozie|arena]], oraz zamek, w którym zamieszkują strażnicy, magowie i magnaci. Stary Obóz toczy otwarty konflikt z Nowym Obozem, który okrada Stary Obóz z dóbr z zewnętrznego świata<ref>Dialog z bezimiennym strażnikiem: „Od czasu do czasu jakaś rozróba z Nowym Obozem”</ref><ref>Dialog z bezimiennym najemnikiem: „Jeśli Szkodniki nie przestaną atakować konwojów ze Starego Obozu, Gomez w końcu się wścieknie i zapuka do naszych bram.”</ref>.
+
+[[Plik:Zamek w Górniczej Dolinie (Gothic I) (by SpY).png|310px|center|thumb|Stary Obóz]]
+
+* [[Nowy Obóz]] – obóz powstały w wyniku rozłamu w Starym Obozie<ref>[https://www.yumpu.com/de/document/read/27096550/gothic-handbuch-nachdruck-computer Instrukcja] do Gothic (23 strona.).</ref>. Zbudowany został w [[Wielka jaskinia mieszkalna w Nowym Obozie|przestronnej jaskini]], w pobliżu jeziora. Jego najważniejszymi mieszkańcami są magowie wody oraz podlegli im najemnicy. Oprócz tego do obozu należą szkodnicy, krety i zbieracze. Prowadzona tu jest uprawa [[ryż]]u oraz wydobywa się magiczną rudę w pobliskiej kopalni. W przeciwieństwie do Starego Obozu wydobyta ruda jest składowana na kopiec, za pomocą którego magowie wody chcą wysadzić magiczną barierę. Obóz dzieli się na [[Pola ryżowe w Nowym Obozie|pola ryżowe]], [[Karczma na jeziorze|karczmę]] na jeziorze oraz jaskinię mieszkalną.
+
+[[Plik:Nowy Obóz Ossowski21.png|310px|center|thumb|Nowy Obóz]]
+
+* [[Obóz Bractwa]] – obóz założony przez Y'Beriona po tym, jak doznał wizji zesłanej przez Śniącego<ref>Dialog z [[Baal Cadar]]em: „Śniący wskazał Y'Berionowi i jego uczniom miejsce, w którym mieli się osiedlić.”</ref>. Zlokalizowany jest na terenie bagien na wschodzie kolonii. Stanowi siedzibę [[Bractwo Śniącego|Bractwa Śniącego]]. Najwyższą kastę stanowią [[Guru]], a następnie [[strażnicy świątynni]], którzy są zbrojnym ramieniem bractwa. Najniższym stopniem hierarchii są nowicjusze. Obóz Bractwa jako jedyny nie prowadzi wydobycia rudy. Ich ekonomia opiera się na sprzedaży narkotyzującego [[Bagienne ziele|bagiennego ziela]] pozostałym obozom. Członkowie Obozu Bractwa za pomocą bagiennego ziela próbują nawiązać kontakt ze Śniącym, który obiecał im uwolnienie spod bariery<ref>Dialog z [[Lester]]em: „Modlimy się do niego, bo obiecał zwrócić nam wolność.”</ref>. Najważniejszym punktem obozu jest [[Świątynia w Obozie Bractwa|świątynia]].
+
+[[Plik:Wejście do obozu sekty (G1) (by Kubar906).png|310px|center|thumb|Obóz Bractwa]]
+
+=== Ważne lokacje ===
+[[Plik:Wieża Xardasa w Dolinie (Gothic).png|310px|right|thumb|Wieża Xardasa]]
+* [[Wieża Xardasa w Górniczej Dolinie|Wieża Xardasa]] – wieża wybudowana na ziemiach orków, zamieszkana przez nekromantę Xardasa, który opuścił Stary Obóz.
+* [[Miasto orków]] – osada zamieszkana przez orków położona na ich terenach. Znajduje się tutaj wejście do świątyni Śniącego.
+* [[Stara Kopalnia]] – kopalnia należąca do Starego Obozu.
+* [[Wolna Kopalnia]] – kopalnia należąca do Nowego Obozu.
+* [[Kanion trolli]] – kanion zamieszkany przez trolla i gobliny. Miejsce ukrycia jednego z kamieni ogniskujących.
+* [[Stara cytadela]] – ruiny budowli położone na szycie jednej z gór kolonii. Miejsce ukrywania się [[Ur-Shak]]a po opuszczeniu przez niego miasta orków.
+* [[Stary klasztor]] – opuszczony klasztor zamieszkany niegdyś przez tajemniczych [[Mnisi ze starego klasztoru|mnichów]]. Miejsce ukrycia jednego z kamieni ogniskujących.
+* [[Górska forteca]] – stara budowla położona w górach. Miejsce ukrycia jednego z kamieni ogniskujących.
+
+== Odbiór ==
+Gra spotkała się z pozytywnym odbiorem graczy. Wiele pozytywnych opinii dotyczy klimatu, dobrej historii, realizmu świata gry oraz skomponowanej przez [[Kai Rosenkranz|Kaia Rosenkranza]] ścieżki dźwiękowej. Mimo to gracze zwracają również uwagę na liczne błędy, archaiczny system sterowania i brzydką grafikę. Mimo tych wad pierwsza część Gothica uważana jest za klasyk i wciąż posiada aktywną rzeszę fanów, głównie w krajach Europy Środkowej i Wschodniej.
+
+Przychylną opinię o produkcji wyrazili także krytycy. Tomasz Pyzioł w swojej recenzji dla serwisu Gry-Online przyznał grze 7 punktów na 10, chwaląc przemyślaną fabułę i bogaty świat<ref>https://www.gry-online.pl/S020.asp?ID=940</ref>. W rankingu najlepszych gier RPG w historii tej samej redakcji pozycja od Piranha Bytes zajęła 5. miejsce<ref>https://www.gry-online.pl/S018.asp?ID=1559&STR=17</ref>. Gothic uzyskał też 81 punktów na 100 w serwisie Metacritic<ref name="metacritic.com">https://www.metacritic.com/game/gothic/</ref>, a ocenę 7,2/10 przyznał grze serwis GameSpot<ref>https://www.gamespot.com/reviews/gothic-review/1900-2833594/</ref>.
+
+== Silnik gry ==
+Gra działa na silniku graficznym [[ZenGin Engine|ZenGin]] stworzonym w 1997 przez Piranha Bytes.
+
+== Modyfikacje ==
+Do pierwszej odsłony serii wydano liczne modyfikacje stworzone przez fanów. Do najważniejszych tworów należą: [[Mroczne Tajemnice]], [[Czas Zapłaty]], [[Diccuric]] i [[Dolina Zombie]]. Bardziej obszerną listę modyfikacji można zobaczyć [[Modyfikacje do serii Gothic|tutaj]].
+
+== Wersja polska ==
+Głosu użyczyli:
+{| class="wikitable"
+|-
+! Aktor dubbingowy
+! Dubbingowane postacie
+|-
+|[[Jacek Mikołajczak]]
+|[[Bezimienny]]
+|-
+|[[Adam Bauman]]
+|[[Diego]], [[Lares]], [[Gomez]], [[Mordrag]], [[Okyl]], [[Baal Tyon]], [[Darrion]], [[Kosa (najemnik)|Kosa]], [[Świstak]], [[Gor Na Toth]], [[Drake]], [[Wąż (Gothic)|Wąż]]
+|-
+|[[Piotr Bąk]]
+|[[Arto]], [[Drago]], [[Skorpion]], [[Pacho]], [[Aidan]], [[Butch]], [[Baal Kagan]], [[Baal Tondral]], [[Caine]], [[Gor Na Ran]], [[Baal Lukor]], [[Gor Na Vid]], [[Gor Na Kosh]], [[Ian]], [[Szantażysta]]
+|-
+|[[Jarosław Domin]]
+|[[Y'Berion]], [[Bartholo]], [[Cipher]], [[Fisk]], [[Cavalorn]], [[Ryżowy Książę]], [[Rodriguez]], [[Skip (Gothic)|Skip]], [[Baal Orun]], [[Sędzia]], [[Alberto]]
+|-
+|[[Agata Gawrońska-Bauman]]
+|[[Serafia]], [[Sira]], [[Velaya]], [[Natalia]], [[Chani]]
+|-
+|[[Paweł Iwanicki]]
+|[[Baal Cadar]], [[Baal Namib]], [[Buster]], [[Ghorim]], [[Glen]], [[Graham]], [[Homer]], [[Milten]], [[Rufus (Gothic)|Rufus]], [[Shrat]], [[Talas]]
+|-
+|[[Jacek Kopczyński]]
+|[[Lee]], [[Cor Angar]], [[Gor Hanis]], [[Gor Boba]], [[Orik (Gothic)|Orik]], [[Blizna]], [[Cronos]], [[Bloodwyn]], [[Jarvis]], [[Siekacz (strażnik)|Siekacz]]
+|-
+|[[Tomasz Marzecki]]
+|[[Xardas]], [[Saturas]], [[Corristo]], [[Riordian]], [[Damarok]], [[Cord]], [[Merdarion]]
+|-
+|[[Przemysław Nikiel]]
+|[[Thorus]], [[Gorn]], [[Wilk (postać)|Wilk]], [[Horacy]], [[Aaron]], [[Gor Na Bar]], [[Gor Na Drak]], [[Huno]], [[Kharim]], [[Swiney]]
+|-
+|[[Łukasz Nowicki]]
+|[[Snaf]], [[Scatty]], [[Balor]], [[Herek]], [[Harlok]], [[Senyan (Gothic)|Senyan]], [[Garp]]
+|-
+|[[Marek Obertyn]]
+|[[Bullit]], [[Stone]], [[Brandick]], [[Asghan]], [[Fletcher]], [[Silas (Gothic)|Silas]], [[Orry]], [[Drax]], [[Jacko]], [[Grim (Gothic)|Grim]]
+|-
+|[[Jacek Sołtysiak]]
+|[[Jesse]], [[Guy]], [[Melvin]], [[Dusty]], [[Baal Isidro]], [[Nyras]], [[Baal Netbek]]
+|-
+|[[Paweł Szczesny]]
+|[[Lester]], [[Fortuno]], [[Kirgo]], [[Rączka]], [[Baal Taran]], [[Klin]], [[Aleph]]
+|-
+|[[Andrzej Tomecki]]
+|[[Grimes]], [[Gravo]], [[Torrez]], [[Nefarius]], [[Jeremiasz]], [[Gilbert (Gothic)|Gilbert]], [[Torlof]], [[Pock]]
+|-
+|[[Robert Tondera]]
+|[[Wrzód]], [[Snipes]], [[Szakal (Gothic)|Szakal]], [[Ratford]], [[Krzykacz]], [[Joru]], [[Lewus]], [[Viran]], [[Ulbert]], [[Santino]]
+|-
+|[[Janusz Wituch]]
+|[[Cor Kalom]], [[Kruk]], [[Baal Parvez]], [[Kyle]], [[Dexter]], [[Zły]], [[Roscoe]], [[Sharky]], [[Pyrokar]]
+|-
+|[[Mirosław Zbrojewicz]]
+|[[Ur-Shak]], [[Tarrok]], [[Varrag-Hashor]], [[Varrag-Kasorg]], [[Varrag-Unhilqt]], [[Varrag-Ruuushk]], [[Grash-Varrag-Arushat]]
+|}
+
+== Reedycje ==
+* [[Gothic International Edition]]
+* [[Gothic Fan Edition]]
+* [[Gothic: Complete Collection]]
+* [[Gothic Universe]]
+* [[Gothic: Big Box]]
+* [[Saga Gothic – eXtra Klasyka]]
+* [[Saga Gothic – Gamebook]]
+
+== Galeria ==
+=== Filmy ===
+<gallery widths="310" position="center" captionalign="center">
+Gothic - trailer|Trailer gry
+Gothic Intro|Intro wprowadzające do fabuły
+Gothic Outro|Outro kończące grę
+</gallery>
+
+=== Grafiki ===
+<gallery widths="310" position="center" captionalign="center">
+Gothic menu główne.png|Grafika z menu głównego
+Gothic promo 2.png|Grafika promocyjna
+Gothic promo.png|Druga grafika promocyjna
+Gothic promo 3.png|Trzecia grafika promocyjna
+Gothic cover 2.png|Alternatywna okładka gry
+Gothic Cover 3.png|Alternatywna okładka gry
+Gothic Cover 4.png|Okładka gry na rynek amerykański
+Logo Gothic.png|Logo gry
+</gallery>
+
+== Ciekawostki ==
+* Na podstawie pierwszej części sagi fanowski zespół T.M.T. Production stworzył film ''[[Gothic: Der Film]]'', oparty na silniku graficznym gry<ref>https://www.youtube.com/watch?v=MrRoWIortQw</ref>.
+* W wywiadzie dla serwisu ''Gothicz.net'' [[Michael Hoge]] zdradził, że to on zaprojektował fabułę gry, gildie, scenerię i większość postaci. Złożenie wszystkiego w całość zajęło 3 lata, a duże zmiany w fabule zachodziły nawet 4 miesiące przed premierą<ref name="c">https://www.gothicz.net/serie-gothic/mike-hoge-talks-about-gothic/</ref>.
+* Twórcy początkowo planowali dodanie trybu multiplayer, w którym gracze mogli przejąć rolę czterech przyjaciół Bezimiennego, jednak ze względu na trudności w zaimplementowaniu gry wieloosobowej, prace nad modułem sieciowym zostały anulowane<ref>https://gothicarchive.org/postrelease/interviews/MikeHoge_30_12_2020.html</ref>.
+* Interfejs początkowo wyglądał inaczej, co można zobaczyć na oficjalnym trailerze gry. Pasek [[Zdrowie#Gothic|życia]] miał postać serduszek, a pasek [[Mana|many]] – kropli wody.
+* Michael Hoge zdradził, że przy tworzeniu pierwszej części gry twórcy inspirowali się grami z serii Ultima<ref name="c"/>.
+* W początkowej fazie produkcji grę nazwano ''Orpheus'', potem zmieniono ją na ''Finster'' (z niemieckiego - ''Mroczny'', co miało nawiązywać do mrocznej atmosfery panującej w grze). W późniejszym czasie jeden z twórców gry, Bert Speckels, pod wpływem gotyckiego rocka, którego wówczas słuchał, zaproponował, by zmienić nazwę na ''Gothic'', gdyż brzmiała wystarczająco mroczno i międzynarodowo, aby gra przyjęła się poza Niemcami<ref>https://youtu.be/yuvISO5qGG8?si=k1Ul7SBn_GRKPkDX&t=504</ref>.
+* Pierwotnie w grze miała być możliwość wybrania klasy swojego bohatera. Informacje o tym można było przeczytać w informacji prasowej wydawcy z 1999 roku<ref>https://youtu.be/yuvISO5qGG8?si=hu4k_5lUWVQPF36b&t=1130</ref>. Dodatkowo kody na przywołanie najbliższych przyjaciół Bezimiennego odpowiadają klasom, jakie miały znaleźć się w grze: Gorn ''Fighter'', czyli wojownik; Diego ''Thief'', czyli złodziej; Milten ''Mage'', czyli mag; Lester ''Psionic'', czyli mag psioniczny.
+<!--BRAK ŹRÓDŁA:
+* Twórcy początkowo wprowadzili do gry hełmy, jednak według [[Tom Putzki|Toma Putzkiego]], jednego z twórców gry, ''nie były one do końca satysfakcjonujące, więc pomysł został porzucony''.
+* Planowano również wydać wersje gry na Nintendo Gamecube, Xbox i PlayStation 2, jednak twórcy zrezygnowali z tego pomysłu, gdyż ich zdaniem silnik [[ZenGin Engine|ZenGin]] nie nadawał się do działania na konsoli, więc stworzenie wersji gry na konsolę zajęłoby zbyt wiele czasu i wymagałoby dużego nakładu pracy, którego w tamtym czasie nikt nie mógł wykonać.
+* Początkowo świat pierwszej części sagi Gothic był osadzony w klimacie pustynnym.-->
+
+== Listy związane z Gothic ==
+;Wyposażenie
+* [[Amulety w Gothic]]
+* [[Bronie w Gothic]]
+* [[Klucze w Gothic]]
+* [[Pancerze w Gothic]]
+* [[Pierścienie w Gothic]]
+* [[Przedmioty leżące swobodnie w Gothic]]
+* [[Runy w Gothic]]
+* [[Zwoje w Gothic]]
+
+;Postacie
+* [[Handlarze w Gothic]]
+* [[Nauczyciele w Gothic]]
+* [[Postacie w Gothic]]
+* [[Postacie nieśmiertelne w Gothic]]
+
+;Bestiariusz
+* [[Bestiariusz w Gothic]]
+* [[Interakcje międzygatunkowe w Gothic]]
+* [[Liczba stworzeń w Gothic]]
+
+;Pozostałe
+* [[Bonusy w Gothic]]
+* [[Czary w Gothic]]
+* [[Ekrany wczytywania w Gothic]]
+* [[Lista kodów do Gothic]]
+* [[Nieużywane dialogi w Gothic]]
+* [[Skrzynie w Gothic]]
+* [[Ścieżka dźwiękowa Gothic]]
+* [[Zadania w Gothic]]
+
+== Przypisy ==
+[[Kategoria:Gry]]
+[[cs:Gothic]]
+[[de:Gothic]]
+[[en:Gothic 1]]
+[[it:Gothic]]
+[[ru:Gothic]]
+[[uk:Gothic I]]

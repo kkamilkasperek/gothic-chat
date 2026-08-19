@@ -1,0 +1,20 @@
+{{Jedzenie
+ |Nazwa         = Ogórek
+ |Obraz         = BrakPrzedmiotu.png
+ |Typ           = Owoc
+ |Ikona         = Ogórek_(ikonka)_(ArcaniA).png
+ |Opis w grze   = ''Jedzenie.''
+ |Działanie     = Odnawia 10 punktów zdrowia
+ |Wartość kupna = Brak możliwości kupna
+ |Wartość       = {{Wartość|złoto|1}}
+ |Występowanie  = [[ArcaniA]]
+ |Questowy      = Nie
+ |Kod           = Brak
+}}
+'''Ogórek''' – jedzenie występujące w [[ArcaniA]].
+
+== ArcaniA ==
+Jest to długie, zielone warzywo. Po spożyciu go [[Pasterz z Feshyr|pasterzowi z Feshyr]] regeneruje się 10 punktów [[Zdrowie|zdrowia]]. Można znaleźć go np. w jednej ze skrzyń w [[Gospoda „Pod Rozdartą Dziewicą”|gospodzie „Pod Rozdartą Dziewicą”]] lub kupić od [[Handel|handlarzy]] żywnością.
+
+Wartość sprzedaży ogórka to 1 sztuka [[Złoto|złota]].
+[[Kategoria:Żywność z ArcaniA]]

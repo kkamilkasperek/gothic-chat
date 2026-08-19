@@ -1,0 +1,55 @@
+{{Lokacja
+ |Nazwa            = Kopalnia Silvestra
+ |Nazwa angielska  = Silvestro's mine
+ |Obraz            = G2NK Kopalnia Silvestra 01 wejście.png
+ |Podpis obrazu    = Drewniane umocnienia przed wejściem do kopalni 
+ |Typ              = Kopalnia
+ |Położenie        = Okolice [[Wieża Xardasa w Górniczej Dolinie|starej wieży Xardasa]]
+ |Mieszkańcy       = [[Pełzacz]]e
+ |Populacja        =
+ |Zarządca         = [[Silvestro]]
+ |Ważne postacie   = Brak
+ |Ważne miejsca    =
+ |Związek z fabułą =
+ |Występowanie     = [[Gothic II]]
+ |Teleportacja     = Brak
+ |Waypoint         = ow_mine3_out
+}}
+'''Kopalnia Silvestra''' – kopalnia występująca w [[Gothic II]].
+
+== Przed akcją gry ==
+Za czasów [[Kolonia karna|kolonii karnej]] była to mała, niezamieszkana jaskinia (przed nią przebywała jedynie grupa [[kąsacz]]y), znajdująca się niedaleko ścieżki prowadzącej do [[Wieża Xardasa w Górniczej Dolinie|wieży Xardasa]]. Po przybyciu ekspedycji [[Paladyni|paladynów]] do [[Górnicza Dolina|Górniczej Doliny]], kopacze przebili się przez ścianę i odkryli niewielkie złoża [[Magiczna ruda|rudy]].
+
+[[Plik:G1 Ziemie orków 03 przyszła kopalnia Silvestra.png|310px|center|thumb|Jaskinia i znajdująca się przed nią grupa kąsaczy]]
+
+== Gothic II ==
+=== Budowa ===
+Wewnątrz kopalni znajdują się dwie odnogi prowadzące do dalszych sal. W jednym z pomieszczeń znajduje się kopalniany wagon, kufer oraz kilka beczek. Podłoże kopalni pokrywają szczątki zabitych kopaczy i strażników. W jednej z sal można znaleźć ciało [[Silvestro|Silvestra]], pożerane przez [[Pełzacz|pełzacze]].
+
+=== Związek z fabułą ===
+Jest to jedno z miejsc wydobycia rudy eksploatowane przez siły ekspedycyjne [[Garond]]a. Dowódcą kopalni był Silvestro, któremu udało się zabezpieczyć cztery skrzynie rudy. Wysłał je transportem do [[Zamek w Górniczej Dolinie|zamku]] w asyście [[Diego]] jako przewodnika. Niedługo potem kopiący [[skazańcy]] natrafili na gniazdo pełzaczy, które wybiły pracujących i zrujnowały kopalnię.
+
+<gallery widths="305" position="center" captionalign="center">
+G2NK Kopalnia Silvestra 02 rozwidlenie.png|Rozwidlenie dróg tuż za wejściem
+G2NK Kopalnia Silvestra 03 wagonik.png|Pomieszczenie z wagonem i [[Skrzynia|kufrem]]
+G2NK Kopalnia Silvestra 04 silvestro zjadany gore (wcale nie).png|Pełzacze pożerające zwłoki Silvestra
+G2NK Kopalnia Silvestra 05 gniazdo.png|Gniazdo pełzaczy
+</gallery>
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Ucieczka]] ===
+Kopalnia została zamknięta kratą, a w środku znajduje się wiele pełzaczy oraz ich samiec-alfa. Samą kopalnią zainteresowani są [[Przemytnicy rudy|przemytnicy magicznej rudy]], którzy przybyli do doliny jakiś czas po akcji Gothic II.
+
+== Ciekawostki ==
+* Wewnątrz głazu znajdującego się po prawej stronie wejścia do kopalni ukryty jest [[Skrzynia|kufer]] (o kombinacji zamka: {{Zamek|P-L-2P}}), do którego można się dostać tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]]. Zawiera on 50 sztuk [[Złoto|złota]], kawałek [[Smażone mięso|smażonego mięsa]] oraz butelkę [[gin]]u.
+* Wewnątrz jednej z beczek znajdujących się po prawej stronie wejścia do kopalni ukryty jest [[posążek Innosa]]. Można go zauważyć z pomocą widoku siatki.
+* Jeżeli gracz za pomocą kodu wolnej kamery (F6) przeniesie się do kopalni Silvestra przed uruchomieniem przerywnika filmowego przedstawiającego [[Atak smoków na zamek w Górniczej Dolinie|atak smoków]] na zamek, okaże się, że wszyscy z oddziału Silvestra żyją.
+
+== Zobacz także ==
+* [[Kopalnia Fajetha]]
+* [[Kopalnia Marcosa]]
+[[Kategoria:Jaskinie z Gothic II]]
+[[Kategoria:Kopalnie]]
+[[Kategoria:Miejsca w Górniczej Dolinie]]
+[[Kategoria:Miejsca z Gothic II]]

@@ -1,0 +1,71 @@
+{{Wulgarne}}
+{{Niekanon}}
+{{Dokument
+ |Ikona                = Księga 4 G2 ikona.png
+ |Nazwa                = Słownik przekleństw Tom I
+ |Podnazwa             = I, II, III, IV
+ |Obraz                = Słownik przekleństw I-0.png
+ |Podpis obrazu        = Zawartość słownika
+ |Nadawca              = Nieznany
+ |Odbiorca             = Wszyscy
+ |Posiadacz            = [[Pietrowicz]]
+ |Występowanie         = [[Podróżnik – Za liniami wroga]]
+ |Wartość kupna        = Brak możliwości kupna
+ |Wartość              = 100 [[Rubel|rubli]]
+ |Kod                  = itwr_mat1
+}}
+{{Dokument
+ |Ikona                = Księga 4 G2 ikona.png
+ |Nazwa                = Słownik przekleństw Tom II
+ |Podnazwa             = I, II, III, IV
+ |Obraz                = Słownik przekleństw II.png
+ |Podpis obrazu        = Zawartość słownika
+ |Nadawca              = Nieznany
+ |Odbiorca             = Wszyscy
+ |Posiadacz            = [[Wowan Biały]]
+ |Występowanie         = [[Podróżnik – Za liniami wroga]]
+ |Wartość kupna        = 
+ |Wartość              = 100 [[Rubel|rubli]]
+ |Kod                  = itwr_mat2
+}}
+{{Dokument
+ |Ikona                = Księga 4 G2 ikona.png
+ |Nazwa                = Słownik przekleństw Tom III
+ |Podnazwa             = I, II, III, IV
+ |Obraz                = Słownik przekleństw III.png
+ |Podpis obrazu        = Zawartość słownika
+ |Nadawca              = Nieznany
+ |Odbiorca             = Wszyscy
+ |Posiadacz            = [[Fritz]]
+ |Występowanie         = [[Podróżnik – Za liniami wroga]]
+ |Wartość kupna        =
+ |Wartość              = 100 [[Rubel|rubli]]
+ |Kod                  = itwr_mat3
+}}
+{{Dokument
+ |Ikona                = Księga 4 G2 ikona.png
+ |Nazwa                = Słownik przekleństw Tom IV
+ |Podnazwa             = I, II, III, IV
+ |Obraz                = Słownik przekleństw IV.png
+ |Podpis obrazu        = Zawartość słownika
+ |Nadawca              = Nieznany
+ |Odbiorca             = Wszyscy
+ |Posiadacz            = [[Żyridowski]]
+ |Występowanie         = [[Podróżnik – Za liniami wroga]]
+ |Wartość kupna        = Brak możliwości kupna
+ |Wartość              = 100 [[Rubel|rubli]]
+ |Kod                  = itwr_mat4
+}}
+'''Słownik przekleństw''' – dokument występujący w [[Modyfikacja|modyfikacji]] [[Podróżnik – Za liniami wroga]] do gry [[Gothic II: Noc Kruka]].
+
+== Podróżnik – Za liniami wroga ==
+Pierwszy tom można uzyskać od [[Pietrowicz]]a podczas wykonywania zadania [[Wychowanie Pietrowicza|''Wychowanie Pietrowicza'']]. Książkę należy zanieść [[Pizdochujew]]owi. Zafascynowany intelektualista każe [[Podróżnik]]owi odnaleźć pozostałe tomy i przynieść je do siebie. Słownik opisuje podstawowe przekleństwa występujące w języku rosyjskim.
+
+'''W posiadaniu słowników są:'''
+* I tom – Pietrowicz – odda po rozmowie na temat jego złego zachowania;
+* II tom – [[Wowan Biały]] – może sprzedać;
+* III tom – [[Fritz]] – również może sprzedać;
+* IV tom – [[Żyridowski]] – odda gdy Podróżnik poprosi go o naukę lepszego wysławiania się.
+[[Kategoria:Wulgarne treści z modyfikacji]]
+[[Kategoria:Księgi z Podróżnik – Za liniami wroga]]
+[[Kategoria:Przedmioty związane z zadaniami z Podróżnik – Za liniami wroga]]

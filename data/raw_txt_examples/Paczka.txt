@@ -1,0 +1,29 @@
+{{Nieużywana zawartość}}
+{{Przedmiot
+ |Ikona             = Dostawa Beltrama ikona (GII).png
+ |Nazwa             = Paczka
+ |Nazwa angielska   = Packet
+ |Obraz             = Paczka ziela.png
+ |Podpis obrazu     = Paczka
+ |Typ               = Pakunek
+ |Opis              =
+ |Właściciel        =
+ |Rzadkość          = Nie występuje w rozgrywce
+ |Dodatkowe         = Dostępna tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]]
+ |Wartość kupna     = {{Wartość|złoto|0}}
+ |Wartość sprzedaży = {{Wartość|złoto|0}}
+ |Handlarze         =
+ |Występowanie      = [[Gothic II]]
+ |Questowy          = Nie
+ |Kod               = ItMi_Packet
+}}
+'''Paczka''' – przedmiot występujący w [[Gothic II]].
+
+== Gothic II ==
+Nie pojawia się w rozgrywce, jest dostępna jedynie za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]]. Paczkę tę można otworzyć, lecz nie posiada ona żadnej zawartości. Przedmiot ten prawdopodobnie służył twórcom jako prototyp do zaimplementowania do gry innych paczek.
+
+Paczka ta nie ma żadnej wartości w [[Złoto|złocie]].
+[[Kategoria:Przedmioty z Gothic II]]
+[[Kategoria:Nieużywana zawartość z Gothic II]]
+
+[[ru:Пакет]]

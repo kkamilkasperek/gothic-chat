@@ -1,0 +1,115 @@
+{{Czar
+ |Ikona              = Bryła_lodu_(runa)_(ikonka)_(G1).png
+ |Nazwa              = Bryła lodu
+ |Nazwa angielska    = Ice block
+ |Podnazwa           = Gothic,Gothic II,GII:NK
+ |Obraz              = <gallery>
+Bryła lodu (runa) (G1).png|Runa
+Bryła lodu (zwój) (G1).png|Zwój
+</gallery>
+ |Bóg                = [[Adanos]]
+ |Krąg               = [[Trzeci krąg magii|Trzeci]]
+ |Obrażenia          = 50
+ |Wymagana mana      = 3
+ |Działanie          = Unieruchamia przeciwnika na 10 sekund i zadaje średnie [[obrażenia]]
+ |Wartość kupna      = {{Wartość|ruda|700}} (runa), {{Wartość|ruda|70}} (zwój)
+ |Wartość sprzedaży  = {{Wartość|ruda|350}} (runa), {{Wartość|ruda|35}} (zwój)
+ |Występowanie       = [[Gothic]], [[Gothic Remake]], [[Gothic II]]
+ |Kod                = ItArRuneIceCube ([[runa]]), ItArScrollIceCube ([[Zwoje magiczne|zwój]])
+}}
+{{Czar
+ |Ikona              = Bryła lodu (Gothic II, ikona).png
+ |Nazwa              = Bryła lodu
+ |Nazwa angielska    = Ice block
+ |Podnazwa           = Gothic,Gothic II,GII:NK
+ |Obraz              = <gallery>
+Bryła lodu (Gothic II, runa).png|Runa
+Bryła Lodu GII Zwój.png|Zwój
+</gallery>
+ |Bóg                = [[Adanos]]
+ |Krąg               = [[Trzeci krąg magii|Trzeci]]
+ |Obrażenia          = 60 + 2/sek.
+ |Wymagana mana      = 20 ([[runa]] i [[Zwoje magiczne|zwój]])
+ |Działanie          = Unieruchamia przeciwnika na 19 sekund i zadaje średnie [[obrażenia]]
+ |Wartość kupna      = {{Wartość|złoto|1500}} (runa), {{Wartość|złoto|250}} (zwój)
+ |Wartość sprzedaży  = {{Wartość|złoto|450}} (runa), {{Wartość|złoto|75}} (zwój)
+ |Występowanie       = [[Gothic]], [[Gothic Remake]], [[Gothic II]]
+ |Kod                = ItRu_IceCube (runa), ItSc_IceCube (zwój)
+}}
+{{Czar
+ |Ikona              = Bryła lodu (Gothic II, ikona).png
+ |Nazwa              = Bryła lodu
+ |Nazwa angielska    = Ice block
+ |Podnazwa           = Gothic,Gothic II,GII:NK
+ |Obraz              = <gallery>
+Bryła lodu (Gothic II, runa).png|Runa
+Bryła Lodu GII Zwój.png|Zwój
+</gallery>
+ |Bóg                = [[Adanos]]
+ |Krąg               = [[Trzeci krąg magii|Trzeci]]
+ |Obrażenia          = 60 + 2/sek.
+ |Wymagana mana      = 40 ([[runa]]), 5 ([[Zwoje magiczne|zwój]])
+ |Działanie          = Unieruchamia przeciwnika na 19 sekund i zadaje średnie [[obrażenia]]
+ |Wartość kupna      = {{Wartość|złoto|1500}} (runa), {{Wartość|złoto|100}} (zwój)
+ |Wartość sprzedaży  = {{Wartość|złoto|225}} (runa), {{Wartość|złoto|15}} (zwój)
+ |Występowanie       = [[Gothic]], [[Gothic Remake]], [[Gothic II]]
+ |Kod                = ItRu_IceCube (runa), ItSc_IceCube (zwój)
+}}
+'''Bryła lodu''' – zaklęcie [[Trzeci krąg magii|trzeciego kręgu magii]] występujące w [[Gothic]], [[Gothic Remake]] i [[Gothic II]].
+
+== Gothic ==
+[[Plik:Bryła_lodu_(zwój)_(ikonka)_(G1).png|left]]
+Rzucone na wroga zadaje mu 50 punktów [[Obrażenia|obrażeń]] oraz unieruchamia go w bryle lodu na 10 sekund. Zaklęcie to nie jest w stanie zabić ludzi; jeśli posiadają 1 [[Zdrowie#Gothic|punkt życia]], stracą jedynie przytomność.
+
+[[Zwoje magiczne|Zwoje]] z czarem można kupić już w [[Witamy w Kolonii!|I rozdziale]] u [[Cronos]]a. [[Magowie wody|Mag]] wówczas oferuje 2 egzemplarze, w [[Gniazdo pełzaczy (rozdział)|następnym]] dodaje do asortymentu 2 kolejne, w [[Starożytna magia|III]] i [[Xardas (rozdział)|IV rozdziale]] po 4, a w [[Strażnicy portalu|V]] 10 sztuk. Poza tym jeden zwój znajduje się w jaskini zębaczy na drodze do [[Arena orków|areny orków]], a drugi w [[Świątynia Śniącego|świątyni Śniącego]], leży w ukrytej, otwieranej [[Przełącznik|przyciskiem]] wnęce w zakrwawionym pomieszczeniu z kolcami obok [[Gor Boba|Gor Boby]].
+
+[[Runa|Runę]] tego zaklęcia posiada [[Saturas]] oraz Cronos. Ten pierwszy używa jej tylko wtedy, gdy zostanie zaatakowany przez przyzwane przez [[Bezimienny|Bezimiennego]] istoty (ponieważ jeśli bohater sam zaatakuje przywódcę [[Magowie wody|magów wody]], ten nie odpowie siłą) lub po [[Naładowanie Uriziela|naładowaniu]] miecza [[Uriziel]]a energią z [[Kopiec rudy|kopca rudy]]. Strażnik rudy natomiast może też ją sprzedać. Choć w asortymencie ma ją dopiero od III rozdziału, to jeśli nie użyje swojego osobistego egzemplarza, można go od niego kupić od początku gry. Na dodatek skrypt sprawia, że jeśli nie ma on tej runy przy sobie, po każdym zakończeniu rozmowy z nim, w jego ekwipunku pojawia się kolejna. Można więc kupować nieskończoną ich liczbę do momentu sprowokowania maga do użycia czaru (np. przez zaatakowanie go).
+
+Wartość kupna runy wynosi 500 [[Bryłka rudy|bryłek rudy]], zaś zwoju 50 bryłek, przy sprzedaży spada odpowiednio do 250 i 25 bryłek.
+
+[[Plik:G1 Bryła lodu przed trafieniem.png|thumb|center|310px|Moment rzucania zaklęcia]]
+
+== Gothic Remake ==
+Bohater może znaleźć runę bryły lodu w skrzyni na terenie [[Stary klasztor (Gothic Remake)|starego klasztoru]].
+
+== Gothic II ==
+[[Plik:Bryła lodu (zwój) (ikonka) (G2).png|right]]
+Czar działa tak samo jak w poprzedniej części, natomiast zamraża na 19 sekund, a unieruchomionemu przeciwnikowi odbierane są dodatkowo 2 [[Zdrowie#Gothic II|punkty trafień]] na sekundę. Specjalistą w jego używaniu jest [[Marduk]], korzysta z niego również każdy [[szkielet mag]]. Aby [[Tworzenie runy bryły lodu|wykonać runę]] tego czaru, niezbędny jest [[akwamaryn]] oraz [[kwarcyt]].
+
+Wartość kupna runy wynosi 1500, zaś zwoju 250 sztuk [[Złoto|złota]], przy sprzedaży spada odpowiednio do 450 i 75 sztuk złota.
+
+<gallery position="center" captionalign="center" widths="305">
+G2 Bryła lodu działanie 01.png|Moment rzucania zaklęcia
+G2 Bryła lodu działanie 02.png|Efekt zamrożenia
+</gallery>
+
+== Gothic II: Noc Kruka ==
+Dodatkowym nauczycielem tworzenia runy bryły lodu jest [[Nefarius]], po uprzednim dotarciu Bezimiennego do [[Jarkendar]]u. Wartość kupna runy nie zmieniła się, natomiast zwoju spadła do 100 sztuk złota. Teraz sprzedać je można odpowiednio za 225 i 15 sztuk złota.
+
+Miejsca występowania:
+
+; [[Wyspa Khorinis|Okolice Khorinis]]
+* w miejscu przebywania [[Magiczny golem|magicznego golema]];
+* do kupienia u [[Zuris]]a: 3 sztuki w [[Zagrożenie|I rozdziale]];
+* do kupienia u [[Gorax]]a: 3 sztuki w [[Oko Innosa (rozdział)|III rozdziale]];
+* do kupienia u [[Isgaroth]]a: 3 sztuki w III rozdziale.
+
+; [[Górnicza Dolina]]
+* w [[Lodowa kraina|lodowej krainie]] na płaskowyżu nad zamarzniętym jeziorem (w pierwszej części gry pojawiał się tam [[topielec spod tamy]]);
+* do kupienia u [[Sengrath]]a: 2 sztuki w [[Powrót do Kolonii|II rozdziale]].
+
+Na czas zamrożenia w lodzie ofiara zaklęcia nie jest w stanie być porażona piorunem ze [[Szpon Beliara|Szponu Beliara]].
+
+== Ciekawostki ==
+* W Gothic czar ten nie działa na [[Ognisty golem|ognistego golema]], pomimo iż jest zaklęciem lodu.
+* Jeżeli w Gothic bohater posiada tylko jeden zwój bryły lodu w ekwipunku, to czar w ogóle nie zadziała po rzuceniu go na przeciwnika. Przy identycznej sytuacji w podstawie drugiej części gry czar zada tylko pierwsze obrażenia, natomiast nie zamrozi celu ani nie zada dodatkowych ran (w Nocy Kruka ten błąd został naprawiony).
+* W Gothic jeżeli cel zaklęcia ma 51 punktów życia lub mniej, wówczas czar nie zada żadnych obrażeń, a jedynie zamrozi przeciwnika.
+* W Gothic II i Nocy Kruka postaciom, które zginą unieruchomione w bryle lodu, można zaraz po śmierci zabrać pełen ekwipunek, którego normalnie nie da się zdobyć, np. runy używane przez [[Poszukiwacze|poszukiwaczy]] lub [[Szkielet mag|szkieletów-magów]], czy towary [[Handlarze w Gothic II|handlarzy]]. Dzieje się tak, ponieważ skrypt zmienia ekwipunek postaciom dopiero w momencie, gdy te padają martwe lub nieprzytomne na ziemię.
+* Jeśli w Gothic II i Nocy Kruka Bezimienny spróbuje stworzyć runę z tym czarem, a nie będzie posiadał wszystkich składników, to [[Pusty kamień runiczny|pusta runa]] wciąż zostanie zużyta.
+* Jeśli w Gothic II: Noc Kruka przeciwnik zamrozi Bezimiennego w trakcie wyciągania broni długodystansowej, to ten będzie mógł chować i wyciągać bronie oraz czary, będąc zamrożonym. Nie będzie mógł ich jednak używać.
+* Choć w [[Gothic 3]] czar ten nie występuje, zaklęcie [[Lodowa lanca|lodowej lancy]] przy dłuższej inkantacji ma podobne właściwości.
+{{Do poprawy|do uzupełnienia położenie w Gothic II, różnice między podstawą a Nocą Kruka}}
+[[Kategoria:Czary z Gothic]]
+[[Kategoria:Czary z Gothic Remake]]
+[[Kategoria:Czary z Gothic II]]
+[[ru:Ледяной блок]]

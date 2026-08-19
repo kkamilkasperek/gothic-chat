@@ -1,0 +1,49 @@
+{{Inne znaczenia|zadania występującego w modyfikacji Bandyci|Arvo (postać)|Arvo (postać)}}
+{{Niekanon}}
+{{Zadanie
+ |Nazwa                = Arvo
+ |Obraz                = Arvo (początek zadania).png
+ |Podpis obrazu        = Rozmowa rozpoczynająca zadanie
+ |Zleceniodawca        = [[Tom (Gothic II: Noc Kruka)|Tom]]
+ |Start                = [[Karczma Snafa|Karczma Lou]]
+ |Koniec               = Jaskinia niedaleko [[Obóz bandytów w Jarkendarze|obozu bandytów]]
+ |Poprzednie           = [[Choroba (Bandyci)|Choroba]]
+ |Część zadania        =
+ |Następne             = Brak
+ |Dostępność           = [[Granica|Rozdział III]]
+ |Nagroda              = Brak
+ |Występowanie         = [[Bandyci (modyfikacja)|Bandyci]]
+}}
+'''Arvo''' – ostatnie zadanie główne występujące w modyfikacji do [[Gothic II: Noc Kruka]] pod tytułem [[Bandyci (modyfikacja)|Bandyci]]. Zlecane jest [[Vinc]]owi przez [[Tom (Gothic II: Noc Kruka)|Toma]].
+
+== Krok po kroku ==
+# Porozmawiaj z Tomem w [[Karczma Snafa|karczmie Lou]].
+# Porozmawiaj z [[Kyrrus]]em, [[Miguel (Gothic II: Noc Kruka)|Miguelem]] oraz [[Logan]]em w obozie myśliwych.
+# Porozmawiaj z [[Arvo (postać)|Arvo]] i [[Juan]]em w jaskini niedaleko [[Obóz bandytów w Jarkendarze|obozu bandytów]].
+
+== Przebieg zadania ==
+=== Chęć zemsty ===
+Po rozmowie ze [[Snaf]]em Tom pyta się Vinca, co z nim zrobił:
+* jeśli bohater mu nie wybaczył, Tom zastanawia się, czy to było dobre rozwiązanie, lecz nie ocenia tego;
+* jeśli Vinc mu wybaczył, ale nie zapomniał o truciźnie, Tom mówi, że nie wie, czy byłby w stanie to wybaczyć.
+Niezależnie od tego, Tom pyta się, co z [[Arvo (postać)|Arvo]], na co bohater odpowiada, że chce go dorwać i zabić. Dostawca towarów zaleca mu odpocząć, gdyż wciąż jest osłabiony, lecz Vinc nie zgadza się na to.
+
+=== Gdzie jest Arvo? ===
+Bohater pyta się ludzi o Arvo:
+* [[Franko]] nie obchodzi, gdzie on jest i każe odejść Vincowi;
+* [[Edgor]] nie odpowiada, gdyż ma własne problemy;
+* [[Kyrrus]] mówi, że gdzieś poszedł i zaleca popytać innych;
+* [[Sancho (Gothic II: Noc Kruka)|Sancho]] nie widział Arvo, odkąd stoi przy bramie;
+* [[Miguel (Gothic II: Noc Kruka)|Miguel]] mówi, że Arvo poszedł na północ, tam gdzie Vinc z [[Logan]]em [[Pomóc Loganowi|polowali na błotne węże]];
+* Logan mówi, że Arvo był obok niego przez chwilę i poszedł sobie. Vinc dochodzi do wniosku, że poszedł do jaskini, w której wcześniej [[Dostać się wyżej|szukali kamiennej tabliczki dla Estebana]].
+
+=== Ostatnie spotkanie ===
+Bohater spotyka się z Arvo w jaskini. Dochodzi do wymiany zdań pomiędzy nimi, kiedy nagle przychodzi [[Juan]]. On i Arvo przesyłają Vincowi pozdrowienia od Franko i [[Esteban]]a, którym nie podobało się to, że bohater przyszedł znikąd i wspinał się coraz wyżej w obozie. Juan pyta się Vinca, czy ma coś do powiedzenia przed śmiercią:
+* bohater może wyciągnąć broń, na co bandyta mówi, że to był zły wybór ze strony Vinca;
+* bohater może powiedzieć, że świat jest jego wyobrażeniem. Juan arogancko odpowiada ''Jaasne.'';
+* Vinc może nic nie mówić, na co Juan mówi ''Tak myślałem.''
+Niezależnie od tego, co bohater powie, zadanie, jak i modyfikacja kończą się.
+
+== Epilog ==
+{{Cytat|Po śmierci bohatera, Juan zabija Arvo. Esteban i Franko nie chcieli mieć nic do czynienia z takim słabeuszem i partaczem jak on. [[Kruk]]owi uda się przyzwać potężny artefakt, [[Szpon Beliara]], przy okazji całkowicie oddając duszę [[Beliar]]owi. Esteban postanowi zerwać kontrakty z [[Piraci|piratami]] i każe Juanowi wykonać to śliskie zlecenie. Świadkiem tego będzie [[Tom (Gothic II: Noc Kruka)|Tom]], który powie to wszystkim w obozie. [[Fisk]] i [[Huno]] nie będą z tego zadowoleni i zlecą [[Zamach na Estebana|zabójstwo Estebana]]. [[Lou]] postanowi pozyskać składniki do alkoholu, jednak poszukiwania zakończą się dla niego tragicznie. [[Magowie wody]] pod wodzą [[Saturas]]a odnajdą portal do [[Jarkendar]]u. Będą szukać odpowiedzi w sprawie trzęsień ziemi w [[Wyspa Khorinis|Khorinis]]. [[Nekromanci|Nekromanta]] [[Xardas]] przyzwie [[Bezimienny|człowieka]], który zdoła wygnać [[Śniący|potężnego demona]]. Ale to już inna historia.|Tekst epilogu}}
+[[Kategoria:Zadania główne z Bandyci]]

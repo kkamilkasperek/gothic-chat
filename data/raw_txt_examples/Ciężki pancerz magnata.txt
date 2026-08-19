@@ -1,0 +1,41 @@
+{{Pancerz
+ |Ikona             = Ciężki pancerz magnata ikona G1.png
+ |Nazwa             = Ciężki pancerz magnata
+ |Nazwa angielska   = Heavy Ore Baron's Armor
+ |Obraz             = Ciężki pancerz magnata (by Ossowski21).png
+ |Podpis obrazu     = Ciężki pancerz magnata
+ |Typ               = Pancerz
+ |Gildia            = [[Magnaci]]
+ |Ochrona           = Broń: 80, Pociski: 8, Ogień: 40, Magia: 3
+ |Posiadacz         = [[Arto]], [[Blizna]], [[Kruk]]
+ |Handlarze         = Brak
+ |Wartość kupna     = {{Wartość|Ruda|2400}}
+ |Wartość sprzedaży = {{Wartość|Ruda|1200}}
+ |Występowanie      = [[Gothic]]
+ |Kod               = Ebr_Armor_H2
+}}
+'''Ciężki pancerz magnata''' – pancerz występujący w [[Gothic]]. W [[Gothic II: Noc Kruka]] pojawia się pod nazwą [[zbroja magnata]].
+
+== Gothic  ==
+=== Wygląd ===
+Pancerz składa się z wysokich czarnych butów, czerwonych spodni i tuniki, spod której wystaje czerwona koszula i zdobiony napierśnik, również z elementami czerwieni. Oprócz tego na zbroję składają się czarne, metalowe rękawice i opachy oraz pas z rogatą bestią na klamrze. Dodatkowo na ramiona narzucone jest futro nieznanego zwierzęcia.
+
+=== Występowanie ===
+Zbroja ta noszona jest przez [[Magnaci|magnatów]] ze [[Stary Obóz|Starego Obozu]]. [[Bezimienny]] nie ma możliwości zdobycia zbroi podczas rozgrywki.
+
+;Znani posiadacze
+* [[Arto]];
+* [[Blizna]];
+* [[Kruk]].
+
+=== Statystyki ===
+Zbroja zwiększa ochronę przed bronią o 80 punktów, przed pociskami o 8 punktów, przed ogniem o 40 punktów i przed [[Magia|magią]] o 3 punkty. Po przywołaniu zbroi [[Lista kodów do Gothic|kodami]] można ją sprzedać za 1200 [[Bryłka rudy|bryłek rudy]]. Przy odkupie wartość rośnie do 2400 bryłek rudy.
+
+== Modyfikacje ==
+{{Główny artykuł|Ciężki pancerz magnata/Modyfikacje}}
+
+== Ciekawostki ==
+* Mimo że nosi nazwę „ciężki pancerz”, w grze nie występuje jego lekka wersja, zaś kod na przywołanie wskazuje, że średnią wersją pancerza magnata jest [[ozdobna szata]].
+[[Kategoria:Pancerze z Gothic]]
+
+[[ru:Тяжелые доспехи барона]]

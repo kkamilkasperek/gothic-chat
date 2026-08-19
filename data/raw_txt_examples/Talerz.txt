@@ -1,0 +1,55 @@
+{{Przedmiot
+ |Ikona             = Talerz_(ikonka)_(G1).png
+ |Nazwa             = Talerz
+ |Nazwa angielska   = Plate
+ |Podnazwa          = Gothic,NP
+ |Obraz             = Talerz_(G1).png
+ |Podpis obrazu     = Talerz w Gothic
+ |Typ               = Naczynie
+ |Właściciel        = [[Zbieracze]], [[Krety]], [[Szkodnicy]]
+ |Rzadkość          = Pospolity
+ |Wartość kupna     = {{Wartość|ruda|4}}
+ |Wartość sprzedaży = {{Wartość|ruda|2}}
+ |Występowanie      = [[Gothic]], [[Nyras Prologue]]
+ |Questowy          = Nie
+ |Kod               = itmi_stuff_plate_01
+}}
+{{Przedmiot
+ |Ikona             = Talerz NP ico.png
+ |Nazwa             = Talerz
+ |Nazwa angielska   = Plate
+ |Podnazwa          = Gothic,NP
+ |Obraz             = Talerz NP.png
+ |Podpis obrazu     = Talerz w Nyras Prologue
+ |Typ               = Naczynie
+ |Opis              = ''Zużyte metalowe naczynie. Przypomina; że nawet więźniowie muszą jeść.''
+ |Właściciel        = Brak
+ |Rzadkość          = Unikat
+ |Wartość kupna     = Brak możliwości kupna
+ |Wartość sprzedaży = Brak możliwości sprzedaży
+ |Występowanie      = [[Gothic]], [[Nyras Prologue]]
+ |Questowy          = Nie
+ |Kod               = Brak
+}}
+'''Talerz''' – przedmiot występujący w [[Gothic]] i [[Nyras Prologue]].
+
+== Gothic ==
+Służy do spożywania posiłków. Jest wykonany z metalu, wygląda na lekko zużyty. Nie można go w żaden sposób wykorzystać. Jego wartość kupna wynosi 4 [[Bryłka rudy|bryłki rudy]], przy sprzedaży spada do 2 bryłek.
+
+Talerze są bardzo często spotykane. Znajdują się w [[skrzynia]]ch w wielu chatach [[Stary Obóz|Starego]] i [[Nowy Obóz|Nowego Obozu]], na stołach np. w [[Chata Diega|chacie Diega]] czy [[Siedziba magnatów|siedzibie magnatów]], czy w opuszczonych obozowiskach. Ma je przy sobie wielu [[Zbieracze|zbieraczy]], [[Krety|kretów]] i [[Szkodnicy|szkodników]], spośród których [[Wilk (postać)|Wilk]], [[Silas (Gothic)|Silas]], [[Mordrag]] i [[Cipher]] udostępniają je na sprzedaż.
+
+== Nyras Prologue ==
+{{Prolog|Sekcja}}
+W demie występuje tylko jeden talerz. Można go znaleźć w szałasie na samym końcu płaskowyżu ponad [[Opuszczona kopalnia|opuszczoną kopalnią]].
+
+Talerz nie ma żadnego zastosowania, nie można go też kupić ani sprzedać, ponieważ w demie nie zaimplementowano systemu [[Handel|handlu]].
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Carnage Graphic Patch]] ===
+Wygląd talerza został zmieniony.
+
+[[Plik:Talerz G1 - Srebrny talerz G2 (Carnage Graphics Patch).png|thumb|center|220px|Talerz w modyfikacji Carnage Graphic Patch]]
+[[Kategoria:Naczynia]]
+[[Kategoria:Przedmioty z Gothic]]
+[[Kategoria:Przedmioty z Nyras Prologue]]

@@ -1,0 +1,60 @@
+{{Przedmiot
+ |Ikona             = Złoty naszyjnik G2 ikona.png
+ |Nazwa             = Złoty naszyjnik
+ |Nazwa angielska   = Gold necklace
+ |Podnazwa          = Gothic II,Gothic 3
+ |Obraz             = Złoty naszyjnik (G2) (by Kubar906).png
+ |Podpis obrazu     = Złoty naszyjnik w Gothic II
+ |Typ               = Kosztowność
+ |Właściciel        = [[Den]]
+ |Rzadkość          = Bardzo rzadki
+ |Wartość kupna     = {{Wartość|złoto|300}}
+ |Wartość sprzedaży = GII: {{Wartość|złoto|90}}, NK: {{Wartość|złoto|45}}
+ |Handlarze         = Brak
+ |Występowanie      = [[Gothic II]], [[Gothic 3]]
+ |Questowy          = Nie
+ |Kod               = ItMi_GoldNecklace
+}}
+{{Przedmiot
+ |Ikona             = Złoty_naszyjnik_(ikonka)_(G3).png
+ |Nazwa             = Złoty naszyjnik
+ |Nazwa angielska   = Gold necklace
+ |Podnazwa          = Gothic II,Gothic 3
+ |Obraz             = Złoty naszyjnik (G3) (by Kubar906).png
+ |Podpis obrazu     = Złoty naszyjnik
+ |Typ               = Kosztowność
+ |Opis              = ''Złoty naszyjnik.''
+ |Właściciel        = Brak
+ |Rzadkość          = Pospolite
+ |Dodatkowe         = Brak
+ |Wartość kupna     = {{Wartość|złoto|250}}
+ |Wartość sprzedaży = {{Wartość|złoto|75}}
+ |Występowanie      = [[Gothic II]], [[Gothic 3]]
+ |Questowy          = Nie
+ |Kod               = It_Necklace
+}}
+'''Złoty naszyjnik''' – kosztowny naszyjnik występujący w [[Gothic II]] oraz [[Gothic 3]]. W [[Gothic 3: The Beginning]] pojawia się jako [[złoty amulet]].
+
+== Gothic II ==
+=== Wygląd ===
+Na pierwszy rzut oka przypomina koło, ale jeśli mu się lepiej przyjrzeć widać, że jest dziesięciokątem. Większa część naszyjnika wykonana jest ze [[Złoto (metal)|złota]] i pokryta kunsztownymi zdobieniami. Jego centralną część stanowi czarny kamień szlachetny. Całość wisi na prostym sznurku albo rzemieniu.
+
+=== Występowanie ===
+[[Bezimienny]] może znaleźć jedynie trzy egzemplarze, wszystkie w [[Górnicza Dolina|Górniczej Dolinie]]. Jeden znajduje się przy zwłokach [[Den]]a, a drugi w [[Skrzynia|kufrze]] na piętrze wieży [[Zamek w Górniczej Dolinie|zamkowej]], do której można wejść przez dawną komnatę [[Bartholo]] w [[Siedziba magnatów|głównym budynku]]. Ostatni leży luzem na parterze dawnej [[Wieża Xardasa w Górniczej Dolinie|wieży Xardasa]].
+
+=== Statystyki ===
+Naszyjnik ma wartość 300 sztuk [[Złoto|złota]], natomiast przy sprzedaży spada ona do 90 sztuk złota.
+
+== Gothic II: Noc Kruka ==
+Wartość sprzedaży spadła do 45 sztuk złota. Dwa nowe naszyjniki można znaleźć w [[Jarkendar]]ze: jeden leży w [[Jaskinia cieniostwora koło obozu piratów|jaskini cieniostwora]] na plaży na północ od [[Obóz piratów|obozu piratów]], a drugi znajduje się w kufrze w [[Świątynia Adanosa w Jarkendarze|świątyni Adanosa]], w ukrytej komnacie po lewej za pułapką z zapadniami.
+
+== Gothic 3 ==
+Podobnie jak [[złoty pierścień]], w grze jest podpisany jako ''kosztowności''. Wygląd diametralnie się zmienił w stosunku do poprzedniej części gry. Nie jest już w kształcie koła, ale posiada nieregularny kształt. Oprócz tego nie wisi już na sznurku ani na rzemieniu, a na złotym łańcuszku. Złoty naszyjnik można znaleźć w [[Skrzynie w Gothic 3|skrzyniach]], a także leżącego swobodnie. Nie posiada żadnego zastosowania poza sprzedażą.
+
+Można go sprzedać za 75 sztuk [[Złoto|złota]]. Przy kupnie jego cena rośnie do 250 sztuk złota.
+
+[[Kategoria:Kosztowności]]
+[[Kategoria:Przedmioty z Gothic II]]
+[[Kategoria:Przedmioty z Gothic 3]]
+
+[[ru:Золотое ожерелье]]

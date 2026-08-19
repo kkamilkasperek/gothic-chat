@@ -1,0 +1,41 @@
+{{Postać
+ |Imię                 = Hurit
+ |Obraz                = Hurit (Gothic 3) (by Gothicfan94).png
+ |Gildia               = [[Koczownicy|Koczownik]]
+ |Zawód                = [[Myśliwi|Myśliwy]]
+ |Poziom               = 15
+ |Miejsce zamieszkania = [[Oaza Hurita]]
+ |Miejsce urzędowania  = [[Obóz Hurita]]
+ |Posiadana broń       = [[Miecz asasyna]], [[Łuk kompozytowy]]
+ |Posiadana zbroja     = [[Ciężkie ubranie koczownika]]
+ |Występowanie         = [[Gothic 3]]
+ |Status               = Zależny od decyzji Bezimiennego
+ |Dubbing              = [[Krzysztof Banaszyk]]
+ |Kod                  = Hurit
+ |Przedmiot kradzieży  = Kradzież niemożliwa
+}}
+'''Hurit''' – postać występująca w [[Gothic 3]]. Jest to [[Myśliwi|myśliwy]] i jeden z dowódców [[Koczownicy|koczowników]].
+
+== Przed akcją gry ==
+Mieszkał wraz ze swoim plemieniem na terenie [[Oaza Hurita|oazy]] na południowy zachód od [[Ben Erai]]. Gdy wraz ze swoimi towarzyszami wyruszył na polowanie ich oaza została przejęta przez [[Asasyni|asasynów]], którym przewodzi [[Sugut]]. Z tego powodu byli zmuszeni zamieszkać w pobliskich ruinach.
+
+== Gothic 3 ==
+Hurit proponuje [[Bezimienny|Bezimiennemu]] zaatakowanie zajętej przez asasynów oazy. Znajdujący się tam Sugut, jest złodziejem [[Magiczna ruda|magicznej rudy]] z [[Ben Sala|Ben Sali]], którego można zabić na zlecenie [[Julio]]. Koczownik może z bohaterem [[Handel|handlować]] oraz nauczy go zdolności myśliwskich.
+
+Od [[Campa|Campy]], sprzedawcy [[Woda|wody]] w Ben Erai, lub samego Suguta Bezimienny otrzymuje [[Polowanie na nagrody: Hurit|zlecenie]] na zabójstwo Hurita. Po podbiciu osady asasynów [[Lago]] i uwolnieniu z więzienia [[Vatras]]a, [[Magowie wody|maga wody]], ten poprosi bohatera o zaprowadzenie go do obozu koczownika.
+
+=== Zlecane zadania ===
+* [[Bankiet dla sępów]]
+
+=== Mapa ===
+[[Plik:Polowanie na nagrody.png|310px|center|thumb|Mapa z zaznaczoną pozycją Hurita]]
+
+[[Kategoria:Koczownicy]]
+[[Kategoria:Myśliwi]]
+[[Kategoria:Postacie z Gothic 3]]
+[[Kategoria:Nauczyciele z Gothic 3]]
+[[Kategoria:Handlarze z Gothic 3]]
+
+[[cs:Hurit]]
+[[it:Hurit]]
+[[ru:Хьюрит]]

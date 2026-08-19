@@ -1,0 +1,23 @@
+{{Niekanon}}
+{{Bestia
+ |Nazwa                  = Karaluch
+ |Obraz                  = Pełzacz GII.png
+ |Podpis obrazu          = Karaluch
+ |Gromada                = Owady
+ |Odmiany                = [[Duży karaluch]]
+ |Środowisko życia       = [[Opuszczony szyb]], Tunele pod [[Obszar kołchozu|kołchozem]], Jaskinia na [[Pustkowie|pustkowiu]]
+ |Punkty doświadczenia   = 104
+ |Siła/Zręczność         = 60/60
+ |Punkty życia           = 120
+ |Pancerz                = Ochrona przed bronią: 60, Ochrona przed pociskami: 60, Ochrona przed ogniem: 60, Ochrona przed magią: 0
+ |Rzadkość               = Rzadki
+ |Nastawienie do gracza  = Agresywne
+ |Pozyskiwane przedmioty = [[Żuwaczki karalucha]]
+ |Występowanie           = [[Podróżnik – Za liniami wroga]]
+ |Kod                    = minecrawler
+}}
+'''Karaluch''' – insekt występujący w [[Modyfikacja|modyfikacji]] [[Podróżnik – Za liniami wroga]] do [[Gothic II: Noc Kruka]].
+
+==Podróżnik – Za liniami wroga==
+To olbrzymie pajęczaki żyjące w Rosji. Najczęściej występują w jaskiniach lub starych szybach kopalń, gdzie zakładają gniazda i czyhają na nieuważnych podróżnych lub amatorów górnictwa. W momencie zauważeniu ofiary głośno syczą, po czym ruszają do ataku. Poruszają się szybko, więc ucieczka przed nimi nie należy do najprostszych. Podczas walki wyprowadzają szybkie ciosy przednimi odnóżami, jednocześnie unikając kontrataków i próbując zajść przeciwnika od tyłu. Z ciał zabitych osobników można pozyskać [[Żuwaczki karalucha|żuwaczki]].
+[[Kategoria:Insekty z Podróżnik – Za liniami wroga]]

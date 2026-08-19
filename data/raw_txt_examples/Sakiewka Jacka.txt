@@ -1,0 +1,26 @@
+{{Nieużywana zawartość}}
+{{Przedmiot
+ |Ikona                = Mieszek Amula G3 ico.png
+ |Nazwa                = Sakiewka Jacka
+ |Obraz                = Sakiweka Amula G3.png
+ |Podpis obrazu        = Sakiewka Jacka
+ |Typ                  = Sakiewka
+ |Opis            = ''Sakwa Jacka.''
+ |Właściciel           = Brak
+ |Rzadkość             = Nie występuje
+ |Dodatkowe            = Dostępnie jedynie za pomocą [[Lista kodów do Gothic 3|kodów]]
+ |Wartość kupna        = Brak możliwości kupna
+ |Wartość sprzedaży = Brak możliwości sprzedaży
+ |Występowanie         = [[Gothic 3]]
+ |Questowy             = Nie
+ |Kod                  = It_Pocket_Jack
+}}
+'''Sakiewka Jacka''' – przedmiot występujący w [[Gothic 3]].
+
+== Gothic 3 ==
+Sakiewka jest dostępna jedynie za pomocą [[Lista kodów do Gothic 3|kodów]]. Po treści kodu i opisu można wywnioskować, że przedmiot był w jakiś sposób powiązany z [[Jack (Gothic 3)|Jackiem]], który mieszka w [[Latarnia morska w Ardei|latarni morskiej koło Ardei]]. Możliwe, że [[Bezimienny]] otrzymywał taką sakiewkę w ramach zadania ''[[Jack i złoto buntowników]]'' zamiast zwykłego [[Złoto|złota]].
+
+Przedmiotu nie można kupić ani sprzedać.
+[[Kategoria:Nieużywana zawartość z Gothic 3]]
+[[Kategoria:Przedmioty z Gothic 3]]
+[[Kategoria:Kosztowności]]

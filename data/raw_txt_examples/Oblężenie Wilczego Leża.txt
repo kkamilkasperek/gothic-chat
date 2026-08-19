@@ -1,0 +1,20 @@
+{{Niekanon}}
+{{Wydarzenie
+ |Nazwa          = Oblężenie Wilczego Leża
+ |Obraz          = Wilcze Leże.png
+ |Podpis obrazu  = Wilcze Leże
+ |Typ            = Bitwa
+ |Przyczyny      = [[Wojna Dwóch Braci|Podbój]] wyspy [[Wyspa Archolos|Archolos]] przez Maksyma III
+ |Skutki         = Zwycięstwo Wilczych Synów, Kompromis obu stron
+ |Biorący udział = [[Wilczy Synowie]], [[Królestwo Myrtany]]
+ |Miejsce        = [[Wilcze Leże]]
+ |Występowanie   = [[Kroniki Myrtany: Archolos]] (wzmianki)
+}}
+'''Oblężenie Wilczego Leża''' – oblężenie drugiej najważniejszej twierdzy [[Wilczy Synowie|Wilczych Synów]] podczas [[Wojna Dwóch Braci|podboju]] wyspy [[Wyspa Archolos|Archolos]], które miało miejsce przed akcją [[Modyfikacja|modyfikacji]] do [[Gothic II: Noc Kruka]] pod tytułem [[Kroniki Myrtany: Archolos]].
+
+== Kroniki Myrtany: Archolos ==
+Oblężenie Wilczego Leża miało miejsce po [[Bitwa o Vardhal|bitwie o Vardhal]]. [[Wojsko Królestwa Myrtany|Wojska myrtańskie]] przemaszerowały pod [[Wilcze Leże]], rozpoczynając oblężenie twierdzy. Zamek był jednak dobrze zaopatrzony i chroniony, przez co osłabione wojska [[Królestwo Myrtany|Królestwa Myrtany]] nie były w stanie go zdobyć, a arcymag [[Wirgilio]] nie mógł ponownie wywołać deszczu ognia.
+
+Ostatecznie [[Myrtańczycy]] przestali oblegać fortecę i zawarli pokój z Wilczymi Synami, na mocy którego Wilcze Leże zostało w rękach Wilczych Synów.
+[[Kategoria:Bitwy i oblężenia z Kroniki Myrtany: Archolos]]
+{{Zalążek|mod=*}}

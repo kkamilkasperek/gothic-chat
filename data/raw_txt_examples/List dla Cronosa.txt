@@ -1,0 +1,35 @@
+{{Niekanon}}
+{{Dokument
+ |Ikona             = List otwarty (Gothic ER) ikona.png
+ |Nazwa             = List dla Cronosa
+ |Obraz             = List dla Cronosa.png
+ |Podpis obrazu     = Treść dokumentu
+ |Typ               = List
+ |Nadawca           = [[Gor Na Shan]]
+ |Odbiorca          = [[Cronos]]
+ |Posiadacz         = Gor Na Shan
+ |Wartość kupna     = {{Wartość|ruda|0}}
+ |Wartość sprzedaży = {{Wartość|ruda|0}}
+ |Występowanie      = [[Gothic Edycja rozszerzona]]
+ |Questowy          = Nie
+ |Kod               = ItMi_ListdoCronosa
+}}
+'''List dla Cronosa''' – dokument występujący w modyfikacji [[Gothic Edycja rozszerzona]], niedostępny podczas rozgrywki.
+
+== Gothic Edycja Rozszerzona ==
+W dawniejszej wersji modyfikacji [[Bezimienny]] po zostaniu [[guru]] i odkryciu sprawcy [[Seria zabójstw w Bractwie|zabójstw]] w [[Obóz Bractwa|Obozie Bractwa]] informował o wszystkim [[Gor Na Shan]]a. Ten zaś, słysząc o opętaniu mordercy, polecał przekazać wiadomość [[Cronos]]owi z prośbą, by [[magowie wody]] wsparli [[Bractwo Śniącego|Bractwo]] w ustaleniu przyczyn tych demonicznych wpływów. Ostatecznie przyczyna zabójstw została zmieniona, cały wątek opętań wycięty, a list można jedynie przyzwać za pomocą [[Lista kodów do Gothic Edycja rozszerzona|kodów]].
+
+Nie ma on żadnej wartości w [[Bryłka rudy|rudzie]].
+
+=== Treść ===
+{{Cytat|<poem>Czcigodni Magowie Wody,
+
+Piszę do was Bracia w imieniu Y'Beriona. Sprawa jest dosyć poważna. W naszym Obozie dzieją się niepokojące rzeczy. Znacząco wzrosła liczba tajemniczych opętań wśród Nowicjuszy. Prosimy Magów Wody o pomoc w tej sprawie oraz zdefiniowaniu jej przyczyny.
+
+Niechaj gniew Beliara nigdy was nie sięgnie.
+
+Shan
+</poem>}}
+
+[[Kategoria:Dokumenty z Gothic Edycja rozszerzona]]
+[[Kategoria:Nieużywana zawartość z Gothic Edycja rozszerzona]]

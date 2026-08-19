@@ -1,0 +1,29 @@
+{{Przepis
+ |Ikona                     = Przepis na miksturę przemiany w ścierwojada ikona.png
+ |Nazwa                     = Przepis na miksturę przemiany w ścierwojada
+ |Obraz                     = Przepis na miksturę przemiany w ścierowjada.png
+ |Podpis obrazu             = Treść receptury
+ |Wymagane składniki        = 1x [[jajo ścierwojada]], 1x [[dziwny grzyb]], 1x [[fiolka]]
+ |Wymagane umiejętności     = [[Warzenie mikstur przemiany]]
+ |Wymagane narzędzie        = [[Stół alchemiczny]]
+ |Powstający przedmiot      = [[Mikstura przemiany w ścierwojada]]
+ |Posiadacz                 = [[Alchemia|Alchemicy]]
+ |Status                    = Pospolity
+ |Występowanie              = [[Gothic 3]]
+ |Wartość sprzedaży         = Brak możliwości sprzedaży
+ |Wartość kupna             = {{Wartość|złoto|200}}
+ |Wartość przedmiotu        = {{Wartość|złoto|450}}
+ |Kod                       = It_Recipe_Scavenger
+}}
+'''Przepis na miksturę przemiany w ścierwojada''' – receptura na miksturę przemiany występująca w [[Gothic 3]].
+
+== Gothic 3 ==
+Przepis pozwala na wytwarzanie [[Mikstura przemiany w ścierwojada|mikstur przemiany w ścierwojada]] przy użyciu [[Stół alchemiczny|stołu alchemicznego]]. Aby [[Bezimienny]] mógł uwarzyć tą miksturę, musi posiadać zdolność ''[[Warzenie mikstur przemiany]]''. Recepturę można nabyć od większości [[Alchemia|alchemików]] na [[Kontynent|kontynencie]]. Jej wartość kupna wynosi 200 sztuk [[Złoto|złota]].
+
+Składniki potrzebne do uwarzenia mikstury:
+* 1x [[jajo ścierwojada]]
+* 1x [[dziwny grzyb]];
+* 1x [[fiolka]].
+[[Kategoria:Przepisy na potrawy i napoje z Gothic 3]]
+
+[[ru:Рецепт зелья превращения в падальщика]]

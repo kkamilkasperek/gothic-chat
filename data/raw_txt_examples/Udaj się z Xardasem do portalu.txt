@@ -1,0 +1,32 @@
+{{Zadanie
+ |Nazwa                = Udaj się z Xardasem do portalu
+ |Nazwa angielska      = Go to the portal with Xardas
+ |Obraz                = Udaj się z Xardim do portalu.png
+ |Podpis obrazu        = Początek zadania
+ |Zleceniodawca        = [[Xardas]]
+ |Start                = [[Wieża Xardasa w Nordmarze]]
+ |Koniec               = [[Portal do Nieznanych Krain]]
+ |Poprzednie           = [[Zabij króla Rhobara]], [[Zabij Zubena]], [[Berło Varantu!]], [[Kostur Wiecznego Wędrowca!]]
+ |Część zadania        = Brak
+ |Następne             = [[Otwórz bramę do nieznanej krainy!]]
+ |Dostępność           = Wszyscy
+ |Nagroda              = 2500 [[Punkty doświadczenia|punktów doświadczenia]]
+ |Występowanie         = [[Gothic 3]]
+}}
+'''Udaj się z Xardasem do portalu''' – zadanie główne występujące w [[Gothic 3]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[Xardas]]a.
+
+== Krok po kroku ==
+# Porozmawiaj z Xardasem po wykonaniu zadań: ''[[Zabij króla Rhobara]]'', ''[[Zabij Zubena]]'', ''[[Berło Varantu!]]'' i ''[[Kostur Wiecznego Wędrowca!]]''.
+# Podążaj za Xardasem do [[Portal do Nieznanych Krain|portalu]].
+# Ponownie porozmawiaj z Xardasem po dotarciu na miejsce.
+
+== Przebieg zadania ==
+Po śmierci [[król]]a [[Rhobar II|Rhobara]] i [[Zuben]]a oraz zdobyciu [[Kostur Wiecznego Wędrowca|kostura Wiecznego Wędrowca]] oraz [[Berło Varantu|berła Varantu]], [[Bezimienny]] powraca do [[Wieża Xardasa w Nordmarze|wieży]] Xardasa. [[Nekromanci|Nekromanta]] ma dla niego ostatnie zadanie – obaj muszą udać się do [[Portal do Nieznanych Krain|portalu]] prowadzącego do [[Nieznane Krainy|Nieznanych Krain]] i na zawsze opuścić ten [[Świat Gothic|świat]]. Bohater przystaje na tę propozycję i razem z nekromantą wyruszają w ostatnią podróż, podczas której są atakowani przez [[Orkowie|orków]], królewskich [[Paladyni|paladynów]] wyposażonych w [[Ognisty miecz|ogniste miecze]], a także zabójców [[Asasyni|asasynów]], chcących pomścić śmierć swoich władców i powstrzymać ich przed wyzbyciem się [[Bogowie|boskiej]] mocy z tego świata. Po krwawych potyczkach mężczyźni docierają na miejsce i zadanie kończy się powodzeniem.
+
+[[Plik:Koniec podróży i początek otwierania.png|310px|center|thumb|Rozmowa z Xardasem po dotarciu na miejsce]]
+
+=== Mapa ===
+[[Plik:Portal do nieznanych krain mapa.png|250px|center|thumb|Mapa z zaznaczoną pozycją portalu]]
+[[Kategoria:Zadania główne z Gothic 3]]
+
+[[ru:Отправляйся с Ксардасом к порталу]]

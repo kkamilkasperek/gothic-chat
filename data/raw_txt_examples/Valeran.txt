@@ -1,0 +1,34 @@
+{{Niekanon}}
+{{Postać
+ |Imię                 = Valeran
+ |Obraz                = Returning_Valeran.png
+ |Podpis obrazu        = Valeran w Returning New Balance
+ |Gildia               = [[Obywatele Khorinis|Obywatel]]
+ |Zawód                = [[Handel|Handlarz]]
+ |Poziom               = 10
+ |Miejsce zamieszkania = [[Miasto Khorinis]]
+ |Miejsce urzędowania  = [[Dom Fernando]] w [[Górne miasto|górnym mieście]]
+ |Posiadana broń       = [[Miecz]]
+ |Posiadana zbroja     = [[Strój obywatela|Lekki strój obywatela]]
+ |Występowanie         = [[Returning]]
+ |Status               = Nie żyje
+ |Dubbing              =
+ |Kod                  = vlk_6134_valeran
+ |Przedmiot kradzieży  =
+ |Wymagana zręczność   =
+}}
+'''Valeran''' – postać występująca w [[Modyfikacja|modyfikacji]] [[Returning]] do gry [[Gothic II: Noc Kruka]].
+
+== Returning ==
+Pracuje on jako asystent u [[Handel|kupca]] [[Fernando]]. Sprzedaje różne towary oraz prowadzi większość spraw finansowych swojego pracodawcy.
+
+Jeżeli [[Bezimienny]] postanowi donieść na Fernanda do [[Straż miejska|straży]], podczas wykonywania zadania ''[[Handlarz bronią dla bandytów]]'', Valeran straci pracę i będzie wtedy przebywał w [[Gospoda „Pod Martwą Harpią”|gospodzie Orlana]].
+
+Bezimienny bohater może zatrudnić Valerana jako pomocnika dla kupca [[Lutero]], jeżeli wykonuje zadania dla [[Gildia kupców|gildii kupców]], oraz w wersji 2.0, jako swojego osobistego zarządcę [[Posiadłość Bezimiennego|dworu]]. Wymagane jest wtedy 50 punktów retoryki.
+
+== Dalsze losy ==
+W zależności od wyborów bohatera ginie w [[Zemsta Bogów|VII rozdziale]] bądź umiera po wypłynięciu bohatera z poselstwem do [[król]]a po bitwie z [[Orkowie|orkami]], gdyż zielonoskórzy ostatecznie najeżdżają [[Wyspa Khorinis|wyspę]].
+[[Kategoria:Bez informacji o kradzieży z modyfikacji]]
+[[Kategoria:Postacie z Returning]]
+[[Kategoria:Handlarze z modyfikacji]]
+[[Kategoria:Obywatele Khorinis z modyfikacji]]

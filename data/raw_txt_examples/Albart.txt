@@ -1,0 +1,28 @@
+{{Niekanon}}
+{{Postać
+ |Imię                 = Albart
+ |Obraz                = Albart.PNG
+ |Gildia               = [[Strażnicy Starego Obozu|Strażnik]]
+ |Zawód                = Wojownik
+ |Miejsce zamieszkania = [[Stara Kopalnia]]
+ |Miejsce urzędowania  = Stara Kopalnia
+ |Posiadana broń       = [[Miecz strażnika]]
+ |Posiadana zbroja     = [[Zbroja strażnika]]
+ |Występowanie         = [[Kopalnia (modyfikacja)|Kopalnia]]
+ |Status               = Żyje
+ |Poziom               = 13
+ |Kod                  = MNW_006_ALBART
+}}
+'''Albart''' – postać występująca w modyfikacji [[Kopalnia (modyfikacja)|Kopalnia]]. Jest jednym ze [[Strażnicy Starego Obozu|strażników]] w [[Stara Kopalnia|Starej Kopalni]].
+
+== Przed akcją modyfikacji ==
+Albart dołączył do [[Stary Obóz|Starego Obozu]]. Szybko wspinał się po szczeblach kariery i ostatecznie został strażnikiem. Jakiś czas później został wysłany przez [[Thorus]]a do Starej Kopalni.
+
+== Kopalnia ==
+Z tego co wynika z rozmowy, Albart i [[Torak]] znali się przed akcją modyfikacji. Strażnik ubolewa nad zniszczeniami spowodowanymi [[Zawalenie Starej Kopalni|zawalaniem się Starej Kopalni]]. W [[Powstanie (Kopalnia)|III rozdziale]], gdy bohater pyta się Albarta czy opowie się przeciw [[Ian]]owi, Albart odmawia.
+
+== Dalsze losy ==
+Albart ginie w [[Królestwo pełzaczy|V rozdziale]] podczas ataku [[pełzacz]]y na Starą Kopalnię.
+[[Kategoria:Bez informacji o kradzieży z modyfikacji]]
+[[Kategoria:Postacie z Kopalni]]
+[[Kategoria:Strażnicy w Starym Obozie z modyfikacji]]

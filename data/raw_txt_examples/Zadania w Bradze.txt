@@ -1,0 +1,190 @@
+{{ZadaniaG3|
+{{ZadanieG3
+ |Nazwa            = [[Aila (zadanie)|Aila]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +15 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 300
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina Bernado]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 1000
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 500
+ |Interakcje       = (+250 punktów doświadczenia po rozmowie z Nafalemem po wykonaniu zadania)
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina Jose]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 500
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina Luki]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 500
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina z Bragi]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +15 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = +10 do reputacji u [[Asasyni|asasynów]]
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Eskortuj Riordiana]]
+ |Zleceniodawca    = [[Riordian]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = Możliwość [[Nauczyciele w Gothic 3|nauki]] u Riordiana
+}}
+{{ZadanieG3
+ |Nazwa            = [[Podążaj za Tufailem]]
+ |Zleceniodawca    = [[Tufail]]
+ |PD               = 1000
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Polowanie na nagrody: Asaru]]
+ |Zleceniodawca    = [[Jose]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +15 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 500
+ |Interakcje       = (+500 punktów doświadczenia po rozmowie z Jose po wykonaniu zadania)
+}}
+{{ZadanieG3
+ |Nazwa            = [[Polowanie na nagrody: Braga]]
+ |Zleceniodawca    = [[Jose]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 900
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Polowanie na nagrody: Malir]]
+ |Zleceniodawca    = [[Jose]]
+ |PD               = 1000
+ |Zdolności        = 
+ |Reputacja        = +10 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 300
+ |Interakcje       = (+250 punktów doświadczenia po rozmowie z Jose po wykonaniu zadania)
+}}
+{{ZadanieG3
+ |Nazwa            = [[Polowanie na nagrody: Taklar]]
+ |Zleceniodawca    = [[Jose]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +10 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 300
+ |Interakcje       = (+500 punktów doświadczenia po rozmowie z Jose po wykonaniu zadania)
+}}
+{{ZadanieG3
+ |Nazwa            = [[Przygotowania do wyzwolenia Bragi]]
+ |Zleceniodawca    = [[Marus]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = +5 do [[Reputacja|reputacji]] u [[Koczownicy|koczowników]]
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Puchar sprzedawców wody]]
+ |Zleceniodawca    = [[Abbas]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 250
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Ruiny w pobliżu Bragi]]
+ |Zleceniodawca    = [[Ayitos]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = +5 do [[Reputacja|reputacji]] u [[Koczownicy|koczowników]]
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Skóra mrocznego zębacza (zadanie)|Skóra mrocznego zębacza]]
+ |Zleceniodawca    = [[Luca]]
+ |PD               = 1000
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = 
+ |Przedmioty       = [[Lekki pancerz asasyna]]
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Tajne układy]]
+ |Zleceniodawca    = Brak
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +10 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 400
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Wyzwolenie Bragi (zadanie)|Wyzwolenie Bragi]]
+ |Zleceniodawca    = [[Asaru]]
+ |PD               = 2500
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = +5 do [[Reputacja|reputacji]] u [[Koczownicy|koczowników]]
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = (+1000 punktów doświadczenia po rozmowie z Asaru po wykonaniu zadania)
+}}
+}}
+[[Kategoria:Listy zadań z Gothic 3]]

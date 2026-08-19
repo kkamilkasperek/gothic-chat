@@ -1,0 +1,31 @@
+{{DISPLAYTITLE:Tom}}
+{{Nieużywana zawartość}}
+{{Inne znaczenia|pirata występującego w Gothic II: Noc Kruka|Tom}}
+{{Postać
+ |Imię                 = Tom
+ |Obraz                = Tom (Pirat by Jakimix135xd).png
+ |Podpis obrazu        = Tom na plaży 
+ |Gildia               = [[Piraci|Pirat]]
+ |Miejsce zamieszkania = [[Jarkendar]]
+ |Miejsce urzędowania  = [[Obóz piratów]]
+ |Posiadana broń       = [[El Bastardo]]
+ |Posiadana zbroja     = [[Pirackie ubranie]]
+ |Występowanie         = [[Gothic II: Noc Kruka]] (tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]])
+ |Status               = Nieznany
+ |Dubbing              = [[Adam Bauman]]
+ |Kod                  = Pir_1389_addon_tom
+ |Przedmiot kradzieży  = Kradzież niemożliwa
+}}
+'''Tom''' – postać występująca w [[Gothic II: Noc Kruka]], lecz nie pojawiająca się podczas rozgrywki.
+
+== Gothic II: Noc Kruka ==
+Można go jedynie przyzwać za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]]. Po przywołaniu stanie na skraju plaży w [[Obóz piratów|obozie piratów]], nieopodal miejsca treningu [[Bones]]a.
+
+Po rozpoczęciu rozmowy jest dostępna tylko opcja ''Koniec'', natomiast w skryptach gry istnieje krótki zakomentowany dialog z nim (nie został on przetłumaczony na polski ani nie ma nagranych kwestii). Mówi w nim [[Bezimienny|Bezimiennemu]], że [[piraci]] przyjęli go i dali mu strój. Na zdziwienie bohatera, że przecież należy do [[Bandyci Kruka|bandytów]], Tom puszcza do niego oko i radzi, by był cicho, ponieważ wszystko jest w porządku. Może to sugerować, że uciekł on z [[Obóz bandytów w Jarkendarze|obozu bandytów]] i nie chce ujawniać tożsamości lub też przyszedł do piratów na przeszpiegi.
+
+== Modyfikacje ==
+{{Główny artykuł|Tom (pirat)/Modyfikacje}}
+
+[[Kategoria:Nieużywana zawartość z Gothic II: Noc Kruka]]
+[[Kategoria:Piraci]]
+[[Kategoria:Postacie z Gothic II: Noc Kruka]]

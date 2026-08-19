@@ -1,0 +1,30 @@
+{{Niekanon}}
+{{Bestia
+ |Nazwa                  = Wiewiórka
+ |Nazwa angielska        = 
+ |Podnazwa               = 
+ |Obraz                  =
+ |Podpis obrazu          = 
+ |Gromada                = Ssaki
+ |Punkty doświadczenia   = 
+ |Siła/Zręczność         = 
+ |Punkty życia           =
+ |Pancerz                = 
+ |Rzadkość               = Bardzo rzadkie
+ |Nastawienie do gracza  = Neutralne
+ |Pozyskiwane przedmioty = 
+ |Występowanie           = [[Wielka Wojna]]
+ |Kod                    = 
+}}
+'''Wiewiórka''' – zwierzę występujące w modyfikacji [[Wielka Wojna]] do [[Gothic]]. Jest to rudy ssak żywiący się orzechami. 
+
+== Wielka Wojna ==
+Wiewiórka jest dużym zwierzęciem, sięga bohaterowi mniej więcej do pasa. Ma wielki, puchaty, podkulony ogon oraz wielkie przednie zęby. Porusza się dosyć wolno po ziemi, nie wchodzi na drzewa ani na żadne wysokości. Nie ucieka przed bohaterem ani innymi ludźmi, ale też nie atakuje, gdy sama jest atakowana. Każda zabita wiewiórka ma przy sobie około 10 [[Orzechy|orzechów]]. Poza tym nie da się z niej zebrać żadnych trofeów.
+
+Wiewiórki można spotkać jedynie w okolicach [[Obóz Gwardii Królewskiej (Wielka Wojna)|obozu Gwardii Królewskiej]] na [[Przełęcz do Górniczej Doliny|przełęczy]]. Nie można ich spotkać w lasach.
+
+[[Kategoria:Bez grafiki z modyfikacji]]
+[[Kategoria:Bez kodu z modyfikacji]]
+[[Kategoria:Nierozwinięty infoboks z modyfikacji]]
+[[Kategoria:Wielka Wojna]]
+[[Kategoria:Zwierzęta z modyfikacji]]

@@ -1,0 +1,436 @@
+{{Współczynnik
+ |Nazwa           = Siła
+ |Nazwa angielska = Strength
+ |Podnazwa        = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT
+ |Obraz           = Podnoszenie mlynskiego kamienia.png
+ |Podpis obrazu   = Przykład zastosowania siły
+ |Wpływa na       = Noszenie broni białej, Liczbę punktów [[Obrażenia|obrażeń]] zadawanych bronią białą
+ |Nauczyciele     = [[Siła#Nauka|Lista nauczycieli]]
+ |Koszt nauki     = 1 [[Punkty nauki|punkt nauki]]
+ |Występowanie    = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[Gothic Playable Teaser]]
+ |Kod             = [[Edit focus|edit abilities]] → attributes → 4 = ''wartość''
+}}
+{{Współczynnik
+ |Nazwa           = Siła
+ |Nazwa angielska = Strength
+ |Podnazwa        = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT
+ |Obraz           = Podnoszenie mlynskiego kamienia.png
+ |Podpis obrazu   = Przykład zastosowania siły
+ |Wpływa na       = Noszenie większości broni białej, Liczbę punktów [[Obrażenia|obrażeń]] zadawanych bronią białą
+ |Nauczyciele     = [[Siła#Nauka 2|Lista nauczycieli]]
+ |Koszt nauki     = 1 [[Punkty nauki|punkt nauki]] (większość gildii), 2 punkty nauki ([[Nowicjusze klasztoru Innosa|nowicjusz]]/[[Magowie ognia|mag ognia]])
+ |Występowanie    = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[Gothic Playable Teaser]]
+ |Kod             = [[Edit focus|edit abilities]] → attributes → 4 = ''wartość''
+}}
+{{Współczynnik
+ |Nazwa           = Siła
+ |Nazwa angielska = Strength
+ |Podnazwa        = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT
+ |Obraz           = Podnoszenie mlynskiego kamienia.png
+ |Podpis obrazu   = Przykład zastosowania siły
+ |Wpływa na       = Noszenie kusz oraz większości broni białej, Liczbę punktów [[Obrażenia|obrażeń]] zadawanych bronią białą
+ |Nauczyciele     = [[Siła#Nauka 3|Lista nauczycieli]]
+ |Koszt nauki     = 1 [[Punkty nauki|punkt nauki]] (w przedziale 0-29), 2 punkty nauki (30-59), 3 punkty nauki (60-89), 4 punkty nauki (90-119), 5 punktów nauki (od 120 w górę)
+ |Występowanie    = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[Gothic Playable Teaser]]
+ |Kod             = [[Edit focus|edit abilities]] → attributes → 4 = ''wartość''
+}}
+{{Współczynnik
+ |Nazwa           = Siła
+ |Nazwa angielska = Strength
+ |Podnazwa        = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT
+ |Obraz           = Podnoszenie mlynskiego kamienia.png
+ |Podpis obrazu   = Przykład zastosowania siły
+ |Wpływa na       = Możliwość korzystania z broni białych i kusz, Liczbę zadawanych punktów [[Obrażenia|obrażeń]] z broni białej, Naukę zdolności bojowych
+ |Nauczyciele     = [[Siła#Nauka 4|Lista nauczycieli]]
+ |Koszt nauki     = 1 [[Punkty nauki|punkt nauki]], {{Wartość|złoto|50}} (za 1 punkt siły), (z [[Alternatywny balans|alternatywnym balansem]] od 250 punktów: 2 punkty nauki i 100 sztuk złota)
+ |Wymagane do     = [[Siła#Umiejętności|Lista umiejętności]]
+ |Występowanie    = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[Gothic Playable Teaser]]
+ |Kod             = STR
+}}
+{{Współczynnik
+ |Nazwa           = Siła
+ |Nazwa angielska = Strength
+ |Podnazwa        = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT
+ |Obraz           = Podnoszenie mlynskiego kamienia.png
+ |Podpis obrazu   = Przykład zastosowania siły
+ |Wpływa na       = Możliwość korzystania z broni białych i kusz, Liczbę zadawanych punktów [[Obrażenia|obrażeń]] z broni białej, Naukę zdolności bojowych
+ |Nauczyciele     = [[Siła#Nauczyciele|Lista nauczycieli]]
+ |Występowanie    = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[Gothic Playable Teaser]]
+ |Kod             = teach STR
+}}
+{{Współczynnik
+ |Nazwa           = Siła
+ |Nazwa angielska = Strength
+ |Podnazwa        = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT
+ |Obraz           = Podnoszenie mlynskiego kamienia.png
+ |Podpis obrazu   = Przykład zastosowania siły
+ |Wpływa na       = Nie wiadomo
+ |Nauczyciele     = Brak
+ |Koszt nauki     = Nieznany
+ |Wymagane do     = Brak
+ |Występowanie    = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[Gothic Playable Teaser]]
+}}
+'''Siła''' – współczynnik występujący w [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]] oraz [[Gothic Playable Teaser]].
+
+== Gothic ==
+[[Bezimienny]] ma na początku rozgrywki 10 punktów siły. Jej wysokość decyduje, którą bronią białą jedno- i dwuręczną są w stanie posługiwać się poszczególne postacie. Wpływa także na zadawane nią [[obrażenia]] – jej wartość jest doliczana do obrażeń danej broni podczas zadawania ciosu.
+
+=== Nauka ===
+System nauki jest bardzo prosty: jeden punkt siły kosztuje Bezimiennego jeden [[Punkty nauki|punkt nauki]]. Nauczyciele mogą zwiększyć siłę maksymalnie do 100 punktów, niektórzy będą uczyć bohatera wyłącznie po dołączeniu do konkretnej gildii. Są to:
+* [[Diego]];
+* [[Lares]];
+* [[Cor Angar]] – tylko jako [[Nowicjusze Bractwa Śniącego|nowicjusz]]/[[Strażnicy świątynni|strażnik świątynny]];
+* [[Gor Na Toth]] – tylko jako nowicjusz/strażnik świątynny;
+* [[Lee]] – tylko jako [[Najemnicy Lee|najemnik]];
+* [[Thorus]] – tylko jako [[Strażnicy Starego Obozu|strażnik Starego Obozu]].
+
+=== Bonusy tymczasowe ===
+Bezimienny może tymczasowo podnieść swoją siłę, korzystając z poniższych artefaktów:
+* [[amulet mocy]] – 10 punktów;
+* [[amulet siły]] – 20 punktów;
+* [[amulet potęgi]] – 7 punktów;
+* [[pierścień mocy]] – 5 punktów;
+* [[pierścień siły]] – 10 punktów;
+* [[pierścień siły wojownika]] – 4 punkty.
+Istnieje też [[pierścień Laresa]], który dodaje 3 punkty siły, lecz nie pojawia się on w rozgrywce.
+
+=== Bonusy trwałe ===
+{{Główny artykuł|Bonusy w Gothic#Siła}}
+Bohater może trwale zwiększyć swoją siłę, pijąc odpowiednie mikstury:
+* [[esencja siły]] – 3 punkty;
+* [[eliksir siły]] – 8 punktów;
+* [[napój potęgi]] – 4 punkty;
+* [[napój władzy]] – 6 punktów.
+Istnieje też [[wyciąg siły]], który dodaje 5 punktów siły, ale nie występuje on w regularnej rozgrywce.
+
+Dodatkowo [[Horacy]] może jednorazowo zwiększyć siłę bohatera o 5 bez zużycia punktów nauki po ukończeniu zadania ''[[Zbieracz Horacy]]''. Należy pamiętać, że podnosi on siłę maksymalnie do 100 punktów, więc jeśli podczas odpowiedniego dialogu z nim Bezimienny ma tę cechę powyżej 100 punktów (podniesioną poprzez wypicie odpowiednich mikstur lub dzięki założonym amuletom czy pierścieniom), to Horacy obniży jej aktualną wartość właśnie do 100.
+
+== Gothic II ==
+Tak samo jak w pierwszej części, Bezimienny zaczyna rozgrywkę z 10 punktami siły. Jej znaczenie jest niemal identyczne, tj. od jej wysokości uzależniona jest możliwość używania większości broni białej jedno- i dwuręcznej. Istnieje jednak kilka broni jednoręcznych, które do używania wymagają [[Zręczność|zręczności]]. Nadal jednak to wartość siły jest doliczana do obrażeń każdej broni białej podczas zadawania ciosu.
+
+30 punktów siły jest wymaganych do uniesienia [[Miecz dwuręczny Roda|miecza Roda]], a tym samym zyskania poparcia jego [[Rod|właściciela]] bez bójki w ramach zadania ''[[Jeden z najemników]]''.
+
+=== Nauka ===
+System nauki jest prawie taki sam jak w Gothic, tj. jeden punkt siły kosztuje jeden punkt nauki, lecz została wprowadzona różnica związana z gildią bohatera. Gdy jest on [[Nowicjusze klasztoru Innosa|nowicjuszem]] lub [[Magowie ognia|magiem ognia]], szkolenie kosztuje go 2 punkty nauki za każdy punkt siły.
+
+Każdy z nauczycieli ma określoną maksymalną wysokość atrybutu, do której będzie uczył, większość z nich wymaga przynależności do konkretnej gildii lub spełnienia innego warunku. Są to:
+* [[Carl]] (po zapłaceniu 50 sztuk złota lub zwróceniu [[Posążek Innosa|posążka Innosa]] [[Edda|Eddzie]]) – do 30 punktów;
+* [[Harad]] (jako jego [[Czeladnik z Khorinis|czeladnik]]) – do 50 punktów;
+* [[Mortis]] (tylko jako [[Straż miejska|strażnik miejski]]/paladyn) – do 60 punktów;
+* [[Opolos]] (tylko jako nowicjusz/mag ognia, po [[Opolos i przepis|przyniesieniu]] mu [[Receptura esencji magicznej|receptury]] lub wykonaniu [[Zaginiony przepis|zadania]] od [[Neoras]]a) – do 70 punktów;
+* [[Torlof]] (na [[Farma Onara|farmie Onara]], tylko przy braku gildii lub jako [[Najemnicy Lee|najemnik]]/[[Łowcy smoków|łowca smoków]]) – do 90 punktów;
+* [[Brutus]] (po [[Złoto dla Brutusa|oddaniu]] 200 sztuk [[Złoto|złota]]) – do 75 punktów;
+* [[Ingmar]] (tylko jako [[Paladyni|paladyn]]) – do 90 punktów;
+* [[Feros]] (po [[Miecz Ferosa (zadanie)|odnalezieniu]] jego [[Miecz Ferosa|miecza]]) – do 70 punktów;
+* [[Bennet]] (tylko na [[Esmeralda|okręcie]] w [[Dwór Irdorath (rozdział)|VI rozdziale]]) – do 100 punktów;
+* Torlof (na okręcie w VI rozdziale, niezależnie od gildii) – do 100 punktów.
+
+=== Bonusy tymczasowe ===
+Bezimienny może tymczasowo podnieść swoją siłę, korzystając z poniższych artefaktów:
+* [[amulet siły]] – 15 punktów;
+* [[amulet mocy]] – 10 punktów;
+* [[pierścień mocy]] (pierwszy lub drugi typ) – 5 punktów;
+* [[pierścień siły]] – 10 punktów.
+Istnieje też [[pierścień orkowych przywódców]], który po założeniu tymczasowo odejmuje 20 punktów siły.
+
+=== Bonusy trwałe ===
+{{Główny artykuł|Bonusy w Gothic II#Siła}}
+
+Bohater może trwale zwiększyć swoją siłę po zjedzeniu lub wypiciu odpowiednich potraw czy mikstur (niektóre dostępne tylko dla wybranych gildii):
+* 25 [[Jabłko|jabłek]] – 1 punkt (bonus jednorazowy);
+* [[smoczy korzeń]] – 1 punkt;
+* [[gulasz Thekli]] – 1 punkt;
+* [[eliksir siły]] – 5 punktów;
+* [[mikstura wydzieliny ze smoczych jaj]] – 5 punktów (tylko paladyn/mag ognia);
+* [[Łzy Innosa]] – 5 punktów (tylko mag ognia);
+* [[Embarla Firgasto]] – 15 punktów.
+
+Dodatkowo składając ofiarę 100 sztuk złota przy [[Posąg Innosa|posągu Innosa]], bohater ma pewną szansę<ref>Występuje to losowo: 
+* paladyn – po 25% szans na zyskanie +4 do maksymalnych punktów many, +8 do maksymalnych punktów trafień, +2 do siły lub +2 do zręczności;
+* pozostałe gildie (prócz maga)/brak gildii – po 50% szans na zyskanie +2 do maksymalnych punktów trafień lub +1 do siły.</ref> na otrzymanie maksymalnie 10 razy bonusu +2 do siły (jeśli jest paladynem) lub +1 (jeśli należy do każdej innej gildii oprócz maga ognia lub nie posiada żadnej).
+
+== Gothic II: Noc Kruka ==
+Względem podstawowej gry nie zmienił się wpływ siły na walkę bronią białą, tj. wciąż od jej wysokości zależy możliwość używania większości broni jedno- i dwuręcznej, z wyjątkiem kilku jednoręcznych, które wymagają zręczności oraz jednej dwuręcznej, do której potrzebna jest [[mana]]. Niezmiennie przy wszystkich to wartość siły jest doliczana do obrażeń każdej broni białej podczas zadawania ciosu.
+
+Dodatkowo teraz to siła odpowiada za używanie kusz, lecz na obrażenia nimi zadane nadal wpływa zręczność.
+
+=== Nauka ===
+W systemie nauki nie ma już różnic między gildiami, za to zostały wprowadzone progi aktualnej wysokości atrybutu, po których przekroczeniu zwiększa się koszt punktów nauki za jeden punkt siły – z tego powodu bardziej opłacalne jest wykorzystywanie wszystkich trwałych bonusów dopiero po znacznym wyuczeniu się atrybutu. Koszt jednego punktu siły w kolejnych progach przedstawia się następująco: 
+* od 0 do 29 punktów – 1 punkt nauki;
+* od 30 do 59 punktów – 2 PN;
+* od 60 do 89 punktów – 3 PN;
+* od 90 do 119 punktów – 4 PN;
+* od 120 punktów – 5 PN.
+Wykorzystując ograniczenia skryptów dialogowych, można zaoszczędzić część punktów nauki<ref>Posiadając siłę na granicy progów, można nauczyć się 5 punktów atrybutu naraz po niższym koszcie punktów nauki. Np. gdy bohater ma siłę równą 29, ucząc się 5 punktów, zwiększy siłę do 34 i wyda tylko 5 PN. Gdyby zaś najpierw nauczył się do 30, to za kolejne 4 punkty siły musiałby już wydać według wyższego progu 8 PN. Taki sam manewr można wykonać, mając atrybut na granicy każdego z progów.</ref>.
+
+U dotychczasowych nauczycieli są wciąż identyczne wymagania rozpoczęcia nauki, natomiast większości z nich zmieniły się poziomy, do których mogą nauczać:
+* [[Carl]] – do 120 punktów;
+* [[Harad]] – do 90 punktów;
+* [[Mortis]] – do 60 punktów;
+* [[Opolos]] – do 90 punktów;
+* [[Torlof]] (zarówno na farmie Onara, jak i na okręcie) – do 200 punktów;
+* [[Brutus]] – do 90 punktów;
+* [[Ingmar]] – do 200 punktów;
+* [[Feros]] – do 90 punktów;
+* [[Bennet]] (tylko na okręcie) – do 200 punktów.
+
+W dodatku są też nowe osoby uczące siły:
+* [[Lares]] (tylko na [[Wyspa Khorinis|wyspie Khorinis]]) – do 60 punktów;
+* [[Erol]] (po wykonaniu [[Napadnięci kupcy|zadania]]) – do 200 punktów;
+* [[Diego]] (tylko w [[Górnicza Dolina|Górniczej Dolinie]]) – do 90 punktów;
+* [[Brandon]] (po przyniesieniu [[Szybki śledź|szybkiego śledzia]]) – do 90 punktów;
+* [[Bandyta (kucharz)]] – do 90 punktów.
+
+=== Bonusy tymczasowe ===
+Artefakty z podstawowej gry dodają teraz mniej siły:
+* [[amulet siły]] – 10 punktów;
+* [[amulet mocy]] – 8 punktów;
+* [[pierścień mocy]] (pierwszy typ) – 3 punkty;
+* pierścień mocy (drugi typ) – 4 punkty;
+* [[pierścień siły]] – 5 punktów.
+Pierścień orkowych przywódców bez zmian odejmuje 20 punktów.
+
+Pojawiły się też nowe przedmioty dodające tymczasowo siłę po założeniu:
+* [[amulet Franka]] – 4 punkty;
+* [[pas siły]] – 5 punktów;
+* [[pas mocy]] – 10 punktów.
+
+=== Bonusy trwałe ===
+{{Główny artykuł|Bonusy w Gothic II: Noc Kruka#Siła}}
+
+Niektórym z potraw i mikstur zwiększających siłę na stałe też zostały zmienione bonusy:
+* [[jabłko]] – bonus w postaci 1 punktu stał się wielokrotnym po każdym zjedzeniu 25 sztuk;
+* [[eliksir siły]] – 3 punkty;
+* [[mikstura wydzieliny ze smoczych jaj]] – 3 punkty;
+* [[smoczy korzeń]], [[gulasz Thekli]], [[Łzy Innosa]] i [[Embarla Firgasto]] – bez zmian.
+
+Ofiara 100 sztuk złota przy [[Posąg Innosa|posągu Innosa]] może dać bohaterowi maksymalnie 10 razy bonus +1 do siły – pod warunkiem, że nie jest on nowicjuszem ani magiem ognia.
+
+Występują też nowe przedmioty dające trwałe bonusy do siły:
+* [[kamienna tablica siły I]] – 2 punkty;
+* [[kamienna tablica siły II]] – 4 punkty;
+* [[kamienna tablica siły III]] – 6 punktów.
+
+== Gothic 3 ==
+Bezimienny na początku gry ma 100 punktów siły. Definiuje ona, jakie bohater może unieść bronie białe i kusze, ile będzie zadawał obrażeń z broni białej oraz jakich umiejętności będzie mógł się nauczyć.
+
+=== Nauka ===
+Koszt jednego punktu siły to 1 [[Punkty nauki|punkt nauki]] i 50 sztuk [[Złoto|złota]]. Można ją zwiększać bez ograniczeń oraz nie występują progi punktowe, po których trzeba wydać większą liczbę punktów nauki. Zmienia to [[alternatywny balans]], który sprawia, że od 250 punktów trzeba przeznaczyć 2 punkty nauki i 100 sztuk złota na każdy punkt siły.
+
+Poniżej znajduje się spis wszystkich nauczycieli z podziałem na krainy, w których przebywają.
+
+==== Myrtana ====
+* '''[[Reddock]]''': [[Norris]];
+* '''[[Cape Dun]]''': [[Bufford]];
+* '''[[Montera]]''': [[Arakos]] (po wykonaniu zadania ''[[Złodziejski patrol orków]]''), [[Kor-Shach]] (po wykonaniu zadania ''[[Zmuś Follecka do pracy na dziedzińcu zamkowym]]''), [[Marik]];
+* '''[[Okara]]''': [[Roland]];
+* '''[[Vengard]]''': [[Cobryn]], [[Rhobar II]] (po rozpoczęciu zadania ''[[Za Innosa!]]'').
+* '''[[Faring]]''': [[Curtis]] (po wykonaniu zadania ''[[Pokonaj Spike'a na arenie]]''), [[Kan]] (po wykonaniu zadania ''[[Złam opór Morr!]]''), [[Tarok]];
+* '''[[Silden]]''': [[Anog]], [[Denpok]], [[Lars]] (po wykonaniu zadania ''[[Uwolnij Nordmarczyka Larsa z obozu]]''), [[Will]];
+* '''[[Geldern]]''': [[Agenak]], [[Samuel (Gothic 3)|Samuel]], [[Torn]] (po wykonaniu zadania ''[[Ludzie z Geldern i kamień druidów]]'');
+* '''[[Trelis]]''': [[Pranck]] (po wykonaniu zadania ''[[Ork wojownik Pranck potrzebuje mikstur leczniczych]]'' i przekazaniu mu 500 sztuk złota);
+* '''[[Nemora]]''': [[Karlen]];
+
+==== Nordmar ====
+* '''[[Klan Wilka]]''': [[Hogar]];
+* '''[[Klan Młota]]''': [[Ugolf]] (po wykonaniu zadania ''[[Ruda dla Ugolfa]]'');
+* '''[[Klan Ognia]]''': [[Kaelin]], [[Kerth]];
+* '''[[Klasztor Innosa w Nordmarze|Klasztor]]''': [[Olivier]].
+
+==== Varant ====
+* '''[[Ben Erai]]''': [[Navaras]] (po wykonaniu zadania ''[[Praca dla Sancha]]'');
+* '''[[Lago]]''': [[Grubuz]];
+* '''[[Ben Sala]]''': [[Daro]];
+* '''[[Bakaresh]]''': [[Achmed]] (po przekazaniu 500 sztuk złota), [[Knut (Gothic 3)|Knut]], [[Silvio]];
+* '''[[Mora Sul]]''': [[Cor Angar|Angar]], [[Kayor]], [[Nasib]];
+* '''[[Al Shedim]]''': [[Wutras]];
+* '''[[Ishtar]]''': [[Ugrasal]] (po rozpoczęciu zadania ''[[Sprawdzian Asasynów]]''), [[Zarkos]] (po przekazaniu 500 sztuk złota).
+
+=== Bonusy tymczasowe ===
+W grze można znaleźć przedmioty, które podnoszą liczbę punktów siły, gdy są założone. Są to:
+* [[amulet wojownika]] (5 punktów);
+* [[amulet paladyna]] (5 punktów);
+* [[amulet siły]] (10 punktów);
+* [[Artefakt Kamaka (przedmiot)|Artefakt Kamaka]] (5 punktów);
+* [[pierścień siły]] (5 punktów).
+
+=== Bonusy trwałe ===
+Bohater może zyskać na stałe punkty siły poprzez:
+* wypicie [[Mikstura siły|mikstury siły]] (+2 punkty);
+* zjedzenie [[dragrot]]u (+1 punkt);
+* podnoszenie [[Młyński kamień|młyńskich kamieni]] (+5 punktów za każdy);
+* wykonanie określonych zadań.
+Ostatnim sposobem jest rozmowa z [[Innos]]em lub [[Beliar]]em w ramach zadań ''[[Za Innosa!]]'' lub ''[[Za Beliara!]]''. Jeśli gracz wybierze opcję ''Chcę być silniejszy!'', m.in. jego siła zostanie zwiększona o 25 punktów.
+
+==== Zadania dające siłę ====
+Łącznie można zdobyć 48 punktów siły za wykonanie wszystkich wymienionych poniżej zadań:
+* [[Pokonaj Joeya na arenie]] (+1 punkt);
+* [[Pokonaj Coppera na arenie]] (+1 punkt);
+* [[Pokonaj w pojedynku Toporka]] (+1 punkt);
+* [[Pokonaj Darmoka na arenie]] (+1 punkt);
+* [[Pokonaj Fadiego na arenie]] (+1 punkt);
+* [[Pokonaj Dana na arenie]] (+1 punkt);
+* [[Pokonaj Fedora na arenie]] (+1 punkt);
+* [[Pokonaj Goose'a na arenie]] (+1 punkt);
+* [[Pokonaj Ugo na arenie]] (+1 punkt);
+* [[Pokonaj na arenie mistrza Ashtona]] (+1 punkt);
+* [[Bogata kopalnia (zadanie)|Bogata kopalnia]] (+1 punkt);
+* [[Pokonaj Potrosa]] (+1 punkt);
+* [[Pokonaj Jarocka na arenie]] (+1 punkt);
+* [[Pokonaj Jarolla na arenie]] (+1 punkt);
+* [[Pokonaj Trompoka na arenie]] (+1 punkt);
+* [[Pokonaj Willa]] (+1 punkt);
+* [[Daj Mirzo nauczkę]] (+1 punkt);
+* [[Pokonaj Dimitara na arenie]] (+1 punkt);
+* [[Pokonaj Gembaka na arenie]] (+1 punkt);
+* [[Pokonaj Kulaka na arenie]] (+1 punkt);
+* [[Ktoś musi dać nauczkę Benowi]] (+1 punkt);
+* [[Pokonaj Gorana na arenie]] (+1 punkt);
+* [[Pokonaj Moffa na arenie]] (+1 punkt);
+* [[Pokonaj Spike'a na arenie]] (+1 punkt);
+* [[Pojedynek z Hogarem]] (+1 punkt);
+* [[Grobowiec Baldara (zadanie)|Grobowiec Baldara]] (+3 punkty);
+* [[Grobowiec Snorre'a (zadanie)|Grobowiec Snorre'a]] (+3 punkty);
+* [[Zmierz się z Grubuzem]] (+1 punkt);
+* [[Zmierz się z Mamukiem]] (+1 punkt);
+* [[Pokonaj Achmeda na arenie]] (+1 punkt);
+* [[Pokonaj Irhabara na arenie]] (+1 punkt);
+* [[Pokonaj Mufassę na arenie]] (+1 punkt);
+* [[Walka o tytuł]] (+1 punkt);
+* [[Pokonaj Angara na arenie]] (+1 punkt);
+* [[Pokonaj Anktosa na arenie]] (+1 punkt);
+* [[Pokonaj Grubasa]] (+1 punkt);
+* [[Pokonaj Oelka na arenie]] (+1 punkt);
+* [[Pokonaj Paladyna na arenie]] (+1 punkt);
+* [[Folleckowi należy się nauczka]] (+1 punkt);
+* [[Walka na arenie z Emetem!]] (+1 punkt);
+* [[Walka na arenie z Makasem!]] (+1 punkt);
+* [[Walka na arenie z Musanem!]] (+1 punkt);
+* [[Walka z Surusem]] (+1 punkt);
+* [[Więcej szakali!]] (+1 punkt).
+
+=== Umiejętności ===
+Poniższe umiejętności wymagają posiadania określonej siły, by móc je opanować.
+{| class="wikitable" style="text-align:center; margin:5px"
+! width="50"  |Ikona
+! width="200" |Nazwa
+! width="80"  |Siła
+|-
+| [[Plik:Regeneracja G3 ikona.png|50px]]
+| [[Regeneracja]]
+| 300
+|-
+| [[Plik:Duży oręż III ikona G3.png|50px]]
+| [[Duży oręż III]]
+| 250
+|-
+| [[Plik:Duzy orez II g3 ikona.png|50px]]
+| [[Duży oręż II]]
+| 200
+|-
+| [[Plik:Mistrz dwóch ostrzy G3 ikona.png|50px]]
+| [[Mistrz dwóch ostrzy]]
+| 200
+|-
+| [[Plik:Mistrz kusznictwa Gothic 3 ikona.png|50px]]
+| [[Mistrz strzelectwa]]
+| 200
+|-
+| [[Plik:Mistrz walki mieczem G3 ikona.png|50px]]
+| [[Mistrz walki mieczem]]
+| 200
+|-
+| [[Plik:Duży oręż I.png|50px]]
+| [[Duży oręż]]
+| 150
+|-
+| [[Plik:Kszunik G3 ikona.png|50px]]
+| [[Kusznik]]
+| 150
+|-
+| [[Plik:Lepsza walka mioeczem ikona G3.png|50px]]
+| [[Lepsza walka mieczem]]
+| 150
+|-
+| [[Plik:Paladyn (umiejętność) (ikonka) (G3) (by Kubar906).png|50px]]
+| [[Paladyn (umiejętność)|Paladyn]]
+| 150
+|-
+| [[Plik:Silne parowanie tarczą g3 ico.png|50px]]
+| [[Silne parowanie tarczą]]
+| 150
+|-
+| [[Plik:Walka dwoma ostrzami ikona.png|50px]]
+| [[Walka dwoma ostrzami]]
+| 150
+|-
+| [[Plik:Umiejętność Zabójca Orków (ikonka) (by Kubar906).png|50px]]
+| [[Zabójca orków]]
+| 150
+|-
+| [[Plik:Parowanie tarczą G3 ikona.png|50px]]
+| [[Parowanie tarczą]]
+| 125
+|-
+| [[Plik:Umiejętność Ciężka kusza (ikonka) (by Kubar906).png|50px]]
+| [[Ciężka kusza (umiejętność)|Ciężka kusza]]
+| 100
+|-
+| [[Plik:Walka mieczem(G3)(umiejętność) ikona(by Lother).png|50px]]
+| [[Walka mieczem]]
+| 100
+|}
+
+== Gothic 3: Zmierzch Bogów ==
+System działania siły jest taki sam jak w Gothic 3.
+
+=== Nauczyciele ===
+* [[Anog]] – po [[Anog i pięć listów polecających|przyniesieniu]] mu listów polecających;
+* [[Olis]] – po obronieniu orków przed paladynami;
+* [[Kazus]];
+* [[Gorn]];
+* [[Garik (Gothic 3: Zmierzch Bogów)|Garik]] – po dostarczeniu wiadomości dla [[Gorn]]a.
+
+=== Zadania dające siłę ===
+Łącznie można zdobyć 70 punktów siły za wykonanie wszystkich wymienionych poniżej zadań:
+* [[Zabierz artefakt Hildura z jaskini]] (+5 punktów);
+* [[Zajmij się Asdisem]] (+1 punkt);
+* [[Pokonaj Benata]] (+2 punkty);
+* [[Pokonaj Gareya]] (+1 punkt);
+* [[Porozmawiaj z Urbanusem]] (+1 punkt);
+* [[Hector Osch uda się do Gorna]] (+3 punkty);
+* [[Mag Ognia w potrzebie]] (+3 punkty);
+* [[Mistrz przywołań musi zginąć]] (+3 punkty);
+* [[Porozmawiaj z Magiem Wody]] (+5 punktów);
+* [[Pozbądź się szpiega orków]] (+1 punkt);
+* [[Przeprowadź szkolenie czwartego rekruta]] (+1 punkt);
+* [[Przeprowadź szkolenie drugiego rekruta]] (+1 punkt);
+* [[Przeprowadź szkolenie ostatniego rekruta]] (+2 punkty);
+* [[Przeprowadź szkolenie pierwszego rekruta]] (+1 punkt);
+* [[Przeprowadź szkolenie trzeciego rekruta]] (+1 punkt);
+* [[Smocze kości]] (+5 punktów);
+* [[Zabij bestię]] (+7 punktów);
+* [[Barnabas nie zapłacił długów]] (+1 punkt);
+* [[Jak można spać przy takim hałasie?]] (+2 punkty);
+* [[Pokonaj Everta]] (+2 punkty);
+* [[Pokonaj Ritta]] (+1 punkt);
+* [[Zabij Antona]] (+1 punkt);
+* [[Czarny Mag musi zginąć]] (+2 punkty);
+* [[Eskortuj karawanę kupiecką]] (+2 punkty);
+* [[Pobij górników]] (+1 punkt);
+* [[Pokonaj Brennusa]] (+1 punkt);
+* [[Pokonaj Corta]] (+1 punkt);
+* [[Zlikwiduj stado szalonych bizonów]] (+2 punkty);
+* [[Zniszcz obóz orków znajdujący się najbliżej Geldern]] (+2 punkty);
+* [[Kan potrzebuje więcej orków]] (+3 punkty);
+* [[Pokonaj Druda]] (+2 punkty);
+* [[Pokonaj Lewisa]] (+1 punkt);
+* [[Puchar Cor Kaloma]] (+3 punkty).
+
+== Gothic Playable Teaser ==
+{{GPT|Sekcja}}
+Bohater od początku gry posiada 10 punktów siły. Nie można jej zwiększyć, ponieważ w demie remake'u nie występuje system nauki ani nie można znaleźć żadnych przedmiotów zwiększających atrybuty. Nieznane też jest działanie siły i jej wpływ na otoczenie.
+
+== Przypisy ==
+[[Kategoria:Współczynniki]]
+{{Za mało grafik|W infoboksach z części innych niż G3 potrzebne odpowiednie zdjęcia obrazujące siłę, np. bohater używający ciężkiego oręża}}

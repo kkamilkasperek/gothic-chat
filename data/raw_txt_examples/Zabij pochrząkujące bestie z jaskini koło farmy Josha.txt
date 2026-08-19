@@ -1,0 +1,40 @@
+{{Zadanie
+ |Nazwa                = Zabij pochrząkujące bestie z jaskini koło farmy Josha
+ |Nazwa angielska      = Kill the grunting creatures below Josh's farm
+ |Obraz                = Chrząkanie pod farmą zadanie G3.png
+ |Podpis obrazu        = Josh mówiący o pochrząkujących bestiach
+ |Zleceniodawca        = [[Josh]]
+ |Start                = [[Farma Josha]]
+ |Koniec               = Farma Josha
+ |Poprzednie           = Brak
+ |Część zadania        = Brak
+ |Następne             = Brak
+ |Dostępność           = Wszyscy
+ |Nagroda              = 1000 [[Punkty doświadczenia|punktów doświadczenia]] (+500 po rozmowie z Joshem po wykonaniu zadania), [[Reputacja]] w [[Trelis]]: +8, {{Wartość|Złoto|1000}}
+ |Występowanie         = [[Gothic 3]]
+}}
+'''Zabij pochrząkujące bestie z jaskini koło farmy Josha''' – zadanie poboczne występujące w [[Gothic 3]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[Farmerzy|farmera]] [[Josh]]a.
+
+== Krok po kroku ==
+# Porozmawiaj z Joshem, który przebywa na [[Farma Josha|swojej farmie]].
+# Udaj się do [[Jaskinia pochrząkujących bestii|jaskini chrząkających bestii]].
+# Zabij 3 [[Rozpruwacz|rozpruwacze]], które przebywają w jaskini.
+# Ponownie porozmawiaj z Joshem, aby odebrać nagrodę (opcjonalnie).
+
+== Przebieg zadania ==
+=== Niespokojny farmer ===
+Bezimienny, chodząc po okolicach [[Trelis]], napotyka farmę, na której znajduje się jej właściciel – [[Josh]]. Mężczyzna twierdzi, że bohater wygląda na silnego wojownika i skarży się na dziwne odgłosy pod jego dobytkiem, które nie dają mu spokojnie spać. Podejrzewa, że zalęgły się tam jakieś stworzenia. Bezimienny zgadza się zająć problemem.
+
+=== Śmierć bestii ===
+Protagonista wyrusza zająć się kłopotem. W jaskini, która znajduje się bezpośrednio pod farmą zleceniodawcy, znajduje grupę 3 rozpruwaczy. Po stoczonej i wygranej walce, bohater wraca do Josha.
+
+[[Plik:Bezi strzela do rozpruwaczy koło Josha G3.png|310px|center|thumb|Bezimienny szyjący z łuku do rozpruwaczy]]
+
+=== Nagroda ===
+Gdy główny bohater dotrze do Josha i poinformuje go o rozwiązaniu problemu, ten jest bardzo zadowolony i daje w zaufaniu Bezimiennemu 1000 sztuk [[Złoto|złota]], które są daniną dla [[Orkowie|orków]]. Zadanie kończy się powodzeniem.
+
+[[Plik:Chrząklające bestie koniec.png|310px|center|thumb|Koniec zadania]]
+[[Kategoria:Zadania poboczne z Gothic 3]]
+
+[[ru:Убей хрюкающих тварей]]
+[[Kategoria:Zadania w Trelis z Gothic 3]]

@@ -1,0 +1,55 @@
+{{Broń
+ |Ikona             = Nyras Prologue gołe pięści ico.png
+ |Nazwa             = Gołe pięści
+ |Nazwa angielska   = Bare fists
+ |Podnazwa          = Gothic Remake,NP
+ |Obraz             = BrakPrzedmiotu.png
+ |Typ               = Broń dwuręczna
+ |Opis              = Brak
+ |Wymagane atrybuty = Brak
+ |Obrażenia         = 1 (obuchowe)
+ |Rzadkość          = Unikat
+ |Posiadacz         = [[Bezimienny (Gothic Remake)|Bezimienny]] (domyślnie)
+ |Handlarze         = Brak
+ |Wartość kupna     = Brak możliwości kupna
+ |Wartość sprzedaży = Brak możliwości sprzedaży
+ |Występowanie      = [[Gothic Remake]], [[Nyras Prologue]]
+ |Questowy          = Nie
+ |Kod               = Brak
+}}
+{{Broń
+ |Ikona             = Nyras Prologue gołe pięści ico.png
+ |Nazwa             = Gołe pięści
+ |Nazwa angielska   = Bare fists
+ |Podnazwa          = Gothic Remake,NP
+ |Obraz             = BrakPrzedmiotu.png
+ |Typ               = Broń dwuręczna
+ |Opis              = ''Gołe pięści. Ostateczność desperatów lub świadomy wybór pewnych siebie. Skuteczne; jeśli wiesz; jak dobrze nimi przywalić.''
+ |Wymagane atrybuty = Brak
+ |Obrażenia         = 1 (obuchowe)
+ |Rzadkość          = Unikat
+ |Posiadacz         = [[Nyras]] (domyślnie)
+ |Handlarze         = Brak
+ |Wartość kupna     = Brak możliwości kupna
+ |Wartość sprzedaży = Brak możliwości sprzedaży
+ |Występowanie      = [[Gothic Remake]], [[Nyras Prologue]]
+ |Questowy          = Nie
+ |Kod               = Brak
+}}
+'''Gołe pięści''' – broń występująca w [[Gothic Remake]] i [[Nyras Prologue]].
+
+== Gothic Remake ==
+=== Wygląd ===
+Są to gołe pięści [[Bezimienny (Gothic Remake)|Bezimiennego]], które gra traktuje jako osobny przedmiot.
+
+=== Występowanie ===
+W grze występuje tylko jedna sztuka, przypisana na stałe do [[Ekwipunek|ekwipunku]] Bezimiennego. Są wyposażane automatycznie, kiedy bohater nie ma żadnej broni. Można je też wyposażyć zamiast obecnie używanej broni w dowolnym momencie rozgrywki.
+
+=== Statystyki ===
+Pięści zadają 1 punkt obrażeń obuchowych. Do ich wyposażenia nie są wymagane żadne atrybuty. Ze względu na swoją charakterystykę nie można ich sprzedać ani kupić. Pokonanie 10 przeciwników za pomocą gołych pięści premiowanie jest osiągnięciem ''[[Droga pięści]]''.
+
+== Nyras Prologue ==
+{{Prolog|Sekcja}}
+Gołe pięści występują również w demie gry z [[Nyras (Gothic Remake)|Nyrasem]] jako głównym bohaterem. Ich działanie i charakterystyka jest identyczna jak w Gothic Remake. Przedmiot miał swój opis, który został usunięty w finalnej wersji gry.
+[[Kategoria:Broń dwuręczna z Gothic Remake]]
+[[Kategoria:Broń dwuręczna z Nyras Prologue]]

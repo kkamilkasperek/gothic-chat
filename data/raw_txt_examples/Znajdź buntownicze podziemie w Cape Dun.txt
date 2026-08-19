@@ -1,0 +1,34 @@
+{{Zadanie
+ |Nazwa           = Znajdź buntownicze podziemie w Cape Dun‏‎
+ |Nazwa angielska = Find the rebel underground in Cape Dun
+ |Obraz           = Buntownicy w Cape Dun zadanie G3.png
+ |Podpis obrazu   = Początek zadania
+ |Zleceniodawca   = [[Javier]]
+ |Start           = [[Reddock]]
+ |Koniec          = [[Cape Dun]]
+ |Poprzednie      = Brak
+ |Część zadania   = Brak
+ |Następne        = Brak
+ |Dostępność      = Wszyscy
+ |Nagroda         = 500 [[Punkty doświadczenia|punktów doświadczenia]], Reputacja w Reddock: +10, Reputacja u [[Buntownicy|Buntowników]]: +2, {{Wartość|Złoto|50}}
+ |Występowanie    = [[Gothic 3]]
+}}
+'''Znajdź buntownicze podziemie w Cape Dun‏‎''' – jedno z zadań pobocznych występujących w [[Gothic 3]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[Paladyni|paladyna]] [[Javier]]a.
+
+== Krok po kroku ==
+# Porozmawiaj z Javierem na temat sytuacji na [[Kontynent|kontynencie]].
+# Porozmawiaj ze świnopasem [[Phil]]em, który znajduje się w [[Cape Dun]].
+# Powiedz Philowi, że Bezimiennego przysyła Javier.
+
+== Przebieg zadania ==
+=== Rozmowa ===
+Bezimienny chodząc po kryjówce [[Buntownicy|buntowników]] z [[Reddock]], spotyka paladyna Javiera. Podczas rozmowy dowiaduje się, że w całej Myrtanie znajdują się buntownicze podziemia, które szkodzą [[Orkowie|okupantowi]]. W pobliskiej mieścinie – Cape Dun – również działają rojaliści, lecz Javier nie jest skłonny ujawnić informacji kim oni są, ponieważ nie ufa wystarczająco bohaterowi. Protagonista postanawia sam zdobyć tę informację.
+
+=== Śmierdzące miejsce ===
+Bohater, chodząc po miasteczku Cape Dun, spotyka [[Niewolnicy|niewolnika]] Phila. Z rozmowy wynika, że ów więzień jest członkiem buntowniczego podziemia. Na początku nie chce się przyznać, mówiąc, że nienawidzi buntowników, jednak kiedy Bezimienny mówi niewolnikowi, że przysyła go Javier dziękuje bohaterowi za informację i przekazuje mu 50 sztuk [[Złoto|złota]]. Tym samym zadanie kończy się powodzeniem.
+
+[[Plik:Buntownicze podziemie koniec.png|310px|center|thumb|Rozmowa kończąca zadanie]]
+[[Kategoria:Zadania poboczne z Gothic 3]]
+
+[[ru:Найди повстанческое подполье в Кап Дуне]]
+[[Kategoria:Zadania w Reddock z Gothic 3]]

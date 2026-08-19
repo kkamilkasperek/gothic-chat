@@ -1,0 +1,34 @@
+{{Niekanon}}
+{{Pancerz
+ |Ikona             =
+ |Nazwa             = Strój wielkiego maga
+ |Obraz             = Wielki_Mag_MójMod.png
+ |Podpis obrazu     = Wielki Mag w swojej szacie
+ |Typ               = Szata
+ |Opis              = Brak
+ |Gildia            = Brak
+ |Ochrona           = Broń: 120, Pociski: 120, Ogień: 120, Magia: 120
+ |Posiadacz         = [[Wielki Mag]]
+ |Handlarze         = Brak
+ |Wartość kupna     = {{Wartość|Złoto|500}}
+ |Wartość sprzedaży = {{Wartość|Złoto|75}}
+ |Występowanie      = [[Mój Mod]]
+ |Kod               = Itar_MM_GreatMage
+}}
+'''Strój wielkiego maga''' – szata występująca w [[Modyfikacja|modyfikacji]] do [[Gothic II: Noc Kruka]] pod tytułem [[Mój Mod]].
+
+== Mój Mod ==
+=== Wygląd ===
+Szatę wykonano z czerwonego, zdobionego materiału. Jest spięta brązowym pasem ze sprzączką. Przez środek szaty biegnie fragment wykonany z czarnego ćwiekowanego materiału, który rozdziela się na dwie ścieżki w stronę ramion. Ubranie wyróżnia się też wysokim kołnierzem.
+
+=== Występowanie ===
+Jest to szata noszona wyłącznie przez [[Wielki Mag|Wielkiego Maga]]. [[Bohater (Mój Mod)|Bohater]] nie ma możliwości zdobycia jej podczas zwykłej rozgrywki.
+
+;Znani posiadacze
+* [[Wielki Mag]].
+
+=== Statystyki ===
+Zwiększa o 120 punktów ochronę przed bronią, pociskami, ogniem i [[Magia|magią]]. Szata ma wartość 500 sztuk [[Złoto|złota]], przy sprzedaży jej cena spada do 75 złotych monet.
+[[Kategoria:Pancerze z Mój Mod]]
+[[Kategoria:Bez ikony z modyfikacji]]
+{{Wymaga lepszej grafiki|mod=1|Zgodnie z polityką screenów: Fotografowany strój powinien mieć na sobie bohater gry}}

@@ -1,0 +1,40 @@
+{{Umiejętność
+ |Nazwa                = Warzenie eliksiru leczniczego
+ |Podnazwa             = GII, GII:NK
+ |Obraz                = Eliksir leczniczy (G2).png
+ |Podpis obrazu        = Eliksir leczniczy
+ |Nauczyciele          = [[Constantino]], [[Neoras]], [[Vatras]]
+ |Wymagania            = [[Warzenie ekstraktu leczniczego]]
+ |Następstwa           = [[Warzenie eliksiru życia]], [[Warzenie eliksiru siły]], [[Warzenie eliksiru zręczności]]
+ |Pozwala na           = Przyrządzenie [[Eliksir leczniczy|eliksiru leczniczego]] na [[Stół alchemiczny|stole alchemicznym]]
+ |Koszt                = 5 punktów nauki
+}}
+{{Umiejętność
+ |Nazwa                = Warzenie eliksiru leczniczego
+ |Podnazwa             = GII, GII:NK
+ |Obraz                = Eliksir leczniczy (G2).png
+ |Podpis obrazu        = Eliksir leczniczy
+ |Nauczyciele          = [[Constantino]], [[Neoras]], [[Vatras]]
+ |Wymagania            = [[Warzenie ekstraktu leczniczego]]
+ |Następstwa           = [[Warzenie eliksiru życia]]
+ |Pozwala na           = Przyrządzenie [[Eliksir leczniczy|eliksiru leczniczego]] oraz [[Pełnia życia|pełni życia]] na [[Stół alchemiczny|stole alchemicznym]]
+ |Koszt                = 5 punktów nauki
+}}
+'''Warzenie eliksiru leczniczego''' – umiejętność alchemiczna występująca w [[Gothic II]] oraz [[Gothic II: Noc Kruka]]. Jak sama nazwa wskazuje, pozwala ona [[Bezimienny|Bezimiennemu]] na przygotowanie [[Eliksir leczniczy|eliksiru leczniczego]] na [[Stół alchemiczny|stole alchemicznym]].
+
+== Gothic II ==
+Bohater może nauczyć się tej zdolności od następujących osób:
+* [[Constantino|Constantina]], gdy Bezimienny jest jego czeladnikiem lub został czeladnikiem [[Harad]]a albo [[Bosper]]a i potrafi przyrządzić dowolną miksturę;
+* [[Neoras]]a, gdy bohater jest magiem ognia lub paladynem;
+* [[Vatras]]a, po dotarciu na [[dwór Irdorath]].
+Bezimienny musi umieć [[Warzenie ekstraktu leczniczego|warzyć ekstrakt leczniczy]] oraz wydać 5 punktów nauki na naukę tej umiejętności. Po przyswojeniu tego talentu bohater ma możliwość przyrządzenia eliksiru leczniczego na stole alchemicznym, jeśli posiada następujące składniki:
+* [[Menzurka|menzurkę]];
+* 2 [[Korzeń leczniczy|korzenie lecznicze]];
+* 1 [[rdest polny]].
+Później, Bezimienny może nauczyć się, jak [[Warzenie eliksiru życia|uwarzyć eliksir życia]], [[Warzenie eliksiru siły|eliksir siły]] oraz [[Warzenie eliksiru zręczności|eliksiru zręczności]].
+
+== Gothic II: Noc Kruka ==
+Koszty nauki, nauczyciele oraz składniki do przyrządzenia mikstury nie zmieniły się. Nastąpiły natomiast dwie zmiany:
+# Umiejętność ta nie jest już konieczna, aby nauczyć się przyrządzania eliksiru siły czy eliksiru zręczności;
+# Po nauce tej zdolności bohater może zacząć warzyć [[Pełnia życia|pełnię życia]] na stole alchemicznym po przeczytaniu [[Pełnia życia (przepis)|odpowiedniego przepisu]].
+[[Kategoria:Umiejętności alchemiczne z Gothic II]]

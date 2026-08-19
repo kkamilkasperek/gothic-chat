@@ -1,0 +1,69 @@
+{{Czar
+ |Obraz             = <gallery>
+Duża kula ognia (runa) (G2).png|Runa
+Duża Kula Ognia Zwój GII.png|Zwój
+</gallery>
+ |Ikona             = Duża kula ognia (runa) (ikonka) (G2).png
+ |Nazwa             = Duża kula ognia
+ |Nazwa angielska   = Large Fireball
+ |Podnazwa          = Gothic II,GII:NK
+ |Bóg               = [[Innos]]
+ |Krąg              = [[Czwarty krąg magii|Czwarty]]
+ |Obrażenia         = 100-300
+ |Wymagana mana     = 15-72
+ |Działanie         = Podpala cel zaklęcia; zadając [[obrażenia]] zależne od zużytej [[Mana|many]]
+ |Wartość kupna     = {{Wartość|złoto|2000}} (runa), {{Wartość|złoto|300}} (zwój)
+ |Wartość sprzedaży = {{Wartość|złoto|600}} (runa), {{Wartość|złoto|90}} (zwój)
+ |Występowanie      = [[Gothic II]]
+ |Kod               = ItRu_ChargeFireball ([[runa]]), ItSc_ChargeFireball ([[Zwoje magiczne|zwój]])
+}}
+{{Czar
+ |Obraz             = <gallery>
+Duża kula ognia (runa) (G2).png|Runa
+Duża Kula Ognia Zwój GII.png|Zwój
+</gallery>
+ |Ikona             = Duża kula ognia (runa) (ikonka) (G2).png
+ |Nazwa             = Duża kula ognia
+ |Nazwa angielska   = Large Fireball
+ |Podnazwa          = Gothic II,GII:NK
+ |Bóg               = [[Innos]]
+ |Krąg              = [[Czwarty krąg magii|Czwarty]]
+ |Obrażenia         = 75-300
+ |Wymagana mana     = 40-160
+ |Działanie         = Podpala cel zaklęcia; zadając [[obrażenia]] zależne od zużytej [[Mana|many]]
+ |Wartość kupna     = {{Wartość|złoto|2000}} (runa), {{Wartość|złoto|60}} (zwój)
+ |Wartość sprzedaży = {{Wartość|złoto|300}} (runa), {{Wartość|złoto|9}} (zwój)
+ |Występowanie      = [[Gothic II]]
+ |Kod               = ItRu_ChargeFireball ([[runa]]), ItSc_ChargeFireball ([[Zwoje magiczne|zwój]])
+}}
+'''Duża kula ognia''' – czar występujący w [[Gothic II]].
+
+== Gothic II ==
+[[Plik:Duża kula ognia (zwój) (ikonka) (G2).png|left]]
+Jest to czar [[Czwarty krąg magii|czwartego kręgu magii]] stanowiący ulepszoną wersję zwykłej [[Kula ognia|kuli ognia]]. Po wypowiedzeniu zaklęcia i odepchnięciu ręki maga w przód do jego wroga leci ognista kula magicznej energii, która po trafieniu zadaje mu od 100 do 300 punktów [[Obrażenia|obrażeń]] od magii w zależności od zużytej [[Mana|many]] (15-72 punktów), a także podpala go (jest to jednak tylko wizualny efekt).
+
+Zaklęcie to jest znane wyłącznie na [[Wyspa Khorinis|wyspie Khorinis]]. [[Tworzenie runy dużej kuli ognia|Wytwarzania]] jego [[Runa|runy]] uczy [[Magowie ognia|mag ognia]] [[Hyglas]] z [[Klasztor Innosa na wyspie Khorinis|klasztoru]]. Do jej stworzenia potrzebne są oprócz [[Pusty kamień runiczny|pustego kamienia runicznego]] i [[Zwoje magiczne|zwoju]] z czarem także po jednym egzemplarzu [[Smoła|smoły]] i [[Siarka|siarki]].
+
+Zwoje z tym zaklęciem w [[Polowanie na smoki (rozdział)|IV rozdziale]] sprzedają magowie ognia [[Gorax]] (3 sztuki) i [[Isgaroth]] (2 sztuki). Dokładne miejsca występowania zwojów można sprawdzić [[Zwoje w Gothic II: Noc Kruka#Duża kula ognia|tutaj]].
+
+Runa i zwój dużej kuli ognia mają wartość nominalną odpowiednio 2000 i 300 sztuk [[Złoto|złota]]. [[Bezimienny]] może je sprzedać za odpowiednio 600 i 90 złotych monet.
+
+<gallery position="center" captionalign="center" widths="305">
+G2 Duża kula ognia inkantacja.png|Inkantacja czaru
+G2 Duża kula ognia działanie (słaba).png|Działanie (słabo naładowana)
+G2 Duża kula ognia działanie (mocna).png|Działanie (mocno naładowana)
+</gallery>
+
+== Gothic II: Noc Kruka ==
+Zmieniły się statystyki czaru. Minimalne obrażenia zostały zmniejszone do 75 punktów. W zależności od poziomu naładowania czar zużywa teraz od 40 do 160 punktów many.
+
+Oprócz Goraxa i Isgarotha, 3 egzemplarze zwoju można teraz zakupić w IV rozdziale również od [[Cronos]]a.
+
+Wartość nominalna zwoju spadła do 60 sztuk złota. Teraz runę i zwój bohater może sprzedać odpowiednio za 300 i 9 złotych monet.
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Returning]] ===
+Używają jej orkowi szamani.
+[[Kategoria:Czary z Gothic II]]
+[[ru:Большой огненный шар]]

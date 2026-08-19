@@ -1,0 +1,40 @@
+{{Niekanon}}
+{{Lokacja
+ |Ikona            = Biuro skryby ikona KM Archolos.png
+ |Nazwa            = Biuro skryby
+ |Nazwa angielska  = Scribe's office
+ |Obraz            = Biuro skryby KM Archolos.png
+ |Podpis obrazu    = Widok na biuro
+ |Typ              = Budynek
+ |Położenie        = [[Miasto Archolos]]
+ |Mieszkańcy       = [[Ludzie]]
+ |Populacja        =
+ |Zarządca         = [[Matey]]
+ |Ważne postacie   = Matey
+ |Ważne miejsca    = Brak
+ |Związek z fabułą = [[Obywatel Marvin]], [[Czyste ulice]]
+ |Występowanie     = [[Kroniki Myrtany: Archolos]]
+ |Teleportacja     = Brak
+ |Waypoint         =
+}}
+'''Biuro skryby''' – biuro występujące w [[Modyfikacja|modyfikacji]] do [[Gothic II: Noc Kruka]] pod tytułem [[Kroniki Myrtany: Archolos]].
+
+== Kroniki Myrtany: Archolos ==
+Znajduje się w południowo-zachodniej części [[Miasto Archolos|miasta Archolos]]. Prowadzi do niego wejście schodami, na których stoi kolejka petentów. 
+
+Biuro podzielone jest na dwie izby. W izbie wejściowej urzęduje [[Matey]] i obsługuje petentów. W sąsiedniej izbie znajduje się [[łóżko]], w którym skryba sypia.
+
+== Galeria ==
+<gallery widths="305" position="center" captionalign="center">
+Biuro skryby kolejka KM Archolos.png|Kolejka petentów skryby
+Biuro skryby pokój 1 KM Archolos.png|Izba wejściowa
+Biuro skryby pokój 2 KM Archolos.png|Sypialnia skryby
+</gallery>
+
+=== Mapa ===
+[[Plik:Biuro skryby mapa KM Archolos.png|305px|center|thumb|Lokalizacja biura na mapie]]
+{{Zalążek|Potrzebny bardziej szczegółowy opis oraz zawarcie informacji o fabularnych powiązaniach budynku|mod=*}}
+[[Kategoria:Miejsca z Kroniki Myrtany: Archolos]]
+[[Kategoria:Miejsca w mieście Archolos]]
+
+[[ru:Время решений – Контора]]

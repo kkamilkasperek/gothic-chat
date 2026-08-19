@@ -1,0 +1,31 @@
+{{Niekanon}}
+{{Księga
+ |Ikona             =
+ |Nazwa             = Lud Północy
+ |Nazwa angielska   = The people of the North
+ |Obraz             = lud_polnocy.png
+ |Podpis obrazu     = Treść księgi
+ |Opis              = ''Księga o mieszkańcach Nordmaru''
+ |Posiadacz         = [[Grif]]
+ |Autor             = Nieznany
+ |Ilość tomów       = 1
+ |Rodzaj            = 
+ |Występowanie      = [[Kroniki Myrtany: Archolos]]
+ |Wartość kupna     = {{Wartość|złoto|25}}
+ |Wartość sprzedaży = {{Wartość|złoto|4}}
+ |Questowy          = Nie
+ |Kod               = ItWr_AboutNordmar
+}}
+'''Lud Północy''' – księga występująca w [[Modyfikacja|modyfikacji]] do [[Gothic II: Noc Kruka]] pod tytułem [[Kroniki Myrtany: Archolos]].
+
+== Kroniki Myrtany: Archolos ==
+Książka zawiera opis [[Nordmarczycy|Nordmarczyków]] zamieszkujących mroźne [[Nordmar|północne krainy]]. Zarysowuje normy i zwyczaje panujące wśród tego ludu.
+
+[[Marvin]] może zakupić ją od [[Grif]]a za 25 sztuk [[Złoto|złota]]. Przy sprzedaży jej wartość spada do 4 sztuk złota.
+
+Przeczytanie książki zapewnia bonus 50 [[Punkty doświadczenia|punktów doświadczenia]].
+
+=== Treść ===
+{{Cytat|Daleko na północ od myrtańskiego Przygranicza piętrzą się ośnieżone szczyty Nordmaru – mroźnej, niedostępnej krainy, będącej ojczyzną dumnego ludu wojowników. Nie bez powodu przypisano im to miano, bowiem od wieków są celem najazdów orkowych plemion zamieszkujących rozległe Północne Równiny.<br><br>Choć Nordmar sam w sobie jest chłodną krainą, w żyłach jego mieszkańców płynie gorąca krew, toteż wszelkie problemy najchętniej rozwiązują oni pięścią, mieczem lub toporem. Nic bowiem dziwnego – ich życie polega na ciągłej walce z wrogami lub siłami natury.<br><br>Ci krzepcy, odporni na trudy ludzie, wielokrotnie dowiedli umiejętności nie tylko we władaniu bronią, ale i jej obróbką na kowadle.<br><br>Od najmłodszych lat nordmarscy chłopcy uczeni są sztuki przetrwania. Gdy osiągają pełnoletność, w ramach sprawdzianu męskości, ojcowie wysyłają ich w dzikie ostępy celem zdobycia rogu cieniostwora. Dorastające kobiety z kolei uczą się od matron rzemiosła i opieki nad domowym ogniskiem, aby w przyszłości wypełniać swoją powinność dobrych żon i matek.}}
+[[Kategoria:Bez ikony z modyfikacji]]
+[[Kategoria:Księgi z Kroniki Myrtany: Archolos]]

@@ -1,0 +1,41 @@
+{{Zadanie
+ |Nazwa                = Orkowie w kanionie
+ |Nazwa angielska      = The Orcs in the canyon
+ |Obraz                = Orkowie w kanionie (początek zadania).png
+ |Podpis obrazu        = Riordian w trakcie zlecania zadania
+ |Zleceniodawca        = [[Riordian]]
+ |Start                = [[Ruiny centralne]]
+ |Koniec               = Obóz [[magowie wody|magów wody]] w [[Jarkendar]]ze
+ |Poprzednie           = [[Posiadłości Budowniczych]]
+ |Następne             = Brak
+ |Dostępność           = Wszyscy
+ |Nagroda              = 300 punktów doświadczenia
+ |Występowanie         = [[Gothic II: Noc Kruka]]
+}}
+'''Orkowie w kanionie''' – zadanie poboczne występujące w [[Gothic II: Noc Kruka]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[magowie wody|maga wody]] [[Riordian]]a. 
+
+== Krok po kroku ==
+# W trakcie wykonywania zadania ''[[Posiadłości Budowniczych]]'' odwiedź [[Biblioteka Uczonych|Bibliotekę Uczonych]] w [[Kanion w Jarkendarze|kanionie]].
+# Poinformuj [[Riordian]]a o obecności [[Orkowie|orków]] w okolicy świątyni.
+# Zabij (samodzielnie lub z pomocą [[Piraci|piratów]] w trakcie wykonywania zadania ''[[Polowanie na brzytwiaki]]'') [[Wódz Hordy|Wodza Hordy]], 11 [[Wojownicy orków|orkowych wojowników]] i [[Szamani orków|szamana]].
+# Wróć do Riordiana i poinformuj go o zabiciu Wodza Hordy.
+
+== Przebieg zadania ==
+=== Niebezpieczni intruzi ===
+W trakcie wykonywania zadania [[Posiadłości Budowniczych]], [[Bezimienny]] zauważa liczną grupę [[Orkowie|orków]], która rozbiła obóz przed wejściem do [[Biblioteka Uczonych|Biblioteki Uczonych]]. Bohater wraca do [[Riordian]]a i powiadamia go o przybyciu orków do [[Kanion w Jarkendarze|kanionu]]. Obaj rozmówcy powątpiewają w umiejętności lingwistyczne orków, gdyż sądzą że prawdopodobnie nie są w stanie przeczytać tekstów pisanych językiem [[Budowniczowie|budowniczych]]. Mimo wszystko Riordian prosi bohatera, aby na wszelki wypadek pozbył się nieproszonych gości, aby mieć pewność że nie posiądą wiedzy [[Uczeni|uczonych]]. Bohater postanawia spełnić życzenie Riordiana.
+
+<gallery widths="200" position="center" captionalign="center">
+Obóz orków w Jarkendarze GIINK.png|Obóz orków w kanionie
+Wódz Hordy (GII).png|Wódz Hordy
+</gallery>
+
+=== Zabicie nieproszonych gości ===
+Bezimienny wraca do kanionu i postanawia zabić stacjonujących tam orków. Bohater może wykonać zadanie samodzielnie lub skorzystać z pomocy [[Piraci|piratów]], którzy udali się z nim na [[polowanie na brzytwiaki]]. W przypadku drugiej opcji piraci nie będą mieli nic przeciwko podróży po dalszej części kanionu nawet po wytępieniu [[brzytwiak]]ów. Po pewnym czasie Bezimienny (samodzielnie bądź z piratami) zabija 11 [[Wojownicy orków|orkowych wojowników]], [[Szamani orków|szamana]] oraz [[Wódz Hordy|Wodza Hordy]]. Tym samym bohater pozbywa się nieprzyjaciół z okolic domu uczonych.
+
+=== Powrót do Riordiana ===
+Po pokonaniu zielonoskórych Bezimienny wraca do centralnej części [[Jarkendar]]u i przekazuje Riordianowi informacje o śmierci Wodza Hordy. [[Magowie wody|Mag wody]] jest zadowolony i dziękuje bohaterowi za pomoc. Po zakończeniu rozmowy zadanie kończy się powodzeniem.
+[[Kategoria:Zadania poboczne z Gothic II: Noc Kruka]]
+{{Za mało grafik|dialog kończący zadanie}}
+{{Zalążek|wpisy do dziennika}}
+
+[[ru:Орки в каньоне]]

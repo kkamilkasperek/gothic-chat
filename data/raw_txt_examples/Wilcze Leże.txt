@@ -1,0 +1,42 @@
+{{Niekanon}}
+{{Zalążek|mod=*}}
+{{Muzyka do artykułu|21-Wolf s-Lair.ogg}}
+{{Lokacja
+ |Nazwa            = Wilcze Leże
+ |Obraz            = Wilcze Leże.png
+ |Podpis obrazu    = Wilcze Leże – widok ogólny
+ |Typ              = Forteca
+ |Położenie        = [[Wyspa Archolos]]
+ |Mieszkańcy       = [[Wilczy Synowie]], [[Paladyni]] (zakończenie)
+ |Populacja        =
+ |Zarządca         = [[Ulryk]]
+ |Ważne postacie   = Ulryk, [[Jon]], [[Baes]], [[Einar]], [[Yezegan]], [[Crednar]]
+ |Ważne miejsca    =
+ |Związek z fabułą = Tak
+ |Występowanie     = [[Kroniki Myrtany: Archolos]]
+ |Teleportacja     = [[Pentagram]] w pracowni Yezegana
+ |Waypoint         = WolfsDen_Path_02
+}}
+'''Wilcze Leże''' – forteca występująca w [[Modyfikacja|modyfikacji]] do [[Gothic II: Noc Kruka]] pod tytułem [[Kroniki Myrtany: Archolos]]. 
+
+== Przed akcją modyfikacji ==
+Po zniszczeniu [[Ruiny Vardhal|Vardhal]] Wilcze Leże stało się główną siedzibą [[Wilczy Synowie|Wilczych Synów]].
+
+== Kroniki Myrtany: Archolos ==
+Dowodzi w nim [[Ulryk]], przywódca Wilczych Synów. [[Marvin]] zjawia się tutaj po raz pierwszy wraz z [[Ivy (Kroniki Myrtany)|Ivy]], po tym jak zaprowadził ich do twierdzy trop zamachu na [[Volker (Kroniki Myrtany)|Volkera]]. Do środka nie wpuszcza ich jednak strażnik [[Crednar]], argumentując to koczującymi przed bramą uchodźcami pod kierownictwem [[Fabio (Kroniki Myrtany)|Fabio]]. By wejść do środka, bohater musi pozbyć się uciekinierów, wysyłając ich na bagna, nakłaniając do przeniesienia obozu przez wywołanie lawiny lub zwyczajnie ich mordując. Niezależnie od wybranego sposobu Crednar po rozwiązaniu problemu uchodźców przepuszcza Marvina przez bramę Wilczego Leża. Sala tronowa pełni również rolę czegoś w rodzaju kotłowni, bo właśnie stąd rurami prowadzone jest ciepło do reszty Leża. 
+
+[[Plik:Sala Tronowa Wilcze Leże.png|400px|center|thumb|Sala tronowa w Wilczym Leżu]]
+
+== Dalsze losy ==
+Po bitwie o miasto Wilcze Leże zostaje zdobyte przez wojska królewskie. W zależności od podjętych decyzji w czasie rozgrywki istnieją dwa możliwe warianty dalszych losów twierdzy. W pierwszym przypadku urządzona zostaje w nim siedziba zakonu [[Paladyni|paladynów]], gdzie szkoli się młodych wojowników [[Innos]]a przed wyruszeniem na front wojny z orkami. W drugim przypadku twierdza zostaje zrównana z ziemią przez rozwścieczony tłum.
+
+<gallery position="center" captionalign="center" widths="350">
+Wilcze Leże - zakończenie KM.png|Wilcze Leże przekształcone na siedzibę paladynów
+Spalone wilcze leze.jpg|Wilcze Leże spalone przez wściekły tłum
+</gallery>
+
+[[Kategoria:Miejsca z Kroniki Myrtany: Archolos]]
+[[Kategoria:Zalążek artykułu z modyfikacji]]
+[[Kategoria:Zamki i twierdze z modyfikacji]]
+
+[[ru:Волчье логово]]

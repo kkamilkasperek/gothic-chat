@@ -1,0 +1,31 @@
+{{Nieużywana zawartość}}
+{{Dokument
+ |Ikona             = Zamknięty list GII ico.png
+ |Nazwa             = MobsiBrief
+ |Obraz             = <gallery>
+MobsiBrief G2.png|Gothic II
+MobsiBrief G2NK.png|GII:NK
+</gallery>
+ |Typ               = Przedmiot pomocniczy / testowy
+ |Nadawca           =
+ |Odbiorca          =
+ |Posiadacz         = Brak
+ |Wartość kupna     = {{Wartość|złoto|0}}
+ |Wartość sprzedaży = {{Wartość|złoto|0}}
+ |Występowanie      = [[Gothic II]] (tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]])
+ |Questowy          = Nie
+ |Kod               = MobsiBrief
+}}
+'''MobsiBrief''' – dokument występujący w [[Gothic II]], niedostępny w trakcie rozgrywki.
+
+== Gothic II ==
+Można go przywołać za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]]. Dokument zawiera nagłówek o treści ''StandardBrief'', zdanie opisowe w języku niemieckim ''Jetzt wird alles wieder gut'' (pol. ''Teraz znowu wszystko będzie w porządku'') oraz polecenia, jakie są przypisane w skrypcie przedmiotu do funkcji jego użycia. [[Bezimienny]] może go przeczytać, co spowoduje ustawienie zmiennej <code>PLAYER_MOBSI_PRODUCTION</code><ref>Zmienna ta jest wykorzystywana podczas używania przez bohatera obiektów interaktywnych posiadających okna dialogowe z wyborem poszczególnych opcji (np. [[łóżko]], [[stół alchemiczny]], [[kowadło]] itp.).</ref> na wartość <code>MOBSI_NONE</code> oraz spowoduje wznowienie ataków ze strony wrogich NPC, jeśli zostały przerwane (np. w wyniku błędu gry po niepoprawnym zamknięciu się okna wyboru opcji dialogowych). Przedmiot ten prawdopodobnie służył [[Piranha Bytes|twórcom]] do celów testowych i/lub do debugowania na etapie tworzenia gry.
+
+Dokument nie ma żadnej wartości w [[Złoto|złocie]].
+
+== Gothic II: Noc Kruka ==
+Zdanie opisowe z treści dokumentu zostało przetłumaczone na język polski.
+
+== Przypisy ==
+[[Kategoria:Nieużywana zawartość z Gothic II]]
+[[Kategoria:Dokumenty z Gothic II]]

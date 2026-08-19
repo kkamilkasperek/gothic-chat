@@ -1,0 +1,89 @@
+{{Bestia
+ |Nazwa                  = Feomathar
+ |Podnazwa               = Gothic II,GII:NK
+ |Nazwa angielska        =
+ |Obraz                  = Feomathar (by Ossowski21).png
+ |Podpis obrazu          = Feomathar w Gothic II
+ |Gromada                = [[Smoki z Khorinis|Smok]]
+ |Odmiany                =
+ |Środowisko życia       = [[Wulkan]] w [[Górnicza Dolina|Górniczej Dolinie]]
+ |Punkty doświadczenia   = 4500
+ |Siła/Zręczność         = 140/100
+ |Punkty życia           = 700
+ |Pancerz                = Broń: 100, Pociski: 100, Smoczy ogień: 50, Magia: 50, Odrzut: -1
+ |Specjalne              = Zianie ogniem, [[Kula ognia]]
+ |Rzadkość               =
+ |Nastawienie do gracza  =
+ |Pozyskiwane przedmioty = 1x [[serce ognistego smoka]], 2x [[smocza krew]], 12x [[smocze łuski]]
+ |Występowanie           = [[Gothic II]]
+ |Dubbing                = [[Tomasz Marzecki]]
+ |Kod                    = Dragon_Fire
+}}
+{{Bestia
+ |Nazwa                  = Feomathar
+ |Podnazwa               = Gothic II,GII:NK
+ |Nazwa angielska        =
+ |Obraz                  = Feomathar (by Ossowski21).png
+ |Podpis obrazu          = Feomathar w Gothic II: Noc Kruka
+ |Gromada                = [[Smoki z Khorinis|Smok]]
+ |Odmiany                =
+ |Środowisko życia       = [[Wulkan]] w [[Górnicza Dolina|Górniczej Dolinie]]
+ |Punkty doświadczenia   = 5000
+ |Siła/Zręczność         = 200/200
+ |Punkty życia           = 1000
+ |Pancerz                = Broń: 170, Pociski: 170, Smoczy ogień: 170, Magia: 170, Odrzut: 170
+ |Specjalne              = Zianie ogniem, [[Kula ognia]], Regeneracja [[Zdrowie#Gothic II|punktów trafień]]
+ |Rzadkość               =
+ |Nastawienie do gracza  =
+ |Pozyskiwane przedmioty = 1x [[serce ognistego smoka]], 2x [[smocza krew]], 12x [[smocze łuski]]
+ |Występowanie           = [[Gothic II]]
+ |Dubbing                = [[Tomasz Marzecki]]
+ |Kod                    = Dragon_Fire
+}}
+'''Feomathar''' – ognisty [[Smoki z Khorinis|smok]] z [[Górnicza Dolina|Górniczej Doliny]] występujący w [[Gothic II]].
+
+== Przed akcją gry ==
+Za swoją siedzibę wybrał górę, na której stały ruiny [[Stara cytadela|starej cytadeli]]. Smok zniszczył ją i utworzył tam [[wulkan]].
+
+== Gothic II ==
+Jest jednym z dwóch smoków, które zaatakowały [[Zamek w Górniczej Dolinie|zamek]] i spaliły zewnętrzny pierścień. Feomathara broni horda [[Jaszczuroczłek|jaszczuroludzi]], [[Ognisty jaszczur|ognistych jaszczurów]] i [[Ognisty golem|ognistych golemów]]. Ukrył swój skarb na gorących skałach, gdzie według niego nie ma prawa dotrzeć żadna nielotna istota. Jego bratem jest [[Feodaron]], który osiadł na [[Wyspa Irdorath|wyspie Irdorath]] i zajął się wysiadywaniem [[Smocze jajo|smoczych jaj]]. Podobnie jak pozostałe smoki, atakuje przy pomocy ognistego oddechu lub miotając ogniste kule. [[Bezimienny]] może z niego wyciągnąć 12 [[Smocze łuski|smoczych łusek]], 2 fiolki [[Smocza krew|smoczej krwi]] (po nauczeniu się odpowiednich umiejętności, kolejno [[usuwanie smoczych łusek|usuwania smoczych łusek]] i [[Zbieranie smoczej krwi|zbierania smoczej krwi]]) oraz [[serce ognistego smoka]] potrzebne do [[Ładowanie Oka Innosa|naładowania Oka Innosa]].
+
+[[Plik:Feomathar walka G2.png|310px|center|thumb|Bezimienny walczący z Feomatharem]]
+
+=== Zlecane zadania ===
+* [[Smocze jaja]] (jeśli jest pierwszym smokiem odwiedzonym przez Bezimiennego, a bohater jest [[Łowcy smoków|łowcą smoków]]);
+* [[Pan Smoków]] (jeśli jest ostatnim smokiem odwiedzonym przez Bezimiennego).
+
+=== Skarb ===
+W skarbie Feomathara znaleźć można:
+* [[łuk jesionowy]];
+* [[dobry długi miecz]];
+* [[Skrzyneczka|skrzyneczkę]];
+* 400 sztuk [[Złoto|złota]] w 8 [[Skórzany mieszek|mieszkach]].
+
+== Gothic II: Noc Kruka ==
+Feomathar dodatkowo potrafi regenerować [[Zdrowie#Gothic II|punkty trafień]] w trakcie walki.
+
+Oprócz wyżej wymienionych przedmiotów w skarbie smoka można znaleźć dodatkowo bryłkę [[Czarna ruda|czarnej rudy]].
+
+[[Plik:Skarb feomathara (by Ossowski21).png|310px|center|thumb|Skarb Feomathara]]
+
+== Modyfikacje ==
+{{Główny artykuł|Feomathar/Modyfikacje}}
+
+== Ciekawostki ==
+* Wbrew słowom Feomathara, do jego skarbu istnieje łatwy dostęp na kilka sposobów – dojście doń znajduje się przy ścieżce prowadzącej do smoka, po prawej stronie, za zakrętem w miejscu, gdzie kończy się urwisko.
+* Skarb Feomathara w rzeczywistości zawiera jeszcze jeden mieszek z 50 sztukami złota, jednak przez niedopatrzenie twórców został on umieszczony pod warstwą dekoracyjnych modeli kosztowności, przez co jest niedostępny.
+* W podstawie Gothic II jest nieśmiertelny, podobnie jak pozostałe smoki, do czasu rozmowy z nim przy użyciu [[Oko Innosa|Oka Innosa]], lecz w [[Gothic II: Noc Kruka|Nocy Kruka]] odpowiednia linia w skrypcie z nieznanych przyczyn została zakomentowana. Z tego powodu w dodatku można go zabić nawet bez Oka Innosa.
+
+== Zobacz także ==
+* [[Pandrodor]] – bagienny smok
+* [[Pedrakhan]] – kamienny smok
+* [[Finkregh]] – lodowy smok
+[[Kategoria:Antagoniści]]
+
+[[Kategoria:Smoki]]
+[[Kategoria:Stworzenia z Gothic II]]
+[[Kategoria:Stworzenia związane z zadaniami z Gothic II]]
+[[it:Feomathar]]
+[[ru:Феоматар]]

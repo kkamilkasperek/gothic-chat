@@ -1,0 +1,27 @@
+{{Niekanon}}
+{{Trofeum
+ |Ikona                 = Serce orka (Świat Skazańców Hardcore) ikona.png
+ |Nazwa                 = Serce orkowego psa
+ |Obraz                 = Serce ognistego golema (Texturepack Artemiano).png
+ |Podpis obrazu         = Serce orkowego psa
+ |Typ                   = Serce
+ |Opis                  = ''Ważny składnik alchemiczny.''
+ |Wymagane umiejętności = Brak
+ |Do zdobycia z         = [[Orkowy pies|orkowego psa]]
+ |Dodatkowe             = Składnik [[Eliksir ducha|eliksiru ducha]] i [[Napój z pełzaczy|napoju z pełzaczy]]
+ |Wartość kupna         = {{Wartość|ruda|50}}
+ |Wartość sprzedaży     = {{Wartość|ruda|25}}
+ |Występowanie          = [[Świat Skazańców]] (''Hardcore'')
+ |Questowy              = Nie
+ |Kod                   = ItAt_OrcHeart4
+}}
+'''Serce orkowego psa''' – trofeum występujące w [[Modyfikacja|modyfikacji]] do [[Gothic]] pod tytułem [[Świat Skazańców]], tylko w wersji ''Hardcore''.
+
+== Świat Skazańców ==
+[[Bezimienny]] może wyciągnąć serce z każdego zabitego [[Orkowy pies|orkowego psa]]. Nie musi do tego posiadać żadnych umiejętności.
+
+Serce orkowego psa jest składnikiem [[Alchemia (Świat Skazańców)|alchemicznym]] potrzebnym do stworzenia [[Eliksir ducha|eliksiru ducha]] i [[Napój z pełzaczy|napoju z pełzaczy]].
+
+Wartość serca wynosi 50 [[Bryłka rudy|bryłek rudy]], przy sprzedaży spada do 25 bryłek.
+[[Kategoria:Przedmioty ze Świata Skazańców]]
+[[Kategoria:Trofea ze Świata Skazańców]]

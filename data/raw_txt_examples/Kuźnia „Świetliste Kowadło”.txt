@@ -1,0 +1,55 @@
+{{Lokacja
+ |Nazwa            = Kuźnia „Świetliste kowadło”
+ |Nazwa angielska  = The Glowing Anvil
+ |Obraz            = Świetliste kowadło.png
+ |Podpis obrazu    = 
+ |Położenie        = [[Miasto Khorinis|Khorinis]]
+ |Typ              = Kuźnia
+ |Mieszkańcy       = Kowale
+ |Zarządca         = [[Harad]]
+ |Ważne postacie   = [[Brian]]
+ |Występowanie     = [[Gothic II]]
+ |Waypoint         = nw_city_smith_01
+}}
+'''Kuźnia „Świetliste Kowadło”''' – druga największa kuźnia w mieście [[Miasto Khorinis|Khorinis]]. Jej zarządcą jest kowal [[Harad]].
+
+== Opis ==
+Kuźnia znajduje się w [[Dolne miasto|dolnym mieście]], przy drodze prowadzącej do [[Dzielnica portowa w Khorinis|portu]]. Jest ona własnością kowala Harada i jest połączona z [[Dom Harada|jego domem]].
+
+Za dnia pracują tam Harad wraz ze swoim czeladnikiem – [[Brian]]em, nocą zaś kuźnia pustoszeje, a właściciel i jego uczeń idą spać.
+
+Okolicę patroluje [[Straż miejska|strażnik]] [[Pablo]] lub jeden z dwóch anonimowych strażników miejskich.
+
+== Produkcja broni ==
+=== Przed akcją gry ===
+Harad wraz ze swoim czeladnikiem produkował broń która była później sprzedawana na targu przez kupca [[Hakon]]a. Po przybyciu [[Paladyni|Paladynów]] ci zlecili kowalowi wykucie 100 mieczy, przez co sprzedawca broni miał na sprzedaż jej niewiele.
+
+=== Gothic II ===
+Początkowo kuźnia produkuje broń tylko i wyłącznie dla straży miejskiej, która to później trafia na wyposażenie do koszar, lub do magazynów broni we wieżach. W [[Powrót do Kolonii|drugim rozdziale]] Harad mówi [[Bezimienny|Bezimiennemu]], że skończył już produkcję broni dla straży i że teraz produkuje miecze z [[Magiczna ruda|magicznej rudy]] dla paladynów, jednak nie może sprzedać takiego miecza Bezimiennemu dopóki ten nie wstąpi do zakonu. Mówi też, że ma czas na wykucie broni dla handlarzy.
+
+== Pracownicy ==
+* [[Harad]] – właściciel kuźni i mistrz z Khorinis.
+* [[Brian]] – czeladnik Harada, ostrzy miecze. Może sprzedać bohaterowi stalowe pręty.
+* [[Bezimienny]] (jeżeli zostanie czeladnikiem Harada).
+
+<gallery widths="220" position="center" captionalign="center" columns="2">
+Harad (by SpY).png
+Brian (Gothic II) (by Gothicfan94).png
+</gallery>
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Mroczne Tajemnice]] ===
+Przemytnik [[Korth]] wspomina Harada, mówiąc, że z jego kuźni pochodzą miecze dobrej jakości.
+
+=== [[Returning]] / [[Mroczny Legion]] / [[Odyseja – W imieniu króla]] ===
+Po powrocie bohatera z wyspy Irdorath kuźnia jest pusta po ataku orków na Khorinis.
+
+=== [[Altharu]] ===
+Kuźnia jest pusta, gdyż Khorinis zostało opuszczone przez mieszkańców przed akcją modyfikacji.
+
+=== [[Na ratunek Khorinis]] ===
+Po powrocie bohatera z wyspy Irdorath kuźnia nadal działa, a Harad wciąż w niej pracuje ze swoim uczniem.
+[[Kategoria:Kuźnie]]
+[[Kategoria:Miejsca w mieście Khorinis]]
+[[Kategoria:Miejsca z Gothic II]]

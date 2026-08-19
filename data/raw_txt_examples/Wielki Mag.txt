@@ -1,0 +1,26 @@
+{{Niekanon}}
+{{Postać
+ |Imię                 = Wielki Mag
+ |Obraz                = Wielki_Mag_MójMod.png
+ |Podpis obrazu        = Wielki Mag
+ |Gildia               = Brak
+ |Poziom               = 60
+ |Miejsce zamieszkania = [[Pustynia]]
+ |Miejsce urzędowania  = [[Obóz na pustyni]]
+ |Posiadana broń       = [[Magia]]
+ |Posiadana zbroja     = [[Strój wielkiego maga]]
+ |Występowanie         = [[Mój Mod]]
+ |Status               = Żyje
+ |Dubbing              = Syntezator IVONA
+ |Kod                  = MM_001_Mage
+ |Przedmiot kradzieży  = Kradzież niemożliwa
+}}
+'''Wielki Mag''' – postać występująca w [[Modyfikacja|modyfikacji]] do [[Gothic II: Noc Kruka]] pod tytułem [[Mój Mod]]. Jest tajemniczym [[Magowie|magiem]] nieoficjalnie przewodzącym [[Obóz na pustyni|obozem na pustyni]].
+
+== Mój Mod ==
+Jest magiem, którego potęga i przynależność pozostają nieznane. Odnajduje nieprzytomnego [[Bohater (Mój Mod)|bohatera]] oraz wprowadza go w świat modyfikacji po jego przebudzeniu. Prosi go o zapoznanie się z ludźmi w obozie.
+
+=== Zlecane zadania ===
+* [[Zamek (zadanie z Mój Mod)|Zamek]]
+[[Kategoria:Postacie z Mój Mod]]
+[[Kategoria:Magowie z modyfikacji]]

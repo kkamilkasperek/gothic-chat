@@ -1,0 +1,26 @@
+{{Niekanon}}
+{{Broń
+ |Ikona                 = 
+ |Nazwa                 = Przeklęty kostur Chaosu
+ |Podnazwa              = 
+ |Obraz                 = Kostur Chaosu R2.png
+ |Podpis obrazu         = 
+ |Typ                   = Kostur
+ |Opis                  = 
+ |Wymagane umiejętności = 
+ |Wymagane atrybuty     = 
+ |Obrażenia             = ?
+ |Dodatkowe             = Odrzuca przeciwnika
+ |Posiadacz             = [[Wielki Chaos|Awatar Chaosu]]
+ |Wartość kupna         = Brak możliwości kupna
+ |Wartość sprzedaży     = {{Wartość|złoto|1}}
+ |Występowanie          = [[Returning]] 2.0
+ |Kod                   = 
+}}
+'''Przeklęty kostur Chaosu''' – broń występująca w [[Modyfikacja|modyfikacji]] [[Returning]] 2.0. Jest to kostur [[Wielki Chaos|awatara Chaosu]].
+
+== Returning 2.0 ==
+Kostur jest czarnego koloru, z niewielką ilością zdobień. Na obu jego końcach znajdują się ostrza, choć to znajdujące się po stronie przeznaczonej do atakowania jest nieco masywniejsze. Awatar Chaosu zaczyna używać tej broni pod koniec pojedynku z [[Bezimienny]]m. Kostur oprócz zadawania sporych obrażeń potrafi także odrzucić przeciwnika na sporą odległość. Bohater może go zabrać po pokonaniu awatara, niemniej z powodu złej aury nie może go używać.
+[[Kategoria:Bez ikony z modyfikacji]]
+[[Kategoria:Bez kodu z modyfikacji]]
+[[Kategoria:Broń dwuręczna z Returning]]

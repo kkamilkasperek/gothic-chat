@@ -1,0 +1,82 @@
+{{Lokacja
+ |Nazwa            = Farma Toporka
+ |Nazwa angielska  = Topork's farm
+ |Podnazwa         = Gothic 3,G3:ZB
+ |Obraz            = Farma_Toporka_(G3).png
+ |Podpis obrazu    = Farma Toporka w Gothic 3
+ |Typ              = Farma
+ |Położenie        = Wschód [[Myrtana|Myrtany]]; okolice [[Cape Dun]] i [[Reddock]]
+ |Mieszkańcy       = [[Orkowie]], [[Kliff]], [[Świnia|Świnie]], [[Kura|Kury]]
+ |Populacja        = 4x orkowie, Kliff, 3x świnia, 4x kura
+ |Zarządca         = [[Topork]]
+ |Ważne postacie   = Topork, Kliff
+ |Ważne miejsca    = Brak
+ |Związek z fabułą = [[W Reddock potrzebują kowala]], [[Pokonaj w pojedynku Toporka]], [[Uwolnij Kliffa z niewoli u orków]], [[Zabierz Kliffa do Javiera; przywódcy Reddock]], [[Pozbądź się patrolu orków stacjonującego na farmie]]
+ |Występowanie     = [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]]
+ |Teleportacja     = Brak
+}}
+{{Lokacja
+ |Nazwa            = Farma Toporka
+ |Nazwa angielska  = Topork's farm
+ |Podnazwa         = Gothic 3,G3:ZB 
+ |Obraz            = Farma Toporka G3ZB.png
+ |Podpis obrazu    = Farma Toporka w Gothic 3: Zmierzch Bogów
+ |Typ              = Farma
+ |Położenie        = Wschód [[Myrtana|Myrtany]]; okolice [[Cape Dun]] i [[Reddock]]
+ |Mieszkańcy       = Brak
+ |Populacja        = 0
+ |Zarządca         = Brak
+ |Ważne postacie   = Brak
+ |Ważne miejsca    = Brak
+ |Związek z fabułą = Brak
+ |Występowanie     = [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]]
+ |Teleportacja     = Brak
+}}
+'''Farma Toporka''' – lokacja występująca w [[Gothic 3]] i [[Gothic 3: Zmierzch Bogów]]. Jest to farma położona na wschodzie [[Myrtana|Myrtany]], między [[Cape Dun]] a [[Reddock]].
+
+== Gothic 3 ==
+=== Związek z fabułą ===
+Zarządcą farmy jest [[Topork]], który wraz z niewielkim oddziałem [[Orkowie|orków]] przebywa na terenie gospodarstwa. [[Bezimienny]] może trafić na farmę, [[W Reddock potrzebują kowala|poszukując]] dla Reddock [[Kowalstwo|kowala]] lub na zlecenie [[Gelford]]a, który prosi o [[Pozbądź się patrolu orków stacjonującego na farmie|pozbycie się]] patrolu orków z farmy.
+
+<gallery widths="305" position="center" captionalign="center">
+Farma Toporka z lotu ptaka G3.png|Widok na farmę z lotu ptaka
+Farma Toporka nocą G3.png|Farma nocą
+</gallery>
+
+Na miejscu okazuje się, że do pracy przy piłowaniu drewna zmuszony jest [[Niewolnicy|niewolnik]] o imieniu [[Kliff]] będący z zawodu kowalem. Bezimienny może [[Pokonaj w pojedynku Toporka|wyzwać]] Toporka na pojedynek i po wygranej walce [[Uwolnij Kliffa z niewoli u orków|zwrócić]] Kliffowi wolność, a następnie [[Zabierz Kliffa do Javiera, przywódcy Reddock|zaprowadzić]] go do pobliskiego obozu buntowników Reddock. Protagonista może też zabić Toporka, spełniając prośbę Gelforda o pozbycie się patrolu z farmy.
+
+[[Plik:Farma Toporka Kliff G3.png|310px|center|thumb|Kliff przy pracy]]
+
+=== Budowa ===
+Na gospodarstwo składa się pojedynczy dom otoczony płotem. Przy ogrodzeniu znajdują się bele siana, a na podwórku hodowane są [[Świnia|świnie]] oraz [[Kura|kury]]. Przy jednej ze ścian domu zbudowano składzik na drewno, obok którego stoi [[pień drzewa]]. Przed domem postawiono [[Ławka|ławkę]] i rozpalono [[ognisko]]. Stacjonuje tutaj dwóch [[Zwiadowcy orków|zwiadowców]] oraz [[Wojownicy orków|wojownik]]. Wewnątrz domu znajdują się pojedyncze meble oraz orkowy [[tron]] zajęty przez Toporka.
+
+<gallery widths="310" position="center" captionalign="center">
+Farma Toporka świnie i kurczaki G3.png|Zwierzęta hodowane na farmie
+Farma Toporka ognisko G3.png|Ognisko na farmie
+Farma Toporka chata G3.png|Widok na chatę Toporka
+Farma Toporka wnętrze chaty G3.png|Wnętrze chaty
+</gallery>
+
+=== Mapa ===
+[[Plik:Farma Toporka G3 mapa.png|310px|center|thumb|Mapa z zaznaczonym położeniem farmy Toporka]]
+
+== Gothic 3: Zmierzch Bogów ==
+Farma została opuszczona. Ognisko zgasło oraz zniknęły wszystkie zwierzęta. W domu nie ma już tronu, a zamiast niego wstawiono dwa [[Kufer (Gothic 3)|kufry]]. Można tu też znaleźć 3 [[Paczka z bronią|paczki z bronią]]. Lokacja nie jest powiązana z żadnym zadaniem.
+
+W podstawowej wersji gry ognisko dalej jest zapalone, a w domu nadal stoi orkowy tron. Oprócz dwóch kufrów znajduje się tu też [[skrzynia Theo]].
+
+<gallery widths="305" position="center" captionalign="center">
+Farma Toporka 1 G3ZB.png|Widok na farmę z lotu ptaka
+Farma Toporka 2 G3ZB.png|Dawne stanowisko pracy Kliffa
+Farma Toporka 3 G3ZB.png|Podwórko
+Farma Toporka 4 G3ZB.png|Zgaszone ognisko na farmie
+Farma Toporka 5 G3ZB.png|Widok na dawną chatę Toporka
+Farma Toporka 6 G3ZB.png|Wnętrze chaty
+</gallery>
+
+=== Mapa ===
+[[Plik:Farma Toporka G3ZB mapa.png|310px|center|thumb|Mapa z zaznaczonym położeniem dawnej farmy Toporka]]
+[[Kategoria:Miejsca z Gothic 3]]
+[[Kategoria:Miejsca z Gothic 3: Zmierzch Bogów]]
+[[Kategoria:Miejsca w Myrtanie]]
+[[Kategoria:Farmy]]

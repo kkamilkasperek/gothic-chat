@@ -1,0 +1,130 @@
+{{Broń
+ |Ikona                 = Maczuga ikona G1.png
+ |Nazwa                 = Maczuga
+ |Nazwa angielska       = Mace
+ |Podnazwa              = Gothic,G3:TB,ArcaniA,NP
+ |Obraz                 = Pałka Namiba.png
+ |Podpis obrazu         = Maczuga w Gothic
+ |Typ                   = Obuchowa broń jednoręczna
+ |Wymagane atrybuty     = [[Siła]]: 10
+ |Obrażenia             = 23 (obuchowe)
+ |Posiadacz             = [[Homer]], [[Talas]], [[Szkodnicy]], [[Goblin wojownik|Gobliny-wojownicy]]
+ |Handlarze             = [[Gniazdo pełzaczy (rozdział)|II rozdział]]:, [[Sharky]], [[Darrion]]
+ |Wartość kupna         = {{Wartość|ruda|55}}
+ |Wartość sprzedaży     = {{Wartość|ruda|28}}
+ |Występowanie          = [[Gothic]], [[Gothic 3: The Beginning]], [[ArcaniA]], [[Nyras Prologue]]
+ |Kod                   = itmw_1h_mace_01
+}}
+{{Broń
+ |Ikona                 = Maczuga_(ikonka)_(G3TB).png
+ |Nazwa                 = Maczuga
+ |Nazwa angielska       = Club
+ |Obraz                 = Maczuga_(G3TB).png
+ |Podnazwa              = Gothic,G3:TB,ArcaniA,NP
+ |Typ                   = Obuchowa broń jednoręczna
+ |Maksymalne obrażenia  = 17<ref name="a">Wszystkie statystyki podano dla postaci z bazowym współczynnikiem siły wynoszącym 20 punktów.</ref>
+ |Minimalne obrażenia   = 14<ref name="a"/>
+ |Szansa na trafienie   = 56<ref name="a"/>
+ |Prędkość              = 60
+ |Zasięg                = 10
+ |Trafienie krytyczne   = 8<ref name="a"/>
+ |Wymagane atrybuty     = [[Siła]]: 5
+ |Handlarze             = [[Kowal (Gothic 3: The Beginning)|Kowal]] z [[Miasto Khorinis|Khorinis]]
+ |Wartość kupna         = {{Wartość|złoto|6}}
+ |Wartość sprzedaży     = {{Wartość|złoto|3}}
+ |Występowanie          = [[Gothic]], [[Gothic 3: The Beginning]], [[ArcaniA]], [[Nyras Prologue]]
+ |Kod                   = Brak
+}}
+{{Broń
+ |Ikona                 = Maczuga_Krwawych_Żmij_(ikonka)_(ArcaniA).png
+ |Nazwa                 = Maczuga
+ |Podnazwa              = Gothic,G3:TB,ArcaniA,NP
+ |Obraz                 = Maczuga_Krwawych_Żmij_(ArcaniA).png
+ |Typ                   = Obuchowa broń jednoręczna
+ |Opis                  = ''Broń do ulepszenia. Niektórzy setarrifscy rycerze ulepszają prostą; lecz skuteczną broń warstwą magicznej rudy; by bardziej odpowiadała ich pozycji.''
+ |Obrażenia             = 22
+ |Dodatkowe             = Możliwe ulepszenie do [[Maczuga z rudy|maczugi z rudy]]
+ |Handlarze             = [[Thor]]
+ |Wartość kupna         = {{Wartość|złoto|275}}
+ |Wartość sprzedaży     = {{Wartość|złoto|55}}
+ |Występowanie          = [[Gothic]], [[Gothic 3: The Beginning]], [[ArcaniA]], [[Nyras Prologue]]
+ |Kod                   = Brak
+}}
+{{Broń
+ |Ikona                 = 
+ |Nazwa                 = Maczuga
+ |Nazwa angielska       = Club
+ |Podnazwa              = Gothic,G3:TB,ArcaniA,NP
+ |Obraz                 = 
+ |Podpis obrazu         = 
+ |Typ                   = Broń jednoręczna
+ |Opis                  = ''Towarzysz Kopacza. Ta prymitywna; lecz skuteczna broń jest odzwierciedleniem brutalnej prostoty życia w Kolonii.''
+ |Wymagane atrybuty     = [[Siła]]: 5
+ |Obrażenia             = 5 (obuchowe)
+ |Posiadacz             = [[Goblin|Zielony goblin]]
+ |Handlarze             = Brak
+ |Wartość kupna         = Brak możliwości kupna
+ |Wartość sprzedaży     = Brak możliwości sprzedaży
+ |Występowanie          = [[Gothic]], [[Gothic 3: The Beginning]], [[ArcaniA]], [[Nyras Prologue]]
+ |Kod                   = Brak
+}}
+'''Maczuga''' – broń występująca w [[Gothic]], [[Gothic 3: The Beginning]], [[ArcaniA]] oraz [[Nyras Prologue]]. W [[Gothic II]] pojawia się jako [[pałka z kolcami]].
+
+== Gothic ==
+=== Wygląd ===
+Składa się z drewnianego trzonka owiniętego czarnym materiałem przy uchwycie, na końcu którego umieszczono metalowa wstawkę koloru złotego. Po drugiej stronie znajduje się kolejna metalowa wstawka, z nasadzonym nań żelaznym obuchem z pięcioma kolcami.
+
+=== Występowanie ===
+Używają jej głównie bezimienni [[szkodnicy]] (w tym bandziory [[Lewus]]a), kilku [[Nowicjusze Bractwa Śniącego|nowicjuszy Bractwa Śniącego]] oraz [[Goblin wojownik|wojownicy goblinów]] w [[Kanion trolli|kanionie trolli]]. [[Baal Namib]] posiada [[Pałka Namiba|własny egzemplarz]] maczugi o lepszych statystykach.
+
+; Znani użytkownicy broni
+* [[Talas]]
+* [[Homer]]
+
+[[Bezimienny]] może ją kupić w [[Gniazdo pełzaczy (rozdział)|II rozdziale]] u [[Sharky|Sharky'ego]] lub [[Darrion]]a.
+
+Jeden egzemplarz znajduje się w [[Jaskinia z almanachem|jaskini czarnych goblinów]] obok [[Skrzynia|skrzyni]] z [[Almanach (Gothic)|almanachem]]. Dwa kolejne można znaleźć w [[Stary Obóz|Starym Obozie]], w zamkniętej na [[Klucz Gomeza|klucz]] skrzyni w zbrojowni na parterze siedziby magnatów.
+
+=== Statystyki ===
+Broń zadaje 23 punkty [[Obrażenia|obrażeń]] obuchowych i wymaga 10 punktów [[Siła|siły]], aby się nią posługiwać. Wartość kupna maczugi wynosi 55 [[Bryłka rudy|bryłek rudy]], przy sprzedaży spada do 28 bryłek.
+
+== Gothic 3: The Beginning ==
+=== Wygląd ===
+Jest to maczuga o dość krótkim zasięgu rażenia wykonana z jednego kawałka drewna.
+
+=== Występowanie ===
+Maczugę można znaleźć w ciałach pokonanych [[Początkujący zbójcy|początkujących zbójców]], [[Szkielet|kościotrupów]] oraz [[Zwiadowcy orków|zwiadowców orków]] lub w niektórych [[Schowki w Gothic 3: The Beginning|schowkach]] rozmieszczonych na [[Wyspa Khorinis|wyspie Khorinis]]. Często w swoim asortymencie posiada ją [[Kowal (Gothic 3: The Beginning)|kowal z Khorinis]].
+
+=== Statystyki ===
+Wartość kupna maczugi wynosi 6 sztuk [[Złoto|złota]], a podczas sprzedaży spada do 3 sztuk złota. Broń zadaje od 14 do 17 punktów obrażeń, ma zasięg o wartości 10, a jej współczynnik prędkości wynosi 60. Szansa na trafienie maczugą wynosi 56, a szansa na zadanie obrażeń krytycznych – 8<ref name="a"/>. Żeby ją wyposażyć, [[Xardas]] musi mieć wytrenowany atrybut siły do co najmniej 5 punktów, co oznacza, że jest w stanie się nią posługiwać od początku rozgrywki.
+
+Oręż może posiadać wiele dodatkowych bonusów, które zostały opisane w poniższej tabeli.
+{{Oręż3 bonusy}}
+
+== ArcaniA ==
+Jest to mocna maczuga jednoręczna wykonana w całości z metalu. Na głowni posiada cztery pióra, a rękojeść pokryto skórą dla lepszego i wygodniejszego uchwytu.
+
+[[Pasterz z Feshyr|Bezimienny]] może znaleźć ją w jednej ze [[Skrzynia|skrzyń]] w [[Stara krypta na wyspie Argaan|kryjówce buntowników Hertana]] lub zakupić ją u [[Thor]]a za 275 sztuk złota. Może ją potem przekuć w [[Maczuga z rudy|maczugę z rudy]]. Potrzebuje do tego odpowiedniego [[Sekrety rudy: Buzdygan|schematu kowalskiego]] i wymaganych składników.
+
+Wartość sprzedaży maczugi wynosi 55 sztuk złota.
+
+== Nyras Prologue ==
+{{Prolog|Sekcja}}
+Jest to prosta broń, która w Gothic występuje jako ''[[pałka]]''.
+
+=== Występowanie ===
+[[Nyras]] może znaleźć jeden egzemplarz przy ludzkim szkielecie w pobliżu [[Drzewo wisielców|drzewa wisielców]], a drugi na płaskowyżu ponad [[Opuszczona kopalnia|opuszczoną kopalnią]]. Ostatnim posługuje się [[Goblin|zielony goblin]] przebywający nieopodal szałasu na końcu tego płaskowyżu i bohater może go zdobyć po pokonaniu humanoida.
+
+=== Statystyki ===
+Celne uderzenie wykonane maczugą zadaje 5 punktów obrażeń obuchowych, a do posługiwania się nią wymagane jest 5 punktów siły. Broni nie można kupić ani sprzedać, ponieważ w demie nie zaimplementowano systemu [[Handel|handlu]].
+
+== Ciekawostki ==
+* W pierwszej części jedna maczuga powinna leżeć w [[Świątynia Śniącego|świątyni Śniącego]] obok środkowego przełącznika w komnacie [[Varrag-Kasorg|Varraga-Kasorga]], lecz z powodu współrzędnej wysokości równej 0 znajduje się ona ponad modelem sufitu i można ją zdobyć jedynie za pomocą kodów.
+
+== Przypisy ==
+[[Kategoria:Broń jednoręczna z ArcaniA]]
+[[Kategoria:Broń jednoręczna z Gothic]]
+[[Kategoria:Broń jednoręczna z Gothic 3: The Beginning]]
+[[Kategoria:Broń jednoręczna z Nyras Prologue]]
+[[de:Streitkolben (G1)]]
+[[ru:Булава (Gothic)]]

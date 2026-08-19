@@ -1,0 +1,38 @@
+{{Gra
+ |Nazwa                = Gothic Spear Warriors
+ |Okładka              = Gothic Spear Warriors.png
+ |Gatunek              = Bijatyka
+ |Producent            = Evampire
+ |Data wydania         = 2009
+ |Platformy            =
+ |Wymagania            = Flash Player
+ |Nośnik               =
+ |Aktualna wersja      = 0.76b
+}}
+'''Gothic Spear Warriors''' – gra autorstwa evampire, stworzona w technologii Flash, osadzona w realiach [[Gothic II]]. Umożliwia potyczkę między dwoma graczami przy jednym komputerze. System animacji jest wysoko rozwinięty, a odwzorowanie elementów graficznych – dokładne. Można atakować za pomocą włóczni lub [[Kula ognia|kuli ognia]], a także [[Tworzenie szkieletu|przywołać ożywieńca]].
+
+== Sterowanie ==
+=== Gracz 1 ===
+* W – skok
+* A, D – poruszanie się
+* S – atak włócznią
+* Q – kula ognia
+* E – przywołanie ożywieńca
+
+=== Gracz 2 ===
+* Strzałka w górę (↑) – skok
+* Strzałka w lewo (←), strzałka w prawo (→) – poruszanie się
+* Strzałka w dół (↓) – atak włócznią
+* P – kula ognia
+* O – przywołanie ożywieńca
+
+== Rozgrywka ==
+W grze toczona jest walka dwóch postaci. Punktów życia jest dużo, a gracze walczą za pomocą włóczni. Jednakże formuła gry nie jest rozwinięta: Dostępna jest tylko jedna arena, jedna postać i jedna broń, a czary ograniczają się do kuli ognia i przywołania szkieletu. Atak włócznią zadaje niewielkie obrażenia, natomiast szkielet większe, choć płaci za to zmniejszoną ilością punktów życia. Skakanie w grze również nie ma sensu, kula ognia nie posiada cooldowna, ponadto można przywołać tylko jeden szkielet naraz. Rozgrywka sprowadza się więc do przywoływania szkieletu i natychmiastowego ataku włócznią na przeciwnika. W grze nie zostało zawarte nic więcej, po pokonaniu wroga nic się nie dzieje, zwycięzca może się jedynie poruszać po bardzo niewielkiej mapie.
+
+<gallery widths="310" position="center" captionalign="center">
+GSW Walka.png|Walka w grze
+</gallery>
+
+== Błędy ==
+* Kula ognia zadaje obrażenia jedynie szkieletom.
+[[Kategoria:Gry]]

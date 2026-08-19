@@ -1,0 +1,1358 @@
+'''Zwoje w Gothic II: Noc Kruka''' – spis [[Zwoje magiczne|zwojów]] z zaklęciami, które można zdobyć w [[Gothic II: Noc Kruka]].
+{{Tocright}}
+Jeśli nie podano inaczej, w wymienionym miejscu znajduje się jeden egzemplarz zwoju. Miejsca zwojów zostały przedstawione na zdjęciach, dodatkowo dokładne położenie [[Skrzynia|kufrów]] ze zwojami na mapach można znaleźć także [[Skrzynie w Gothic II|tutaj]].
+
+O ile nie zaznaczono inaczej, położenie zwojów we wszystkich obszarach gry jest identyczne w podstawowej grze i w dodatku (nie licząc Jarkendaru dodanego dopiero w Nocy Kruka), natomiast spisy handlarzy przy większości zwojów są osobne dla podstawowej gry oraz dodatku.
+
+Oprócz wymienionych, za każdym razem, gdy Bezimienny nauczy się tworzenia [[Runa|runy]] jakiegoś czaru, zwój z tym samym zaklęciem pojawi się w ekwipunku jednego z poniższych handlarzy, by mógł zostać zakupiony i użyty do stworzenia runy:
+* jeśli nauka miała miejsce u jednego z magów na obszarze [[Wyspa Khorinis|terenów Khorinis]], zwój pojawia się u [[Gorax]]a, w razie jego śmierci – u [[Isgaroth]]a, a jeśli i ten nie żyje – u [[Orlan]]a;
+* w przypadku nauki u [[Milten]]a w [[Górnicza Dolina|Górniczej Dolinie]], zwój pojawia się u [[Engor]]a;
+* jeśli bohatera uczył [[Nefarius]] w [[Jarkendar]]ze, zwój pojawia się u [[Cronos]]a.
+
+== [[Armia ciemności]] ==
+; Handlarze
+* [[Karras]]: 1 sztuka w V rozdziale;
+* [[Lutero]]: 1 sztuka w V rozdziale.
+Identycznie w Nocy Kruka.
+
+== [[Błyskawica]] ==
+; Górnicza Dolina
+* Przy [[Palisada orków|orkowej palisadzie]] w południowej części doliny.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne GD 04 (błyskawica + przemiana w cieniasa).png
+</gallery>
+
+; Jarkendar
+* W [[Jaskinia cieniostwora koło obozu piratów|jaskini cieniostwora]] na plaży na północ od [[Obóz piratów|obozu piratów]].
+* W zakopanym [[Skarby Grega|skarbie]] (nr 3) przed kamiennym łukiem w [[Kanion w Jarkendarze|kanionie]].
+* Po przejściu przez kamienny łuk w kanionie, przy wejściu do [[Wielka jaskinia w Jarkendarze|wielkiej jaskini]] (2 zwoje).
+* W domu [[Huno|Huna]], na półce.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar błyskawica 01.png
+G2NK Skarb Jarkendar 03.png
+G2NK Zwoje wspólne Jarkendar 04 (błyskawica + leczenie c).png
+G2NK Zwoje Jarkendar błyskawica 02.png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w III rozdziale, kolejna 1 w IV;
+* [[Gorax]]: 5 sztuk w IV rozdziale;
+* [[Isgaroth]]: 4 sztuki w IV rozdziale;
+* [[Engor]]: 1 sztuka w IV rozdziale;
+* [[Sengrath]]: 2 sztuki w IV rozdziale;
+* [[Vatras]]: 1 sztuka w VI rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Vatras bez zmian;
+* Zuris: 5 sztuk w I rozdziale;
+* Engor: 1 sztuka w I rozdziale;
+* Sengrath: 2 sztuki w II rozdziale;
+* [[Cronos]] w Jarkendarze: 3 sztuki w IV rozdziale.
+
+== [[Bryła lodu]] ==
+; Khorinis
+* Nieopodal mostu prowadzącego w okolice [[Piramidy|piramid]], na wzniesieniu, na którym znajduje się [[magiczny golem]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis bryła lodu 01.png
+</gallery>
+
+; Górnicza Dolina
+* W [[Lodowa kraina|lodowej krainie]], na płaskowyżu nad zamarzniętym jeziorem przed jaskinią [[Finkregh]]a (dawne leże [[Topielec spod tamy|topielca spod tamy]]).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD bryła 01.png
+</gallery>
+
+; Jarkendar
+* Na końcu [[Jaskinia pod mostem do domu Strażników Umarłych|jaskini pod mostem]] prowadzącym do południowo-wschodniej części [[Dolina w Jarkendarze|doliny]], gdzie położony jest [[Dom Strażników Umarłych]].
+* Na początku [[Bagno w Jarkendarze|bagna]], przy skalnej ścianie przed wejściem na most prowadzący do [[Obóz bandytów w Jarkendarze|obozu bandytów]].
+* W [[Dom Uzdrowicieli|Domu Uzdrowicieli]], na końcu komnaty.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar bryła 01.png
+G2NK Zwoje Jarkendar bryła 02.png
+G2NK Zwoje wspólne Jarkendar 08 (bryła lodu + kula ognia).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 3 sztuki w III rozdziale;
+* [[Isgaroth]]: 3 sztuki w III rozdziale;
+* [[Zuris]]: 3 sztuki w III rozdziale;
+* [[Sengrath]]: 2 sztuki w II rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Sengrath bez zmian;
+* Zuris: 3 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 3 sztuki w III rozdziale.
+
+== [[Deszcz ognia]] ==
+; Khorinis
+* Na półce skalnej przy [[Obóz bandytów za farmą Sekoba|obozie bandytów]] za [[Farma Sekoba|farmą Sekoba]] – konieczne jest wejście na namiot i przejście po drewnianej belce (tylko Noc Kruka).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis deszcz 01.png
+</gallery>
+
+; Górnicza Dolina
+* W jaskini [[Smoczy zębacz|smoczych zębaczy]] przy górskiej drodze prowadzącej z dawnego [[Nowy Obóz|Nowego Obozu]] do [[Krypta Nadzorcy|krypty pod kamiennym kręgiem]].
+* Na szczycie góry ponad kotliną, w której przebywa [[Diego]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD deszcz 01.png
+G2NK Zwoje GD deszcz 02.png
+</gallery>
+
+; Jarkendar
+* Przy ruinach na płaskowyżu przy drodze z [[Ruiny centralne|ruin centralnych]] do [[Obóz piratów|obozu piratów]].
+* W zakopanym [[Skarby Grega|skarbie]] (nr 16) obok [[Dom Kapłanów|Domu Kapłanów]].
+* W [[Jaskinia ognistego demona|jaskini]] zamieszkanej przez [[Ognisty demon|ognistego demona]] mieszczącej się przy ścieżce między [[Wielka jaskinia w Jarkendarze|wielką grotą]] a [[Bagno w Jarkendarze|bagnem]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar deszcz 01.png
+DeszczOgnia_Lokacja_6.png
+G2NK Zwoje wspólne Jarkendar 06 (deszcz + ognista strzała).png
+</gallery>
+
+; Dwór Irdorath
+* Korytarz z [[Czarny mag z Dworu Irdorath|czarnym magiem]], w pierwszym pomieszczeniu po prawej.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 04 (deszcz + lodowa fala + kula ognia + śmiertelna fala + przemiana w smoczego zębacza).png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w IV rozdziale, kolejna 1 w V.
+
+; Handlarze (NK)
+* [[Zuris]]: 1 sztuka w I rozdziale;
+* [[Salandril]]: 1 sztuka w I rozdziale;
+* [[Gorax]]: 2 sztuki w IV rozdziale.
+
+== [[Duża burza ognista]] ==
+; Khorinis
+* Na szczycie [[Latarnia morska w Khorinis|latarni morskiej]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis duża burza 01.png
+</gallery>
+
+; Górnicza Dolina
+* W dawnym [[Magazyn Ryżowego Księcia|magazynie Ryżowego Księcia]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD duża burza 01.png
+</gallery>
+
+; Jarkendar
+* W jednym z namiotów w [[Obóz orków w Jarkendarze|orkowym obozie]] przed [[Biblioteka Uczonych|Biblioteką Uczonych]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 02 (duża burza + leczenie c + sen).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 5 sztuk w V rozdziale;
+* [[Isgaroth]]: 3 sztuki w V rozdziale;
+* [[Engor]]: 1 sztuka w V rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* Engor: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 5 sztuk w V rozdziale.
+
+== [[Duża kula ognia]] ==
+; Khorinis
+* W zamkniętym kufrze [[Cassia|Cassii]] (kombinacja: {{Zamek|L-P-2L-2P}}) w siedzibie [[Gildia złodziei|gildii złodziei]].
+* W [[Klasztor Innosa na wyspie Khorinis|klasztorze]]: w drugiej sypialni magów po lewej stronie, w zamkniętym pierwszym kufrze po prawej (kombinacja {{Zamek|P-2L-3P-L}}; 3 zwoje).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 06 (duża kula + kula ognia + leczenie l).png
+G2NK Zwoje wspólne okolice Khorinis 10 (duża kula + tworzenie szkieletu).png
+</gallery>
+
+; Górnicza Dolina
+* Przy ścianie skalnej i uschniętych pniach drzew od zachodniej strony [[Zamek w Górniczej Dolinie|zamku]].
+* Na parterze [[Górska forteca|górskiej fortecy]], przy gruzowisku po prawej stronie za wejściem.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD duża kula 01.png
+G2NK Zwoje GD duża kula 02.png
+</gallery>
+
+; Jarkendar
+* W zakopanym [[Skarby Grega|skarbie]] (nr 3) przed kamiennym łukiem w [[Kanion w Jarkendarze|kanionie]].
+* Za ruinami na [[Bagno w Jarkendarze|bagnie]] przy obozowisku [[Edgor]]a.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Skarb Jarkendar 03.png
+G2NK Zwoje wspólne Jarkendar 07 (duża kula + ognista strzała).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 3 sztuki w IV rozdziale;
+* [[Isgaroth]]: 2 sztuki w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* [[Cronos]] w Jarkendarze: 3 sztuki w IV rozdziale.
+
+== [[Gejzer]] ==
+; Handlarze (NK)
+* [[Cronos]] w Jarkendarze: 2 sztuki w II rozdziale, kolejne 2 w III, 3 w IV i 3 w V.
+
+== [[Grom (zaklęcie z Gothic II: Noc Kruka)|Grom]] ==
+; Handlarze (NK)
+* [[Zuris]]: 1 sztuka w I rozdziale;
+* [[Salandril]]: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 2 sztuki w II rozdziale, kolejne 2 w III, 3 w IV i 3 w V.
+
+== [[Kula ognia]] ==
+; Khorinis
+* W [[Wieża Xardasa nieopodal Khorinis|wieży Xardasa]], w kufrze za kratą w komnacie początkowej.
+* W kufrze na parterze wieży Xardasa (2 zwoje).
+* W krzakach na ścieżce do [[Kotlina Lestera|kotliny]], w której przebywa [[Lester]].
+* W zamkniętym kufrze [[Cassia|Cassii]] (kombinacja: {{Zamek|L-P-2L-2P}}) w siedzibie [[Gildia złodziei|gildii złodziei]] (2 zwoje).
+* Za kamieniem na początku wąwozu prowadzącego do [[Jaskinia bandytów w lesie koło farmy Lobarta|jaskini bandytów]] w lesie nieopodal [[Farma Lobarta|farmy Lobarta]].
+* Na końcu [[Jaskinia z cennym posążkiem Innosa|jaskini goblinów]] położonej przy drodze między [[Gospoda „Pod Martwą Harpią”|Martwą Harpią]] a [[Farma Onara|farmą Onara]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 01 (kula ognia + leczenie l).png
+G2NK Zwoje wspólne okolice Khorinis 02 (kula ognia + leczenie l).png
+G2NK Zwoje wspólne okolice Khorinis 04 (kula ognia + leczenie l).png
+G2NK Zwoje wspólne okolice Khorinis 06 (duża kula + kula ognia + leczenie l).png
+G2NK Zwoje Khorinis kula ognia 01.png
+G2NK Zwoje Khorinis kula ognia 02.png
+</gallery>
+
+; Górnicza Dolina
+* Na szczycie [[Górska forteca|górskiej fortecy]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD kula ognia 01.png
+</gallery>
+
+; Jarkendar
+* W południowej części [[Wielka jaskinia w Jarkendarze|wielkiej jaskini]], obok jednego z kufrów.
+* W [[Dom Uzdrowicieli|Domu Uzdrowicieli]], na końcu komnaty.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar kula 01.png
+G2NK Zwoje wspólne Jarkendar 08 (bryła lodu + kula ognia).png
+</gallery>
+
+; Dwór Irdorath
+* W korytarzu prowadzącym od komnaty [[Archol]]a do bramy [[klucznik]]a.
+* Korytarz z [[Czarny mag z Dworu Irdorath|czarnym magiem]], w pierwszym pomieszczeniu po prawej (3 zwoje).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 02 (kula ognia + mała burza).png
+G2NK Zwoje wspólne Irdorath 04 (deszcz + lodowa fala + kula ognia + śmiertelna fala + przemiana w smoczego zębacza).png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 3 sztuki w I rozdziale, kolejne 3 w II, 3 w III;
+* [[Gorax]]: 5 sztuk w II rozdziale;
+* [[Isgaroth]]: 5 sztuk w II rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* [[Zuris]]: 10 sztuk w I rozdziale;
+* [[Cronos]] w Jarkendarze: 3 sztuki w II rozdziale.
+
+; Inne
+* Nagroda od [[Vatras]]a za wręczenie mu od 5 do 9 [[Stara kamienna tablica|starych kamiennych tabliczek]] na raz – tyle samo zwojów, co przekazanych tabliczek (tylko Noc Kruka).
+
+== [[Leczenie ciężkich ran]] ==
+; Khorinis
+* Przy rzece, na ścieżce prowadzącej od [[Gospoda „Pod Martwą Harpią”|Martwej Harpii]] do [[Piramidy|piramid]], przy zniszczonym wozie.
+* Na południowo-zachodnim skraju pól [[Onar]]a, w dużej kałuży z [[Topielec|topielcami]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 11 (leczenie c + leczenie śr + lodowa strzała + sen + światło).png
+G2NK Zwoje Khorinis leczenie C 01.png
+</gallery>
+
+; Górnicza Dolina
+* W [[Kopalnia Silvestra|kopalni Silvestra]] nieopodal ciała [[Silvestro|paladyna]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD leczenie C 01.png
+</gallery>
+
+; Jarkendar
+* W jednym z namiotów w [[Obóz orków w Jarkendarze|orkowym obozie]] przed [[Biblioteka Uczonych|Biblioteką Uczonych]].
+* Po przejściu przez kamienny łuk w kanionie, przy wejściu do [[Wielka jaskinia w Jarkendarze|wielkiej jaskini]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 02 (duża burza + leczenie c + sen).png
+G2NK Zwoje wspólne Jarkendar 04 (błyskawica + leczenie c).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 3 sztuki w V rozdziale;
+* [[Isgaroth]]: 3 sztuki w V rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* [[Cronos]] w Jarkendarze: 3 sztuki w V rozdziale.
+
+== [[Leczenie lekkich ran]] ==
+; Khorinis
+* W [[Wieża Xardasa nieopodal Khorinis|wieży Xardasa]], w kufrze za kratą w komnacie początkowej.
+* W kufrze na parterze wieży Xardasa.
+* W krzakach na ścieżce do [[Kotlina Lestera|kotliny]], w której przebywa [[Lester]].
+* Przy wozie znajdującym się obok ławki [[Canthar]]a, przed [[Farma Lobarta|farmą Lobarta]].
+* W zamkniętym kufrze [[Cassia|Cassii]] (kombinacja: {{Zamek|L-P-2L-2P}}) w siedzibie [[Gildia złodziei|gildii złodziei]].
+* Przy [[Posąg Innosa|posągu Innosa]] znajdującym się nieopodal leża [[Czarny troll|czarnego trolla]], przed wejściem do [[Jaskinia Próby Magii|jaskini Próby Magii]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 01 (kula ognia + leczenie l).png
+G2NK Zwoje wspólne okolice Khorinis 02 (kula ognia + leczenie l).png
+G2NK Zwoje wspólne okolice Khorinis 04 (kula ognia + leczenie l).png
+G2NK Zwoje Khorinis leczenie L 01.png
+G2NK Zwoje wspólne okolice Khorinis 06 (duża kula + kula ognia + leczenie l).png
+G2NK Zwoje Khorinis leczenie L 02.png
+</gallery>
+
+; Jarkendar
+* Obok małego budynku położonego w [[Ruiny centralne|ruinach centralnych]].
+* W zakopanym [[Skarby Grega|skarbie]] (nr 7) w zachodniej części bagna, pilnowanym przez [[Bagienny szczur|bagiennego szczura]].
+* Przy ścianie skalnej w południowej części [[Bagno w Jarkendarze|bagna]], na wschód od wejścia do [[Dom Uzdrowicieli|Domu Uzdrowicieli]].
+* W [[Kopalnia złota w Jarkendarze|kopalni złota]], w grocie pełnej [[pełzacz]]y, przy wyklutych jajach.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 01 (leczenie l + lodowa s + mała burza).png
+G2NK Skarb Jarkendar 07.png
+G2NK Zwoje Jarkendar leczenie L 01.png
+G2NK Zwoje wspólne Jarkendar 09 (leczenie l + mała błyskawica + wir).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 5 sztuk w I rozdziale;
+* [[Isgaroth]]: 5 sztuk w I rozdziale;
+* [[Vatras]]: 2 sztuki w VI rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Vatras bez zmian;
+* [[Cronos]]
+** w Khorinis: 5 sztuk w I rozdziale;
+** w Jarkendarze: 5 sztuk w II rozdziale.
+
+; Inne
+* Istnieje 10% szans, że zwój ten będą posiadać w ekwipunku [[elitarni orkowie]], [[Herszci orków|herszci]] i [[Pułkownicy orków|pułkownicy]].
+* 1 sztuka jako część zestawu zwojów proponowanego przez [[Orlan]]a podczas wykonywania zadania ''[[Dostawa wina]]''.
+* Jeden z prezentów do wyboru od [[Vatras]]a przy podjęciu się zadania ''[[Wiadomość (zadanie)|Wiadomość]]''.
+* 2 sztuki stanowią nagrodę za wykonanie zadania ''[[Baranie kiełbaski]]''.
+
+== [[Leczenie średnich ran]] ==
+; Khorinis
+* Na wzniesieniu ponad miejscem przebywania [[Niclas]]a.
+* Nieopodal wschodniej bramy [[Miasto Khorinis|miasta]], w [[Jaskinia orka-wojownika koło Khorinis|jaskini]] z [[Wojownicy orków|orkiem wojownikiem]].
+* Za [[Dom Onara|domem Onara]] po prawej stronie, przy ścianie skalnej w pobliżu [[Polna bestia|polnych bestii]] (2 zwoje).
+* Przy rzece, na ścieżce prowadzącej od [[Gospoda „Pod Martwą Harpią”|Martwej Harpii]] do [[Piramidy|piramid]], przy zniszczonym wozie.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 09 (leczenie śr + mała burza + zniszczenie ożywieńca).png
+G2NK Zwoje wspólne okolice Khorinis 08 (leczenie śr + lodowa strzała + ognista strzała).png
+G2NK Zwoje Khorinis leczenie Ś 01.png
+G2NK Zwoje wspólne okolice Khorinis 11 (leczenie c + leczenie śr + lodowa strzała + sen + światło).png
+</gallery>
+
+; Górnicza Dolina
+* W orkowym namiocie przed [[Jaskinia Gepperta i Kervo|jaskinią Gepperta i Kervo]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD leczenie Ś 01.png
+</gallery>
+
+; Jarkendar
+* Przy jeziorze na końcu [[Kotlina w Jarkendarze|kotliny]] położonej pod [[Wieża bandytów|wieżą bandytów]].
+* Na początku [[Bagno w Jarkendarze|bagna]], na częściowo zatopionej kamiennej konstrukcji przy moście prowadzącym do [[Obóz bandytów w Jarkendarze|obozu bandytów]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar leczenie Ś 01.png
+G2NK Zwoje Jarkendar leczenie Ś 02.png
+</gallery>
+
+; Handlarze
+* [[Sengrath]]: 5 sztuk w II rozdziale;
+* [[Gorax]]: 5 sztuk w III rozdziale;
+* [[Isgaroth]]: 5 sztuk w III rozdziale;
+* [[Engor]]: 2 sztuki w III rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Sengrath bez zmian;
+* [[Engor]]: 2 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 5 sztuk w III rozdziale.
+
+; Inne
+* Nagroda od [[Babo]] za wykonanie zadania ''[[Dokumenty]]''.
+
+== [[Lodowa fala]] ==
+; Górnicza Dolina
+* W małej jaskini [[Czarny goblin|czarnych goblinów]] na południe od bramy dawnego [[Nowy Obóz|Nowego Obozu]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD lodowa fala 01.png
+</gallery>
+
+; Jarkendar
+* W [[Wielka jaskinia w Jarkendarze|wielkiej jaskini]], przy nagrobku w pobliżu wyjścia od strony [[Bagno w Jarkendarze|bagna]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 05 (lodowa fala + tworzenie szkieletu goblina).png
+</gallery>
+
+; Dwór Irdorath
+* Korytarz z [[Czarny mag z Dworu Irdorath|czarnym magiem]], w pierwszym pomieszczeniu po prawej.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 04 (deszcz + lodowa fala + kula ognia + śmiertelna fala + przemiana w smoczego zębacza).png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w IV rozdziale, kolejna 1 w V;
+* [[Gorax]]: 4 sztuki w V rozdziale;
+* [[Isgaroth]]: 4 sztuki w V rozdziale;
+* [[Vatras]]: 2 sztuki w VI rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Vatras bez zmian;
+* Zuris: 2 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 4 sztuki w V rozdziale.
+
+== [[Lodowa lanca]] ==
+; Handlarze (NK)
+* [[Cronos]]
+** w Khorinis: 5 sztuk w I rozdziale;
+** w Jarkendarze: 5 sztuk w II rozdziale, kolejne 2 w III, 3 w IV i 3 w V.
+
+== [[Lodowa strzała]] ==
+; Khorinis
+* W zamkniętym kufrze (kombinacja: {{Zamek|L-2P-L-P-2L}}) w [[Dom Zurisa|domu Zurisa]].
+* Na dachu [[Stocznia Garvella|stoczni Garvella]] (tylko w Nocy Kruka).
+* Nieopodal wschodniej bramy [[Miasto Khorinis|miasta]], w [[Jaskinia orka-wojownika koło Khorinis|jaskini]] z [[Wojownicy orków|orkiem wojownikiem]].
+* Przy rzece, na ścieżce prowadzącej od [[Gospoda „Pod Martwą Harpią”|Martwej Harpii]] do [[Piramidy|piramid]], przy zniszczonym wozie.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 05 (lodowa strzała + niepamięć + sen + światło).png
+G2NK Zwoje Khorinis lodowa s 01.png
+G2NK Zwoje wspólne okolice Khorinis 08 (leczenie śr + lodowa strzała + ognista strzała).png
+G2NK Zwoje wspólne okolice Khorinis 11 (leczenie c + leczenie śr + lodowa strzała + sen + światło).png
+</gallery>
+
+; Jarkendar
+* Obok małego budynku położonego w [[Ruiny centralne|ruinach centralnych]].
+* W południowo-zachodniej części ruin centralnych.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 01 (leczenie l + lodowa s + mała burza).png
+G2NK Zwoje Jarkendar lodowa strzała 01.png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 3 sztuki w I rozdziale;
+* [[Engor]]: 3 sztuki w I rozdziale.
+* [[Gorax]]: 5 sztuk w II rozdziale;
+* [[Isgaroth]]: 5 sztuk w II rozdziale;
+* [[Vatras]]: 2 sztuki w VI rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth, Engor i Vatras bez zmian;
+* Zuris: 8 sztuk w I rozdziale;
+* [[Cronos]] w Jarkendarze: 3 sztuki w II rozdziale.
+
+; Inne
+* Jeden z prezentów do wyboru od Vatrasa przy podjęciu się zadania ''[[Wiadomość (zadanie)|Wiadomość]]''.
+
+== [[Mała błyskawica]] ==
+; Khorinis
+* Na [[Stół alchemiczny|stole alchemicznym]] w pracowni na pokładzie [[Esmeralda|Esmeraldy]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 07 (mała błyskawica + przyzwanie wilka + sen).png
+</gallery>
+
+; Górnicza Dolina
+* Przy jednym z ognisk w [[Obóz Aidana|obozowisku bandytów]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD mała błyskawica 01.png
+</gallery>
+
+; Jarkendar
+* Na płaskowyżu znajdującym się w pobliżu [[Ruiny centralne|ruin centralnych]], ponad miejscem pierwszego spotkania [[Jack Aligator|Jacka Aligatora]].
+* Przy wygaszonym [[Ognisko|ognisku]] obok wejścia do [[Opuszczona kopalnia w kanionie|opuszczonej kopalni]] w [[Kanion w Jarkendarze|kanionie]].
+* W [[Obóz bandytów w Jarkendarze|obozie bandytów]], w zamkniętym kufrze (kombinacja {{Zamek|P-L-2P}}) za filarem, blisko skrzyni [[Fortuno]].
+* Przy drewnianej belce zaraz za wejściem do [[Kopalnia złota w Jarkendarze|kopalni złota]], naprzeciw stoiska [[Scatty|Scatty'ego]].
+* W [[Kopalnia złota w Jarkendarze|kopalni złota]], w grocie pełnej [[pełzacz]]y.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 11 (mała błyskawica + ognista strzała).png
+G2NK Zwoje Jarkendar mała błyskawica 01.png
+G2NK Zwoje Jarkendar mała błyskawica 02.png
+G2NK Zwoje Jarkendar mała błyskawica 03.png
+G2NK Zwoje wspólne Jarkendar 09 (leczenie l + mała błyskawica + wir).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 5 sztuk w I rozdziale;
+* [[Isgaroth]]: 5 sztuk w I rozdziale;
+* [[Zuris]]: 1 sztuka w II rozdziale;
+* [[Sengrath]]: 3 sztuki w II rozdziale;
+* [[Vatras]]: 2 sztuki w VI rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth, Sengrath i Vatras bez zmian;
+* [[Zuris]]: 5 sztuk w I rozdziale;
+* [[Cronos]]
+** w Khorinis: 5 sztuk w I rozdziale;
+** w Jarkendarze: 5 sztuk w II rozdziale.
+
+== [[Mała burza ognista]] ==
+; Khorinis
+* Na skale na płaskowyżu ponad [[Kotlina Lestera|kotliną Lestera]].
+* Na wzniesieniu ponad miejscem przebywania [[Niclas]]a.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis mała burza 01.png
+G2NK Zwoje wspólne okolice Khorinis 09 (leczenie śr + mała burza + zniszczenie ożywieńca).png
+</gallery>
+
+; Górnicza Dolina
+* Na samym końcu [[Kopalnia Silvestra|kopalni Silvestra]].
+* Wśród skał nieopodal [[Górska forteca|górskiej fortecy]], w okolicach nieistniejącego już mostu do dawnej [[Stara cytadela|starej cytadeli]]. Pojawia się dopiero w [[Polowanie na smoki (rozdział)|IV rozdziale]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD mała burza 01.png
+G2NK Zwoje GD mała burza 02.png
+</gallery>
+
+; Jarkendar
+* Na dużej piramidzie w [[Ruiny centralne|ruinach centralnych]].
+* W [[Świątynia Adanosa w Jarkendarze|świątyni Adanosa]], na końcu komnaty ze [[Sługa Kruka|sługami Kruka]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 01 (leczenie l + lodowa s + mała burza).png
+G2NK Zwoje wspólne Jarkendar 10 (mała burza + strach + tworzenie szkieletu).png
+</gallery>
+
+; Dwór Irdorath
+* W korytarzu prowadzącym od komnaty [[Archol]]a do bramy [[klucznik]]a.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 02 (kula ognia + mała burza).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 4 sztuki w III rozdziale;
+* [[Isgaroth]]: 5 sztuk w III rozdziale;
+* [[Engor]]: 3 sztuki w III rozdziale;
+* [[Zuris]]: 1 sztuka w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* Zuris: 3 sztuki w I rozdziale;
+* Engor: 3 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 4 sztuki w III rozdziale.
+
+== [[Niepamięć]] ==
+; Khorinis
+* W zamkniętym kufrze (kombinacja: {{Zamek|L-2P-L-P-2L}}) w [[Dom Zurisa|domu Zurisa]] (2 zwoje).
+* W sypialniach [[Paladyni|paladynów]] w [[Górne miasto|górnym mieście]] na piętrze, za szafką przesuwaną za pomocą [[przełącznik]]a obok [[pulpit]]u.
+* W wąwozie pod mostem prowadzącym do [[Obóz bandytów Dextera|obozu bandytów Dextera]].
+* Za głazami na prawo od wejścia do [[Kopalnie w obozie bandytów|pierwszej kopalni]] w obozie [[Dexter]]a.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 05 (lodowa strzała + niepamięć + sen + światło).png
+G2NK Zwoje Khorinis niepamięć 01.png
+G2NK Zwoje Khorinis niepamięć 02.png
+G2NK Zwoje Khorinis niepamięć 03.png
+</gallery>
+
+; Handlarze
+* [[Ignaz]]: 3 sztuki w I rozdziale, kolejne 4 w II, 5 w III, 6 w IV i 7 w V;
+* [[Lutero]]: 1 sztuka w I rozdziale, kolejne 2 w II, 3 w III i 3 w IV.
+
+; Handlarze (NK)
+* Lutero bez zmian;
+* Ignaz: 5 sztuk w I rozdziale, kolejne 5 w II, 5 w III, 5 w IV i 5 w V.
+
+; Inne
+* Prezent od Ignaza po rozpoczęciu zadania ''[[Eksperyment]]''.
+
+== [[Przyzwanie golema|Obudzenie golema]] ==
+; Górnicza Dolina
+* Po przejściu przez pierwszą bramę do dawnego [[Nowy Obóz|Nowego Obozu]], za zamarzniętym jeziorem.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD obudzenie golema 01.png
+</gallery>
+
+; Jarkendar
+* Na końcu [[Opuszczona jaskinia w kanionie|opuszczonej jaskini]] we wschodniej części [[Kanion w Jarkendarze|kanionu]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar obudzenie golema 01.png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 4 sztuki w IV rozdziale;
+* [[Isgaroth]]: 4 sztuki w IV rozdziale;
+* [[Karras]]: 1 sztuka w IV rozdziale, kolejna 1 w V;
+* [[Zuris]]: 1 sztuka w IV rozdziale;
+* [[Engor]]: 2 sztuki w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris: 1 sztuka w I rozdziale;
+* Engor: 2 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 3 sztuki w IV rozdziale.
+
+== [[Ognisty pocisk|Ognista strzała]] ==
+; Khorinis
+* Za [[Wieża Xardasa nieopodal Khorinis|wieżą Xardasa]].
+* Za drzewami przy wodospadzie nieopodal wieży Xardasa (2 zwoje).
+* W [[Jaskinia przy jeziorze koło wieży Xardasa|jaskini]] przy wodospadzie nieopodal wieży Xardasa, strzeżonej przez [[Młoda polna bestia|młode polne bestie]].
+* Przy drewnianych skrzyniach nad przepaścią, obok [[Obóz goblinów koło wieży Xardasa w Khorinis|obozu goblinów]] nieopodal wieży Xardasa.
+* Na płaskowyżu ponad [[Kotlina Lestera|kotliną Lestera]], w wąskim przejściu między skałami.
+* Nieopodal wschodniej bramy [[Miasto Khorinis|miasta]], w [[Jaskinia orka-wojownika koło Khorinis|jaskini]] z [[Wojownicy orków|orkiem wojownikiem]].
+* W [[Obóz bandytów Dextera|obozie bandytów Dextera]], obok drewnianej chatki nad przepaścią.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 03 (ognista strzała + światło).png
+G2NK Zwoje Khorinis ognista strzała 01.png
+G2NK Zwoje Khorinis ognista strzała 02.png
+G2NK Zwoje Khorinis ognista strzała 03.png
+G2NK Zwoje Khorinis ognista strzała 04.png
+G2NK Zwoje wspólne okolice Khorinis 08 (leczenie śr + lodowa strzała + ognista strzała).png
+G2NK Zwoje Khorinis ognista strzała 05.png
+</gallery>
+
+; Górnicza Dolina
+* W pozostałościach obozu na [[Przełęcz do Górniczej Doliny|przełęczy]], w pobliżu zejścia do dawnego [[Plac wymian|placu wymian]].
+* Na ziemi, przy stadzie wilków nieopodal [[Kopalnia Silvestra|kopalni Silvestra]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD ognista strzała 01.png
+G2NK Zwoje GD ognista strzała 02.png
+</gallery>
+
+; Jarkendar
+* Na zniszczonym murze obok [[Ruiny centralne|ruin centralnych]], przy miejscu pierwszego spotkania [[Jack Aligator|Jacka Aligatora]].
+* Przy szkielecie tuż przed wejściem do kotliny – miejsca polowania z Jackiem Aligatorem.
+* W kufrze za ruinami na [[Bagno w Jarkendarze|bagnie]] przy obozowisku [[Edgor]]a.
+* W [[Jaskinia ognistego demona|jaskini]] zamieszkanej przez [[Ognisty demon|ognistego demona]] mieszczącej się przy ścieżce między [[Wielka jaskinia w Jarkendarze|wielką grotą]] a [[Bagno w Jarkendarze|bagnem]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 11 (mała błyskawica + ognista strzała).png
+G2NK Zwoje Jarkendar ognista strzała 01.png
+G2NK Zwoje wspólne Jarkendar 07 (duża kula + ognista strzała).png
+G2NK Zwoje wspólne Jarkendar 06 (deszcz + ognista strzała).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 5 sztuk w I rozdziale;
+* [[Isgaroth]]: 5 sztuk w I rozdziale;
+* [[Zuris]]: 3 sztuki w I rozdziale;
+* [[Engor]]: 3 sztuki w I rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Engor bez zmian;
+* Zuris: 20 sztuk w I rozdziale;
+* [[Cronos]]
+** w Khorinis: 5 sztuk w I rozdziale;
+** w Jarkendarze: 5 sztuk w II rozdziale.
+
+; Inne
+* 1 sztukę [[Babo]] oferuje w zamian za dodatkową [[Barania kiełbasa|baranią kiełbasę]] podczas ich [[Baranie kiełbaski|rozdzielania]].
+
+== [[Pięść wichru]] ==
+; Górnicza Dolina
+* W zamkniętym kufrze (kombinacja {{Zamek|L-P-L-P-2L}}) w lewej wieży przy głównej bramie [[Zamek w Górniczej Dolinie|zamku]] (2 zwoje).
+* W tunelu pod [[Północny las w Górniczej Dolinie|północnym lasem]] znajdującym się obok [[Kopalnia Marcosa|kopalni Marcosa]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD pięść wichru 01.png
+G2NK Zwoje GD pięść wichru 02.png
+</gallery>
+
+; Jarkendar
+* Po przejściu pod kamiennym łukiem w [[Kanion w Jarkendarze|kanionie]], nieopodal wejścia do [[Opuszczona jaskinia w kanionie|opuszczonej jaskini]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar pięść wichru 01.png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 1 sztuka w I rozdziale, kolejne 4 w II;
+* [[Isgaroth]]: 4 sztuki w II rozdziale;
+* [[Sengrath]]: 3 sztuki w II rozdziale;
+* [[Zuris]]: 1 sztuka w II rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Sengrath bez zmian;
+* Zuris: 3 sztuki w I rozdziale.
+
+; Inne
+* Nagroda od [[Neoras]]a za wykonanie zadania ''[[Siedem ziół]]''.
+
+== [[Piorun kulisty]] ==
+; Górnicza Dolina
+* W zamkniętym kufrze (kombinacja {{Zamek|P-3L-P-L}}) na szczycie drewnianego rusztowania ponad [[Więzienie na zamku w Górniczej Dolinie|więzieniem]] na terenie [[Zamek w Górniczej Dolinie|zamku]].
+* W jaskini będącej leżem [[Szkielet cieniostwór|szkieletu cieniostwora]], nieopodal [[Krypta Nadzorcy|krypty pod kamiennym kręgiem]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne GD 01 (piorun + światło).png
+G2NK Zwoje GD piorun 01.png
+</gallery>
+
+; Jarkendar
+* W [[Biblioteka Uczonych|Bibliotece Uczonych]], w komnacie na końcu lewego korytarza, na półce.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 03 (piorun + przemiana w ognistego jaszczura).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 2 sztuki w III rozdziale;
+* [[Isgaroth]]: 5 sztuk w II rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* [[Cronos]] w Jarkendarze: 2 sztuki w III rozdziale.
+
+== [[Pomniejsze uleczenie]] ==
+Zarówno w podstawie, jak i Nocy Kruka dostępny tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]].
+
+== [[Przemiana w cieniostwora]] ==
+; Górnicza Dolina
+* Przy [[Palisada orków|orkowej palisadzie]], od południowej strony [[Zamek w Górniczej Dolinie|zamku]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne GD 04 (błyskawica + przemiana w cieniasa).png
+</gallery>
+
+; Jarkendar
+* W zakopanym [[Skarby Grega|skarbie]] (nr 7) w zachodniej części bagna, pilnowanym przez [[Bagienny szczur|bagiennego szczura]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Skarb Jarkendar 07.png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w IV rozdziale;
+* [[Karras]]: 2 sztuki w V rozdziale, kolejne 2 w IV i 2 w V;
+* [[Sagitta]]: 1 sztuka w V rozdziale.
+
+; Handlarze (NK)
+* Karras i Sagitta bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale.
+
+== [[Przemiana w jaszczura]] ==
+; Górnicza Dolina
+* W [[Zatopiona wieża Xardasa|zatopionej wieży Xardasa]].
+* Koło grupy [[Ognisty jaszczur|ognistych jaszczurów]] na wzniesieniu obok [[Wieża Xardasa w Górniczej Dolinie|starej wieży Xardasa]] (aby tam dotrzeć, należy przejść ścieżką dookoła wieży).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w jaszczura 01.png
+G2NK Zwoje GD przemiana w jaszczura 02.png
+</gallery>
+
+; Handlarze
+* [[Karras]]: 3 sztuki w III rozdziale, kolejne 2 w IV i 2 w V;
+* [[Zuris]]: 1 sztuka w III rozdziale;
+* [[Sagitta]]: 1 sztuka w III rozdziale.
+
+; Handlarze (NK)
+* Karras i Sagitta bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale.
+
+== [[Przemiana w ognistego jaszczura]] ==
+; Górnicza Dolina
+* W jaskini nieopodal mostu do [[Górska forteca|górskiej fortecy]].
+* Na parterze [[Górska forteca|górskiej fortecy]], na półce w pierwszej komnacie po lewej.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne GD 02 (przemiana w ognistego jaszczura + światło).png
+G2NK Zwoje GD przemiana w ognistego jaszczura 01.png
+</gallery>
+
+; Jarkendar
+* W [[Biblioteka Uczonych|Bibliotece Uczonych]], w komnacie na końcu lewego korytarza, na półce.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 03 (piorun + przemiana w ognistego jaszczura).png
+</gallery>
+
+; Handlarze
+* [[Karras]]: 2 sztuki w IV rozdziale, kolejne 2 w V;
+* [[Zuris]]: 1 sztuka w IV rozdziale;
+* [[Sagitta]]: 1 sztuka w IV rozdziale.
+
+; Handlarze (NK)
+* Karras i Sagitta bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale.
+
+== [[Przemiana w olbrzymiego szczura]] ==
+; Górnicza Dolina
+* Na skalnym wzniesieniu w pobliżu [[Obóz Aidana|obozowiska bandytów]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w olbrzymiego szczura 01.png
+</gallery>
+
+; Handlarze
+* [[Karras]]: 1 sztuka w II rozdziale, kolejne 3 w III, 4 w IV i 4 w V;
+* [[Zuris]]: 1 sztuka w II rozdziale;
+* [[Sagitta]]: 1 sztuka w III rozdziale.
+
+; Handlarze (NK)
+* Karras i Sagitta bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale.
+
+== [[Przemiana w owcę]] ==
+; Handlarze
+* [[Karras]]: 1 sztuka w II rozdziale, kolejne 3 w III, 4 w IV i 4 w V;
+* [[Zuris]]: 1 sztuka w II rozdziale;
+* [[Gorax]]: 1 sztuka w III rozdziale;
+* [[Isgaroth]]: 1 sztuka w III rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w III rozdziale.
+
+== [[Przemiana w polną bestię]] ==
+; Khorinis
+* Za obozem [[Orkowie|orków]] na [[Przełęcz do Górniczej Doliny|przełęczy]], tuż przed wejściem do [[Górnicza Dolina|Górniczej Doliny]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis przemiana w polną bestię 01.png
+</gallery>
+
+; Górnicza Dolina
+* Za dawną [[Chata Cavalorna|chatą Cavalorna]], w jaskini z ładunkiem rudy.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w polną bestię 01.png
+</gallery>
+
+; Handlarze
+* [[Karras]]: 1 sztuka w II rozdziale, kolejne 3 w III, 2 w IV i 2 w V;
+* [[Zuris]]: 1 sztuka w II rozdziale;
+* [[Gorax]]: 1 sztuka w III rozdziale;
+* [[Isgaroth]]: 1 sztuka w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w III rozdziale.
+
+== [[Przemiana w smoczego zębacza]] ==
+; Górnicza Dolina
+* W podwodnej jaskini przy moście prowadzącym do północnej bramy [[Zamek w Górniczej Dolinie|zamku]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w smoczego zębacza 01.png
+</gallery>
+
+; Dwór Irdorath
+* W kufrze w laboratorium, naprzeciwko komnaty [[Archol]]a.
+* Korytarz z [[Czarny mag z Dworu Irdorath|czarnym magiem]], w pierwszym pomieszczeniu po prawej.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 01 (zniszczenie ożywieńca + tchnienie + przemiana w smoczego zębacza).png
+G2NK Zwoje wspólne Irdorath 04 (deszcz + lodowa fala + kula ognia + śmiertelna fala + przemiana w smoczego zębacza).png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w IV rozdziale;
+* [[Karras]]: 2 sztuki w V rozdziale.
+* [[Gorax]]: 1 sztuka w V rozdziale;
+* [[Isgaroth]]: 1 sztuka w V rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w V rozdziale.
+
+== [[Przemiana w ścierwojada]] ==
+; Górnicza Dolina
+* Wśród stada [[ścierwojad]]ów przy rzece na północ od [[Zamek w Górniczej Dolinie|zamku]], nieopodal [[Palisada orków|orkowej palisady]].
+* W małej jaskini na skraju [[Północny las w Górniczej Dolinie|północnego lasu]], w pobliżu drogi do dawnego [[Kanion trolli|kanionu trolli]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w ścierwojada 01.png
+G2NK Zwoje GD przemiana w ścierwojada 02.png
+</gallery>
+
+; Handlarze
+* [[Karras]]: 1 sztuka w II rozdziale, kolejne 3 w III, 4 w IV i 4 w V;
+* [[Zuris]]: 1 sztuka w II rozdziale;
+* [[Gorax]]: 1 sztuka w III rozdziale;
+* [[Isgaroth]]: 1 sztuka w III rozdziale;
+* [[Vatras]]: 1 sztuka w VI rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth, Karras i Vatras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w III rozdziale.
+
+== [[Przemiana w topielca]] ==
+; Górnicza Dolina
+* W jaskini za wodospadem między [[Kopalnia Marcosa|kopalnią Marcosa]] a [[Jaskinia Gepperta i Kervo|jaskinią Gepperta i Kervo]].
+* Przy jeziorze pod [[Wieża Xardasa w Górniczej Dolinie|starą wieżą Xardasa]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w topielca 01.png
+G2NK Zwoje GD przemiana w topielca 02.png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w II rozdziale;
+* [[Karras]]: 2 sztuki w V rozdziale.
+* [[Gorax]]: 1 sztuka w V rozdziale;
+* [[Isgaroth]]: 1 sztuka w V rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w V rozdziale.
+
+== [[Przemiana w warga]] ==
+; Górnicza Dolina
+* Za [[Posąg Innosa|posągiem Innosa]] stojącym przy [[Kopalnia Marcosa|kopalni Marcosa]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w warga 01.png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w III rozdziale;
+* [[Karras]]: 2 sztuki w IV rozdziale, kolejne 2 w V;
+* [[Gorax]]: 1 sztuka w IV rozdziale;
+* [[Isgaroth]]: 1 sztuka w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w IV rozdziale.
+
+== [[Przemiana w wilka]] ==
+; Khorinis
+* W [[Klasztor Innosa na wyspie Khorinis|klasztorze]], w kufrze w pierwszej sypialni magów (2 zwoje).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis przemiana w wilka 01.png
+</gallery>
+
+; Handlarze
+* [[Karras]]: 1 sztuka w II rozdziale, kolejne 3 w III, 2 w IV i 2 w V;
+* [[Zuris]]: 3 sztuki w II rozdziale;
+* [[Gorax]]: 1 sztuka w III rozdziale;
+* [[Isgaroth]]: 1 sztuka w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 3 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w III rozdziale.
+
+== [[Przemiana w zębacza]] ==
+; Górnicza Dolina
+* Wśród stada [[zębacz]]y w pobliżu [[Krypta Nadzorcy|krypty pod kamiennym kręgiem]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przemiana w zębacza 01.png
+</gallery>
+
+; Handlarze
+* [[Karras]]: 3 sztuki w III rozdziale, kolejne 2 w IV i 2 w V;
+* [[Zuris]]: 3 sztuki w III rozdziale;
+* [[Gorax]]: 1 sztuka w IV rozdziale;
+* [[Isgaroth]]: 1 sztuka w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris już nie sprzedaje;
+* [[Ignaz]]: 3 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 1 sztuka w IV rozdziale.
+
+== [[Przyzwanie demona]] ==
+; Górnicza Dolina
+* Na najwyższym piętrze [[Wieża Xardasa w Górniczej Dolinie|starej wieży Xardasa]], na stole.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne GD 03 (przyzwanie demona + zniszczenie ożywieńca).png
+</gallery>
+
+; Dwór Irdorath
+* Za drzwiami po prawej w jaskini strzeżonej przez [[Troll jaskiniowy|trolla]] (2 zwoje).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Irdorath przyzwanie demona 01.png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 2 sztuki w V rozdziale;
+* [[Isgaroth]]: 2 sztuki w V rozdziale;
+* [[Karras]]: 1 sztuka w V rozdziale;
+* [[Zuris]]: 1 sztuka w V rozdziale;
+* [[Engor]]: 1 sztuka w V rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris: 1 sztuka w I rozdziale;
+* Engor: 1 sztuka w I rozdziale;
+* Gorax: 2 sztuki w IV rozdziale, kolejne 2 w V;
+* [[Cronos]] w Jarkendarze: 2 sztuki w V rozdziale.
+
+; Inne
+* 20% na znalezienie 1 zwoju przy zabitym księciu demonów.
+
+== [[Przyzwanie wilka]] ==
+; Khorinis
+* Na [[Stół alchemiczny|stole alchemicznym]] w pracowni na pokładzie [[Esmeralda|Esmeraldy]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 07 (mała błyskawica + przyzwanie wilka + sen).png
+</gallery>
+
+; Górnicza Dolina
+* Na płaskowyżu tuż nad [[Jaskinia Gepperta i Kervo|jaskinią Gepperta i Kervo]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD przyzwanie wilka 01.png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 5 sztuk w II rozdziale;
+* [[Isgaroth]]: 5 sztuk w II rozdziale;
+* [[Karras]]: 1 sztuka w II rozdziale, kolejna 1 w III, 1 w IV i 1 w V;
+* [[Sengrath]]: 1 sztuka w II rozdziale;
+* [[Zuris]]: 1 sztuka w II rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth, Karras i Sengrath bez zmian;
+* Zuris: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 2 sztuki w II rozdziale.
+
+; Inne
+* Nagroda od Karrasa za wykonanie zadania ''[[Krótka wycieczka do miasta]]''.
+
+== [[Sen]] ==
+; Khorinis
+* W zamkniętym kufrze (kombinacja: {{Zamek|L-2P-L-P-2L}}) w [[Dom Zurisa|domu Zurisa]] (2 zwoje).
+* Przy rzece, na ścieżce prowadzącej od [[Gospoda „Pod Martwą Harpią”|Martwej Harpii]] do [[Piramidy|piramid]], przy zniszczonym wozie.
+* Na [[Stół alchemiczny|stole alchemicznym]] w pracowni na pokładzie [[Esmeralda|Esmeraldy]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 05 (lodowa strzała + niepamięć + sen + światło).png
+G2NK Zwoje wspólne okolice Khorinis 11 (leczenie c + leczenie śr + lodowa strzała + sen + światło).png
+G2NK Zwoje wspólne okolice Khorinis 07 (mała błyskawica + przyzwanie wilka + sen).png
+</gallery>
+
+; Jarkendar
+* W jednym z namiotów w [[Obóz orków w Jarkendarze|orkowym obozie]] przed [[Biblioteka Uczonych|Biblioteką Uczonych]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 02 (duża burza + leczenie c + sen).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 1 sztuka w I rozdziale, kolejne 2 w II;
+* [[Isgaroth]]: 1 sztuka w I rozdziale, kolejne 2 w II;
+* [[Lutero]]: 1 sztuka w II rozdziale;
+* [[Sengrath]]: 2 sztuki w II rozdziale;
+* [[Zuris]]: 1 sztuka w I rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth, Lutero, Sengrath i Zuris bez zmian;
+* [[Ignaz]]: 1 sztuka w I rozdziale.
+
+; Inne
+* Prezent od [[Dyrian]]a po rozpoczęciu zadania ''[[Zbrodnia Dyriana]]''.
+
+== [[Strach]] ==
+; Jarkendar
+* Przy [[Ognisko|ognisku]] na skale, w pobliżu [[Chata eremity|chaty eremity]].
+* W [[Grobowiec Khardimona|krypcie Khardimona]] w [[Kopalnia złota w Jarkendarze|kopalni złota]].
+* W [[Świątynia Adanosa w Jarkendarze|świątyni Adanosa]], na końcu komnaty ze [[Sługa Kruka|sługami Kruka]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar strach 01.png
+G2NK Zwoje Jarkendar strach 02.png
+G2NK Zwoje wspólne Jarkendar 10 (mała burza + strach + tworzenie szkieletu).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 2 sztuk w III rozdziale;
+* [[Isgaroth]]: 2 sztuk w III rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* [[Cronos]] w Jarkendarze: 2 sztuki w III rozdziale.
+
+== [[Szkodzenie złu]] ==
+; Handlarze (NK)
+* [[Martin]]: 1 sztuka w II rozdziale, kolejna 1 w III, 2 w IV i 3 w V.
+
+; Inne
+* Przedmiot [[Kradzież kieszonkowa|kradzieży kieszonkowej]] u [[Orik]]a (wymagane 85 punktów [[Zręczność|zręczności]]).
+
+== [[Śmiertelna fala]] ==
+; Dwór Irdorath
+* W pierwszej komnacie po prawej przy bramie klucznika (przebywa tam [[szkielet cieniostwór]]).
+* Korytarz z [[Czarny mag z Dworu Irdorath|czarnym magiem]], w pierwszym pomieszczeniu po prawej.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 03 (śmiertelna fala + zmniejszenie).png
+G2NK Zwoje wspólne Irdorath 04 (deszcz + lodowa fala + kula ognia + śmiertelna fala + przemiana w smoczego zębacza).png
+</gallery>
+
+== [[Średnie uleczenie]] ==
+W podstawie dostępny tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]].
+
+; Handlarze (NK)
+* [[Martin]]: 1 sztuka w I rozdziale, kolejna 1 w II, 1 w III, 1 w IV i 1 w V.
+
+== [[Światło]] ==
+; Khorinis
+* W kufrze na samej górze [[Wieża Xardasa nieopodal Khorinis|wieży Xardasa]].
+* Za [[Wieża Xardasa nieopodal Khorinis|wieżą Xardasa]].
+* W zamkniętym kufrze (kombinacja: {{Zamek|L-2P-L-P-2L}}) w [[Dom Zurisa|domu Zurisa]].
+* Przy rzece, na ścieżce prowadzącej od [[Gospoda „Pod Martwą Harpią”|Martwej Harpii]] do [[Piramidy|piramid]], przy zniszczonym wozie.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis światło 01.png
+G2NK Zwoje wspólne okolice Khorinis 03 (ognista strzała + światło).png
+G2NK Zwoje wspólne okolice Khorinis 05 (lodowa strzała + niepamięć + sen + światło).png
+G2NK Zwoje wspólne okolice Khorinis 11 (leczenie c + leczenie śr + lodowa strzała + sen + światło).png
+</gallery>
+
+; Górnicza Dolina
+* Na szczycie drewnianego rusztowania ponad [[Więzienie na zamku w Górniczej Dolinie|więzieniem]] na terenie [[Zamek w Górniczej Dolinie|zamku]].
+* W jaskini nieopodal mostu do [[Górska forteca|górskiej fortecy]], na stole.
+* Zaraz po wejściu do górskiej fortecy, na posadzce.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne GD 01 (piorun + światło).png
+G2NK Zwoje wspólne GD 02 (przemiana w ognistego jaszczura + światło).png
+G2NK Zwoje GD światło 01.png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 5 sztuk w I rozdziale;
+* [[Isgaroth]]: 5 sztuk w I rozdziale;
+* [[Jora]]: 1 sztuka w I rozdziale;
+* [[Zuris]]: 3 sztuki w I rozdziale, kolejne 3 w II.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Jora bez zmian;
+* Zuris: 6 sztuk w I rozdziale;
+* [[Cronos]]
+** w Khorinis: 5 sztuk w I rozdziale;
+** w Jarkendarze: 5 sztuk w II rozdziale.
+
+; Inne
+* 2 sztuki jako część zestawu zwojów proponowanego przez [[Orlan]]a podczas wykonywania zadania ''[[Dostawa wina]]''.
+* Jeden z prezentów do wyboru od [[Vatras]]a przy podjęciu się zadania ''[[Wiadomość (zadanie)|Wiadomość]]''.
+
+== [[Święta strzała]] ==
+W podstawie dostępny tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]].
+
+; Handlarze (NK)
+* [[Martin]]: 2 sztuki w I rozdziale, kolejne 2 w II, 2 w III, 2 w IV i 2 w V.
+
+== [[Święty płomień]] ==
+W podstawie dostępny tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]].
+
+; Handlarze (NK)
+* [[Martin]]: 10 sztuk w I rozdziale.
+
+== [[Tchnienie śmierci]] ==
+; Dwór Irdorath
+* W kufrze w laboratorium, naprzeciwko komnaty [[Archol]]a.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 01 (zniszczenie ożywieńca + tchnienie + przemiana w smoczego zębacza).png
+</gallery>
+
+== [[Tworzenie szkieletu]] ==
+; Khorinis
+* W [[Klasztor Innosa na wyspie Khorinis|klasztorze]]: w drugiej sypialni magów po lewej stronie, w zamkniętym pierwszym kufrze po prawej (kombinacja {{Zamek|P-2L-3P-L}}).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 10 (duża kula + tworzenie szkieletu).png
+</gallery>
+
+; Górnicza Dolina
+* Na końcu lewej odnogi [[Kopalnia Marcosa|kopalni Marcosa]], za beczkami.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD tworzenie szkieletu 01.png
+</gallery>
+
+; Jarkendar
+* W [[Świątynia Adanosa w Jarkendarze|świątyni Adanosa]], przy ołtarzu w komnacie ze [[Sługa Kruka|sługami Kruka]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 10 (mała burza + strach + tworzenie szkieletu).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 3 sztuki w III rozdziale;
+* [[Isgaroth]]: 3 sztuki w III rozdziale;
+* [[Karras]]: 1 sztuka w III rozdziale, kolejna 1 w IV i 1 w V;
+* [[Zuris]]: 1 sztuka w III rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth i Karras bez zmian;
+* Zuris: 1 sztuka w I rozdziale;
+* [[Cronos]] w Jarkendarze: 3 sztuki w III rozdziale.
+
+== [[Tworzenie szkieletu goblina]] ==
+; Khorinis
+* Przy [[Posąg Innosa|posągu Innosa]] znajdującym się na klifie w północno-zachodniej części wyspy, w pobliżu grupy [[zębacz]]y.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Khorinis tworzenie goblina 01.png
+</gallery>
+
+; Górnicza Dolina
+* Na parterze [[Wieża Xardasa w Górniczej Dolinie|starej wieży Xardasa]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje GD tworzenie goblina 01.png
+</gallery>
+
+; Jarkendar
+* W [[Wielka jaskinia w Jarkendarze|wielkiej jaskini]], przy nagrobku w pobliżu wyjścia od strony [[Bagno w Jarkendarze|bagna]].
+* W zakopanym [[Skarby Grega|skarbie]] (nr 10) za drzewem tuż obok [[Dom Uzdrowicieli|Domu Uzdrowicieli]].
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 05 (lodowa fala + tworzenie szkieletu goblina).png
+PrzywołanieSzkieletuGoblina_Lokacja_2.png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 5 sztuk w I rozdziale;
+* [[Isgaroth]]: 2 sztuki w I rozdziale;
+* [[Karras]]: 1 sztuka w I rozdziale, kolejna 1 w II, 1 w III, 1 w IV i 1 w V;
+* [[Zuris]]: 1 sztuka w I rozdziale.
+
+; Handlarze (NK)
+* Gorax, Isgaroth, Karras i Zuris bez zmian;
+* [[Cronos]]
+** w Khorinis: 2 sztuki w I rozdziale;
+** w Jarkendarze: 2 sztuki w II rozdziale.
+
+; Inne
+* 1 sztuka jako część zestawu zwojów proponowanego przez [[Orlan]]a podczas wykonywania zadania ''[[Dostawa wina]]''.
+
+== [[Większe uleczenie]] ==
+W podstawie dostępny tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]].
+
+; Handlarze (NK)
+* [[Martin]]: 1 sztuka w II rozdziale, kolejne 2 w III, 3 w IV i 2 w V.
+
+== [[Wir]] ==
+; Jarkendar
+* W [[Kopalnia złota w Jarkendarze|kopalni złota]], w grocie pełnej [[pełzacz]]y, przy wyklutych jajach.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Jarkendar 09 (leczenie l + mała błyskawica + wir).png
+</gallery>
+
+; Handlarze (NK)
+* [[Cronos]]
+** w Khorinis: 1 sztuka w I rozdziale;
+** w Jarkendarze: 3 sztuki w II rozdziale, kolejne 2 w III, 3 w IV i 3 w V.
+
+== [[Wodna pięść]] ==
+; Handlarze (NK)
+* [[Cronos]] w Jarkendarze: 1 sztuka w II rozdziale, kolejna 1 w III, 2 w IV i 3 w V.
+
+== [[Zmniejszenie potwora]] ==
+; Dwór Irdorath
+* W pierwszej komnacie po prawej przy bramie klucznika (przebywa tam [[szkielet cieniostwór]]).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 03 (śmiertelna fala + zmniejszenie).png
+</gallery>
+
+; Handlarze
+* [[Zuris]]: 1 sztuka w V rozdziale.
+
+; Handlarze (NK)
+* Zuris: 1 sztuka w I rozdziale.
+
+== [[Śmierć ożywieńcom|Zniszczenie ożywieńca]] ==
+; Khorinis
+* Na wzniesieniu ponad miejscem przebywania [[Niclas]]a (2 zwoje).
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne okolice Khorinis 09 (leczenie śr + mała burza + zniszczenie ożywieńca).png
+</gallery>
+
+; Górnicza Dolina
+* Na najwyższym piętrze [[Wieża Xardasa w Górniczej Dolinie|starej wieży Xardasa]], na stole.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne GD 03 (przyzwanie demona + zniszczenie ożywieńca).png
+</gallery>
+
+; Jarkendar
+* W obozowisku na wysokiej skale na [[Bagno w Jarkendarze|bagnie]], do którego wchodzi się po [[drabina]]ch.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje Jarkendar zniszczenie ożywieńca 01.png
+</gallery>
+
+; Dwór Irdorath
+* Na komodzie w laboratorium, naprzeciwko komnaty [[Archol]]a.
+
+<gallery widths="310" position="center" captionalign="center">
+G2NK Zwoje wspólne Irdorath 01 (zniszczenie ożywieńca + tchnienie + przemiana w smoczego zębacza).png
+</gallery>
+
+; Handlarze
+* [[Gorax]]: 2 sztuki w IV rozdziale;
+* [[Isgaroth]]: 2 sztuki w IV rozdziale;
+* [[Zuris]]: 3 sztuki w IV rozdziale.
+
+; Handlarze (NK)
+* Gorax i Isgaroth bez zmian;
+* Zuris: 3 sztuki w I rozdziale;
+* [[Cronos]] w Jarkendarze: 2 sztuki w IV rozdziale.
+
+== [[Zniszczenie zła]] ==
+W podstawie dostępny tylko za pomocą [[Lista kodów do Gothic II: Noc Kruka|kodów]].
+
+; Handlarze (NK)
+* [[Martin]]: 1 sztuka w IV rozdziale, kolejne 2 w V.
+
+== Zobacz także ==
+* [[Czary w Gothic II: Noc Kruka]]
+* [[Runy w Gothic II: Noc Kruka]]
+* [[Zwoje w Gothic]]
+{{Wymaga lepszej grafiki|Grafiki "DeszczOgnia Lokacja 6.png" i "PrzywołanieSzkieletuGoblina Lokacja 2.png" - lepiej oznaczyć skarby (tj. zoomem podobnie jak na pozostałych zdjęciach)}}
+[[Kategoria:Czary z Gothic II]]
+[[Kategoria:Czary z Gothic II: Noc Kruka]]
+[[Kategoria:Spisy z Gothic II]]
+[[Kategoria:Spisy z Gothic II: Noc Kruka]]
+[[en:Scrolls in Gothic II: Night of the Raven]]

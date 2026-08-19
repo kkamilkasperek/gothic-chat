@@ -1,0 +1,33 @@
+{{Księga
+ |Ikona                = Ikona księga 2 G1.png
+ |Nazwa                = Magiczna ruda
+ |Nazwa angielska      = Magic ore
+ |Obraz                = Magiczna ruda (księga).png
+ |Posiadacz            = [[Magnaci]], [[Magowie wody]]
+ |Autor                = Nieznany
+ |Ilość tomów          = Jeden
+ |Występowanie         = [[Gothic]]
+ |Wartość kupna        = {{Wartość|ruda|100}}
+ |Wartość sprzedaży    = {{Wartość|ruda|50}}
+ |Kod                  = das_magische_erz
+}}
+'''Magiczna ruda''' – księga występująca w [[Gothic]].
+
+== Gothic ==
+Opisuje ona właściwości i zastosowanie [[Magiczna ruda|rudy]]. Można znaleźć dwa egzemplarze tej księgi: jeden w komnacie [[Kruk]]a na piętrze [[Siedziba magnatów|siedziby magnatów]] w [[Stary Obóz|Starym Obozie]], drugi w [[Biblioteka magów wody|bibliotece]] [[magowie wody|magów wody]] w [[Nowy Obóz|Nowym Obozie]].
+
+Jej wartość kupna wynosi 100 [[Bryłka rudy|bryłek rudy]], przy sprzedaży spada do 50 bryłek.
+
+=== Treść ===
+{{Cytat|<poem>Najlepszą rudę do wyrobu wszelkiego rodzaju oręża znaleźć można w kopalniach w dolinie Khorinis. Wykutą z niej broń cechuje niebywała wytrzymałość. Pokłady rudy występują zwykle głęboko pod ziemią, lecz głupcem ten, kto nie podejmie trudu wydobycia jej na światło dzienne. Niewiele jest takich skarbów na świecie...
+
+Magiczna broń przebije każdy pancerz i pogruchocze każdą tarczę. Zaiste, królewski to oręż i królewską cenę trzeba zapłacić za choćby sztylet wykonany z tego szlachetnego kruszcu. Takoż surową cenę płacą górnicy pracujący w kopalniach. Rudę niełatwo oddzielić od skalnych pokładów, tak jakby z całych sił walczyła, by pozostać w łonie matki Ziemi.</poem>}}
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Świat Skazańców]] ===
+Wygląd treści księgi został zmieniony.
+
+[[Plik:Magiczna ruda księga (Świat Skazańców).png|thumb|center|305px|Treść księgi w modyfikacji Świat Skazańców]]
+[[Kategoria:Księgi z Gothic]]
+[[ru:Магическая руда (книга)]]

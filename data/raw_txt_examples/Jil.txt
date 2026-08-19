@@ -1,0 +1,30 @@
+{{Niekanon}}
+{{Postać
+ |Imię                 = Jil
+ |Obraz                = KronikiMyrtany Jil.png
+ |Gildia               = [[Farmerzy|Farmerka]]
+ |Zawód                = Kucharka
+ |Poziom               = 10
+ |Miejsce zamieszkania = [[Wyspa Archolos]]
+ |Miejsce urzędowania  = [[Silbach]]
+ |Posiadana broń       = [[Patelnia Jil]]
+ |Posiadana zbroja     = [[Strój obywatela (Kroniki Myrtany)|Strój obywatela]]
+ |Występowanie         = [[Kroniki Myrtany: Archolos]]
+ |Status               =
+ |Dubbing              = Izabela Gawlas
+ |Kod                  = Bau_729_Nob
+ |Przedmiot kradzieży  = 2x [[surowe mięso ścierwojada]] + [[Losowe przedmioty kradzieży w Kroniki Myrtany: Archolos|zestaw losowy]], (zielony; farmer)
+ |Wymagana umiejętność = [[Kradzież kieszonkowa/Modyfikacje#Kroniki Myrtany: Archolos|Kradzież kieszonkowa]] –, zielony
+}}
+'''Jil''' – postać występująca w [[Modyfikacja|modyfikacji]] do [[Gothic II: Noc Kruka]] pod tytułem [[Kroniki Myrtany: Archolos]]. Jest kucharką w posiadłości zamieszkiwanej przez [[Albyn]]a.
+
+== Kroniki Myrtany: Archolos ==
+Została nadworną kucharką w momencie, gdy [[Ramsey (Kroniki Myrtany)|sir Ramsey]] i jego kucharz wyprowadzili się z [[Silbach]]. Jeżeli [[Marvin]] zagada ją pytaniem na temat przygotowywanego posiłku, ta przez nieuwagę spali przygotowywaną potrawkę z dzika i wyśle bohatera w poszukiwaniu nowego mięsa.
+
+=== Zlecane zadania ===
+* [[Sprawa życia lub śmierci]]
+[[Kategoria:Postacie z Kroniki Myrtany: Archolos]]
+[[Kategoria:Kobiety z Kroniki Myrtany: Archolos]]
+[[Kategoria:Kucharze z modyfikacji]]
+{{Zalążek|mod=*}}
+[[ru:Джил]]

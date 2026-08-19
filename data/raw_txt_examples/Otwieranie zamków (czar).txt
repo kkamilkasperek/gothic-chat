@@ -1,0 +1,37 @@
+{{Inne znaczenia|czaru z Gothic 3|Otwieranie zamków (umiejętność)|otwieranie zamków (umiejętność)}}
+{{Czar
+ |Ikona             = Otwieranie zamków ikona czar.png
+ |Nazwa             = Otwieranie zamków
+ |Nazwa angielska   = Open locks
+ |Obraz             = Otwieranie zamków.png
+ |Podpis obrazu     = [[Bezimienny]] używający zaklęcia
+ |Bóg               = [[Adanos]]
+ |Nauczyciele       = [[Saturas]], [[Riordian]], [[Merdarion]], [[Vatras]], [[Cronos]], [[Porgan]] (po wybraniu ścieżki Adanosa)
+ |Opis              = ''Otwiera większość skrzyń i drzwi.''
+ |Koszt nauki       = 5 [[Punkty nauki|punktów nauki]], {{Wartość|złoto|5000}}
+ |Prastara wiedza   = 230
+ |Obrażenia         = 0
+ |Wymagana mana     = 20
+ |Działanie         = Odblokowuje zamknięty zamek
+ |Wartość kupna     = {{Wartość|złoto|750}}
+ |Wartość sprzedaży = {{Wartość|złoto|225}}
+ |Występowanie      = [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]]
+ |Kod               = It_Spell_OpenLocks (czar), It_Scroll_OpenLocks ([[Zwoje magiczne|zwój]])
+}}
+'''Otwieranie zamków''' – czar [[Magia przemiany|magii Adanosa]] występujący w [[Gothic 3]] i [[Gothic 3: Zmierzch Bogów]].
+
+== Gothic 3 ==
+Po rzuceniu zaklęcia wskazany zamek zostaje odblokowany. Nie działa jednak ono na każdą [[Skrzynia (Gothic 3)|skrzynię]] lub [[drzwi]]. Zaklęcia można się nauczyć na stałe od określonych nauczycieli ([[Saturas]], [[Riordian]], [[Merdarion]], [[Vatras]], [[Cronos]], [[Porgan]]), trzeba jednak uprzednio wybrać ścieżkę Adanosa. Nauka kosztuje 5 [[Punkty nauki|punktów nauki]] i 5000 sztuk [[Złoto|złota]], a [[Bezimienny]] musi posiadać co najmniej 230 punktów [[Prastara wiedza|prastarej wiedzy]].
+
+Każde rzucenie czaru zużywa 20 punktów [[Mana|many]]. Nie wiadomo, co było potrzebne do stworzenia runy tego zaklęcia, ponieważ na [[Wyspa Khorinis|Khorinis]] nie było ono używane.
+
+[[Zwoje magiczne|Zwój]] zaklęcia można pospolicie znaleźć w [[Metalowy kufer|metalowych kufrach]] i [[Solidny metalowy kufer|solidnych metalowych kufrach]] rozmieszczonych na [[Kontynent|kontynencie]] oraz w 14. z kolei [[Stara skrzynia|starej skrzyni]]. Jest warty 225 sztuk złota przy sprzedaży, a przy odkupie jego cena wzrasta do 750 sztuk złota.
+
+<gallery widths="310" position="center" captionalign="center">
+Otwieranie zamków ikona zwój.png|Ikona otwierania zamków w formie zwoju
+</gallery>
+[[Kategoria:Magia Adanosa]]
+[[Kategoria:Czary z Gothic 3]]
+[[Kategoria:Czary z Gothic 3: Zmierzch Bogów]]
+
+[[ru:Взлом замков]]

@@ -1,0 +1,41 @@
+{{Inne znaczenia|postaci z [[Gothic 3]]|Ben (Mroczne Tajemnice)|postać z Mrocznych Tajemnic}}
+{{Postać
+ |Imię                 = Ben
+ |Obraz                = Ben (Gothic 3) (by Gothicfan94).png
+ |Gildia               = [[Niewolnicy|Niewolnik]]
+ |Zawód                = [[Farmerzy|Farmer]]
+ |Poziom               = 0
+ |Miejsce zamieszkania = [[Farma Dereca]]
+ |Miejsce urzędowania  = Farma Dereca
+ |Posiadana broń       = [[Miecz]]
+ |Posiadana zbroja     = [[Ubranie farmera]]
+ |Występowanie         = [[Gothic 3]]
+ |Status               = Nieznany
+ |Dubbing              = [[Jarosław Domin]]
+ |Kod                  = Ben
+ |Przedmiot kradzieży  = 5-{{Wartość|złoto|19}}, [[Czarny Rhobar]]
+ |Wymagana umiejętność = [[Prosta kradzież kieszonkowa]]
+}}
+'''Ben''' – postać występująca w [[Gothic 3]]. Jest to [[Farmerzy|farmer]] i [[Niewolnicy|niewolnik]] mieszkający na [[Farma Dereca|farmie]] niedaleko [[Trelis]].
+
+== Gothic 3 ==
+Jest farmerem z farmy [[Derec]]a, który nie jest zbyt miły wobec [[Bezimienny|Bezimiennego]]. Bohater ma wybór: dać mu [[Ktoś musi dać nauczkę Benowi|nauczkę]] lub odpuścić. Niezależnie od wyboru w dalszej rozmowie Ben wspomina, że ma kontakty wśród wyższych sfer, lecz podczas wypytywania go przez Bezimiennego ten traci pewność siebie, ale twierdzi, że pracował dla [[Orkowie|orków]] w [[Świątynia w Trelis|świątyni]] i wciąż musi się tam znajdować jego [[Łopata Bena|łopata]].
+
+W zamian za jej [[Służący Ben potrzebuje swojej łopaty|dostarczenie]] Ben powie bohaterowi jak zdobyć duże ilości [[Złoto|złota]]. Narzędzie znajduje się na stosie gruzów w pierwszej od wejścia sali w świątyni. Informacją Bena okazuje się fakt, iż Derec często zagląda za [[Chram Innosa|chram Innosa]] na farmie, i że na pewno musi przechowywać tam jakieś kosztowności, co okazuje się prawdą.
+
+=== Zlecane zadania ===
+* [[Ktoś musi dać nauczkę Benowi]]
+* [[Służący Ben potrzebuje swojej łopaty]]
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Content Mod]] ===
+Jego wygląd ulega zmianom kosmetycznym.
+
+[[Plik:Ben (Content Mod 2.2) (by Gothicfan94).png|150px|center|thumb|Ben w Content Mod 2.2]]
+[[Kategoria:Farmerzy]]
+[[Kategoria:Niewolnicy]]
+[[Kategoria:Postacie z Gothic 3]]
+
+[[it:Ben]]
+[[ru:Бен]]

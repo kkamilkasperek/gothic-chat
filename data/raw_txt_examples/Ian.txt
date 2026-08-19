@@ -1,0 +1,42 @@
+{{Inne znaczenia|postaci występującej w Gothic|Ian (Gothic 3: Zmierzch Bogów)|Ian (Gothic 3: Zmierzch Bogów)}}
+{{Postać
+ |Imię                 = Ian
+ |Obraz                = Ian (GI).png
+ |Podpis obrazu        = Ian
+ |Gildia               = [[Cienie|Cień]]
+ |Zawód                = Zarządca kopalni
+ |Poziom               = 13
+ |Miejsce zamieszkania = [[Stary Obóz]]
+ |Miejsce urzędowania  = [[Stara Kopalnia]]; czwarty od góry poziom głównego szybu kopalni
+ |Posiadana broń       = [[Miecz bojowy]], [[Łuk myśliwski]]
+ |Posiadana zbroja     = [[Strój cienia]]
+ |Występowanie         = [[Gothic]]
+ |Status               = Nieznany
+ |Dubbing              = [[Piotr Bąk]]
+ |Kod                  = Stt_301_Ian
+ |Przedmiot kradzieży  = Kradzież niemożliwa
+}}
+'''Ian''' – postać występująca w [[Gothic]]. Jest [[cienie]]m zarządzającym [[Stara Kopalnia|Starą Kopalnią]] oraz zajmujący się organizacją pracy i zaopatrzeniem.
+
+== Gothic ==
+Przebywa niedaleko stoiska [[Alberto]] na czwartym poziomie głównego szybu kopalni. Mówi [[Bezimienny|Bezimiennemu]], że to on zarządza kopalnią, mimo że należy ona do [[Gomez]]a. Opowiada o ilości wydobywanej [[Magiczna ruda|rudy]] oraz o magicznych właściwościach wykonanych z niej broni. Wspomina, że sztukę prawidłowego jej wytapiania posiadają tylko [[Kowalstwo|kowale]] z [[Nordmar]]u. Ian może też opowiedzieć o kopalni. Ostrzega Bezimiennego przed [[pełzacz]]ami oraz zabrania przeszkadzać jego ludziom i [[Strażnicy świątynni|strażnikom świątynnym]], którzy wspierają ich w walce z tymi bestiami.
+
+[[Plik:G1 Stara Kopalnia stoisko Alberto.png|310px|center|thumb|Ian stojący przy stoisku Alberto]]
+
+Jeśli bohater zdecyduje się dołączyć do Starego Obozu, musi w ramach [[Test zaufania|testu zaufania]] dostarczyć [[Lista od Iana|listę towarów]] od Iana do [[Diego|Diega]]. Cień odda ją tylko, jeśli protagonista powie, że przysyła go Diego.
+
+W [[Gniazdo pełzaczy (rozdział)|II rozdziale]] Bezimienny pracujący dla [[Bractwo Śniącego|bractwa]] prosi Iana o zgodę na wejście do [[Gniazdo pełzaczy (lokacja)|gniazda pełzaczy]]. Cień odmawia, mówiąc, że nie ma teraz na to czasu w związku z awarią [[Młocarnia|młocarni]] z powodu uszkodzonego [[Koło zębate|koła zębatego]]. Mówi protagoniście, że rozpatrzy jego prośbę po przyniesieniu części zamiennej. W pierwszej kolejności radzi mu rozejrzeć się po bocznych szybach, gdzie znajduje się nieużywana młocarnia. Po dostarczeniu koła zębatego Ian wyraża zgodę na otwarcie bramy prowadzącej do gniazda i każe bohaterowi przekazać strażnikowi kraty – [[Asghan]]owi – hasło ''Wszystko będzie w porządku''.
+
+Po odnalezieniu i zniszczeniu gniazda Ian jest zadowolony z pozbycia się problemu i nagradza bohatera skrzynką [[Mocne piwo|mocnego piwa]].
+
+== Modyfikacje ==
+{{Główny artykuł|Ian/Modyfikacje}}
+
+== Ciekawostki ==
+* Bezimienny może go zagadnąć ''To ty jesteś Ian, szef tej kopalni?'', nawet jeżeli z nikim wcześniej nie rozmawiał na jego temat.
+* W polskim tłumaczeniu jego imię jest błędnie wymawiane. Czytane jest ''jan'', podczas gdy tak naprawdę powinno się je czytać ''ijan''.
+* Jeżeli Bezimienny nie będzie miał przy sobie [[Jajo pełzacza|jaj królowej pełzaczy]], nie będzie mógł powiedzieć Ianowi o znalezieniu gniazda, jeśli natomiast będzie miał ze sobą mniej niż trzy jaja, Ian stwierdzi, że jest ich mało i nie wręczy mu w nagrodę piwa.
+[[Kategoria:Postacie z Gothic]]
+[[Kategoria:Cienie]]
+[[en:Ian]]
+[[ru:Ян (Gothic)]]

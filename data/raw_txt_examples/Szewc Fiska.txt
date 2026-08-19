@@ -1,0 +1,37 @@
+{{Niekanon}}
+{{Zadanie
+ |Nazwa         = Szewc Fiska
+ |Obraz         = Szewc Fiska (początek zadania) (MT) (by Jao98).png
+ |Zleceniodawca = [[Fisk]]
+ |Start         = [[Stary Obóz]]
+ |Koniec        = Stary Obóz
+ |Poprzednie    = Brak
+ |Następne      = Brak
+ |Dostępność    = Wszyscy, 1-3 Rozdział
+ |Nagroda       = 200 punktów doświadczenia, [[Lekkie spodnie kopacza]]
+ |Występowanie  = [[Mroczne Tajemnice]]
+}}
+'''Szewc Fiska''' – zadanie poboczne występujące w [[Modyfikacja|modyfikacji]] [[Mroczne Tajemnice]] do [[Gothic]]. Jest zlecane przez [[Cienie|cienia]] [[Fisk]].
+
+== Krok po kroku ==
+# Porozmawiaj z [[Fisk]]iem na [[Targowisko w Starym Obozie|targowisku]].
+# Porozmawiaj z [[Drax]]em przy drodze do [[Plac wymian|placu wymian]].
+# Wróć do Fiska.
+
+== Przebieg zadania ==
+=== Tajemnicze zniknięcie ===
+Kiedy [[Bezimienny]] pyta się Fiska, czy ma jakąś zbroję, cień odpowiada, że nie. Podobno zniknął jego dostawca spodni dla kopaczy. Bohater uważa, że handlarz za mało mu płacił i zmienił odbiorcę, Fisk jednak wszystkiemu zaprzecza, gdyż co 10 dni otrzymywał świeżą dostawę spodni. Cień prosi Bezimiennego o odnalezienie poszukiwanego.
+
+=== Poszukiwania ===
+Bezimienny wychodzi ze Starego Obozu, by znaleźć ślad. Pyta się [[Drax]]a, czy nie widział dostawcę Fiska. Myśliwy wie, o kogo chodzi, ale obawia się, że dopadły go [[zębacz]]e. Szkodnik opowiada bohaterowi swoją historię przed wrzuceniem za barierę: był kiedyś rymarzem, ale zaczynał jako zwyczajny szwacz. Drax domyśla się, że Fiskowi chodzi o najzwyklejsze spodnie dla kopaczy, a z nimi da sobie radę. Stawia jednak dwa warunki: cień ma osobiście odbierać dostawę, gdyż Drax nie wejdzie dobrowolnie do [[Stary Obóz|Starego Obozu]]. A zapłatą ma być [[piwo]] i [[wino]], gdyż myśliwy ma dość [[Ryżówka|ryżówki]].
+
+=== Wieści dla Fiska ===
+W końcu Bezimienny wraca do Fiska z wiadomościami. Cień wydaje się zaskoczony, że Drax chce pomóc. Bohater wyjaśnia handlarzowi, że szkodnik był kiedyś rymarzem, a zapłatą ma być piwo i wino. Fisk godzi się na takie warunki i oddaje Bezimiennemu [[lekkie spodnie kopacza]], które przechowywał w razie potrzeby. Po tym wszystkim zadanie kończy się.
+
+== Zapisy w dzienniku ==
+''Fiskowi gdzieś wcięło krawca, który szył spodnie dla kopaczy. Poprosił mnie, bym znalazł dla niego jakiegoś krawca.''
+
+''Znalazłem krawca dla Fiska. Okazało się, że Drax chętnie pomoże kupcowi. Oczywiście nie za darmo. Za swoją pracę chce wina i piwa. Ale na to pewnie Fisk przystanie.''
+
+''Fisk w zamian za znalezienie krawca podarował mi spodnie kopacza.''
+[[Kategoria:Zadania poboczne z Mrocznych Tajemnic]]

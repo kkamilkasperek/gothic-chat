@@ -1,0 +1,28 @@
+{{Niekanon}}
+{{Postać
+ |Imię                 = Jaga
+ |Obraz                = jaga1.png
+ |Gildia               = 
+ |Zawód                = Alchemiczka,Znachorka
+ |Poziom               = 10
+ |Miejsce zamieszkania = [[Gadiukinowo]]
+ |Miejsce urzędowania  = Gadiukinowo
+ |Posiadana broń       = [[Miotła]]
+ |Posiadana zbroja     = [[Suknia farmerki|Duma farmerki]]
+ |Występowanie         = [[Podróżnik – Za liniami wroga]]
+ |Status               = Nie żyje
+ |Wyznanie             = 
+ |Dubbing              = 
+ |Kod                  = none_121_yaga
+ |Przedmiot kradzieży  = {{Wartość|ruble|111}}
+ |Wymagana zręczność   = 33
+}}
+'''Jaga''' – postać występująca w [[Modyfikacja|modyfikacji]] [[Podróżnik – Za liniami wroga]] do gry [[Gothic II: Noc Kruka]]. Mieszka w [[Gadiukinowo|Gadiukinowie]].
+
+== Podróżnik – Za liniami wroga ==
+Zajmuje się alchemią i leczeniem ludzi. Handluje różnymi roślinami, napojami leczniczymi i przyrządami alchemicznymi. Z czasem rozszerza swój asortyment o kilka sztuk broni. Większość mieszkańców podejrzewa ją o praktykowanie czarnej magii. W pewnym momencie oskarżona o wywołanie plagi [[Nocne zombie|Nocnych zombie]] ucieka do lasu. [[Podróżnik]] w towarzystwie [[Wielki Wąż|Wielkiego Węża]] odnajduje ją i dowiaduje się prawdy. Jaga nie ma nic wspólnego z atakującymi ożywieńcami, ale przygotowuje [[Wzmacniacz umysłu]] dla [[Forest]]a. W późniejszych etapach gry pomaga bohaterowi w odebraniu [[Gopper]]owi fragmentu kolejki górskiej i wyleczeniu się z ptasiej grypy.
+
+== Dalsze losy ==
+Ginie w wybuchu bomby atomowej lub zostaje zabita przez jednostki specjalne W.A.S.P.
+[[Kategoria:Postacie z Podróżnika – Za liniami wroga]]
+[[Kategoria:Kobiety z Podróżnika – Za liniami wroga]]

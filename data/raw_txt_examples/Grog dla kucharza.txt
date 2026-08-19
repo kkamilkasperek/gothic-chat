@@ -1,0 +1,32 @@
+{{Zadanie
+ |Nazwa                = Grog dla kucharza
+ |Nazwa angielska      = Grog for the cook
+ |Obraz                = Grog dla kucharza (początek zadania).png
+ |Podpis obrazu        = Kucharz piratów w trakcie zlecania zadania
+ |Zleceniodawca        = [[Pirat (kucharz)]]
+ |Start                = [[Obóz piratów]]
+ |Koniec               = Obóz [[Piraci|piratów]]
+ |Poprzednie           = Brak
+ |Następne             = Brak
+ |Dostępność           = Wszyscy
+ |Nagroda              = 100 [[Punkty doświadczenia|punktów doświadczenia]], Możliwość zabrania kucharza na [[polowanie na brzytwiaki]]
+ |Występowanie         = [[Gothic II: Noc Kruka]]
+}}
+'''Grog dla kucharza''' – zadanie poboczne występujące w [[Gothic II: Noc Kruka]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[Pirat (kucharz)|kucharza]] w [[Obóz piratów|obozie piratów]]. 
+
+== Krok po kroku ==
+# Porozmawiaj z kucharzem piratów.
+# Zdobądź [[grog prawdziwego marynarza]].
+# Wróć do kucharza i daj mu butelkę grogu.
+
+== Przebieg zadania ==
+=== Spragniony kucharz ===
+Po wejściu do [[Obóz piratów|obozu piratów]], [[Bezimienny]] rozpoczyna rozmowę z [[Pirat (kucharz)|kucharzem]]. Już na początku rozmowy pyta on bohatera, czy nie ma przy sobie butelki [[Grog prawdziwego marynarza|grogu]]. Bezimienny widząc, że [[Piraci|pirat]] zajęty pracą nie może sam zdobyć trunku, postanawia zorganizować napój dla kucharza.
+
+=== Zdobycie grogu i powrót do kucharza ===
+Jeżeli bohater nie posiada przy sobie ani jednej butelki grogu, może szybko zdobyć trunek w obozie piratów. Napój przygotować może [[Samuel (Gothic II: Noc Kruka)|Samuel]] za 10 sztuk [[Złoto|złota]]. Bohater może także wziąć butelkę alkoholu leżącą obok łóżka, na którym śpi [[Morgan (Gothic II: Noc Kruka)|Morgan]]. Niezależnie od sposobu otrzymania grogu, Bezimienny wraca do kucharza. Pirat dziękuje bohaterowi, a po chwili może uciąć z nim krótką pogawędkę. Po przyniesieniu trunku kucharz może także wziąć udział w [[Polowanie na brzytwiaki|polowaniu na brzytwiaki]]. Zadanie kończy się powodzeniem.
+[[Kategoria:Zadania poboczne z Gothic II: Noc Kruka]]
+{{Za mało grafik|dialog kończący zadanie}}
+{{Zalążek|wpisy do dziennika}}
+
+[[ru:Грог для повара]]

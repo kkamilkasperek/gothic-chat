@@ -1,0 +1,67 @@
+{{Muzyka do artykułu|Wyzwolenia miast Myrtany (muzyka).ogg}}
+{{Wydarzenie
+ |Nazwa          = Odbicie kopalni rudy w Klanie Młota
+ |Obraz          = Walka w kopalnio 2.png
+ |Podpis obrazu  = Walka z orkami
+ |Typ            = Rewolucja
+ |Przyczyny      = Wsparcie wojowników z [[Klan Młota|Klanu Młota]] przez Bezimiennego
+ |Skutki         = Odbicie kopalni z rąk [[Orkowie|orków]]
+ |Biorący udział = [[Bezimienny]], [[Reto]], [[Mort]], [[Jorn]], [[Lisk]], [[Grim (Gothic 3)|Grim]], [[Thorald]], [[Szef kopalni]], [[Wódz doliny]], [[Orkowie]], [[Nordmarczycy]]
+ |Miejsce        = [[Kopalnia rudy w Klanie Młota]]
+ |Występowanie   = [[Gothic 3]]
+}}
+'''Odbicie kopalni rudy w Klanie Młota''' – wydarzenie mające miejsce w trakcie trwania akcji gry [[Gothic 3]].
+
+== Gothic 3 ==
+=== Przyczyny ===
+Przejęcie [[Kopalnia rudy w Klanie Młota|kopalni]] przez [[Orkowie|orków]] miało miejsce przed rozpoczęciem akcji gry. Od tamtej pory mieszkańcy [[Klan Młota|Klanu Młota]] podejmowali różne działania mające na celu odbicie jej spod panowania zielonoskórych. Dużą przeszkodą była jednak ogromna przewaga liczebna okupanta, dlatego też żaden plan nie miał szans powodzenia. W momencie przybycia [[Bezimienny|Bezimiennego]], frustracja mieszkańców klanu sięgała zenitu i szykowali się oni do zmasowanego ataku niezależnego od szans powodzenia.
+
+[[Plik:Piec na rudę.png|310px|center|thumb|Kopalnia rudy w Klanie Młota]]
+
+=== Przygotowania ===
+Bohater po zapoznaniu się z sytuacją postanawia wspomóc [[Nordmarczycy|Nordmarczyków]]. Dowódca ataku kopalni – [[Reto]] – wyjawia Bezimiennemu plan. Ma on zebrać mały oddział wojowników z [[Nordmar]]u i zaatakować kopalnię od drugiej, położonej niżej, strony. Tymczasem on i jego ludzie dokonają szturmu od strony klanu. Rolę przewodnika dla bohatera ma pełnić [[Mort]].
+
+Bezimienny wraz z Mortem eksplorują Nordmar i pozyskują nowych członków oddziału. Należą do niego:
+* [[Jorn]] – [[Myśliwi|myśliwy]] z [[Klan Wilka|Klanu Wilka]]. Zgadza się po uzbrojeniu go w tuzin [[Wybuchowa strzała|wybuchowych strzał]].
+* [[Lisk]] – myśliwy z tej samej grupy co Jorn. Zgadza się bez żadnego problemu po zakończeniu polowania.
+* [[Thorald]] – [[Kowalstwo|kowal]] z [[Klan Ognia|Klanu Ognia]]. Godzi się pomóc po dostarczeniu mu [[Pancerz Thoralda|pancerza]].
+
+[[Plik:Oddział do ataku na kopalnię.png|310px|center|thumb|Oddział do ataku na kopalnię]]
+
+Po zdobyciu siły ofensywnej wszyscy wojownicy spotykają się pod dolnym wejściem do kopalni i rozpoczynają atak.
+
+=== Odbicie kopalni ===
+[[Plik:Odbicie kopalni dolne wejście.png|310px|right|thumb|Walka przy dolnym wejściu]]
+Orkowie zostają zaatakowani z dwóch stron. Mimo ogromnej przewagi liczebnej zostają wzięci z zaskoczenia, a obustronny szturm utrudnia skuteczną obronę. Zarówno Nordmarczycy z góry jak i oddział Bezimiennego przebijają się co raz bardziej w stronę środka kopalni. Wielu atakujących z Klanu Młota ginie w walce, lecz szala zwycięstwa powoli przechyla się na stronę Nordmarczyków. Finalnie kiedy oddziały orków znacząco maleją, pozostali przy życiu zielonoskórzy rzucają się do ucieczki, a kopalnia staje się wolna.
+
+[[Plik:Odbiciei kopalni od drugiej strony.png|310px|center|thumb|Bitwa od strony Klanu Młota]]
+
+=== Skutki ===
+Odbicie kopalni sprawia, że Nordmarczycy odzyskują dostęp do broni z czystej [[Magiczna ruda|rudy]]. Wydobycie zostaje wznowione co mocno poprawia gospodarkę klanów z Nordmaru oraz zwiększa ich zdolności ofensywne. Orkowie doświadczają sporej, ze strategicznego punktu widzenia, straty. Co więcej tracą dość spory oddział broniący kopalni wraz z wieloma [[Herszci orków|hersztami]].
+
+<gallery widths="310" position="center" captionalign="center">
+Oswobodzenie kopalni polegli.png|Polegli od strony dolnego wejścia
+Polegli w kopalni.png|Polegli w kopalni
+</gallery>
+
+=== Zadania ===
+Oswobodzenie kopalni skutkuje wykonaniem zadania ''[[Odbij kopalnię]]''. Jest też częścią zadania ''[[Oswobodź Nordmar!]]''.
+
+[[Plik:Bezimienny walczy w kopalni.png|310px|center|thumb|Bezimienny walczący z orkami]]
+
+== Siły ==
+=== Nordmarczycy ===
+* [[Bezimienny]]
+* [[Reto]]
+* [[Mort]]
+* [[Lisk]]
+* [[Jorn]]
+* [[Thorald]]
+* [[Nordmarczycy]]
+
+=== Orkowie ===
+* [[Szef kopalni]]
+* [[Wódz doliny]]
+* [[Orkowie]] (x98)
+* [[Szamani orków]] (x9)
+[[Kategoria:Rewolucje i przewroty]]

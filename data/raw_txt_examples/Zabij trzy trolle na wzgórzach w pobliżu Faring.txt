@@ -1,0 +1,34 @@
+{{Zadanie
+ |Nazwa                = Zabij trzy trolle na wzgórzach w pobliżu Faring
+ |Nazwa angielska      = Kill the three trolls in the hills near Faring
+ |Obraz                = Trzy trolle zadanie G3.png
+ |Podpis obrazu        = Zakosh mówiący o [[troll]]ach
+ |Zleceniodawca        = [[Zakosh]]
+ |Start                = [[Zamek w Faring]]
+ |Koniec               = Las nieopodal [[Faring]]
+ |Poprzednie           = Brak
+ |Część zadania        = Brak
+ |Następne             = Brak
+ |Dostępność           = Wszyscy
+ |Nagroda              = 2500 [[Punkty doświadczenia|punktów doświadczenia]] (+500 po rozmowie z Zakoshem po wykonaniu zadania), [[Reputacja]] w Faring: +12, Możliwość [[Handel|handlu]] z Zakoshem
+ |Występowanie         = [[Gothic 3]]
+}}
+'''Zabij 3 trolle na wzgórzach w pobliżu Faring''' – zadanie poboczne występujące w [[Gothic 3]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[Zakosh]]a
+
+== Krok po kroku ==
+# Porozmawiaj z Zakoshem, który przebywa na [[Zamek w Faring|zamku w Faring]].
+# Zabij 3 [[troll]]e, które żyją w lesie nieopodal miasta.
+# Ponownie porozmawiaj z Zakoshem (opcjonalnie).
+
+== Przebieg zadania ==
+=== Dowód siły ===
+Bezimienny po dotarciu na zamek w Faring, rozmawia z [[Orkowie|orkiem]] Zakoshem i pyta go, czy można z nim [[Handel|pohandlować]]. Ten odpowiada, że nie handluje z [[Ludzie|ludźmi]], a jedynym sposobem, aby go przekonać jest udowodnienie swojej siły i wartości. Każe on bohaterowi zabić 3 trolle, które przebywają w lesie za miastem.
+
+=== Walka z olbrzymami ===
+Bezimienny udaje się do wskazanego lasu i stacza ciężką walkę z trzema olbrzymami. Kiedy ostatnia bestia pada na ziemię, bohater wraca do Zakosha i informuje go o powodzeniu misji. Ork jest pod wrażeniem i chętnie handluje z bohaterem. Zadanie kończy się powodzeniem.
+
+[[Plik:zabij 3 trolle koniec.png|310px|center|thumb|Rozmowa po zabiciu trolli]]
+[[Kategoria:Zadania poboczne z Gothic 3]]
+
+[[ru:Убей трех троллей в холмах возле Фаринга]]
+[[Kategoria:Zadania w Faring z Gothic 3]]

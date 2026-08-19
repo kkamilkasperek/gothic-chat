@@ -1,0 +1,24 @@
+{{Postać
+ |Nazwa                = Bonka
+ |Obraz                = Brak Postaci.png
+ |Gildia               = Nieznana
+ |Zawód                = Nieznany
+ |Poziom               = Nie dotyczy
+ |Miejsce zamieszkania = Nieznane
+ |Miejsce urzędowania  = Nie dotyczy
+ |Posiadana broń       = Nie dotyczy
+ |Posiadana zbroja     = Nie dotyczy
+ |Występowanie         = [[Gothic II]] (wzmianki)
+ |Status               = Nieznany
+ |Dubbing              = Nie dotyczy
+ |Kod                  = Brak
+ |Przedmiot kradzieży  = Kradzież niemożliwa
+}}
+'''Bonka''' – postać, o której wzmianki pojawiają się w [[Gothic II]]. Prawdopodobnie jest kochanką [[Nowicjusze klasztoru Innosa|nowicjusza]] [[Babo]].
+
+== Gothic II ==
+Bonka i [[Fehta]] napisały – za pośrednictwem mistrza [[Marlas]]a, gdyż same są niepiśmienne – [[list do Babo]], w którym załączyły [[portret nagiej kobiety]] (prawdopodobnie jednej z nich) i zwinęły je w [[zwitek papierów]]. Kobiety zrobiły to w nadziei, że będzie on przypominał nowicjuszowi [[Klasztor Innosa na wyspie Khorinis|klasztoru Innosa]] o spędzonych z nimi nocach.
+
+Zarówno list, jak i portret stanowią wiadomość pożegnalną, gdyż Babo, wstąpiwszy do klasztoru, powinien żyć w celibacie. Po niedługim czasie zwitek papierów zostaje skradziony przez [[Igaraz]]a i Babo prosi [[Bezimienny|Bezimiennego]] o odzyskanie go.
+[[Kategoria:Postacie z Gothic II]]
+[[Kategoria:Postacie wspominane]]

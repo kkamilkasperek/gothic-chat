@@ -1,0 +1,24 @@
+{{Przedmiot
+ |Ikona           = Fragment klucza ico.png
+ |Nazwa           = Klucz Tavina
+ |Nazwa angielska = Tavin's key
+ |Obraz           = Klucz do kufra Tjalfa.png
+ |Podpis obrazu   = Klucz Tavina
+ |Typ             = Klucz
+ |Opis            = ''Jeden z kluczy do skrzyni Rollana.''
+ |Właściciel      = [[Tavin]]
+ |Rzadkość        = Unikat
+ |Dodatkowe       = Brak
+ |Wartość kupna   = Brak możliwości kupna
+ |Wartość sprzedaży = Brak możliwości sprzedaży
+ |Występowanie    = [[Gothic 3: Zmierzch Bogów]]
+ |Questowy        = Nie
+ |Kod             = It_Key_Mage_02
+}}
+'''Klucz Tavina''' – klucz występujący w [[Gothic 3: Zmierzch Bogów]].
+
+== Gothic 3: Zmierzch Bogów ==
+Znajduje się w ekwipunku [[Tavin]]a. Jedyny sposób, aby go zdobyć, to pobicie właściciela. Nie pełni żadnej funkcji w grze. Jest nieskasowaną pozostałością po kluczach wymaganych do otworzenia [[Skrzynia Rollana|skrzyni Rollana]]. Finalnie skrzynia otwierana jest za pomocą 3 [[Fragment klucza|fragmentów klucza]], które wręczają [[Bezimienny|Bezimiennemu]] trzej [[magowie wody]].
+
+Klucza nie można kupić ani sprzedać.
+[[Kategoria:Klucze z Gothic 3: Zmierzch Bogów]]

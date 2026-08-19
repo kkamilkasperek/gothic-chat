@@ -1,0 +1,223 @@
+{{Postać
+ |Imię                 = Hakon
+ |Podnazwa             = Gothic II,GII:NK
+ |Obraz                = Hakon (by Wojciech Wawrzyńczak).png
+ |Gildia               = [[Obywatele Khorinis|Obywatel]]
+ |Zawód                = Handlarz
+ |Poziom               = 24
+ |Miejsce zamieszkania = [[Miasto Khorinis|Khorinis]]
+ |Miejsce urzędowania  = [[Plac targowy (Khorinis)|Plac targowy]]
+ |Posiadana broń       = [[Kiepski krótki miecz]]
+ |Posiadana zbroja     = [[Strój obywatela]]
+ |Status               = Nieznany
+ |Dubbing              = [[Piotr Bąk]]
+ |Kod                  = Vlk_407_Hakon
+ |Przedmiot kradzieży  = {{Wartość|złoto|65}}
+ |Wymagana zręczność   = 45
+}}
+{{Postać
+ |Imię                 = Hakon
+ |Podnazwa             = Gothic II,GII:NK
+ |Obraz                = Hakon (by Wojciech Wawrzyńczak).png
+ |Gildia               = [[Obywatele Khorinis|Obywatel]]
+ |Zawód                = Handlarz
+ |Poziom               = 20
+ |Miejsce zamieszkania = [[Miasto Khorinis|Khorinis]]
+ |Miejsce urzędowania  = [[Plac targowy (Khorinis)|Plac targowy]]
+ |Posiadana broń       = [[Kiepski krótki miecz]]
+ |Posiadana zbroja     = [[Strój obywatela]]
+ |Status               = Nieznany
+ |Dubbing              = [[Piotr Bąk]]
+ |Kod                  = Vlk_407_Hakon
+ |Przedmiot kradzieży  = {{Wartość|złoto|65}}
+ |Wymagana zręczność   = 45
+}}
+'''Hakon''' – postać występująca w [[Gothic II]]. Jest to handlarz bronią mieszkający w [[Miasto Khorinis|mieście Khorinis]].
+
+== Gothic II ==
+Oferuje głównie miecze i topory, które są wykuwane przez [[Harad]]a. Ma kłopoty z [[Bandyci|bandytami]], którzy zaszyli się w jaskini za [[Farma Akila|farmą Akila]]. Zleca [[Bezimienny|Bezimiennemu]] zadanie pozbycia się ich, a po wykonaniu zadania płaci głównemu bohaterowi 100 sztuk [[Złoto|złota]].
+
+=== Zlecane zadania ===
+* [[Najazdy bandytów]]
+
+=== Towary ===
+<span class='mw-customtoggle-towary wds-button'>Pokaż/ukryj towary</span>
+<div class='mw-collapsible mw-collapsed' id='mw-customcollapsible-towary'>
+* Asortyment z [[Zagrożenie|I rozdziału]] to asortyment początkowy. Reszta rozdziałów to przedmioty, które zostają dodane do oferty handlarza.
+* Towary handlarza, ich liczba oraz statystyki różnią się w grze z dodatkiem „Noc Kruka”.
+
+; [[Zagrożenie|Rozdział I]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Krótki miecz]] || 1 || 60
+|-
+| [[Wilczy kieł]] || 1 || 150
+|-
+| [[Kostur sędziego]] || 1 || 250
+|-
+| [[Topór marynarski]] || 1 || 400
+|-
+| [[Dobry krótki miecz]] || 1 || 200
+|-
+| [[Surowa stal]] || 5 || 10
+|}
+
+; [[Powrót do Kolonii|Rozdział II]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Lekki miecz dwuręczny]] || 1 || 220
+|-
+| [[Oskard]] || 1 || 300
+|-
+| [[Topór obosieczny]] || 1 || 500
+|-
+| [[Surowa stal]] || 5 || 10
+|}
+
+; [[Oko Innosa (rozdział)|Rozdział III]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Buława]] || 1 || 600
+|-
+| [[Topór bojowy]] || 1 || 1200
+|-
+| [[Dobry miecz półtoraręczny]] || 1 || 1000
+|-
+| [[Surowa stal]] || 5 || 10
+|}
+
+; [[Xardas (rozdział)|Rozdział IV]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Ciężki młot wojenny]] || 1 || 1200
+|-
+| [[Orkowa zguba]] || 1 || 1500
+|-
+| [[Topór wojenny]] || 1 || 2000
+|-
+| [[Surowa stal]] || 5 || 10
+|}
+
+; [[Rozstanie|Rozdział V]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Smocza Zguba]] || 1 || 3000
+|-
+| [[Surowa stal]] || 5 || 10
+|}</div>
+
+== Gothic II: Noc Kruka ==
+Mówi protagoniście o [[Joe (postać)|Joe]], którego widział ostatnio kręcącego się koło wież z bronią. Jak się potem okazuje, Joe znajduje się w wieży koło [[Constantino|Constantina]], do której klucz posiada [[Straż miejska|strażnik miejski]], [[Peck]].
+
+=== Zlecane zadania ===
+* [[Joe (zadanie)|Joe]]
+
+=== Towary ===
+<span class='mw-customtoggle-towary2 wds-button'>Pokaż/ukryj towary</span>
+<div class='mw-collapsible mw-collapsed' id='mw-customcollapsible-towary2'>
+* Asortyment z I rozdziału to asortyment początkowy. Reszta rozdziałów to przedmioty, które zostają dodane do oferty handlarza.
+* Towary handlarza, ich liczba oraz statystyki różnią się w grze bez dodatku „Noc Kruka”.
+
+; [[Zagrożenie|Rozdział I]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Krótki miecz]] || 1 || 500
+|-
+| [[Wilczy kieł]] || 1 || 550
+|-
+| [[Kostur sędziego]] || 1 || 600
+|-
+| [[Kiepski miecz półtoraręczny]] || 1 || 850
+|-
+| [[Buława]] || 1 || 1000
+|-
+| [[Topór marynarski]] || 1 || 600
+|-
+| [[Surowa stal]] || 5 || 10
+|-
+| [[Topór wojenny]] || 1 || 1400
+|-
+| [[Skórzany pas]] || 1 || 250
+|-
+| [[Pas straży]] || 1 || 250
+|-
+| [[Amulet pancerza]] || 1 || 800
+|}
+
+; [[Powrót do Kolonii|Rozdział II]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Surowa stal]] || 5 || 10
+|}
+
+; [[Oko Innosa (rozdział)|Rozdział III]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Oskard]] || 1 || 800
+|-
+| [[Topór obosieczny]] || 2 || 900
+|-
+| [[Buława]] || 1 || 1000
+|-
+| [[Orkowa zguba]] || 2 || 1300
+|-
+| [[Surowa stal]] || 5 || 10
+|-
+| [[Pas obrony]] || 1 || 500
+|}
+
+; [[Polowanie na smoki (rozdział)|Rozdział IV]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Surowa stal]] || 5 || 10
+|-
+| [[Pas ochrony]] (typ 2) || 1 || 500
+|-
+| [[Pas strażnika]] || 1 || 2000
+|}
+
+; [[Rozstanie|Rozdział V]] 
+{| class="wikitable sortable"
+! style="width: 215px"| Przedmiot
+! Liczba
+! Cena
+|-
+| [[Surowa stal]] || 5 || 10
+|}</div>
+
+== Modyfikacje ==
+{{Główny artykuł|Hakon/Modyfikacje}}
+[[Kategoria:Handlarze z Gothic II]]
+[[Kategoria:Postacie z Gothic II]]
+[[Kategoria:Obywatele Khorinis]]
+
+[[cs:Hakon]]
+[[it:Hakon]]
+[[ru:Хакон]]

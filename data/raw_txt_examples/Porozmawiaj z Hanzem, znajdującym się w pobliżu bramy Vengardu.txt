@@ -1,0 +1,40 @@
+{{Zadanie
+ |Nazwa           = Porozmawiaj z Hanzem, znajdującym się w pobliżu bramy Vengardu
+ |Nazwa angielska = Talk to Hanz near Vengard's town gate
+ |Obraz           = Talk with Hanz pocz.png
+ |Podpis obrazu   = Początek zadania
+ |Zleceniodawca   = [[Lee]]
+ |Start           = [[Zamek w Vengardzie]]
+ |Koniec          = Zamek w [[Vengard]]zie
+ |Poprzednie      = [[Lee musi wysłać dodatkowe siły do Gothy]]
+ |Część zadania   = Brak
+ |Następne        = [[Przygotuj się do wymarszu na Gothę]]
+ |Dostępność      = Wszyscy
+ |Nagroda         = 500 [[Punkty doświadczenia|punktów doświadczenia]]
+ |Występowanie    = [[Gothic 3: Zmierzch Bogów]]
+}}
+'''Porozmawiaj z Hanzem, znajdującym się w pobliżu bramy Vengardu''' – zadanie główne występujące w [[Gothic 3: Zmierzch Bogów]]. Jest zlecane [[Bezimienny|Bezimiennemu]] przez [[Lee]].
+
+== Krok po kroku ==
+# Porozmawiaj z Lee po wykonaniu zadania ''[[Lee musi wysłać dodatkowe siły do Gothy]]''.
+# Porozmawiaj z [[Hanz]]em, który przebywa niedaleko bramy prowadzącej do [[Vengard]]u.
+# Ponownie porozmawiaj z Lee.
+
+== Przebieg zadania ==
+=== Potrzebna zgoda ===
+Bezimienny, pytając o wsparcie dla [[Gorn]]a, który chce powstrzymać [[Thorus]]a przed przejęciem władzy w [[Myrtana|Myrtanie]], słyszy, że Lee nie może się na to zgodzić, ponieważ jego generałowie stanowczo odmówią. Bohater postanawia się tym zająć i przekonać tego, który ma kluczowy głos – Hanza.
+
+=== Rozmowa z Hanzem ===
+Bezimienny udaje się do Hanza. Ten twierdzi, że nie ma szans na pokój w Myrtanie, a wszelkie próby jego zaprowadzenia są śmiechu warte. Kiedy bohater wspomina o wsparciu dla Gorna, Hanz stanowczo odmawia, mówiąc, że prędzej zabiłby własną matkę, niż stanął do boju razem z nim. Uważa, że głowa Gorna powinna zawisnąć na włóczni w centrum Myrtany, aby każdy mógł go przekląć. Według niego Gorn walczy bez honoru i wyłącznie dla własnego zysku. Motywację odbiera mu też fakt, że wielu wojowników próbowało wprowadzić zmiany i nic to nie dało. Wspomina wtedy nieświadomie postać Bezimiennego, pytając, gdzie jest wojownik, który zabił [[Smok Ożywieniec|Smoka Ożywieńca]] i [[Rhobar II|Rhobara]]. Kiedy dowiaduje się, że właśnie z nim rozmawia, wpada w osłupienie i finalnie udziela zgody.
+
+[[Plik:Talk with Hanz środek.png|310px|center|thumb|Rozmowa z Hanzem]]
+
+=== Powrót do Lee ===
+Po rozmowie z Hanzem Bezimienny wraca do Lee i ponownie prosi o wsparcie, tym razem mając poparcie Hanza. Lee się zgadza, a zadanie kończy się powodzeniem.
+
+[[Plik:Talk with Hanz koniec.png|310px|center|thumb|Koniec zadania]]
+
+== Wpis z dziennika ==
+{{Cytat|Muszę przekonać generała Lee, Hanza, do wsparcia Gorna.}}
+[[Kategoria:Zadania główne z Gothic 3: Zmierzch Bogów]]
+[[Kategoria:Zadania w Vengardzie z Gothic 3: Zmierzch Bogów]]

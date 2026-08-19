@@ -1,0 +1,28 @@
+{{Niekanon}}
+{{Broń
+ |Ikona                 = Kiepskie ostrze magiczne (2H) (ikonka) (G2).png
+ |Nazwa                 = Miecz dżedaja
+ |Obraz                 = Ciężki dwuręczniak (G1).png
+ |Podpis obrazu         = Miecz dżedaja
+ |Typ                   = Miecz dwuręczny
+ |Opis                  = ''Miecz przeciętnego dżedaja''
+ |Wymagane atrybuty     = [[Siła]]: 120
+ |Obrażenia             = 120
+ |Dodatkowe             =
+ |Posiadacz             =
+ |Handlarze             = [[Wowan Biały]]
+ |Wartość kupna         = {{Wartość|ruble|2000}}
+ |Wartość sprzedaży     = {{Wartość|ruble|300}}
+ |Występowanie          = [[Podróżnik – Za liniami wroga]]
+ |Kod                   = ItMw_2H_Blessed_01
+}}
+'''Miecz dżedaja''' – broń dwuręczna występująca w [[Modyfikacja|modyfikacji]] [[Podróżnik – Za liniami wroga]] do [[Gothic II: Noc Kruka]].
+
+== Podróżnik – Za liniami wroga ==
+Jest to bardzo dobry miecz dwuręczny. Ma pofalowane ostrze oraz uchwyt nad rękojeścią wspomagający walkę, wąsaty jelec i kwadratową głowicę. [[Podróżnik]] może znaleźć go podczas przeprawy przez [[opuszczony szyb]] lub kupić u [[Wowan Biały|Wowana Białego]] za 2000 [[Rubel|rubli]]. W momencie sprzedaży dowolnemu handlarzowi cena spada do 300. Broń wymaga 120 punktów [[Siła|siły]] i zadaje tyle samo [[Obrażenia|obrażeń]].
+
+== Ciekawostki ==
+* Nazwa miecza nawiązuje do Rycerzy Jedi (czyt. ''Dżedaj'') znanych z uniwersum ''Gwiezdnych Wojen''.
+
+[[Kategoria:Broń dwuręczna z Podróżnik – Za liniami wroga]]
+[[Kategoria:Easter eggi z Podróżnik – Za liniami wroga]]

@@ -1,0 +1,90 @@
+{{Czar
+ |Ikona              = Piorun_kulisty_(runa)_(ikonka)_(G1).png
+ |Nazwa              = Piorun kulisty
+ |Nazwa angielska    = Ball Lightning
+ |Podnazwa           = Gothic,Gothic II,GII:NK
+ |Obraz              = <gallery>
+Piorun_kulisty_(runa)_(G1).png|Runa
+Przemiana W Zębacza Zwój G1.png|Zwój
+</gallery>
+ |Bóg                = [[Adanos]]
+ |Krąg               = [[Trzeci krąg magii|Trzeci]]
+ |Obrażenia          = 20-80
+ |Wymagana mana      = 1-5
+ |Działanie          = Zadaje średnie obrażenia i na chwilę paraliżuje cel
+ |Wartość kupna      = {{Wartość|ruda|900}} (runa), {{Wartość|ruda|90}} (zwój)
+ |Wartość sprzedaży  = {{Wartość|ruda|450}} (runa), {{Wartość|ruda|45}} (zwój)
+ |Występowanie       = [[Gothic]], [[Gothic II]]
+ |Kod                = itarrunethunderball (runa), itarscrollthunderball (zwój)
+}}
+{{Czar
+ |Ikona              = Piorun kulisty runa G2 ikona.png
+ |Nazwa              = Piorun kulisty
+ |Podnazwa           = Gothic,Gothic II,GII:NK
+ |Obraz              = <gallery>
+Piorun_Kulisty_Runa_GII.png|Runa
+Piorun_Kulisty_Zwój_GII.png|Zwój
+</gallery>
+ |Bóg                = [[Adanos]]
+ |Krąg               = [[Trzeci krąg magii|Trzeci]]
+ |Obrażenia          = 60-180
+ |Wymagana mana      = Do 60
+ |Działanie          = Zadaje średnie obrażenia
+ |Wartość kupna      = {{Wartość|złoto|1500}} (runa), {{Wartość|złoto|250}} (zwój)
+ |Wartość sprzedaży  = {{Wartość|złoto|450}} (runa), {{Wartość|złoto|75}} (zwój)
+ |Występowanie       = [[Gothic]], [[Gothic II]]
+ |Kod                = itru_thunderball (runa), itsc_thunderball (zwój)
+}}
+{{Czar
+ |Ikona              = Piorun kulisty runa G2 ikona.png
+ |Nazwa              = Piorun kulisty
+ |Podnazwa           = Gothic,Gothic II,GII:NK
+ |Obraz              =<gallery>
+Piorun_Kulisty_Runa_GII.png|Runa
+Piorun_Kulisty_Zwój_GII.png|Zwój
+</gallery>
+ |Bóg                = [[Adanos]]
+ |Krąg               = [[Trzeci krąg magii|Trzeci]]
+ |Obrażenia          = 30-120
+ |Wymagana mana      = 10-40
+ |Działanie          = Zadaje średnie obrażenia
+ |Wartość kupna      = {{Wartość|złoto|1500}} (runa), {{Wartość|złoto|75}} (zwój)
+ |Wartość sprzedaży  = {{Wartość|złoto|225}} (runa), {{Wartość|złoto|11}} (zwój)
+ |Występowanie       = [[Gothic]], [[Gothic II]]
+ |Kod                = itru_thunderball (runa), itsc_thunderball (zwój)
+}}
+'''Piorun kulisty''' – zaklęcie [[Trzeci krąg magii|trzeciego kręgu]] [[Magia przemiany|magii Adanosa]] występujące w [[Gothic]] i [[Gothic II]].
+
+== Gothic ==
+[[Plik:Piorun kulisty zwój ikona G1.png|left]]
+Po krótkiej inkantacji czaru w cel uderza piorun, który na chwilę paraliżuje go i zadaje obrażenia, tym większe, im więcej mag poświęci [[Mana|many]] do jego użycia. Maksymalnie można zadać 80 punktów obrażeń przy 5 punktach zainwestowanej energii magicznej.
+
+[[Zwoje magiczne|Zwoje]] zaklęcia można kupić od [[Gniazdo pełzaczy (rozdział)|II rozdziału]] u [[Cronos]]a (ma wówczas 4 sztuki, w [[Xardas (rozdział)|rozdziale IV]] zyskuje dodatkowe 10). Od [[Starożytna magia|III rozdziału]] mag oferuje na sprzedaż także [[Runa|runę]].
+
+Runą posługuje się nieumarły szaman [[Varrag-Kasorg]] w [[Świątynia Śniącego|świątyni Śniącego]], a także [[magowie wody]] – [[Nefarius]] i [[Riordian]]. Ponieważ ten ostatni nie używa swojego egzemplarza, można ją od niego kupić od samego początku gry. Dodatkowy skrypt sprawia, że jeśli nie ma on tej runy przy sobie, po każdym zakończeniu rozmowy z nim w jego ekwipunku pojawia się kolejna. Można więc kupować nieskończoną ich liczbę, dopóki mag nie zostanie zmuszony do rzucenia czaru (np. poprzez zaatakowanie go).
+
+Wartość kupna runy wynosi 900 [[Bryłka rudy|bryłek rudy]], zaś zwoju 90 bryłek, przy sprzedaży spada odpowiednio do 450 i 45 bryłek.
+
+[[Plik:Piorun kulisty działanie G1.png|310px|center|thumb|Działanie zaklęcia]]
+
+== Gothic II ==
+[[Plik:Piorun kulisty zwój G2 ikona.png|left]]
+Czar działa podobnie, lecz teraz nie paraliżuje już celu. Nadal można naładować zaklęcie (zużywając maksymalnie 60 punktów many), żeby zadać większe obrażenia (do 180 punktów obrażeń). Aby móc skorzystać ze zwoju, trzeba posiadać co najmniej 18 punktów maksymalnej many.
+
+Bezimienny może nauczyć się [[Tworzenie runy pioruna kulistego|tworzenia tej runy]] od [[Magowie ognia|maga ognia]] imieniem [[Marduk]]. Do jej stworzenia bohater potrzebuje [[Pusty kamień runiczny|kamienia runicznego]], zwoju z zaklęciem, [[Skała krystaliczna|skały krystalicznej]] oraz [[Siarka|siarki]].
+
+Wartość kupna runy wynosi 1500, zaś zwoju 250 sztuk [[Złoto|złota]], przy sprzedaży spada odpowiednio do 450 i 75 sztuk złota.
+
+== Gothic II: Noc Kruka ==
+Efekt działania oraz składniki potrzebne do stworzenia runy zaklęcia nie zmieniły się, natomiast można zużyć maksymalnie 40 punktów many, aby zadać do 120 punktów obrażeń. Nie ma już ograniczeń w korzystaniu ze zwojów. Bohater może nauczyć się tworzenia tej runy również u maga wody [[Nefarius]]a po dotarciu do [[Jarkendar]]u.
+
+Wartość kupna runy nie zmieniła się, natomiast zwoju spadła do 75 sztuk złota. Teraz sprzedać je można odpowiednio za 225 i 11 sztuk złota.
+
+== Modyfikacje ==
+{{Niekanon|Sekcja}}
+=== [[Prinson Mod]] ===
+Runę zaklęcia [[Articuno]] może kupić od [[autor]]a modyfikacji przy pierwszym spotkaniu przed [[Obóz Bractwa|Obozem Bractwa]], który może też jej użyć przeciw bohaterowi, jeśli zostanie zaatakowany.
+[[Kategoria:Czary z Gothic]]
+[[Kategoria:Czary z Gothic II]]
+{{Za mało grafik|zdjęcie z G2}}
+[[ru:Шаровая молния]]

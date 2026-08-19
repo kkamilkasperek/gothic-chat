@@ -1,0 +1,36 @@
+{{Prolog}}
+{{Zadanie
+ |Nazwa           = Sparing
+ |Nazwa angielska = Sparring Session
+ |Obraz           = 
+ |Podpis obrazu   = 
+ |Zleceniodawca   = [[Kirgo]]
+ |Start           = Rumowisko skalne na drodze do doliny
+ |Koniec          = Rumowisko skalne na drodze do doliny
+ |Poprzednie      = Brak
+ |Część zadania   = Brak
+ |Następne        = Brak
+ |Dostępność      = Wszyscy
+ |Nagroda         = 50 [[Punkty doświadczenia|punktów doświadczenia]], [[Esencja uzdrawiająca]] (przy przegranej), Nauka [[Umiejętność walki|walki bronią jednoręczną]]
+ |Występowanie    = [[Nyras Prologue]]
+}}
+'''Sparing''' – zadanie poboczne występujące w [[Nyras Prologue]]. Jest zlecane [[Nyras]]owi przez [[Kirgo]].
+
+== Krok po kroku ==
+# Porozmawiaj z Kirgo.
+# Powiedz, że jesteś gotów do walki (konieczne posiadanie broni białej).
+# Po starciu porozmawiaj ponownie z Kirgo.
+
+== Przebieg zadania ==
+Przy rumowisku skalnym blokującym dalszą drogę do doliny Nyras spotyka Kirgo, [[Strażnicy Starego Obozu|strażnika]] ze [[Stary Obóz|Starego Obozu]], który stara się odgruzować przejście. Po krótkiej rozmowie proponuje on sparing w ramach treningu przed zbliżającą się jego walką na [[Arena w Starym Obozie|arenie]]. Jeśli bohater ma przy sobie jakąś broń białą, np. [[zardzewiały miecz]] lub [[Maczuga|maczugę]], może stwierdzić, że jest gotów, i rozpocznie się potyczka.
+
+Niezależnie od jej wyniku Kirgo stwierdzi, że protagonista mógłby się czegoś nauczyć i podszkoli go w [[Umiejętność walki|walce bronią jednoręczną]]. Ponadto jeśli Nyras przegrał, dostanie od strażnika [[Esencja uzdrawiająca|esencję uzdrawiającą]]. Zadanie kończy się powodzeniem, a za wykonanie go bohater otrzymuje 50 [[Punkty doświadczenia|punktów doświadczenia]]. Ma wówczas możliwość jednorazowo poprosić o rewanż.
+
+== Zapisy w dzienniku ==
+{{Cytat|Kirgo, strażnik ze Starego Obozu i wojownik walczący na arenie, zaproponował mi sparing. To dla mnie szansa, by dowieść swej wartości i nauczyć się cennych umiejętności walki. Jeśli się wykażę, zyskam szacunek.}}
+
+{{Cytat|Powinienem powiedzieć Kirgo, że jestem gotowy na sparing. Czeka na mnie w pobliżu zawalonych skał i jest gotów, by sprawdzić moje zdolności.}}
+
+{{Cytat|Potrzebuję broni do sparingu z Kirgo. W okolicy z pewnością znajdę jakiś oręż.}}
+
+[[Kategoria:Zadania poboczne z Nyras Prologue]]

@@ -1,0 +1,58 @@
+{{Postać
+ |Imię                 = Onar
+ |Podnazwa             = Gothic II,GII:NK
+ |Obraz                = Onar.png
+ |Gildia               = [[Farmerzy|Farmer]]
+ |Poziom               = 24
+ |Miejsce zamieszkania = [[Farma Onara]]
+ |Miejsce urzędowania  = Lewe skrzydło w [[Dom Onara|domu Onara]]
+ |Posiadana broń       = [[Laga]]
+ |Posiadana zbroja     = [[Strój obywatela]]
+ |Status               = Nieznany
+ |Dubbing              = [[Tomasz Marzecki]]
+ |Kod                  = Bau_900_Onar
+ |Przedmiot kradzieży  = Kradzież niemożliwa
+}}
+{{Postać
+ |Imię                 = Onar
+ |Podnazwa             = Gothic II,GII:NK
+ |Obraz                = Onar.png
+ |Gildia               = [[Farmerzy|Farmer]]
+ |Poziom               = 40
+ |Miejsce zamieszkania = [[Farma Onara]]
+ |Miejsce urzędowania  = Lewe skrzydło w [[Dom Onara|domu Onara]]
+ |Posiadana broń       = [[Laga]]
+ |Posiadana zbroja     = [[Strój obywatela]]
+ |Status               = Nieznany
+ |Dubbing              = [[Tomasz Marzecki]]
+ |Kod                  = Bau_900_Onar
+ |Przedmiot kradzieży  = Kradzież niemożliwa
+}}
+'''Onar''' – bogaty właściciel ziemski oraz zarządca [[Farma Onara|największej farmy]] na [[Wyspa Khorinis|wyspie Khorinis]]. Jest żonaty z [[Maria|Marią]], ma z nią córkę [[Elena|Elenę]]. Występuje w [[Gothic II]].
+
+== Charakter i osobowość ==
+Onar jest oschłym, nieprzyjemnym człowiekiem. Łatwo traci cierpliwość i nie znosi głupoty oraz niekompetencji. Nie lubi zaprzątać sobie głowy sprawami służby, którą opłaca. Jest też niezwykle dumny i uparty. Bardzo dba o swoje rodzinne mienie i nie pozwoli, by ktokolwiek wydawał mu polecenia, choćby był to i sam [[Rhobar II|król]]. Wydaje się nie liczyć z nikim i niczym, a jedyną osobą, która ma na niego jakikolwiek wpływ, jest jego własna żona. Jest na tyle uparty, że nie obchodzą go nawet losy jego własnego kraju i dba wyłącznie o swój interes.
+
+== Przed akcją gry ==
+Z dziada pradziada mieszka na swojej farmie. Gdy strażnicy miejscy zaczęli rozkradać dobytek Onara, za namową żony wynajął on [[Najemnicy Lee|najemników]] z [[Kolonia karna|kolonii karnej]] i odmówił zaopatrywania [[Miasto Khorinis|miasta]]. Po jego stronie stanęli farmerzy [[Bengar]] oraz [[Sekob]]. Tak rozpoczął się [[bunt chłopów]].
+
+== Gothic II ==
+Najemnicy, w przeciwieństwie do [[Straż miejska|strażników miejskich]], bronią jego farmy oraz [[Farma Sekoba|ziem Sekoba]] i [[Farma Bengara|Bengara]]. Właściciele pobliskich terenów płacą Onarowi daninę za ochronę, wiedząc, że tylko jego najemnicy są w stanie im pomóc. [[Bezimienny]] może się zatrudnić na farmie jako najemnik. Jeżeli będzie wykonywać zadania powierzone przez pracowników, dostanie premię każdego dnia w postaci wypłaty.
+
+Jeśli [[Pepe]] zginie, można od niego kupić owcę za 200 sztuk [[Złoto|złota]]. 
+
+== Modyfikacje ==
+{{Główny artykuł|Onar/Modyfikacje}}
+
+== Ciekawostki ==
+* Warunkiem otrzymania wypłaty jest zdobycie 200 [[Punkty doświadczenia|punktów doświadczenia]]. 
+* Potrafi walczyć orężem po mistrzowsku. 
+* Onar wynajmował około 30 najemników. Przy założeniu, że płacił każdemu z nich 50 sztuk złota dziennie (tak jak Bezimiennemu) oraz że okres, w jakim ich utrzymywał, to ponad 100 dni, to znaczy, że musiał mieć ponad 150 000 sztuk złota.
+
+[[Kategoria:Farmerzy]]
+[[Kategoria:Postacie z Gothic II]]
+[[Kategoria:Właściciele ziemscy]]
+[[cs:Onar]]
+[[de:Onar]]
+[[it:Onar]]
+[[ru:Онар]]

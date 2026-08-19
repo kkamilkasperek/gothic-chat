@@ -1,0 +1,43 @@
+{{Postać
+ |Imię                 = Jergan
+ |Obraz                = Jergan (Gothic II) (by Wojciech Wawrzyńczak).png
+ |Zawód                = Zwiadowca
+ |Poziom               = GII: 30, NK: 50
+ |Miejsce zamieszkania = [[Górnicza Dolina]]
+ |Miejsce urzędowania  = Droga między [[Opuszczona kopalnia|opuszczoną kopalnią]] a [[Zamek w Górniczej Dolinie|zamkiem]], [[Kopalnia Fajetha]]
+ |Posiadana broń       = [[Kiepski topór bojowy]]
+ |Posiadana zbroja     = [[Średni pancerz bandyty]]
+ |Występowanie         = [[Gothic II]]
+ |Dubbing              = [[Paweł Iwanicki]]
+ |Kod                  = Vlk_4110_Jergan
+ |Przedmiot kradzieży  = {{Wartość|złoto|110}}
+ |Wymagana zręczność   = 84
+}}
+'''Jergan''' – postać występująca w [[Gothic II]]. Jest to zwiadowca [[Paladyni|paladynów]] przebywających w [[Górnicza Dolina|Górniczej Dolinie]].
+
+== Gothic II ==
+[[Bezimienny]] spotyka go pierwszy raz w drodze do [[Zamek w Górniczej Dolinie|zamku]], gdzie został wysłany w celu odnalezienia i sprowadzenia zaginionych. Zwiadowca informuje go o obecnej sytuacji w Górniczej Dolinie oraz udziela wskazówek, co do sposobu dostania się do zamku. Prosi bohatera, by przekazał paladynowi [[Orik]]owi wiadomość o tym, że jego [[Brat Orika|brat]] nie żyje. Po rozpoczęciu zadania ''[[Kopacze i ruda]]'' przenosi się do [[Kopalnia Fajetha|kopalni]] grupy [[Fajeth]]a na południu.
+
+=== Nauka ===
+Jest specjalistą w oprawianiu [[zębacz]]y i podczas pobytu w obozie Fajetha może nauczyć [[Usuwanie pazurów|usuwania pazurów]] tych zwierząt. Kosztuje to 5 [[Punkty nauki|punktów nauki]]. Po zabiciu [[Przywódca grupy|przywódcy stada]] zębaczy podpowiada Bezimiennemu, że [[Pazury przywódcy stada|pazury bestii]] mogą być cennym trofeum.
+
+=== Zlecane zadania ===
+* [[Złe wieści]]
+
+== Gothic II: Noc Kruka ==
+Nauka u Jergana się nie zmieniła, natomiast koszt opanowania usuwania pazurów obniżył się do 3 punktów nauki.
+
+== Modyfikacje ==
+{{Główny artykuł|Jergan/Modyfikacje}}
+
+== Ciekawostki ==
+* W [[Kopalnia Marcosa|kopalni Marcosa]] znajduje się waypoint o nazwie ''OW_MINE2_STAND_JERGAN'', co sugeruje że na pewnym etapie produkcji gry miał się tam znajdować.
+* W polskiej wersji podstawowego Gothic II Jergan, gdy prosi o przekazanie wiadomości paladynowi Orikowi, wypowiada niezrozumiałą kwestię: ''Powiedz mu, że jego brat kupił to na przełęczy''. Błąd wynika z dosłownego przetłumaczenia angielskiego idiomu ''bought it'' oznaczającego ''zginąć''. W Nocy Kruka został on poprawiony (zarówno w tekście, jak i dubbingu) na ''poległ na przełęczy''.
+* Najpewniej jest on szpiegiem, o którym wspomina Orik w IV rozdziale, mówiąc o smokach i Hosh-Paku.
+* Jako jedyny nosi zbroję bandytów, choć nie jest jednym z nich. Z tego względu inni ludzie go nie atakują, także w Nocy Kruka, ponieważ dla postaci niezależnych skrypt zachowań nie bierze pod uwagę posiadanego pancerza, a przynależność do gildii ''Bandyta''. Jeśli jednak w dodatku gracz przejmie nad nim kontrolę przy pomocy kodów, to zadziała skrypt związany z bandyckim pancerzem i ludzie zaczną go atakować.
+[[Kategoria:Nauczyciele z Gothic II]]
+[[Kategoria:Postacie z Gothic II]]
+{{Za mało grafik|zdjęcie Jergana w obozie Fajetha bez modów}}
+[[cs:Jergan]]
+[[it:Jergan]]
+[[ru:Джерган]]

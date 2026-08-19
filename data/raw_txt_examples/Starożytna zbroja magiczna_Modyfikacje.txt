@@ -1,0 +1,42 @@
+{{Niekanon}}
+{{Tocright}}
+
+== [[Gothic Edycja rozszerzona]] ==
+W modyfikacji zapewnia 74 punkty ochrony przed bronią, 35 przed pociskami, 40 punktów przed ogniem i 10 przed magią. Jej wartość spadła do 4440 bryłek rudy.
+
+== [[Świat Skazańców]] ==
+Wartość zbroi nie uległa zmianie, natomiast oprócz standardowych ochron przed bronią, ogniem i magią z podstawowej gry zwiększa ona także o 95 punktów ochronę przed pociskami. Jej opis został skrócony do: ''Wykonana z magicznej rudy''.
+
+== [[Zły Sen]] ==
+Zbroja uległa zmianom kosmetycznym. Można ją znaleźć z nałożonym efektem.
+[[Plik:Wzmocniona zbroja magiczna (by Jakimix135xd).jpg|130px|center|thumb|Zbroja w Złym Śnie]]
+
+== [[Rüstungsmod Small]] ==
+Zbroję można odzyskać, wchodząc do [[Miasto orków|obozu orków]], gdyż została przez nich wydobyta z ruin świątyni Śniącego razem z [[Uriziel]]em.
+
+== [[Diccuric]] ==
+[[Ardaric]] może wejść w posiadanie tej zbroi, gdy znajdzie sposób na złamanie czaru ochronnego na szczycie [[Gwiezdna Strażnica|gwiezdnego obserwatorium]]. Znajduje się ona złożona na szczycie wieży.
+
+== [[Dunkle Magie]] oraz [[Global Mod]] ==
+Zbroję tę nosi kilku wojowników [[Mroczny zakon|mrocznego zakonu]]. Bohater także może sobie takową wykuć.
+[[Plik:Dunkle magie wojownicy.png|310px|center|thumb|Wojownicy mrocznych w zbrojach magicznych]]
+
+== [[Returning]] oraz [[L'HIVER Edition]] ==
+Bohater jest ubrany w tę zbroję jeszcze podczas początkowej rozmowy z Xardasem. Pęka ona na bohaterze po zakończeniu dialogu.
+
+Istnieje jednak sztuczka, dzięki której bohater nie straci zbroi i będzie mógł dzięki niej wejść bez problemu do miasta bądź inaczej poprowadzić rozmowę z [[Canthar]]em. Zbroja jednak nie posiada żadnych parametrów ochronnych.
+
+W wersji 1.0 oraz ReBalance [[zbroja Runiczna]] wyglądała tak samo, gdyż ''Haradrimowie'' tworzyli swoje pancerze na wzór właśnie zbroi noszonej przez Uriziela.
+
+== [[Nostalgic Edition]] ==
+Bohater nosi fragmenty tej zbroi jako ubranie startowe. Owo ubranie zostało zaczerpnięte z [[Gothic Sequel]].
+
+W V rozdziale [[Bennet]] może naprawić zbroję. Należy mu wtedy dać łachy i 25 [[Bryłka rudy|bryłek rudy]].
+
+== [[Mroczne Tajemnice]] ==
+Jej ochrona znacząco wzrosła względem podstawowej wersji gry. Pancerz oferuje ochronę przed magią na poziomie 120 punktów, przed strzałami chroni o 105 punktów, przed bronią na 125 punktów, a przed ogniem na 120 punktów.
+
+== [[Powrót Xeresa]] ==
+[[Xardas]] tłumaczy [[Bezimienny|Bezimiennemu]], że według starożytnej tradycji, nosiciel zbroi kontynuował walkę, nawet kiedy jego ciało zostało przebite przez niezliczoną ilość broni i spalone płomieniami. Zbroja uniemożliwia wydostanie się duszy z martwego ciała. Zbroja posiada również właściwość całkowitego uleczenia nosiciela. [[Bezimienny]] znajduję w [[Świątynia Śniącego|świątyni Śniącego]] książkę, która ujawnia formułę, umożliwiającą połączenie zbroi z leczniczymi runami i tym samym wraca do żywych lecz zbroja rozpada się.
+[[Kategoria:Podstrony pancerzy z treścią z modyfikacji]]
+[[Kategoria:Pancerze ze Złego Snu]]

@@ -1,0 +1,26 @@
+{{Niekanon}}
+{{Trofeum
+ |Ikona                 = Pazury (Gothic ER) ikona.png
+ |Nazwa                 = Pazury trolla ziemnego
+ |Obraz                 = Pazury (Gothic ER).png
+ |Podpis obrazu         = Pazury trolla ziemnego
+ |Typ                   = Trofeum
+ |Wymagane umiejętności = [[Usuwanie pazurów ziemnych trolli]]
+ |Do zdobycia z         = [[Ziemny troll|Ziemnego trolla]], [[Młody troll ziemny|Młodego trolla ziemnego]], [[Samica ziemnego trolla|Samicy ziemnego trolla]]
+ |Rzadkość              = Rzadkie
+ |Wartość kupna         = {{Wartość|ruda|20}}
+ |Wartość sprzedaży     = {{Wartość|ruda|10}}
+ |Posiadacz             = Brak
+ |Występowanie          = [[Gothic Edycja rozszerzona]]
+ |Questowy              = Nie
+ |Kod                   = ItAt_Claws_02
+}}
+'''Pazury trolla ziemnego''' – trofeum łowieckie występujące w [[Modyfikacja|modyfikacji]] [[Gothic Edycja rozszerzona]].
+
+== Gothic Edycja Rozszerzona ==
+Są to pazury, których 2 sztuki [[Bezimienny]] może pozyskać z każdego zabitego [[Ziemny troll|ziemnego trolla]] (także [[Młody troll ziemny|młodych osobników]] oraz [[Samica ziemnego trolla|samicy]]), jeśli posiada odpowiednią [[Usuwanie pazurów ziemnych trolli|umiejętność]]. Oprócz tego jedną sztukę można znaleźć leżącą luzem na stole w jaskini w [[Obóz łowców orków (Gothic Edycja rozszerzona)|obozie łowców orków]].
+
+Wartość pazurów wynosi 20 [[Bryłka rudy|bryłek rudy]], lecz przy sprzedaży spada ona do 10 bryłek.
+
+[[Kategoria:Przedmioty z Gothic Edycja rozszerzona]]
+[[Kategoria:Trofea z Gothic Edycja rozszerzona]]

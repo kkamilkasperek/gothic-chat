@@ -1,0 +1,33 @@
+{
+  "title": "Posąg Innosa_Modyfikacje",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    },
+    {
+      "name": "Tocright",
+      "params": {}
+    }
+  ],
+  "type": "unknown",
+  "infobox": {},
+  "categories": [
+    "Podstrony obiektów z treścią z modyfikacji"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Kroniki Myrtany: Archolos",
+      "text": "Koszt ofiary nie zmienił się w modyfikacji, natomiast za modlenie się do Innosa Marvin może uzyskać 10 punktów trafień, jeżeli złoży 100 sztuk złota. Dodatkowo modlitwa leczy całkowicie protagonistę, niezależnie od tego czy złoży ofiarę czy nie. Jeżeli bohater posiada dom na Starym Mieście, to może zakupić posąg Innosa jako wyposażenie do ogrodu w sklepie meblowym o nazwie Dolina Świtu za 150 sztuk złota."
+    },
+    {
+      "title": "Ucieczka",
+      "text": "Za modlenie się do Innosa można zyskać 5 punktów trafień za każdorazowe złożenie w ofierze 10 bryłek złota, 5 bryłek rudy lub 1000 sztuk złota."
+    },
+    {
+      "title": "Returning",
+      "text": "Z kapliczek wydobywa się niebiesko-fioletowa poświata.\n310px|center|thumb|Posąg w modyfikacji Returning"
+    }
+  ]
+}

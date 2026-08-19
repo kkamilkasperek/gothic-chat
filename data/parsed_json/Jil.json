@@ -1,0 +1,52 @@
+{
+  "title": "Jil",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Postać",
+  "infobox": {
+    "imię": "Jil",
+    "obraz": "KronikiMyrtany Jil.png",
+    "gildia": "Farmerka",
+    "zawód": "Kucharka",
+    "poziom": "10",
+    "miejsce zamieszkania": "Wyspa Archolos",
+    "miejsce urzędowania": "Silbach",
+    "posiadana broń": [
+      "Patelnia Jil"
+    ],
+    "posiadana zbroja": [
+      "Strój obywatela"
+    ],
+    "występowanie": "Kroniki Myrtany: Archolos",
+    "dubbing": "Izabela Gawlas",
+    "kod": "Bau_729_Nob",
+    "przedmiot kradzieży": "2x surowe mięso ścierwojada + zestaw losowy, (zielony; farmer)",
+    "wymagana umiejętność": "Kradzież kieszonkowa –, zielony"
+  },
+  "categories": [
+    "Postacie z Kroniki Myrtany: Archolos",
+    "Kobiety z Kroniki Myrtany: Archolos",
+    "Kucharze z modyfikacji"
+  ],
+  "languages": {
+    "ru": "Джил"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Jil – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos. Jest kucharką w posiadłości zamieszkiwanej przez Albyna."
+    },
+    {
+      "title": "Kroniki Myrtany: Archolos",
+      "text": "Została nadworną kucharką w momencie, gdy sir Ramsey i jego kucharz wyprowadzili się z Silbach. Jeżeli Marvin zagada ją pytaniem na temat przygotowywanego posiłku, ta przez nieuwagę spali przygotowywaną potrawkę z dzika i wyśle bohatera w poszukiwaniu nowego mięsa."
+    },
+    {
+      "title": "Zlecane zadania",
+      "text": "Sprawa życia lub śmierci"
+    }
+  ]
+}

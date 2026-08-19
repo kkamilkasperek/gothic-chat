@@ -1,0 +1,40 @@
+{
+  "title": "Karabin snajperski MSG90",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Broń",
+  "infobox": {
+    "ikona": "MSG90 ico.png",
+    "nazwa": "Karabin snajperski MSG90",
+    "obraz": "MSG90.png",
+    "podpis obrazu": "Karabin snajperski MSG90",
+    "typ": "Karabin snajperski",
+    "opis": "Brak",
+    "wymagane atrybuty": "Siła: 62",
+    "obrażenia": "60",
+    "posiadacz": "Profesor, Fritz, Mowgli, Perevernikruczenko, Szeregowy Sidorow, Brązowi ninja",
+    "handlarze": "Fritz, Kulibin, Milten",
+    "wartość kupna": "1000 ruble",
+    "wartość sprzedaży": "150 ruble",
+    "występowanie": "Podróżnik – Za liniami wroga",
+    "kod": "itrw_gun4"
+  },
+  "categories": [
+    "Broń palna z Podróżnik – Za liniami wroga"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Karabin snajperski MSG90 – broń palna występująca w modyfikacji Podróżnik – Za liniami wroga do Gothic II: Noc Kruka."
+    },
+    {
+      "title": "Podróżnik – Za liniami wroga",
+      "text": "Ten karabin jest używany przez obywateli Rosji. Podróżnik może kupić go u niektórych handlarzy lub pozyskać z ciał pokonanych wrogów. Broń kosztuje 1000 rubli, lecz przy sprzedaży cena spada do 150. Zadaje 60 punktów obrażeń, a do jej użycia wymagane jest 62 punkty siły. Do strzelania z niego wystarczy zwykła amunicja."
+    }
+  ]
+}

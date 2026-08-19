@@ -1,0 +1,41 @@
+{
+  "title": "Mordrag_Modyfikacje",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    },
+    {
+      "name": "Tocright",
+      "params": {}
+    }
+  ],
+  "type": "unknown",
+  "infobox": {},
+  "categories": [
+    "Podstrony postaci z treścią z modyfikacji"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Świat Skazańców",
+      "text": "Ma na sprzedaż znacznie więcej towarów niż w podstawowej grze, a jego asortyment powiększa się w kolejnych rozdziałach. Oferuje m.in. zwoje magiczne, łuki, a także przedmioty ukradzione członkom Starego Obozu. Także podczas poszukiwań skradzionego miecza Bloodwyna trop ostatecznie prowadzi do Mordraga, od którego można odkupić broń. Zabicie szkodnika (niekoniecznie podczas zadania od Thorusa) jest niezbędne, jeśli bohater planuje w przyszłości uzyskać awans na magnata w Starym Obozie.\n\nW II rozdziale, o ile Bezimienny dołączył do Starego Obozu lub do Bractwa, Mordrag sam udaje na przeszpiegi do obozu na bagnie. Można go wówczas za dnia spotkać na górnym poziomie, obok chaty Caine'a, a w nocy przy ognisku poniżej. W III rozdziale przenosi się do karczmy Silasa i pozostaje tam do końca rozgrywki.\n\nNowe kwestie Mordraga zdubbingował Piotr „Cearme” Czaplicki."
+    },
+    {
+      "title": "Towary",
+      "text": "Pokaż/ukryj towary\n Asortyment z I rozdziału to asortyment początkowy. Reszta rozdziałów to przedmioty, które zostają dodane do przedmiotów oferowanych przez handlarza.\n Rozdział I\n Przedmiot Liczba Cena Magiczna ruda  1  100 Kula ognia (zwój)  4  70 Deszcz ognia (zwój)  2  130 Puchar  2  50 Esencja uzdrawiająca  3  25 Esencja magicznej energii  2  25 Maczuga  1  55 Uzdrowienie (zwój)  6  50 Sadło kretoszczura  3  5 Jabłko  4  4 Siarka  2  20 Szynka  2  12 Ser  3  10 Łowy i zwierzyna  1  100 Przemiana w krwiopijcę  2  100 Lekki miecz strażnika (Fletchera)  1  40 Lekka kusza (Skorpiona)  1  150 Ząb kopacza (Złego)  1  30 Stary pierścień  1  250 Strzała  100  1 Bryłka rudy  90  1\n\n Rozdział II\n Przedmiot Liczba Cena Wytrych  10  10 Strzała  100  1 Bełt  100  1 Łuk polowy  1  120 Łuk myśliwski  1  160 Sopel lodu (zwój)  1  50 Uzdrowienie (zwój)  3  50 Kula ognia (zwój)  2  70 Bryłka rudy  65  1\n\n Rozdział III\n Przedmiot Liczba Cena Wytrych  20  10 Strzała  200  1 Bełt  200  1 Łuk kolczasty  1  280 Łuk wierzbowy  1  320 Piorun kulisty (zwój)  2  90 Ognista burza (zwój)  1  110 Lodowa fala (zwój)  3  110 Kula ognia (zwój)  2  70 Bryłka rudy  75  1\n\n Rozdział IV\n Przedmiot Liczba Cena Podmuch wiatru  1  480 Wytrych  30  10 Strzała  300  1 Bełt  300  1 Ognista burza (zwój)  1  110 Lodowa fala (zwój)  2  110 Piorun kulisty (zwój)  2  90 Deszcz ognia (zwój)  1  130 Bryłka rudy  85  1\n\n Rozdział V\n Przedmiot Liczba Cena Nimrod  1  600 Wytrych  40  10 Strzała  400  1 Bełt  400  1 Piorun kulisty (zwój)  1  90 Lodowa fala (zwój)  3  110 Ognista burza (zwój)  2  110 Deszcz ognia (zwój)  2  130 Bryłka rudy  95  1\n\n Rozdział VI\n Przedmiot Liczba Cena Wytrych  50  10 Strzała  500  1 Bełt  500  1 Pogromca orków  1  680 Deszcz ognia (zwój)  3  130 Bryłka rudy  105  1"
+    },
+    {
+      "title": "Zagadka Bagiennego Ziela",
+      "text": "Jest zamieszany w zbrodniczy proceder rozprowadzania zatrutego Bagiennego Ziela w Starym Obozie. Ginie z ręki Taymona, gdy ten odkrywa prawdę."
+    },
+    {
+      "title": "Czas Zapłaty",
+      "text": "Po przejęciu Nowego Obozu przez Gomeza jest jednym ze zbieraczy ryżu."
+    },
+    {
+      "title": "Gwardia",
+      "text": "Po upadku bariery przybył na Thorn razem z Butchem i kilkoma innymi bandytami. Pod przywództwem Karlosa napadają oni kupców z Miasta Zimy. Mordrag podobnie jak w Górniczej Dolinie jest przyjazny do bohatera i pomaga mu dołączyć do swojej ekipy. Opowiada o grupie, nowym herszcie i wspomina Laresa. W zależności od poczynań bohatera może zginąć podczas wykonywania zadań dla Gwardii Burzy bądź pozostaje przy życiu po zakończeniu wszystkich zadań, które zleci Ralofowi."
+    }
+  ]
+}

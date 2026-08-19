@@ -1,0 +1,45 @@
+{
+  "title": "Duża kula ognia",
+  "meta_templates": [],
+  "type": "Czar",
+  "infobox": {
+    "obraz": "",
+    "ikona": "Duża kula ognia (runa) (ikonka) (G2).png",
+    "nazwa": "Duża kula ognia",
+    "nazwa angielska": "Large Fireball",
+    "podnazwa": "Gothic II,GII:NK",
+    "bóg": "Innos",
+    "krąg": "Czwarty",
+    "obrażenia": "100-300",
+    "wymagana mana": "15-72",
+    "działanie": "Podpala cel zaklęcia; zadając obrażenia zależne od zużytej many",
+    "wartość kupna": "2000 złoto (runa), 300 złoto (zwój)",
+    "wartość sprzedaży": "600 złoto (runa), 90 złoto (zwój)",
+    "występowanie": "Gothic II",
+    "kod": "ItRu_ChargeFireball (runa), ItSc_ChargeFireball (zwój)"
+  },
+  "categories": [
+    "Czary z Gothic II"
+  ],
+  "languages": {
+    "ru": "Большой огненный шар"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Duża kula ognia – czar występujący w Gothic II."
+    },
+    {
+      "title": "Gothic II",
+      "text": "left\nJest to czar czwartego kręgu magii stanowiący ulepszoną wersję zwykłej kuli ognia. Po wypowiedzeniu zaklęcia i odepchnięciu ręki maga w przód do jego wroga leci ognista kula magicznej energii, która po trafieniu zadaje mu od 100 do 300 punktów obrażeń od magii w zależności od zużytej many (15-72 punktów), a także podpala go (jest to jednak tylko wizualny efekt).\n\nZaklęcie to jest znane wyłącznie na wyspie Khorinis. Wytwarzania jego runy uczy mag ognia Hyglas z klasztoru. Do jej stworzenia potrzebne są oprócz pustego kamienia runicznego i zwoju z czarem także po jednym egzemplarzu smoły i siarki.\n\nZwoje z tym zaklęciem w IV rozdziale sprzedają magowie ognia Gorax (3 sztuki) i Isgaroth (2 sztuki). Dokładne miejsca występowania zwojów można sprawdzić tutaj.\n\nRuna i zwój dużej kuli ognia mają wartość nominalną odpowiednio 2000 i 300 sztuk złota. Bezimienny może je sprzedać za odpowiednio 600 i 90 złotych monet."
+    },
+    {
+      "title": "Gothic II: Noc Kruka",
+      "text": "Zmieniły się statystyki czaru. Minimalne obrażenia zostały zmniejszone do 75 punktów. W zależności od poziomu naładowania czar zużywa teraz od 40 do 160 punktów many.\n\nOprócz Goraxa i Isgarotha, 3 egzemplarze zwoju można teraz zakupić w IV rozdziale również od Cronosa.\n\nWartość nominalna zwoju spadła do 60 sztuk złota. Teraz runę i zwój bohater może sprzedać odpowiednio za 300 i 9 złotych monet."
+    },
+    {
+      "title": "Returning",
+      "text": "Używają jej orkowi szamani."
+    }
+  ]
+}

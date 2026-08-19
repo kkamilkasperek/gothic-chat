@@ -1,0 +1,55 @@
+{
+  "title": "Farma Toporka",
+  "meta_templates": [],
+  "type": "Lokacja",
+  "infobox": {
+    "nazwa": "Farma Toporka",
+    "nazwa angielska": "Topork's farm",
+    "podnazwa": "Gothic 3,G3:ZB",
+    "obraz": "Farma_Toporka_(G3).png",
+    "podpis obrazu": "Farma Toporka w Gothic 3",
+    "typ": "Farma",
+    "położenie": "Wschód Myrtany; okolice Cape Dun i Reddock",
+    "mieszkańcy": "Orkowie, Kliff, Świnie, Kury",
+    "populacja": "4x orkowie, Kliff, 3x świnia, 4x kura",
+    "zarządca": "Topork",
+    "ważne postacie": "Topork, Kliff",
+    "ważne miejsca": "Brak",
+    "związek z fabułą": "W Reddock potrzebują kowala, Pokonaj w pojedynku Toporka, Uwolnij Kliffa z niewoli u orków, Zabierz Kliffa do Javiera; przywódcy Reddock, Pozbądź się patrolu orków stacjonującego na farmie",
+    "występowanie": "Gothic 3, Gothic 3: Zmierzch Bogów",
+    "teleportacja": "Brak"
+  },
+  "categories": [
+    "Miejsca z Gothic 3",
+    "Miejsca z Gothic 3: Zmierzch Bogów",
+    "Miejsca w Myrtanie",
+    "Farmy"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Farma Toporka – lokacja występująca w Gothic 3 i Gothic 3: Zmierzch Bogów. Jest to farma położona na wschodzie Myrtany, między Cape Dun a Reddock."
+    },
+    {
+      "title": "Związek z fabułą",
+      "text": "Zarządcą farmy jest Topork, który wraz z niewielkim oddziałem orków przebywa na terenie gospodarstwa. Bezimienny może trafić na farmę, poszukując dla Reddock kowala lub na zlecenie Gelforda, który prosi o pozbycie się patrolu orków z farmy.\n\nNa miejscu okazuje się, że do pracy przy piłowaniu drewna zmuszony jest niewolnik o imieniu Kliff będący z zawodu kowalem. Bezimienny może wyzwać Toporka na pojedynek i po wygranej walce zwrócić Kliffowi wolność, a następnie zaprowadzić go do pobliskiego obozu buntowników Reddock. Protagonista może też zabić Toporka, spełniając prośbę Gelforda o pozbycie się patrolu z farmy.\n\n310px|center|thumb|Kliff przy pracy"
+    },
+    {
+      "title": "Budowa",
+      "text": "Na gospodarstwo składa się pojedynczy dom otoczony płotem. Przy ogrodzeniu znajdują się bele siana, a na podwórku hodowane są świnie oraz kury. Przy jednej ze ścian domu zbudowano składzik na drewno, obok którego stoi pień drzewa. Przed domem postawiono ławkę i rozpalono ognisko. Stacjonuje tutaj dwóch zwiadowców oraz wojownik. Wewnątrz domu znajdują się pojedyncze meble oraz orkowy tron zajęty przez Toporka."
+    },
+    {
+      "title": "Mapa",
+      "text": "310px|center|thumb|Mapa z zaznaczonym położeniem farmy Toporka"
+    },
+    {
+      "title": "Gothic 3: Zmierzch Bogów",
+      "text": "Farma została opuszczona. Ognisko zgasło oraz zniknęły wszystkie zwierzęta. W domu nie ma już tronu, a zamiast niego wstawiono dwa kufry. Można tu też znaleźć 3 paczki z bronią. Lokacja nie jest powiązana z żadnym zadaniem.\n\nW podstawowej wersji gry ognisko dalej jest zapalone, a w domu nadal stoi orkowy tron. Oprócz dwóch kufrów znajduje się tu też skrzynia Theo."
+    },
+    {
+      "title": "Mapa",
+      "text": "310px|center|thumb|Mapa z zaznaczonym położeniem dawnej farmy Toporka"
+    }
+  ]
+}

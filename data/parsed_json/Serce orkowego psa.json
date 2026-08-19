@@ -1,0 +1,41 @@
+{
+  "title": "Serce orkowego psa",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Trofeum",
+  "infobox": {
+    "ikona": "Serce orka (Świat Skazańców Hardcore) ikona.png",
+    "nazwa": "Serce orkowego psa",
+    "obraz": "Serce ognistego golema (Texturepack Artemiano).png",
+    "podpis obrazu": "Serce orkowego psa",
+    "typ": "Serce",
+    "opis": "Ważny składnik alchemiczny.",
+    "wymagane umiejętności": "Brak",
+    "do zdobycia z": "orkowego psa",
+    "dodatkowe": "Składnik eliksiru ducha i napoju z pełzaczy",
+    "wartość kupna": "50 ruda",
+    "wartość sprzedaży": "25 ruda",
+    "występowanie": "Świat Skazańców (Hardcore)",
+    "questowy": "Nie",
+    "kod": "ItAt_OrcHeart4"
+  },
+  "categories": [
+    "Przedmioty ze Świata Skazańców",
+    "Trofea ze Świata Skazańców"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Serce orkowego psa – trofeum występujące w modyfikacji do Gothic pod tytułem Świat Skazańców, tylko w wersji Hardcore."
+    },
+    {
+      "title": "Świat Skazańców",
+      "text": "Bezimienny może wyciągnąć serce z każdego zabitego orkowego psa. Nie musi do tego posiadać żadnych umiejętności.\n\nSerce orkowego psa jest składnikiem alchemicznym potrzebnym do stworzenia eliksiru ducha i napoju z pełzaczy.\n\nWartość serca wynosi 50 bryłek rudy, przy sprzedaży spada do 25 bryłek."
+    }
+  ]
+}

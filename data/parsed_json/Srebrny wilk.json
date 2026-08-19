@@ -1,0 +1,37 @@
+{
+  "title": "Srebrny wilk",
+  "meta_templates": [],
+  "type": "Bestia",
+  "infobox": {
+    "nazwa": "Srebrny wilk",
+    "nazwa angielska": "Silver wolf",
+    "obraz": "Srebrny wilk (by Kubar906).png",
+    "podpis obrazu": "Srebrny wilk",
+    "gromada": "Ssaki",
+    "odmiany": "Odmiana wilka",
+    "środowisko życia": "Łąka niedaleko Silden",
+    "punkty doświadczenia": "50",
+    "punkty życia": "200 (łatwy), 400 (średni), 600 (trudny)",
+    "rzadkość": "Unikatowe",
+    "nastawienie do gracza": "Agresywne",
+    "pozyskiwane przedmioty": "1x surowe mięso, 1x wilcza skóra, 1x zęby",
+    "występowanie": "Gothic 3",
+    "kod": "Silden_Wolf_01"
+  },
+  "categories": [
+    "Zwierzęta Myrtany",
+    "Stworzenia z Gothic 3",
+    "Stworzenia związane z zadaniami z Gothic 3"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Srebrny wilk – odmiana wilka występująca w Gothic 3."
+    },
+    {
+      "title": "Gothic 3",
+      "text": "Srebrny wilk jest zwierzęciem, które żyje w okolicach Silden. Tylko tam można spotkać stado tej odmiany wilka, liczy ono siedem osobników. Od swojego pospolitego kuzyna różni się barwą sierści: jest ona srebrna. Atak, obrona i inne elementy zachowania natomiast ma dokładnie takie same. Można pozyskać z nich sztukę surowego mięsa, wilczą skórę oraz zęby. Myśliwy imieniem Bram zleca Bezimiennemu zadanie eksterminacji srebrnych wilków. Wyraża także chęć wspólnego polowania na nie.\n\n310px|center|thumb|Stado srebrnych wilków"
+    }
+  ]
+}

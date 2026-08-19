@@ -1,0 +1,76 @@
+{
+  "title": "Cmentarzysko orków (zadanie)",
+  "meta_templates": [
+    {
+      "name": "Inne znaczenia",
+      "params": {
+        "1": "zadania występującego w Gothic",
+        "2": "Cmentarzysko orków"
+      }
+    }
+  ],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Cmentarzysko orków",
+    "nazwa angielska": "Orc Cemetery",
+    "obraz": "Cmentarzysko orków zadanie GI.png",
+    "podpis obrazu": "Początek zadania",
+    "zleceniodawca": "Cor Angar",
+    "start": "Obóz Bractwa",
+    "koniec": "Obóz Bractwa",
+    "poprzednie": "Almanach",
+    "część zadania": "Brak",
+    "następne": "Lecznicze zioła dla Y'Beriona",
+    "dostępność": "Wszyscy (w III rozdziale)",
+    "nagroda": "2750 punktów doświadczenia, Pierścień drewnianej skóry, 100 Ruda (opcjonalnie)",
+    "występowanie": "Gothic"
+  },
+  "categories": [
+    "Zadania główne z Gothic"
+  ],
+  "languages": {
+    "ru": "Кладбище орков (квест)"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Cmentarzysko orków – zadanie główne występujące w Gothic. Jest zlecane Bezimiennemu przez Cor Angara na początku III rozdziału."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "Porozmawiaj z Cor Angarem po wielkim przywołaniu.\n Opcjonalnie: poproś o coś w zamian, by otrzymać 100 bryłek rudy.\n Porozmawiaj z Talasem i idź za nim do mostu prowadzącego na cmentarzysko orków.\n Udaj się na koniec ścieżki za mostem i za pomocą kołowrotu otwórz bramę do cmentarzyska.\n Na terenie cmentarzyska odnajdź Baala Lukora, pomóż mu pokonać orków i porozmawiaj z nim (750 PD).\n Zbadaj prawy tunel.\n W niewielkiej niszy użyj przełącznika, aby otworzyć kratę obok.\n Podnieś połowę pergaminu, która znajduje się za kratą.\n Porozmawiaj z Baalem Lukorem.\n Zbadaj środkowy tunel.\n Podnieś drugą połowę pergaminu leżącą przy szkielecie.\n Porozmawiaj z Baalem Lukorem.\n Porozmawiaj z Baalem Lukorem po wyjściu z tunelu.\n Zbadaj lewy tunel.\n Pokonaj orków w sali za lewym tunelem.\n Porozmawiaj z Baalem Lukorem na środku sali.\n Porozmawiaj z Baalem Lukorem przy kamiennych drzwiach.\n Użyj otrzymane od Baala Lukora orkowe zaklęcie teleportacji przy kamiennych drzwiach.\n Przekręć kołowrót i porozmawiaj z Baalem Lukorem.\n Zaprowadź Baala Lukora do ostatniej sali i porozmawiaj z nim.\n Zabij Baala Lukora.\n Porozmawiaj z Cor Angarem w Obozie Bractwa (2000 PD)."
+    },
+    {
+      "title": "Wyprawa w poszukiwaniu Śniącego",
+      "text": "Po rytuale przyzwania, w którym wyznawcy Śniącego zobaczyli orka na cmentarzu, Bezimienny pyta Cor Angara, co się teraz stanie. Strażnik świątynny mówi, że wizja była dość mglista, lecz postać orka w jaskini daje silną poszlakę wskazującą na pobliskie cmentarzysko orków. Baal Lukor wraz z kilkoma strażnikami świątynnymi udali się tam już na wstępny rekonesans. Cor Angar potrzebuje kogoś do zebrania informacji od grupy zwiadowczej. Sam nie może się tam udać, ponieważ musi chronić nieprzytomnego Y'Beriona. Bohater może od razu się zgodzić na wykonanie misji (otrzyma wtedy pierścień drewnianej skóry) lub zażądać zapłaty. W drugim przypadku Cor Angar będzie zawiedziony chciwością protagonisty, ale da mu 100 bryłek rudy. Na koniec strażnik poleca porozmawiać z nowicjuszem Talasem, który wskaże Bezimiennemu drogę do cmentarzyska."
+    },
+    {
+      "title": "Eskorta",
+      "text": "Bezimienny udaje się do Talasa, który niechętnie godzi się zaprowadzić bohatera na miejsce. Przed mostem prowadzącym na cmentarzysko Talas zatrzymuje się, mówiąc, że dalej nie pójdzie, ponieważ nie jest samobójcą. Na koniec odradza protagoniście wyprawę do krypt, po czym wraca do obozu na bagnie. Bohater kontynuuje podróż samemu, zabijając po drodze kąsacze i zwiadowców orków. W końcu dociera do bramy prowadzącej na cmentarzysko, którą otwiera kołowrotem i wchodzi do środka."
+    },
+    {
+      "title": "Katakumby",
+      "text": "Przemierzając katakumby, Bezimienny znajduje stare mumie i napotyka kilku orków. Nieco dalej, z jednej z komnat, dobiegają go odgłosy walki. Okazuje się, że Baal Lukor i strażnicy świątynni zostali zaatakowani przez zielonoskórych. Bohater pomaga pokonać przeciwników i rozmawia z Guru, który jako jedyny ocalał. Ten mówi protagoniście, że spodziewali się tu znaleźć tylko stare groby i gnijące mumie, ale nagle zostali zaatakowani przez orków. Wszyscy strażnicy świątynni polegli, a Baalowi Lukorowi nie udało się odnaleźć jeszcze żadnych poszlak. W związku z tym mężczyźni wspólnie postanawiają poszukać jakichś wskazówek.\n\n310px|center|thumb|Lukor zlecający przeszukanie cmentarzyska"
+    },
+    {
+      "title": "Pergamin",
+      "text": "Baal Lukor proponuje eksplorację każdego z trzech tuneli, które odbiegają od sali, w której się znajdują. Bohater prowadzi więc Guru do pierwszej odnogi, która wydaje się ślepym zaułkiem. Protagonista odnajduje jednak przełącznik w niewielkiej niszy, który otwiera kratę obok. Tam znajduje fragment pergaminu. Baal Lukor stwierdza, że to połowa zwoju z zaklęciem orków i proponuje poszukiwania drugiej części.\n\nBezimienny wraz z Baalem Lukorem badają drugi, środkowy korytarz. Tam przy szkielecie znajdują drugi fragment pergaminu. Guru stwierdza, że to dwie połowy tego samego manuskryptu, ale ma problem z odcyfrowaniem orkowego pisma. Po wyjściu z tunelu Guru zatrzymuje bohatera, mówiąc, że ornamenty na ścianach wystarczą do przetłumaczenia zaklęcia. Okazuje się, że zwój to zaklęcie teleportacji, które można wykorzystać tylko w określonym miejscu. Mężczyźni muszą więc zbadać trzeci korytarz."
+    },
+    {
+      "title": "Ukryte pomieszczenie",
+      "text": "Bezimienny i Baal Lukor udają się do największej komnaty, w której oprócz zwiadowców stacjonuje też ork-żołnierz. Bohater eliminuje zielonoskórych, a następnie rozmawia z Guru, który rozpoznaje to miejsce z wizji. Baal Lukor, po krótkim zbadaniu sali, wskazuje punkt przy kamiennych drzwiach, gdzie trzeba użyć zwoju. Sam nie może tego zrobić, ponieważ jego moce magiczna są mocno osłabione, dlatego to protagonista korzysta z zaklęcia. Po przejściu na drugą stronę drzwi korzysta z kołowrotu, aby wpuścić Guru do środka."
+    },
+    {
+      "title": "Brak śladów Śniącego",
+      "text": "Mężczyźni wspólnie badają komnatę, lecz nie odnajdują żadnych śladów Śniącego. Zrozpaczony Baal Lukor pada na kolana i błaga Śniącego o przebaczenie. Następnie wstaje i krzyczy, że bluźniercza obecność bohatera spowodowała niepowodzenie misji oraz dodaje, że Śniący każe mu złożyć ofiarę z człowieka, po czym rzuca się na Bezimiennego. Protagonista odpiera atak i zabija szaleńca w obronie własnej. Po tym wydarzeniu Bezimienny wraca na bagna."
+    },
+    {
+      "title": "Raport i zła sytuacja Jaśnie Oświeconego",
+      "text": "Po powrocie do obozu Bractwa bohater składa raport Cor Angarowi. Przywódca straży świątynnej jest zaniepokojony postępowaniem Baala Lukora. Mówi też, że stan Y'Beriona jest krytyczny i poleca bohaterowi zebrać na bagnach pięć mocnych ziół uzdrawiających. Po rozmowie zadanie kończy się powodzeniem.\n\n310px|center|thumb|Rozmowa z Angarem kończąca zadanie"
+    },
+    {
+      "title": "Zapisy w dzienniku",
+      "text": "Po otrzymaniu zadania (dwa wpisy):\n\nPo zapytaniu Angara o położenie cmentarzyska:\n\nPo spotkaniu Baala Lukora:\n\nPo zaproponowaniu pomocy Lukorowi:\n\nPo znalezieniu dwóch połówek pergaminu:\n\nPo odczytaniu pergaminu przez Baala:\n\nPo wejściu do największej komnaty:\n\nPo wejściu na środek dużej komnaty (jeśli guru odczytał pergamin):\n\nPo teleportacji do ukrytej komnaty i otwarciu przejścia:\n\nPo dotarciu do ostatniej komory grobowcowej:\n\nPo zdaniu relacji Cor Angarowi:"
+    }
+  ]
+}

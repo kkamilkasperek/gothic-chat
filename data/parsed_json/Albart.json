@@ -1,0 +1,52 @@
+{
+  "title": "Albart",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Postać",
+  "infobox": {
+    "imię": "Albart",
+    "obraz": "Albart.PNG",
+    "gildia": "Strażnik",
+    "zawód": "Wojownik",
+    "miejsce zamieszkania": "Stara Kopalnia",
+    "miejsce urzędowania": "Stara Kopalnia",
+    "posiadana broń": [
+      "Miecz strażnika"
+    ],
+    "posiadana zbroja": [
+      "Zbroja strażnika"
+    ],
+    "występowanie": "Kopalnia",
+    "status": "Żyje",
+    "poziom": "13",
+    "kod": "MNW_006_ALBART"
+  },
+  "categories": [
+    "Bez informacji o kradzieży z modyfikacji",
+    "Postacie z Kopalni",
+    "Strażnicy w Starym Obozie z modyfikacji"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Albart – postać występująca w modyfikacji Kopalnia. Jest jednym ze strażników w Starej Kopalni."
+    },
+    {
+      "title": "Przed akcją modyfikacji",
+      "text": "Albart dołączył do Starego Obozu. Szybko wspinał się po szczeblach kariery i ostatecznie został strażnikiem. Jakiś czas później został wysłany przez Thorusa do Starej Kopalni."
+    },
+    {
+      "title": "Kopalnia",
+      "text": "Z tego co wynika z rozmowy, Albart i Torak znali się przed akcją modyfikacji. Strażnik ubolewa nad zniszczeniami spowodowanymi zawalaniem się Starej Kopalni. W III rozdziale, gdy bohater pyta się Albarta czy opowie się przeciw Ianowi, Albart odmawia."
+    },
+    {
+      "title": "Dalsze losy",
+      "text": "Albart ginie w V rozdziale podczas ataku pełzaczy na Starą Kopalnię."
+    }
+  ]
+}

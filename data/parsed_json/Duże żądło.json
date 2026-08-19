@@ -1,0 +1,36 @@
+{
+  "title": "Duże żądło",
+  "meta_templates": [],
+  "type": "Trofeum",
+  "infobox": {
+    "ikona": "Duże_żądło_(ikonka)_(ArcaniA).png",
+    "nazwa": "Duże żądło",
+    "nazwa angielska": "Large Stinger",
+    "obraz": "BrakPrzedmiotu.png",
+    "typ": "Żądło",
+    "opis": "Składnik alchemiczny. Do żądła ciągle przyczepiony jest gruczoł jadowy.",
+    "do zdobycia z": "Krwiopijcy, Osy jeziornej",
+    "rzadkość": "Pospolity",
+    "handlarze": "Brak",
+    "wartość sprzedaży": "1 złoto",
+    "posiadacz": "Brak",
+    "występowanie": "ArcaniA",
+    "questowy": "Nie",
+    "kod": "Brak"
+  },
+  "categories": [
+    "Trofea z ArcaniA",
+    "Przedmioty z ArcaniA"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Duże żądło – trofeum zwierzęce występujące w ArcaniA."
+    },
+    {
+      "title": "ArcaniA",
+      "text": "Jest to pospolite trofeum łowieckie, które można pozyskać z martwego krwiopijcy lub osy jeziornej. Jedno duże żądło może posłużyć do uwarzenia eliksiru z osy.\n\nWartość sprzedaży dużego żądła wynosi 1 sztukę złota.\n\n310px|center|thumb|Osa jeziorna – owad, z którego można pozyskać duże żądło"
+    }
+  ]
+}

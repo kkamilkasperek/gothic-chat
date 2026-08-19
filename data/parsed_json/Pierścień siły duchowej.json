@@ -1,0 +1,38 @@
+{
+  "title": "Pierścień siły duchowej",
+  "meta_templates": [],
+  "type": "Przedmiot",
+  "infobox": {
+    "ikona": "Ikona pierścień 1 G1.png",
+    "nazwa": "Pierścień siły duchowej",
+    "nazwa angielska": "Ring of Spiritual Power",
+    "obraz": "Pierścień_1_GI.png",
+    "podpis obrazu": "Pierścień siły duchowej",
+    "typ": "Pierścień",
+    "właściciel": "Brak",
+    "rzadkość": "Unikat",
+    "ochrona": "Magia: 1",
+    "wartość kupna": "200 ruda",
+    "wartość sprzedaży": "100 ruda",
+    "handlarze": "Baal Cadar",
+    "występowanie": "Gothic",
+    "questowy": "Nie",
+    "kod": "SchutzRing_Magie1"
+  },
+  "categories": [
+    "Pierścienie z Gothic"
+  ],
+  "languages": {
+    "ru": "Кольцо духовной силы"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Pierścień siły duchowej – pierścień występujący w Gothic."
+    },
+    {
+      "title": "Gothic",
+      "text": "Dodaje noszącemu 1 punkt do ochrony przed obrażeniami od magii. Można go kupić u Baala Cadara w I rozdziale.\n\nJego wartość kupna wynosi 200 bryłek rudy, przy sprzedaży spada do 100 bryłek."
+    }
+  ]
+}

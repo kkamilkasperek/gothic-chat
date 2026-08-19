@@ -1,0 +1,82 @@
+{
+  "title": "Maczuga",
+  "meta_templates": [],
+  "type": "Broń",
+  "infobox": {
+    "ikona": "Maczuga ikona G1.png",
+    "nazwa": "Maczuga",
+    "nazwa angielska": "Mace",
+    "podnazwa": "Gothic,G3:TB,ArcaniA,NP",
+    "obraz": "Pałka Namiba.png",
+    "podpis obrazu": "Maczuga w Gothic",
+    "typ": "Obuchowa broń jednoręczna",
+    "wymagane atrybuty": "Siła: 10",
+    "obrażenia": "23 (obuchowe)",
+    "posiadacz": "Homer, Talas, Szkodnicy, Gobliny-wojownicy",
+    "handlarze": "II rozdział:, Sharky, Darrion",
+    "wartość kupna": "55 ruda",
+    "wartość sprzedaży": "28 ruda",
+    "występowanie": "Gothic, Gothic 3: The Beginning, ArcaniA, Nyras Prologue",
+    "kod": "itmw_1h_mace_01"
+  },
+  "categories": [
+    "Broń jednoręczna z ArcaniA",
+    "Broń jednoręczna z Gothic",
+    "Broń jednoręczna z Gothic 3: The Beginning",
+    "Broń jednoręczna z Nyras Prologue"
+  ],
+  "languages": {
+    "de": "Streitkolben (G1)",
+    "ru": "Булава (Gothic)"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Maczuga – broń występująca w Gothic, Gothic 3: The Beginning, ArcaniA oraz Nyras Prologue. W Gothic II pojawia się jako pałka z kolcami."
+    },
+    {
+      "title": "Wygląd",
+      "text": "Składa się z drewnianego trzonka owiniętego czarnym materiałem przy uchwycie, na końcu którego umieszczono metalowa wstawkę koloru złotego. Po drugiej stronie znajduje się kolejna metalowa wstawka, z nasadzonym nań żelaznym obuchem z pięcioma kolcami."
+    },
+    {
+      "title": "Występowanie",
+      "text": "Używają jej głównie bezimienni szkodnicy (w tym bandziory Lewusa), kilku nowicjuszy Bractwa Śniącego oraz wojownicy goblinów w kanionie trolli. Baal Namib posiada własny egzemplarz maczugi o lepszych statystykach.\n\n Znani użytkownicy broni\n Talas\n Homer\n\nBezimienny może ją kupić w II rozdziale u Sharky'ego lub Darriona.\n\nJeden egzemplarz znajduje się w jaskini czarnych goblinów obok skrzyni z almanachem. Dwa kolejne można znaleźć w Starym Obozie, w zamkniętej na klucz skrzyni w zbrojowni na parterze siedziby magnatów."
+    },
+    {
+      "title": "Statystyki",
+      "text": "Broń zadaje 23 punkty obrażeń obuchowych i wymaga 10 punktów siły, aby się nią posługiwać. Wartość kupna maczugi wynosi 55 bryłek rudy, przy sprzedaży spada do 28 bryłek."
+    },
+    {
+      "title": "Wygląd",
+      "text": "Jest to maczuga o dość krótkim zasięgu rażenia wykonana z jednego kawałka drewna."
+    },
+    {
+      "title": "Występowanie",
+      "text": "Maczugę można znaleźć w ciałach pokonanych początkujących zbójców, kościotrupów oraz zwiadowców orków lub w niektórych schowkach rozmieszczonych na wyspie Khorinis. Często w swoim asortymencie posiada ją kowal z Khorinis."
+    },
+    {
+      "title": "Statystyki",
+      "text": "Wartość kupna maczugi wynosi 6 sztuk złota, a podczas sprzedaży spada do 3 sztuk złota. Broń zadaje od 14 do 17 punktów obrażeń, ma zasięg o wartości 10, a jej współczynnik prędkości wynosi 60. Szansa na trafienie maczugą wynosi 56, a szansa na zadanie obrażeń krytycznych – 8. Żeby ją wyposażyć, Xardas musi mieć wytrenowany atrybut siły do co najmniej 5 punktów, co oznacza, że jest w stanie się nią posługiwać od początku rozgrywki.\n\nOręż może posiadać wiele dodatkowych bonusów, które zostały opisane w poniższej tabeli."
+    },
+    {
+      "title": "ArcaniA",
+      "text": "Jest to mocna maczuga jednoręczna wykonana w całości z metalu. Na głowni posiada cztery pióra, a rękojeść pokryto skórą dla lepszego i wygodniejszego uchwytu.\n\nBezimienny może znaleźć ją w jednej ze skrzyń w kryjówce buntowników Hertana lub zakupić ją u Thora za 275 sztuk złota. Może ją potem przekuć w maczugę z rudy. Potrzebuje do tego odpowiedniego schematu kowalskiego i wymaganych składników.\n\nWartość sprzedaży maczugi wynosi 55 sztuk złota."
+    },
+    {
+      "title": "Nyras Prologue",
+      "text": "Jest to prosta broń, która w Gothic występuje jako pałka."
+    },
+    {
+      "title": "Występowanie",
+      "text": "Nyras może znaleźć jeden egzemplarz przy ludzkim szkielecie w pobliżu drzewa wisielców, a drugi na płaskowyżu ponad opuszczoną kopalnią. Ostatnim posługuje się zielony goblin przebywający nieopodal szałasu na końcu tego płaskowyżu i bohater może go zdobyć po pokonaniu humanoida."
+    },
+    {
+      "title": "Statystyki",
+      "text": "Celne uderzenie wykonane maczugą zadaje 5 punktów obrażeń obuchowych, a do posługiwania się nią wymagane jest 5 punktów siły. Broni nie można kupić ani sprzedać, ponieważ w demie nie zaimplementowano systemu handlu."
+    },
+    {
+      "title": "Ciekawostki",
+      "text": "W pierwszej części jedna maczuga powinna leżeć w świątyni Śniącego obok środkowego przełącznika w komnacie Varraga-Kasorga, lecz z powodu współrzędnej wysokości równej 0 znajduje się ona ponad modelem sufitu i można ją zdobyć jedynie za pomocą kodów."
+    }
+  ]
+}

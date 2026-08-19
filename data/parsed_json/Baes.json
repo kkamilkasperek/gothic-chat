@@ -1,0 +1,54 @@
+{
+  "title": "Baes",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Postać",
+  "infobox": {
+    "imię": "Baes",
+    "obraz": "KronikiMyrtany Baes.png",
+    "gildia": "Wilczy Syn",
+    "zawód": "Sierżant",
+    "poziom": "50, 60 (w VI rozdziale)",
+    "miejsce zamieszkania": "Wyspa Archolos",
+    "miejsce urzędowania": "Wilcze Leże",
+    "posiadana broń": [
+      "Miecz Wilczego Syna",
+      "W VI rozdziale losowo:",
+      "Miecz Wilczego Syna; młot Wilczego Syna lub kusza Wilczych Synów + 20 bełtów"
+    ],
+    "posiadana zbroja": [
+      "Pancerz Wilczego Syna"
+    ],
+    "występowanie": "Kroniki Myrtany: Archolos",
+    "dubbing": "Mateusz Zabłocki",
+    "kod": "Djg_10015_Baes, Djg_10015_Baes_Q602 (zaatakowane miasto)",
+    "przedmiot kradzieży": "Zestaw losowy, (mistrz; Wilczy Syn)",
+    "wymagana umiejętność": "Kradzież kieszonkowa –, mistrz"
+  },
+  "categories": [
+    "Postacie z Kroniki Myrtany: Archolos",
+    "Nauczyciele z Kroniki Myrtany: Archolos",
+    "Wilczy Synowie"
+  ],
+  "languages": {
+    "ru": "Байс"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Baes – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos."
+    },
+    {
+      "title": "Kroniki Myrtany: Archolos",
+      "text": "Jest sierżantem Wilczych Synów, przebywającym w Wilczym Leżu. Odpowiada za kwestie organizacyjne i trening wojowników. Po wykonaniu wszystkich zadań w lokacji daje Marvinowi pancerz Wilczego Syna. Jeśli bohater ma minimum 60 punktów siły oraz ukończone zadanie Wilczych skór wiele może nauczać go do maksymalnie 150 punktów tego współczynnika.\n\nPodczas zadania Nocny wartownik zlecanego przez Arethe protagonista odkrywa, że Baes posiada niedźwiedzia, którego ukrywa w podziemiach obok karczmy. Jeżeli Marvin nie zdradzi wojownika, to Baes pojawi się wraz z niedźwiedziem podczas ataku na miasto w VI rozdziale w dzielnicy rzemieślników obok kuźni Odgara. W przeciwnym wypadku zamiast niego i zwierzaka w dzielnicy będą najemnicy Volkera."
+    },
+    {
+      "title": "Zlecane zadania",
+      "text": "Wilczych skór wiele"
+    }
+  ]
+}

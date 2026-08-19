@@ -1,0 +1,50 @@
+{
+  "title": "Valeran",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Postać",
+  "infobox": {
+    "imię": "Valeran",
+    "obraz": "Returning_Valeran.png",
+    "podpis obrazu": "Valeran w Returning New Balance",
+    "gildia": "Obywatel",
+    "zawód": "Handlarz",
+    "poziom": "10",
+    "miejsce zamieszkania": "Miasto Khorinis",
+    "miejsce urzędowania": "Dom Fernando w górnym mieście",
+    "posiadana broń": [
+      "Miecz"
+    ],
+    "posiadana zbroja": [
+      "Lekki strój obywatela"
+    ],
+    "występowanie": "Returning",
+    "status": "Nie żyje",
+    "kod": "vlk_6134_valeran"
+  },
+  "categories": [
+    "Bez informacji o kradzieży z modyfikacji",
+    "Postacie z Returning",
+    "Handlarze z modyfikacji",
+    "Obywatele Khorinis z modyfikacji"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Valeran – postać występująca w modyfikacji Returning do gry Gothic II: Noc Kruka."
+    },
+    {
+      "title": "Returning",
+      "text": "Pracuje on jako asystent u kupca Fernando. Sprzedaje różne towary oraz prowadzi większość spraw finansowych swojego pracodawcy.\n\nJeżeli Bezimienny postanowi donieść na Fernanda do straży, podczas wykonywania zadania Handlarz bronią dla bandytów, Valeran straci pracę i będzie wtedy przebywał w gospodzie Orlana.\n\nBezimienny bohater może zatrudnić Valerana jako pomocnika dla kupca Lutero, jeżeli wykonuje zadania dla gildii kupców, oraz w wersji 2.0, jako swojego osobistego zarządcę dworu. Wymagane jest wtedy 50 punktów retoryki."
+    },
+    {
+      "title": "Dalsze losy",
+      "text": "W zależności od wyborów bohatera ginie w VII rozdziale bądź umiera po wypłynięciu bohatera z poselstwem do króla po bitwie z orkami, gdyż zielonoskórzy ostatecznie najeżdżają wyspę."
+    }
+  ]
+}

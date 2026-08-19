@@ -1,0 +1,47 @@
+{
+  "title": "Orkowie w kanionie",
+  "meta_templates": [],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Orkowie w kanionie",
+    "nazwa angielska": "The Orcs in the canyon",
+    "obraz": "Orkowie w kanionie (początek zadania).png",
+    "podpis obrazu": "Riordian w trakcie zlecania zadania",
+    "zleceniodawca": "Riordian",
+    "start": "Ruiny centralne",
+    "koniec": "Obóz magów wody w Jarkendarze",
+    "poprzednie": "Posiadłości Budowniczych",
+    "następne": "Brak",
+    "dostępność": "Wszyscy",
+    "nagroda": "300 punktów doświadczenia",
+    "występowanie": "Gothic II: Noc Kruka"
+  },
+  "categories": [
+    "Zadania poboczne z Gothic II: Noc Kruka"
+  ],
+  "languages": {
+    "ru": "Орки в каньоне"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Orkowie w kanionie – zadanie poboczne występujące w Gothic II: Noc Kruka. Jest zlecane Bezimiennemu przez maga wody Riordiana."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "W trakcie wykonywania zadania Posiadłości Budowniczych odwiedź Bibliotekę Uczonych w kanionie.\n Poinformuj Riordiana o obecności orków w okolicy świątyni.\n Zabij (samodzielnie lub z pomocą piratów w trakcie wykonywania zadania Polowanie na brzytwiaki) Wodza Hordy, 11 orkowych wojowników i szamana.\n Wróć do Riordiana i poinformuj go o zabiciu Wodza Hordy."
+    },
+    {
+      "title": "Niebezpieczni intruzi",
+      "text": "W trakcie wykonywania zadania Posiadłości Budowniczych, Bezimienny zauważa liczną grupę orków, która rozbiła obóz przed wejściem do Biblioteki Uczonych. Bohater wraca do Riordiana i powiadamia go o przybyciu orków do kanionu. Obaj rozmówcy powątpiewają w umiejętności lingwistyczne orków, gdyż sądzą że prawdopodobnie nie są w stanie przeczytać tekstów pisanych językiem budowniczych. Mimo wszystko Riordian prosi bohatera, aby na wszelki wypadek pozbył się nieproszonych gości, aby mieć pewność że nie posiądą wiedzy uczonych. Bohater postanawia spełnić życzenie Riordiana."
+    },
+    {
+      "title": "Zabicie nieproszonych gości",
+      "text": "Bezimienny wraca do kanionu i postanawia zabić stacjonujących tam orków. Bohater może wykonać zadanie samodzielnie lub skorzystać z pomocy piratów, którzy udali się z nim na polowanie na brzytwiaki. W przypadku drugiej opcji piraci nie będą mieli nic przeciwko podróży po dalszej części kanionu nawet po wytępieniu brzytwiaków. Po pewnym czasie Bezimienny (samodzielnie bądź z piratami) zabija 11 orkowych wojowników, szamana oraz Wodza Hordy. Tym samym bohater pozbywa się nieprzyjaciół z okolic domu uczonych."
+    },
+    {
+      "title": "Powrót do Riordiana",
+      "text": "Po pokonaniu zielonoskórych Bezimienny wraca do centralnej części Jarkendaru i przekazuje Riordianowi informacje o śmierci Wodza Hordy. Mag wody jest zadowolony i dziękuje bohaterowi za pomoc. Po zakończeniu rozmowy zadanie kończy się powodzeniem."
+    }
+  ]
+}

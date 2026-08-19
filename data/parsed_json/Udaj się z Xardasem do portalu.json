@@ -1,0 +1,44 @@
+{
+  "title": "Udaj się z Xardasem do portalu",
+  "meta_templates": [],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Udaj się z Xardasem do portalu",
+    "nazwa angielska": "Go to the portal with Xardas",
+    "obraz": "Udaj się z Xardim do portalu.png",
+    "podpis obrazu": "Początek zadania",
+    "zleceniodawca": "Xardas",
+    "start": "Wieża Xardasa w Nordmarze",
+    "koniec": "Portal do Nieznanych Krain",
+    "poprzednie": "Zabij króla Rhobara, Zabij Zubena, Berło Varantu!, Kostur Wiecznego Wędrowca!",
+    "część zadania": "Brak",
+    "następne": "Otwórz bramę do nieznanej krainy!",
+    "dostępność": "Wszyscy",
+    "nagroda": "2500 punktów doświadczenia",
+    "występowanie": "Gothic 3"
+  },
+  "categories": [
+    "Zadania główne z Gothic 3"
+  ],
+  "languages": {
+    "ru": "Отправляйся с Ксардасом к порталу"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Udaj się z Xardasem do portalu – zadanie główne występujące w Gothic 3. Jest zlecane Bezimiennemu przez Xardasa."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "Porozmawiaj z Xardasem po wykonaniu zadań: Zabij króla Rhobara, Zabij Zubena, Berło Varantu! i Kostur Wiecznego Wędrowca!.\n Podążaj za Xardasem do portalu.\n Ponownie porozmawiaj z Xardasem po dotarciu na miejsce."
+    },
+    {
+      "title": "Przebieg zadania",
+      "text": "Po śmierci króla Rhobara i Zubena oraz zdobyciu kostura Wiecznego Wędrowca oraz berła Varantu, Bezimienny powraca do wieży Xardasa. Nekromanta ma dla niego ostatnie zadanie – obaj muszą udać się do portalu prowadzącego do Nieznanych Krain i na zawsze opuścić ten świat. Bohater przystaje na tę propozycję i razem z nekromantą wyruszają w ostatnią podróż, podczas której są atakowani przez orków, królewskich paladynów wyposażonych w ogniste miecze, a także zabójców asasynów, chcących pomścić śmierć swoich władców i powstrzymać ich przed wyzbyciem się boskiej mocy z tego świata. Po krwawych potyczkach mężczyźni docierają na miejsce i zadanie kończy się powodzeniem.\n\n310px|center|thumb|Rozmowa z Xardasem po dotarciu na miejsce"
+    },
+    {
+      "title": "Mapa",
+      "text": "250px|center|thumb|Mapa z zaznaczoną pozycją portalu"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kuźnia „Świetliste Kowadło”",
+  "meta_templates": [],
+  "type": "Lokacja",
+  "infobox": {
+    "nazwa": "Kuźnia „Świetliste kowadło”",
+    "nazwa angielska": "The Glowing Anvil",
+    "obraz": "Świetliste kowadło.png",
+    "położenie": "Khorinis",
+    "typ": "Kuźnia",
+    "mieszkańcy": "Kowale",
+    "zarządca": "Harad",
+    "ważne postacie": "Brian",
+    "występowanie": "Gothic II",
+    "waypoint": "nw_city_smith_01"
+  },
+  "categories": [
+    "Kuźnie",
+    "Miejsca w mieście Khorinis",
+    "Miejsca z Gothic II"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Kuźnia „Świetliste Kowadło” – druga największa kuźnia w mieście Khorinis. Jej zarządcą jest kowal Harad."
+    },
+    {
+      "title": "Opis",
+      "text": "Kuźnia znajduje się w dolnym mieście, przy drodze prowadzącej do portu. Jest ona własnością kowala Harada i jest połączona z jego domem.\n\nZa dnia pracują tam Harad wraz ze swoim czeladnikiem – Brianem, nocą zaś kuźnia pustoszeje, a właściciel i jego uczeń idą spać.\n\nOkolicę patroluje strażnik Pablo lub jeden z dwóch anonimowych strażników miejskich."
+    },
+    {
+      "title": "Przed akcją gry",
+      "text": "Harad wraz ze swoim czeladnikiem produkował broń która była później sprzedawana na targu przez kupca Hakona. Po przybyciu Paladynów ci zlecili kowalowi wykucie 100 mieczy, przez co sprzedawca broni miał na sprzedaż jej niewiele."
+    },
+    {
+      "title": "Gothic II",
+      "text": "Początkowo kuźnia produkuje broń tylko i wyłącznie dla straży miejskiej, która to później trafia na wyposażenie do koszar, lub do magazynów broni we wieżach. W drugim rozdziale Harad mówi Bezimiennemu, że skończył już produkcję broni dla straży i że teraz produkuje miecze z magicznej rudy dla paladynów, jednak nie może sprzedać takiego miecza Bezimiennemu dopóki ten nie wstąpi do zakonu. Mówi też, że ma czas na wykucie broni dla handlarzy."
+    },
+    {
+      "title": "Pracownicy",
+      "text": "Harad – właściciel kuźni i mistrz z Khorinis.\n Brian – czeladnik Harada, ostrzy miecze. Może sprzedać bohaterowi stalowe pręty.\n Bezimienny (jeżeli zostanie czeladnikiem Harada)."
+    },
+    {
+      "title": "Mroczne Tajemnice",
+      "text": "Przemytnik Korth wspomina Harada, mówiąc, że z jego kuźni pochodzą miecze dobrej jakości."
+    },
+    {
+      "title": "Returning / Mroczny Legion / Odyseja – W imieniu króla",
+      "text": "Po powrocie bohatera z wyspy Irdorath kuźnia jest pusta po ataku orków na Khorinis."
+    },
+    {
+      "title": "Altharu",
+      "text": "Kuźnia jest pusta, gdyż Khorinis zostało opuszczone przez mieszkańców przed akcją modyfikacji."
+    },
+    {
+      "title": "Na ratunek Khorinis",
+      "text": "Po powrocie bohatera z wyspy Irdorath kuźnia nadal działa, a Harad wciąż w niej pracuje ze swoim uczniem."
+    }
+  ]
+}

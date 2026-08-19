@@ -1,0 +1,42 @@
+{
+  "title": "Zamówienie Bengara",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Zamówienie Bengara",
+    "obraz": "Zamówienie Bengara.png",
+    "podpis obrazu": "Rozmowa z Lutero o zadaniu",
+    "zleceniodawca": "Lutero",
+    "start": "Górne miasto w Khorinis",
+    "koniec": "Plac targowy w Khorinis",
+    "poprzednie": "Brak",
+    "część zadania": "Brak",
+    "następne": "Handel w klasztorze",
+    "dostępność": "Wszyscy",
+    "nagroda": "Doświadczenie",
+    "występowanie": "Returning"
+  },
+  "categories": [
+    "Zadania poboczne z Returning"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Zamówienie Bengara – zadanie poboczne występujące w modyfikacji Returning do Gothic II: Noc Kruka. Zlecane jest Bezimiennemu przez kupca Lutero po dołączeniu do gildii kupców."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "Po dołączeniu do gildii kupców porozmawiaj z Lutero.\n Zanieś przesyłkę od Lutero farmerowi Bengarowi.\n Oddaj pieniądze otrzymane od Bengara Jorze."
+    },
+    {
+      "title": "Przebieg zadania",
+      "text": "Po dołączeniu do gildii kupców Lutero zleca Bezimiennemu dostarczenie przesyłki, którą zamówił Bengar i prosi bohatera, by złoto, które za nią otrzyma, dał kupcowi Jorze. Farmer w zamian za przesyłkę daje 1000 sztuk złota. Bohater wręcza ją kupcowi Jorze, a Lutero zleca mu następne zlecenie związane z gildią. Zadanie kończy się powodzeniem."
+    }
+  ]
+}

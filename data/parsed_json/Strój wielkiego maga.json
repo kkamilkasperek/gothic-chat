@@ -1,0 +1,48 @@
+{
+  "title": "Strój wielkiego maga",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Pancerz",
+  "infobox": {
+    "nazwa": "Strój wielkiego maga",
+    "obraz": "Wielki_Mag_MójMod.png",
+    "podpis obrazu": "Wielki Mag w swojej szacie",
+    "typ": "Szata",
+    "opis": "Brak",
+    "gildia": "Brak",
+    "ochrona": "Broń: 120, Pociski: 120, Ogień: 120, Magia: 120",
+    "posiadacz": "Wielki Mag",
+    "handlarze": "Brak",
+    "wartość kupna": "500 Złoto",
+    "wartość sprzedaży": "75 Złoto",
+    "występowanie": "Mój Mod",
+    "kod": "Itar_MM_GreatMage"
+  },
+  "categories": [
+    "Pancerze z Mój Mod",
+    "Bez ikony z modyfikacji"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Strój wielkiego maga – szata występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Mój Mod."
+    },
+    {
+      "title": "Wygląd",
+      "text": "Szatę wykonano z czerwonego, zdobionego materiału. Jest spięta brązowym pasem ze sprzączką. Przez środek szaty biegnie fragment wykonany z czarnego ćwiekowanego materiału, który rozdziela się na dwie ścieżki w stronę ramion. Ubranie wyróżnia się też wysokim kołnierzem."
+    },
+    {
+      "title": "Występowanie",
+      "text": "Jest to szata noszona wyłącznie przez Wielkiego Maga. Bohater nie ma możliwości zdobycia jej podczas zwykłej rozgrywki.\n\nZnani posiadacze\n Wielki Mag."
+    },
+    {
+      "title": "Statystyki",
+      "text": "Zwiększa o 120 punktów ochronę przed bronią, pociskami, ogniem i magią. Szata ma wartość 500 sztuk złota, przy sprzedaży jej cena spada do 75 złotych monet."
+    }
+  ]
+}

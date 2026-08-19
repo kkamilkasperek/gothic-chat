@@ -1,0 +1,45 @@
+{
+  "title": "Korzenie Zła",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Modyfikacja",
+  "infobox": {
+    "nazwa": "Korzenie Zła",
+    "obraz": "Korzenie Zla.png",
+    "podpis obrazu": "Logo modyfikacji",
+    "gatunek": "Totalna konwersja",
+    "autor": "Destiny Team",
+    "język": "Polski",
+    "dubbing": "Brak",
+    "platforma": "Gothic II: Noc Kruka",
+    "aktualna wersja": "1.1.1"
+  },
+  "categories": [
+    "Modyfikacje do Gothic II: Noc Kruka"
+  ],
+  "languages": {
+    "ru": "Корни зла"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Korzenie Zła - modyfikacja do gry Gothic II: Noc Kruka."
+    },
+    {
+      "title": "Opis",
+      "text": "Korzenie Zła to czwarta część Sagi Przeznaczenie, będąca kontynuacją przygód Bezimiennego, tym razem rozgrywająca się w Dolinie Przodków. Pojawią się nowe bronie, pancerze i stroje, nowe zaklęcia i nowi, niewidziani dotąd w grze przeciwnicy i potwory oraz miejsca pokazane z zupełnie nowej perspektywy."
+    },
+    {
+      "title": "Fabuła",
+      "text": "W Dolinie pojawia się tajemniczy artefakt, który zaburza czasoprzestrzeń i Bezimienny Bohater nagle staje przy wejściu do Doliny, równocześnie jednak pozostając na \"Esmeraldzie\". Tym razem musi nie tylko uporać się z problemami, jakie artefakt i jego tajemniczy właściciele stwarzają dla całej wyspy, ale i walczyć o integralność własnej osoby. Magiczne sprawy Universum przeplatają się z codziennością Doliny i jej mieszkańcami, a Bezimienny będzie musiał ich wspomóc, ryzykując życiem w sprawach prostych i skomplikowanych, tajemniczych i ponurych, a czasem zabawnych. Będzie musiał stawić czoło nie tylko wrogom, ale nawet tym, których do tej pory uważał za swoich sojuszników. W modyfikacji przyjdzie nam spotkać mnóstwo pięknych dziewcząt, będzie i radość, i smutek, karkołomne zwroty akcji i pełne zadumy rozważania nad istotą świata. Będzie jak zwykle spora dawka humoru i brawurowych dialogów. Zobaczymy wielu znajomych z poprzednich części, ale przyjdzie nam poznać także liczne nowe, wielowymiarowe postacie. Spotkamy także tych, których wydawać by się mogło, że już nigdy nie spotkamy..."
+    },
+    {
+      "title": "Linki zewnętrzne",
+      "text": "Link do pobrania"
+    }
+  ]
+}

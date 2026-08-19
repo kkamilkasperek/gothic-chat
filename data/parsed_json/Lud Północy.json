@@ -1,0 +1,40 @@
+{
+  "title": "Lud Północy",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Księga",
+  "infobox": {
+    "nazwa": "Lud Północy",
+    "nazwa angielska": "The people of the North",
+    "obraz": "lud_polnocy.png",
+    "podpis obrazu": "Treść księgi",
+    "opis": "Księga o mieszkańcach Nordmaru",
+    "posiadacz": "Grif",
+    "autor": "Nieznany",
+    "ilość tomów": "1",
+    "występowanie": "Kroniki Myrtany: Archolos",
+    "wartość kupna": "25 złoto",
+    "wartość sprzedaży": "4 złoto",
+    "questowy": "Nie",
+    "kod": "ItWr_AboutNordmar"
+  },
+  "categories": [
+    "Bez ikony z modyfikacji",
+    "Księgi z Kroniki Myrtany: Archolos"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Lud Północy – księga występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos."
+    },
+    {
+      "title": "Kroniki Myrtany: Archolos",
+      "text": "Książka zawiera opis Nordmarczyków zamieszkujących mroźne północne krainy. Zarysowuje normy i zwyczaje panujące wśród tego ludu.\n\nMarvin może zakupić ją od Grifa za 25 sztuk złota. Przy sprzedaży jej wartość spada do 4 sztuk złota.\n\nPrzeczytanie książki zapewnia bonus 50 punktów doświadczenia."
+    }
+  ]
+}

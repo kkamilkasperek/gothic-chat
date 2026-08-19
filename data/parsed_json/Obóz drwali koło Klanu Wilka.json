@@ -1,0 +1,46 @@
+{
+  "title": "Obóz drwali koło Klanu Wilka",
+  "meta_templates": [],
+  "type": "Lokacja",
+  "infobox": {
+    "nazwa": "Obóz drwali koło Klanu Wilka",
+    "nazwa angielska": "Lumberjack's camp near Wolf's Clan",
+    "typ": "Obóz",
+    "obraz": "Obóz drwali koło Klanu Wilka.png",
+    "podpis obrazu": "Widok na obóz",
+    "położenie": "Okolice Klanu Wilka",
+    "mieszkańcy": "Nordmarczycy (drwale)",
+    "populacja": "5",
+    "zarządca": "Corwyn",
+    "ważne postacie": "Corwyn",
+    "ważne miejsca": "Brak",
+    "występowanie": "Gothic 3",
+    "teleportacja": "Brak"
+  },
+  "categories": [
+    "Miejsca w Nordmarze",
+    "Obozy z Gothic 3",
+    "Miejsca z Gothic 3"
+  ],
+  "languages": {
+    "ru": "Лагерь лесорубов возле Клана Волка"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Obóz drwali koło Klanu Wilka – obóz występujący w Gothic 3. Jest zamieszkany przez Corwyna i 4 drwali."
+    },
+    {
+      "title": "Związek z fabułą",
+      "text": "Bezimienny dostarcza do obozu szynkę od kwatermistrza Rune'a. Na miejscu okazuje się, że drwale mają problem z szablozębami, które przebywają w pobliżu. Po wybiciu bestii i dostarczeniu mięsa zadania związane z obozem się kończą."
+    },
+    {
+      "title": "Budowa",
+      "text": "Obóz znajduje się w małym zagajniku nieopodal Klanu Wilka. Składa się z kilku ośnieżonych desek i skrzynek. Drwale pracują przy pobliskich drzewach, a jeden korzysta ze stojaka na pień."
+    },
+    {
+      "title": "Gothic 3: Zmierzch Bogów",
+      "text": "W dodatku do trzeciej części gry obóz nie występuje, ponieważ przejście do Nordmaru jest zablokowane."
+    }
+  ]
+}

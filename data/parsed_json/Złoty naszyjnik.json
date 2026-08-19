@@ -1,0 +1,56 @@
+{
+  "title": "Złoty naszyjnik",
+  "meta_templates": [],
+  "type": "Przedmiot",
+  "infobox": {
+    "ikona": "Złoty naszyjnik G2 ikona.png",
+    "nazwa": "Złoty naszyjnik",
+    "nazwa angielska": "Gold necklace",
+    "podnazwa": "Gothic II,Gothic 3",
+    "obraz": "Złoty naszyjnik (G2) (by Kubar906).png",
+    "podpis obrazu": "Złoty naszyjnik w Gothic II",
+    "typ": "Kosztowność",
+    "właściciel": "Den",
+    "rzadkość": "Bardzo rzadki",
+    "wartość kupna": "300 złoto",
+    "wartość sprzedaży": "GII: 90 złoto, NK: 45 złoto",
+    "handlarze": "Brak",
+    "występowanie": "Gothic II, Gothic 3",
+    "questowy": "Nie",
+    "kod": "ItMi_GoldNecklace"
+  },
+  "categories": [
+    "Kosztowności",
+    "Przedmioty z Gothic II",
+    "Przedmioty z Gothic 3"
+  ],
+  "languages": {
+    "ru": "Золотое ожерелье"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Złoty naszyjnik – kosztowny naszyjnik występujący w Gothic II oraz Gothic 3. W Gothic 3: The Beginning pojawia się jako złoty amulet."
+    },
+    {
+      "title": "Wygląd",
+      "text": "Na pierwszy rzut oka przypomina koło, ale jeśli mu się lepiej przyjrzeć widać, że jest dziesięciokątem. Większa część naszyjnika wykonana jest ze złota i pokryta kunsztownymi zdobieniami. Jego centralną część stanowi czarny kamień szlachetny. Całość wisi na prostym sznurku albo rzemieniu."
+    },
+    {
+      "title": "Występowanie",
+      "text": "Bezimienny może znaleźć jedynie trzy egzemplarze, wszystkie w Górniczej Dolinie. Jeden znajduje się przy zwłokach Dena, a drugi w kufrze na piętrze wieży zamkowej, do której można wejść przez dawną komnatę Bartholo w głównym budynku. Ostatni leży luzem na parterze dawnej wieży Xardasa."
+    },
+    {
+      "title": "Statystyki",
+      "text": "Naszyjnik ma wartość 300 sztuk złota, natomiast przy sprzedaży spada ona do 90 sztuk złota."
+    },
+    {
+      "title": "Gothic II: Noc Kruka",
+      "text": "Wartość sprzedaży spadła do 45 sztuk złota. Dwa nowe naszyjniki można znaleźć w Jarkendarze: jeden leży w jaskini cieniostwora na plaży na północ od obozu piratów, a drugi znajduje się w kufrze w świątyni Adanosa, w ukrytej komnacie po lewej za pułapką z zapadniami."
+    },
+    {
+      "title": "Gothic 3",
+      "text": "Podobnie jak złoty pierścień, w grze jest podpisany jako kosztowności. Wygląd diametralnie się zmienił w stosunku do poprzedniej części gry. Nie jest już w kształcie koła, ale posiada nieregularny kształt. Oprócz tego nie wisi już na sznurku ani na rzemieniu, a na złotym łańcuszku. Złoty naszyjnik można znaleźć w skrzyniach, a także leżącego swobodnie. Nie posiada żadnego zastosowania poza sprzedażą.\n\nMożna go sprzedać za 75 sztuk złota. Przy kupnie jego cena rośnie do 250 sztuk złota."
+    }
+  ]
+}

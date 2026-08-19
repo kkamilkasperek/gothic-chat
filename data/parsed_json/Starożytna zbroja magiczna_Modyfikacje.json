@@ -1,0 +1,62 @@
+{
+  "title": "Starożytna zbroja magiczna_Modyfikacje",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    },
+    {
+      "name": "Tocright",
+      "params": {}
+    }
+  ],
+  "type": "unknown",
+  "infobox": {},
+  "categories": [
+    "Podstrony pancerzy z treścią z modyfikacji",
+    "Pancerze ze Złego Snu"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Gothic Edycja rozszerzona",
+      "text": "W modyfikacji zapewnia 74 punkty ochrony przed bronią, 35 przed pociskami, 40 punktów przed ogniem i 10 przed magią. Jej wartość spadła do 4440 bryłek rudy."
+    },
+    {
+      "title": "Świat Skazańców",
+      "text": "Wartość zbroi nie uległa zmianie, natomiast oprócz standardowych ochron przed bronią, ogniem i magią z podstawowej gry zwiększa ona także o 95 punktów ochronę przed pociskami. Jej opis został skrócony do: Wykonana z magicznej rudy."
+    },
+    {
+      "title": "Zły Sen",
+      "text": "Zbroja uległa zmianom kosmetycznym. Można ją znaleźć z nałożonym efektem.\n130px|center|thumb|Zbroja w Złym Śnie"
+    },
+    {
+      "title": "Rüstungsmod Small",
+      "text": "Zbroję można odzyskać, wchodząc do obozu orków, gdyż została przez nich wydobyta z ruin świątyni Śniącego razem z Urizielem."
+    },
+    {
+      "title": "Diccuric",
+      "text": "Ardaric może wejść w posiadanie tej zbroi, gdy znajdzie sposób na złamanie czaru ochronnego na szczycie gwiezdnego obserwatorium. Znajduje się ona złożona na szczycie wieży."
+    },
+    {
+      "title": "Dunkle Magie oraz Global Mod",
+      "text": "Zbroję tę nosi kilku wojowników mrocznego zakonu. Bohater także może sobie takową wykuć.\n310px|center|thumb|Wojownicy mrocznych w zbrojach magicznych"
+    },
+    {
+      "title": "Returning oraz L'HIVER Edition",
+      "text": "Bohater jest ubrany w tę zbroję jeszcze podczas początkowej rozmowy z Xardasem. Pęka ona na bohaterze po zakończeniu dialogu.\n\nIstnieje jednak sztuczka, dzięki której bohater nie straci zbroi i będzie mógł dzięki niej wejść bez problemu do miasta bądź inaczej poprowadzić rozmowę z Cantharem. Zbroja jednak nie posiada żadnych parametrów ochronnych.\n\nW wersji 1.0 oraz ReBalance zbroja Runiczna wyglądała tak samo, gdyż Haradrimowie tworzyli swoje pancerze na wzór właśnie zbroi noszonej przez Uriziela."
+    },
+    {
+      "title": "Nostalgic Edition",
+      "text": "Bohater nosi fragmenty tej zbroi jako ubranie startowe. Owo ubranie zostało zaczerpnięte z Gothic Sequel.\n\nW V rozdziale Bennet może naprawić zbroję. Należy mu wtedy dać łachy i 25 bryłek rudy."
+    },
+    {
+      "title": "Mroczne Tajemnice",
+      "text": "Jej ochrona znacząco wzrosła względem podstawowej wersji gry. Pancerz oferuje ochronę przed magią na poziomie 120 punktów, przed strzałami chroni o 105 punktów, przed bronią na 125 punktów, a przed ogniem na 120 punktów."
+    },
+    {
+      "title": "Powrót Xeresa",
+      "text": "Xardas tłumaczy Bezimiennemu, że według starożytnej tradycji, nosiciel zbroi kontynuował walkę, nawet kiedy jego ciało zostało przebite przez niezliczoną ilość broni i spalone płomieniami. Zbroja uniemożliwia wydostanie się duszy z martwego ciała. Zbroja posiada również właściwość całkowitego uleczenia nosiciela. Bezimienny znajduję w świątyni Śniącego książkę, która ujawnia formułę, umożliwiającą połączenie zbroi z leczniczymi runami i tym samym wraca do żywych lecz zbroja rozpada się."
+    }
+  ]
+}

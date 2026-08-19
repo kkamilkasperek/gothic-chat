@@ -1,0 +1,43 @@
+{
+  "title": "Grog dla kucharza",
+  "meta_templates": [],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Grog dla kucharza",
+    "nazwa angielska": "Grog for the cook",
+    "obraz": "Grog dla kucharza (początek zadania).png",
+    "podpis obrazu": "Kucharz piratów w trakcie zlecania zadania",
+    "zleceniodawca": "Pirat (kucharz)",
+    "start": "Obóz piratów",
+    "koniec": "Obóz piratów",
+    "poprzednie": "Brak",
+    "następne": "Brak",
+    "dostępność": "Wszyscy",
+    "nagroda": "100 punktów doświadczenia, Możliwość zabrania kucharza na polowanie na brzytwiaki",
+    "występowanie": "Gothic II: Noc Kruka"
+  },
+  "categories": [
+    "Zadania poboczne z Gothic II: Noc Kruka"
+  ],
+  "languages": {
+    "ru": "Грог для повара"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Grog dla kucharza – zadanie poboczne występujące w Gothic II: Noc Kruka. Jest zlecane Bezimiennemu przez kucharza w obozie piratów."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "Porozmawiaj z kucharzem piratów.\n Zdobądź grog prawdziwego marynarza.\n Wróć do kucharza i daj mu butelkę grogu."
+    },
+    {
+      "title": "Spragniony kucharz",
+      "text": "Po wejściu do obozu piratów, Bezimienny rozpoczyna rozmowę z kucharzem. Już na początku rozmowy pyta on bohatera, czy nie ma przy sobie butelki grogu. Bezimienny widząc, że pirat zajęty pracą nie może sam zdobyć trunku, postanawia zorganizować napój dla kucharza."
+    },
+    {
+      "title": "Zdobycie grogu i powrót do kucharza",
+      "text": "Jeżeli bohater nie posiada przy sobie ani jednej butelki grogu, może szybko zdobyć trunek w obozie piratów. Napój przygotować może Samuel za 10 sztuk złota. Bohater może także wziąć butelkę alkoholu leżącą obok łóżka, na którym śpi Morgan. Niezależnie od sposobu otrzymania grogu, Bezimienny wraca do kucharza. Pirat dziękuje bohaterowi, a po chwili może uciąć z nim krótką pogawędkę. Po przyniesieniu trunku kucharz może także wziąć udział w polowaniu na brzytwiaki. Zadanie kończy się powodzeniem."
+    }
+  ]
+}

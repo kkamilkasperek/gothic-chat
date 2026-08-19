@@ -1,0 +1,42 @@
+{
+  "title": "Paczka",
+  "meta_templates": [
+    {
+      "name": "Nieużywana zawartość",
+      "params": {}
+    }
+  ],
+  "type": "Przedmiot",
+  "infobox": {
+    "ikona": "Dostawa Beltrama ikona (GII).png",
+    "nazwa": "Paczka",
+    "nazwa angielska": "Packet",
+    "obraz": "Paczka ziela.png",
+    "podpis obrazu": "Paczka",
+    "typ": "Pakunek",
+    "rzadkość": "Nie występuje w rozgrywce",
+    "dodatkowe": "Dostępna tylko za pomocą kodów",
+    "wartość kupna": "0 złoto",
+    "wartość sprzedaży": "0 złoto",
+    "występowanie": "Gothic II",
+    "questowy": "Nie",
+    "kod": "ItMi_Packet"
+  },
+  "categories": [
+    "Przedmioty z Gothic II",
+    "Nieużywana zawartość z Gothic II"
+  ],
+  "languages": {
+    "ru": "Пакет"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Paczka – przedmiot występujący w Gothic II."
+    },
+    {
+      "title": "Gothic II",
+      "text": "Nie pojawia się w rozgrywce, jest dostępna jedynie za pomocą kodów. Paczkę tę można otworzyć, lecz nie posiada ona żadnej zawartości. Przedmiot ten prawdopodobnie służył twórcom jako prototyp do zaimplementowania do gry innych paczek.\n\nPaczka ta nie ma żadnej wartości w złocie."
+    }
+  ]
+}

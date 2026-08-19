@@ -1,0 +1,41 @@
+{
+  "title": "Dostarcz dziesięć sztabek rudy magicznej kowalowi Svenowi",
+  "meta_templates": [],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Dostarcz dziesięć sztabek rudy magicznej kowalowi Svenowi",
+    "nazwa angielska": "Bring the magic ore blank to Sven the smith",
+    "obraz": "Ruda dla Svena zadanie G3.png",
+    "podpis obrazu": "Sven zlecający zadanie",
+    "zleceniodawca": "Sven",
+    "start": "Ishtar",
+    "koniec": "Ishtar",
+    "poprzednie": "Brak",
+    "część zadania": "Brak",
+    "następne": "Brak",
+    "dostępność": "Wszyscy",
+    "nagroda": "3000 punktów doświadczenia, Możliwość nauki u Svena",
+    "występowanie": "Gothic 3"
+  },
+  "categories": [
+    "Zadania poboczne z Gothic 3",
+    "Zadania w Ishtar z Gothic 3"
+  ],
+  "languages": {
+    "ru": "Принеси Свену 10 брусков магической руды"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Dostarcz dziesięć sztabek rudy magicznej kowalowi Svenowi – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez Svena – kowala z Ishtar."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "Porozmawiaj ze Svenem, który przebywa w pobliżu areny w Ishtar.\n Dostarcz Svenowi 10 sztab magicznej rudy."
+    },
+    {
+      "title": "Przebieg zadania",
+      "text": "W Ishtar bohater spotyka kowala z Nordmaru Svena, który kuje broń dla asasynów. Okazuje się, że potrzebuje on sztabek magicznej rudy. W związku z tym Bezimienny wyrusza na poszukiwania. Sztaby może znaleźć w metalowych kufrach i solidnych metalowych kufrach. Sprzedają je również Pedar, Campa i Ismael. Po zdobyciu 10 sztabek bohater wraca do Svena i oddaje je kowalowi, który jest zadowolony z dostawy. Zadanie kończy się powodzeniem.\n\n310px|center|thumb|Koniec zadania"
+    }
+  ]
+}

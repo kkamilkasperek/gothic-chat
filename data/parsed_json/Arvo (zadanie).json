@@ -1,0 +1,57 @@
+{
+  "title": "Arvo (zadanie)",
+  "meta_templates": [
+    {
+      "name": "Inne znaczenia",
+      "params": {
+        "1": "zadania występującego w modyfikacji Bandyci",
+        "2": "Arvo (postać)",
+        "3": "Arvo (postać)"
+      }
+    },
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Arvo",
+    "obraz": "Arvo (początek zadania).png",
+    "podpis obrazu": "Rozmowa rozpoczynająca zadanie",
+    "zleceniodawca": "Tom",
+    "start": "Karczma Lou",
+    "koniec": "Jaskinia niedaleko obozu bandytów",
+    "poprzednie": "Choroba",
+    "następne": "Brak",
+    "dostępność": "Rozdział III",
+    "nagroda": "Brak",
+    "występowanie": "Bandyci"
+  },
+  "categories": [
+    "Zadania główne z Bandyci"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Arvo – ostatnie zadanie główne występujące w modyfikacji do Gothic II: Noc Kruka pod tytułem Bandyci. Zlecane jest Vincowi przez Toma."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "Porozmawiaj z Tomem w karczmie Lou.\n Porozmawiaj z Kyrrusem, Miguelem oraz Loganem w obozie myśliwych.\n Porozmawiaj z Arvo i Juanem w jaskini niedaleko obozu bandytów."
+    },
+    {
+      "title": "Chęć zemsty",
+      "text": "Po rozmowie ze Snafem Tom pyta się Vinca, co z nim zrobił:\n jeśli bohater mu nie wybaczył, Tom zastanawia się, czy to było dobre rozwiązanie, lecz nie ocenia tego;\n jeśli Vinc mu wybaczył, ale nie zapomniał o truciźnie, Tom mówi, że nie wie, czy byłby w stanie to wybaczyć.\nNiezależnie od tego, Tom pyta się, co z Arvo, na co bohater odpowiada, że chce go dorwać i zabić. Dostawca towarów zaleca mu odpocząć, gdyż wciąż jest osłabiony, lecz Vinc nie zgadza się na to."
+    },
+    {
+      "title": "Gdzie jest Arvo?",
+      "text": "Bohater pyta się ludzi o Arvo:\n Franko nie obchodzi, gdzie on jest i każe odejść Vincowi;\n Edgor nie odpowiada, gdyż ma własne problemy;\n Kyrrus mówi, że gdzieś poszedł i zaleca popytać innych;\n Sancho nie widział Arvo, odkąd stoi przy bramie;\n Miguel mówi, że Arvo poszedł na północ, tam gdzie Vinc z Loganem polowali na błotne węże;\n Logan mówi, że Arvo był obok niego przez chwilę i poszedł sobie. Vinc dochodzi do wniosku, że poszedł do jaskini, w której wcześniej szukali kamiennej tabliczki dla Estebana."
+    },
+    {
+      "title": "Ostatnie spotkanie",
+      "text": "Bohater spotyka się z Arvo w jaskini. Dochodzi do wymiany zdań pomiędzy nimi, kiedy nagle przychodzi Juan. On i Arvo przesyłają Vincowi pozdrowienia od Franko i Estebana, którym nie podobało się to, że bohater przyszedł znikąd i wspinał się coraz wyżej w obozie. Juan pyta się Vinca, czy ma coś do powiedzenia przed śmiercią:\n bohater może wyciągnąć broń, na co bandyta mówi, że to był zły wybór ze strony Vinca;\n bohater może powiedzieć, że świat jest jego wyobrażeniem. Juan arogancko odpowiada Jaasne.;\n Vinc może nic nie mówić, na co Juan mówi Tak myślałem.\nNiezależnie od tego, co bohater powie, zadanie, jak i modyfikacja kończą się."
+    }
+  ]
+}

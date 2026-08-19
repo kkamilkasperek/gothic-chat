@@ -1,0 +1,25 @@
+{
+  "title": "Zew nocy_Modyfikacje",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "unknown",
+  "infobox": {},
+  "categories": [
+    "Podstrony przedmiotów z treścią z modyfikacji"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Prinson Mod",
+      "text": "Jego nazwa została zmieniona na Skun GothicManiaca 2. Choć przy pierwszym wypaleniu go pojawia się napis sugerujący, że maksymalna mana została zwiększona o 20 punktów, w praktyce nadal zwiększa ją tylko o 2 punkty, identycznie jak w postawowej grze.\n\nArticuno może dostać 5 sztuk od GothicManiaca na samym początku rozgrywki. 5 sztuk ma przy sobie Thangor. Jako że nie zostały usunięte u postaci z podstawowej gry, nadal można je m.in. kupić u Fortuno."
+    },
+    {
+      "title": "Carnage Graphic Patch",
+      "text": "Wygląd zewu nocy został zmieniony.\n\nthumb|center|220px|Zew nocy w modyfikacji Carnage Graphic Patch"
+    }
+  ]
+}

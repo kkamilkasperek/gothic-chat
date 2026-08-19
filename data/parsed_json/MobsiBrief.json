@@ -1,0 +1,41 @@
+{
+  "title": "MobsiBrief",
+  "meta_templates": [
+    {
+      "name": "Nieużywana zawartość",
+      "params": {}
+    }
+  ],
+  "type": "Dokument",
+  "infobox": {
+    "ikona": "Zamknięty list GII ico.png",
+    "nazwa": "MobsiBrief",
+    "obraz": "",
+    "typ": "Przedmiot pomocniczy / testowy",
+    "posiadacz": "Brak",
+    "wartość kupna": "0 złoto",
+    "wartość sprzedaży": "0 złoto",
+    "występowanie": "Gothic II (tylko za pomocą kodów)",
+    "questowy": "Nie",
+    "kod": "MobsiBrief"
+  },
+  "categories": [
+    "Nieużywana zawartość z Gothic II",
+    "Dokumenty z Gothic II"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "MobsiBrief – dokument występujący w Gothic II, niedostępny w trakcie rozgrywki."
+    },
+    {
+      "title": "Gothic II",
+      "text": "Można go przywołać za pomocą kodów. Dokument zawiera nagłówek o treści StandardBrief, zdanie opisowe w języku niemieckim Jetzt wird alles wieder gut (pol. Teraz znowu wszystko będzie w porządku) oraz polecenia, jakie są przypisane w skrypcie przedmiotu do funkcji jego użycia. Bezimienny może go przeczytać, co spowoduje ustawienie zmiennej PLAYER_MOBSI_PRODUCTION (Zmienna ta jest wykorzystywana podczas używania przez bohatera obiektów interaktywnych posiadających okna dialogowe z wyborem poszczególnych opcji (np. łóżko, stół alchemiczny, kowadło itp.).) na wartość MOBSI_NONE oraz spowoduje wznowienie ataków ze strony wrogich NPC, jeśli zostały przerwane (np. w wyniku błędu gry po niepoprawnym zamknięciu się okna wyboru opcji dialogowych). Przedmiot ten prawdopodobnie służył twórcom do celów testowych i/lub do debugowania na etapie tworzenia gry.\n\nDokument nie ma żadnej wartości w złocie."
+    },
+    {
+      "title": "Gothic II: Noc Kruka",
+      "text": "Zdanie opisowe z treści dokumentu zostało przetłumaczone na język polski."
+    }
+  ]
+}

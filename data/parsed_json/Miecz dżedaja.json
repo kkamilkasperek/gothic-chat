@@ -1,0 +1,44 @@
+{
+  "title": "Miecz dżedaja",
+  "meta_templates": [
+    {
+      "name": "Niekanon",
+      "params": {}
+    }
+  ],
+  "type": "Broń",
+  "infobox": {
+    "ikona": "Kiepskie ostrze magiczne (2H) (ikonka) (G2).png",
+    "nazwa": "Miecz dżedaja",
+    "obraz": "Ciężki dwuręczniak (G1).png",
+    "podpis obrazu": "Miecz dżedaja",
+    "typ": "Miecz dwuręczny",
+    "opis": "Miecz przeciętnego dżedaja",
+    "wymagane atrybuty": "Siła: 120",
+    "obrażenia": "120",
+    "handlarze": "Wowan Biały",
+    "wartość kupna": "2000 ruble",
+    "wartość sprzedaży": "300 ruble",
+    "występowanie": "Podróżnik – Za liniami wroga",
+    "kod": "ItMw_2H_Blessed_01"
+  },
+  "categories": [
+    "Broń dwuręczna z Podróżnik – Za liniami wroga",
+    "Easter eggi z Podróżnik – Za liniami wroga"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Miecz dżedaja – broń dwuręczna występująca w modyfikacji Podróżnik – Za liniami wroga do Gothic II: Noc Kruka."
+    },
+    {
+      "title": "Podróżnik – Za liniami wroga",
+      "text": "Jest to bardzo dobry miecz dwuręczny. Ma pofalowane ostrze oraz uchwyt nad rękojeścią wspomagający walkę, wąsaty jelec i kwadratową głowicę. Podróżnik może znaleźć go podczas przeprawy przez opuszczony szyb lub kupić u Wowana Białego za 2000 rubli. W momencie sprzedaży dowolnemu handlarzowi cena spada do 300. Broń wymaga 120 punktów siły i zadaje tyle samo obrażeń."
+    },
+    {
+      "title": "Ciekawostki",
+      "text": "Nazwa miecza nawiązuje do Rycerzy Jedi (czyt. Dżedaj) znanych z uniwersum Gwiezdnych Wojen."
+    }
+  ]
+}

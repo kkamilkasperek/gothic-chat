@@ -1,0 +1,43 @@
+{
+  "title": "Pokonaj Yohanna",
+  "meta_templates": [],
+  "type": "Zadanie",
+  "infobox": {
+    "nazwa": "Pokonaj Yohanna",
+    "nazwa angielska": "Beat Yohann",
+    "obraz": "Pokonaj_Yohanna_(pierwsza_wypowiedź)_(G3ZB)_(by_Kubar906).png",
+    "podpis obrazu": "Początek zadania",
+    "zleceniodawca": "Derex",
+    "start": "Arena w Geldern",
+    "koniec": "Arena w Geldern",
+    "poprzednie": "Brak",
+    "część zadania": "Brak",
+    "następne": "Pokonaj Brennusa",
+    "dostępność": "Wszyscy",
+    "nagroda": "2000 punktów doświadczenia",
+    "występowanie": "Gothic 3: Zmierzch Bogów"
+  },
+  "categories": [
+    "Zadania poboczne z Gothic 3: Zmierzch Bogów",
+    "Zadania w Geldern z Gothic 3: Zmierzch Bogów"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Pokonaj Yohanna – zadanie poboczne występujące w Gothic 3: Zmierzch Bogów. Jest zlecane Bezimiennemu przez Derexa."
+    },
+    {
+      "title": "Krok po kroku",
+      "text": "Porozmawiaj z Derexem na arenie w Geldern.\n Pokonaj Yohanna w pojedynku."
+    },
+    {
+      "title": "Pierwszy przeciwnik",
+      "text": "Będąc w Geldern, Bezimienny zagląda na tamtejszą arenę. Pyta on Derexa – jej zarządcę – czy mógłby zmierzyć się z jednym z gladiatorów. Derex szybko objaśnia bohaterowi zasady areny, a następnie poleca, żeby stawił czoło Yohannowi."
+    },
+    {
+      "title": "Walka",
+      "text": "Mężczyźni wchodzą na arenę i dobywają broni. Yohann posługuje się zwykłym mieczem, a jego opancerzenie to lekki pancerz buntownika. Bohater szybko powala przeciwnika. Po wszystkim zadanie dobiega końca i kończy się powodzeniem."
+    }
+  ]
+}

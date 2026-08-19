@@ -1,0 +1,45 @@
+{
+  "title": "Talerz",
+  "meta_templates": [],
+  "type": "Przedmiot",
+  "infobox": {
+    "ikona": "Talerz_(ikonka)_(G1).png",
+    "nazwa": "Talerz",
+    "nazwa angielska": "Plate",
+    "podnazwa": "Gothic,NP",
+    "obraz": "Talerz_(G1).png",
+    "podpis obrazu": "Talerz w Gothic",
+    "typ": "Naczynie",
+    "właściciel": "Zbieracze, Krety, Szkodnicy",
+    "rzadkość": "Pospolity",
+    "wartość kupna": "4 ruda",
+    "wartość sprzedaży": "2 ruda",
+    "występowanie": "Gothic, Nyras Prologue",
+    "questowy": "Nie",
+    "kod": "itmi_stuff_plate_01"
+  },
+  "categories": [
+    "Naczynia",
+    "Przedmioty z Gothic",
+    "Przedmioty z Nyras Prologue"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Talerz – przedmiot występujący w Gothic i Nyras Prologue."
+    },
+    {
+      "title": "Gothic",
+      "text": "Służy do spożywania posiłków. Jest wykonany z metalu, wygląda na lekko zużyty. Nie można go w żaden sposób wykorzystać. Jego wartość kupna wynosi 4 bryłki rudy, przy sprzedaży spada do 2 bryłek.\n\nTalerze są bardzo często spotykane. Znajdują się w skrzyniach w wielu chatach Starego i Nowego Obozu, na stołach np. w chacie Diega czy siedzibie magnatów, czy w opuszczonych obozowiskach. Ma je przy sobie wielu zbieraczy, kretów i szkodników, spośród których Wilk, Silas, Mordrag i Cipher udostępniają je na sprzedaż."
+    },
+    {
+      "title": "Nyras Prologue",
+      "text": "W demie występuje tylko jeden talerz. Można go znaleźć w szałasie na samym końcu płaskowyżu ponad opuszczoną kopalnią.\n\nTalerz nie ma żadnego zastosowania, nie można go też kupić ani sprzedać, ponieważ w demie nie zaimplementowano systemu handlu."
+    },
+    {
+      "title": "Carnage Graphic Patch",
+      "text": "Wygląd talerza został zmieniony.\n\nthumb|center|220px|Talerz w modyfikacji Carnage Graphic Patch"
+    }
+  ]
+}

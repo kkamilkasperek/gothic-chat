@@ -1,0 +1,38 @@
+{
+  "title": "Magiczna ruda (księga)",
+  "meta_templates": [],
+  "type": "Księga",
+  "infobox": {
+    "ikona": "Ikona księga 2 G1.png",
+    "nazwa": "Magiczna ruda",
+    "nazwa angielska": "Magic ore",
+    "obraz": "Magiczna ruda (księga).png",
+    "posiadacz": "Magnaci, Magowie wody",
+    "autor": "Nieznany",
+    "ilość tomów": "Jeden",
+    "występowanie": "Gothic",
+    "wartość kupna": "100 ruda",
+    "wartość sprzedaży": "50 ruda",
+    "kod": "das_magische_erz"
+  },
+  "categories": [
+    "Księgi z Gothic"
+  ],
+  "languages": {
+    "ru": "Магическая руда (книга)"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Magiczna ruda – księga występująca w Gothic."
+    },
+    {
+      "title": "Gothic",
+      "text": "Opisuje ona właściwości i zastosowanie rudy. Można znaleźć dwa egzemplarze tej księgi: jeden w komnacie Kruka na piętrze siedziby magnatów w Starym Obozie, drugi w bibliotece magów wody w Nowym Obozie.\n\nJej wartość kupna wynosi 100 bryłek rudy, przy sprzedaży spada do 50 bryłek."
+    },
+    {
+      "title": "Świat Skazańców",
+      "text": "Wygląd treści księgi został zmieniony.\n\nthumb|center|305px|Treść księgi w modyfikacji Świat Skazańców"
+    }
+  ]
+}

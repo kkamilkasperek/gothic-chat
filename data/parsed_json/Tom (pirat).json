@@ -1,0 +1,56 @@
+{
+  "title": "Tom (pirat)",
+  "meta_templates": [
+    {
+      "name": "DISPLAYTITLE:Tom",
+      "params": {}
+    },
+    {
+      "name": "Nieużywana zawartość",
+      "params": {}
+    },
+    {
+      "name": "Inne znaczenia",
+      "params": {
+        "1": "pirata występującego w Gothic II: Noc Kruka",
+        "2": "Tom"
+      }
+    }
+  ],
+  "type": "Postać",
+  "infobox": {
+    "imię": "Tom",
+    "obraz": "Tom (Pirat by Jakimix135xd).png",
+    "podpis obrazu": "Tom na plaży",
+    "gildia": "Pirat",
+    "miejsce zamieszkania": "Jarkendar",
+    "miejsce urzędowania": "Obóz piratów",
+    "posiadana broń": [
+      "El Bastardo"
+    ],
+    "posiadana zbroja": [
+      "Pirackie ubranie"
+    ],
+    "występowanie": "Gothic II: Noc Kruka (tylko za pomocą kodów)",
+    "status": "Nieznany",
+    "dubbing": "Adam Bauman",
+    "kod": "Pir_1389_addon_tom",
+    "przedmiot kradzieży": "Kradzież niemożliwa"
+  },
+  "categories": [
+    "Nieużywana zawartość z Gothic II: Noc Kruka",
+    "Piraci",
+    "Postacie z Gothic II: Noc Kruka"
+  ],
+  "languages": {},
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Tom – postać występująca w Gothic II: Noc Kruka, lecz nie pojawiająca się podczas rozgrywki."
+    },
+    {
+      "title": "Gothic II: Noc Kruka",
+      "text": "Można go jedynie przyzwać za pomocą kodów. Po przywołaniu stanie na skraju plaży w obozie piratów, nieopodal miejsca treningu Bonesa.\n\nPo rozpoczęciu rozmowy jest dostępna tylko opcja Koniec, natomiast w skryptach gry istnieje krótki zakomentowany dialog z nim (nie został on przetłumaczony na polski ani nie ma nagranych kwestii). Mówi w nim Bezimiennemu, że piraci przyjęli go i dali mu strój. Na zdziwienie bohatera, że przecież należy do bandytów, Tom puszcza do niego oko i radzi, by był cicho, ponieważ wszystko jest w porządku. Może to sugerować, że uciekł on z obozu bandytów i nie chce ujawniać tożsamości lub też przyszedł do piratów na przeszpiegi."
+    }
+  ]
+}

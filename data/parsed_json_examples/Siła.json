@@ -105,7 +105,7 @@
     },
     {
       "title": "Umiejętności",
-      "text": "Poniższe umiejętności wymagają posiadania określonej siły, by móc je opanować.\nIkonaNazwaSiła 50px Regeneracja 300 50px Duży oręż III 250 50px Duży oręż II 200 50px Mistrz dwóch ostrzy 200 50px Mistrz strzelectwa 200 50px Mistrz walki mieczem 200 50px Duży oręż 150 50px Kusznik 150 50px Lepsza walka mieczem 150 50px Paladyn 150 50px Silne parowanie tarczą 150 50px Walka dwoma ostrzami 150 50px Zabójca orków 150 50px Parowanie tarczą 125 50px Ciężka kusza 100 50px Walka mieczem 100"
+      "text": "Poniższe umiejętności wymagają posiadania określonej siły, by móc je opanować.\n\nTABLE\nIkona, Nazwa, Siła\n50px, Regeneracja, 300\n50px, Duży oręż III, 250\n50px, Duży oręż II, 200\n50px, Mistrz dwóch ostrzy, 200\n50px, Mistrz strzelectwa, 200\n50px, Mistrz walki mieczem, 200\n50px, Duży oręż, 150\n50px, Kusznik, 150\n50px, Lepsza walka mieczem, 150\n50px, Paladyn, 150\n50px, Silne parowanie tarczą, 150\n50px, Walka dwoma ostrzami, 150\n50px, Zabójca orków, 150\n50px, Parowanie tarczą, 125\n50px, Ciężka kusza, 100\n50px, Walka mieczem, 100\nEND_TABLE"
     },
     {
       "title": "Gothic 3: Zmierzch Bogów",

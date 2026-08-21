@@ -1,0 +1,66 @@
+{
+  "title": "Hakon",
+  "meta_templates": [],
+  "type": "Postać",
+  "infobox": {
+    "imię": "Hakon",
+    "podnazwa": "Gothic II,GII:NK",
+    "obraz": "Hakon (by Wojciech Wawrzyńczak).png",
+    "gildia": "Obywatel",
+    "zawód": "Handlarz",
+    "poziom": "24",
+    "miejsce zamieszkania": "Khorinis",
+    "miejsce urzędowania": "Plac targowy",
+    "posiadana broń": [
+      "Kiepski krótki miecz"
+    ],
+    "posiadana zbroja": [
+      "Strój obywatela"
+    ],
+    "status": "Nieznany",
+    "dubbing": "Piotr Bąk",
+    "kod": "Vlk_407_Hakon",
+    "przedmiot kradzieży": "65 złoto",
+    "wymagana zręczność": "45"
+  },
+  "categories": [
+    "Handlarze z Gothic II",
+    "Postacie z Gothic II",
+    "Obywatele Khorinis"
+  ],
+  "languages": {
+    "cs": "Hakon",
+    "it": "Hakon",
+    "ru": "Хакон"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Hakon – postać występująca w Gothic II. Jest to handlarz bronią mieszkający w mieście Khorinis."
+    },
+    {
+      "title": "Gothic II",
+      "text": "Oferuje głównie miecze i topory, które są wykuwane przez Harada. Ma kłopoty z bandytami, którzy zaszyli się w jaskini za farmą Akila. Zleca Bezimiennemu zadanie pozbycia się ich, a po wykonaniu zadania płaci głównemu bohaterowi 100 sztuk złota."
+    },
+    {
+      "title": "Zlecane zadania",
+      "text": "Najazdy bandytów"
+    },
+    {
+      "title": "Towary",
+      "text": "Pokaż/ukryj towary\n Asortyment z I rozdziału to asortyment początkowy. Reszta rozdziałów to przedmioty, które zostają dodane do oferty handlarza.\n Towary handlarza, ich liczba oraz statystyki różnią się w grze z dodatkiem „Noc Kruka”.\n\n Rozdział I \n\nTABLE\nPrzedmiot, Liczba, Cena\nKrótki miecz, 1, 60\nWilczy kieł, 1, 150\nKostur sędziego, 1, 250\nTopór marynarski, 1, 400\nDobry krótki miecz, 1, 200\nSurowa stal, 5, 10\nEND_TABLE\n\n Rozdział II \n\nTABLE\nPrzedmiot, Liczba, Cena\nLekki miecz dwuręczny, 1, 220\nOskard, 1, 300\nTopór obosieczny, 1, 500\nSurowa stal, 5, 10\nEND_TABLE\n\n Rozdział III \n\nTABLE\nPrzedmiot, Liczba, Cena\nBuława, 1, 600\nTopór bojowy, 1, 1200\nDobry miecz półtoraręczny, 1, 1000\nSurowa stal, 5, 10\nEND_TABLE\n\n Rozdział IV \n\nTABLE\nPrzedmiot, Liczba, Cena\nCiężki młot wojenny, 1, 1200\nOrkowa zguba, 1, 1500\nTopór wojenny, 1, 2000\nSurowa stal, 5, 10\nEND_TABLE\n\n Rozdział V \n\nTABLE\nPrzedmiot, Liczba, Cena\nSmocza Zguba, 1, 3000\nSurowa stal, 5, 10\nEND_TABLE"
+    },
+    {
+      "title": "Gothic II: Noc Kruka",
+      "text": "Mówi protagoniście o Joe, którego widział ostatnio kręcącego się koło wież z bronią. Jak się potem okazuje, Joe znajduje się w wieży koło Constantina, do której klucz posiada strażnik miejski, Peck."
+    },
+    {
+      "title": "Zlecane zadania",
+      "text": "Joe"
+    },
+    {
+      "title": "Towary",
+      "text": "Pokaż/ukryj towary\n Asortyment z I rozdziału to asortyment początkowy. Reszta rozdziałów to przedmioty, które zostają dodane do oferty handlarza.\n Towary handlarza, ich liczba oraz statystyki różnią się w grze bez dodatku „Noc Kruka”.\n\n Rozdział I \n\nTABLE\nPrzedmiot, Liczba, Cena\nKrótki miecz, 1, 500\nWilczy kieł, 1, 550\nKostur sędziego, 1, 600\nKiepski miecz półtoraręczny, 1, 850\nBuława, 1, 1000\nTopór marynarski, 1, 600\nSurowa stal, 5, 10\nTopór wojenny, 1, 1400\nSkórzany pas, 1, 250\nPas straży, 1, 250\nAmulet pancerza, 1, 800\nEND_TABLE\n\n Rozdział II \n\nTABLE\nPrzedmiot, Liczba, Cena\nSurowa stal, 5, 10\nEND_TABLE\n\n Rozdział III \n\nTABLE\nPrzedmiot, Liczba, Cena\nOskard, 1, 800\nTopór obosieczny, 2, 900\nBuława, 1, 1000\nOrkowa zguba, 2, 1300\nSurowa stal, 5, 10\nPas obrony, 1, 500\nEND_TABLE\n\n Rozdział IV \n\nTABLE\nPrzedmiot, Liczba, Cena\nSurowa stal, 5, 10\nPas ochrony (typ 2), 1, 500\nPas strażnika, 1, 2000\nEND_TABLE\n\n Rozdział V \n\nTABLE\nPrzedmiot, Liczba, Cena\nSurowa stal, 5, 10\nEND_TABLE"
+    }
+  ]
+}

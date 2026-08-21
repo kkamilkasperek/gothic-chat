@@ -39,7 +39,7 @@
     },
     {
       "title": "Ciekawostki",
-      "text": "Tak samo jak czysty alkohol, rtęć, sadło kretoszczura, siarka i sól, jest to pozostałość po niedokończonej implementacji alchemii do części pierwszej serii Gothic. Świadczy o tym kod przedmiotu oraz zapis konwersacji dwóch programistów w komentarzach do skryptów gry:\"// FIXME: noch benutzen? // NEin, aber liegen überall ind er Welt, von daher als Ambient Items drinlassen!M.F.\"(tłum. \"// FIXME: nadal używać? //Nie, ale są wszędzie na świecie, w związku z tym należy pozostawić jako elementy otoczenia! M.F.\")\n Występuje jako statyczny element stołu alchemicznego pojawiającego się w Gothic II."
+      "text": "Tak samo jak czysty alkohol, rtęć, sadło kretoszczura, siarka i sól, jest to pozostałość po niedokończonej implementacji alchemii do części pierwszej serii Gothic. Świadczy o tym kod przedmiotu oraz zapis konwersacji dwóch programistów w komentarzach do skryptów gry:\nTABLE\n\"// FIXME: noch benutzen? // NEin, aber liegen überall ind er Welt, von daher als Ambient Items drinlassen!M.F.\"(tłum. \"// FIXME: nadal używać? //Nie, ale są wszędzie na świecie, w związku z tym należy pozostawić jako elementy otoczenia! M.F.\")\nEND_TABLE\n\n Występuje jako statyczny element stołu alchemicznego pojawiającego się w Gothic II."
     }
   ]
 }

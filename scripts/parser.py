@@ -85,6 +85,51 @@ def process_wikicode_inline(wikicode: mwparserfromhell.wikicode.Wikicode) -> tup
             except ValueError:
                 pass
                 
+    # 3. Format wikitables as inline CSV
+    for tag in wikicode.filter_tags():
+        if str(tag.tag).lower() == "table":
+            headers = []
+            rows = []
+            current_row = []
+            
+            for node in tag.contents.filter_tags(recursive=False):
+                tag_name = str(node.tag).lower()
+                if tag_name == "tr":
+                    if current_row:
+                        rows.append(current_row)
+                        current_row = []
+                    tr_row = []
+                    for cell in node.contents.filter_tags(recursive=False):
+                        cell_tag = str(cell.tag).lower()
+                        if cell_tag == "th":
+                            headers.append(cell.contents.strip_code().strip())
+                        elif cell_tag == "td":
+                            tr_row.append(cell.contents.strip_code().strip())
+                    if tr_row:
+                        rows.append(tr_row)
+                elif tag_name == "th":
+                    headers.append(node.contents.strip_code().strip())
+                elif tag_name == "td":
+                    current_row.append(node.contents.strip_code().strip())
+            
+            if current_row:
+                rows.append(current_row)
+                
+            # Construct CSV text
+            lines = ["\nTABLE"]
+            if headers:
+                lines.append(", ".join(headers))
+            for row in rows:
+                lines.append(", ".join(row))
+            lines.append("END_TABLE\n")
+                
+            csv_text = "\n".join(lines) + "\n"
+            
+            try:
+                wikicode.replace(tag, csv_text)
+            except ValueError:
+                pass
+                
     return categories, languages
 
 def parse_wikitext_to_dict(title: str, wikitext: str) -> dict:
@@ -182,7 +227,7 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(script_dir)
     input_dir = os.path.join(project_root, "data", "raw_txt_examples")
-    output_dir = os.path.join(project_root, "data", "parsed_json")
+    output_dir = os.path.join(project_root, "data", "parsed_json_examples")
     
     os.makedirs(output_dir, exist_ok=True)
     

@@ -177,3 +177,55 @@ Opis miecza.
     assert result["languages"]["de"] == "Magisches Schwert"
     assert "Kategoria" not in result["sections"][0]["text"]
     assert "Magic sword" not in result["sections"][0]["text"]
+
+def test_parse_wikitext_table_with_headers():
+    wikitext = """{{Przedmiot
+ |Nazwa = Tabela z nagłówkami
+}}
+Wstęp.
+<table class="wikitable">
+<tr>
+<th>Broń</th>
+<th>Obrażenia</th>
+</tr>
+<tr>
+<td>Miecz</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Topór</td>
+<td>50</td>
+</tr>
+</table>
+"""
+    result = parse_wikitext_to_dict("Tabela 1", wikitext)
+    text = result["sections"][0]["text"]
+    assert "TABLE" in text
+    assert "END_TABLE" in text
+    assert "Broń, Obrażenia" in text
+    assert "Miecz, 40" in text
+    assert "Topór, 50" in text
+
+def test_parse_wikitext_table_without_headers():
+    wikitext = """{{Przedmiot
+ |Nazwa = Tabela bez nagłówków
+}}
+Wstęp.
+<table>
+<tr>
+<td>Miecz</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Topór</td>
+<td>50</td>
+</tr>
+</table>
+"""
+    result = parse_wikitext_to_dict("Tabela 2", wikitext)
+    text = result["sections"][0]["text"]
+    assert "TABLE" in text
+    assert "END_TABLE" in text
+    assert "Miecz, 40" in text
+    assert "Topór, 50" in text
+    assert "Broń, Obrażenia" not in text

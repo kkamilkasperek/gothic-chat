@@ -62,14 +62,16 @@ def process_wikicode_inline(wikicode: mwparserfromhell.wikicode.Wikicode) -> tup
             except ValueError:
                 pass
 
-    # 2. Extract Categories and Languages
+    # 2. Extract Categories, Languages and Remove Images
     categories = []
     languages = {}
+    image_prefixes = ("plik:", "file:", "image:", "grafika:")
     
     # We must be careful replacing while iterating. filter_wikilinks returns a list.
     for link in wikicode.filter_wikilinks():
         title = str(link.title).strip()
-        if title.lower().startswith("kategoria:"):
+        title_lower = title.lower()
+        if title_lower.startswith("kategoria:"):
             cat_name = title[len("kategoria:"):].strip()
             if cat_name not in categories:
                 categories.append(cat_name)
@@ -80,6 +82,11 @@ def process_wikicode_inline(wikicode: mwparserfromhell.wikicode.Wikicode) -> tup
         elif re.match(r'^[a-z]{2,3}:', title, re.IGNORECASE):
             lang_code, lang_name = title.split(":", 1)
             languages[lang_code.lower()] = lang_name.strip()
+            try:
+                wikicode.remove(link)
+            except ValueError:
+                pass
+        elif title_lower.startswith(image_prefixes):
             try:
                 wikicode.remove(link)
             except ValueError:
@@ -114,6 +121,38 @@ def process_wikicode_inline(wikicode: mwparserfromhell.wikicode.Wikicode) -> tup
             
             if current_row:
                 rows.append(current_row)
+                
+            # Filter out image columns
+            num_cols = max(len(headers), max((len(r) for r in rows), default=0))
+            cols_to_remove = set()
+            image_header_names = {"obraz", "image", "grafika", "plik", "wygląd", "ikona", "ikonka"}
+            
+            for i in range(num_cols):
+                is_image_header = i < len(headers) and headers[i].lower() in image_header_names
+                
+                is_all_empty = True
+                has_any_row = False
+                for row in rows:
+                    if i < len(row):
+                        has_any_row = True
+                        if row[i] != "":
+                            is_all_empty = False
+                            break
+                if not has_any_row:
+                    is_all_empty = False
+                
+                if is_image_header or is_all_empty:
+                    cols_to_remove.add(i)
+                    
+            if headers:
+                headers = [h for i, h in enumerate(headers) if i not in cols_to_remove]
+            
+            filtered_rows = []
+            for row in rows:
+                filtered_row = [cell for i, cell in enumerate(row) if i not in cols_to_remove]
+                if filtered_row:
+                    filtered_rows.append(filtered_row)
+            rows = filtered_rows
                 
             # Construct CSV text
             lines = ["\nTABLE"]
@@ -153,10 +192,11 @@ def parse_wikitext_to_dict(title: str, wikitext: str) -> dict:
         if is_infobox and record_type == "unknown":
             # This is our main infobox
             record_type = template_name
+            image_keys = {"podpis obrazu", "podpis", "obrazek"}
             for param in template.params:
                 key = str(param.name).strip().lower()
                 val = str(param.value).strip()
-                if not val:
+                if not val or key in image_keys:
                     continue
                 
                 is_list = key in ["posiadana broń", "posiadana zbroja"]
@@ -175,7 +215,7 @@ def parse_wikitext_to_dict(title: str, wikitext: str) -> dict:
             })
 
     # 2. Extract Sections
-    sections = []
+    top_level_sections = []
     
     # Extract lead section (Wstęp)
     lead_nodes = []
@@ -188,16 +228,21 @@ def parse_wikitext_to_dict(title: str, wikitext: str) -> dict:
     cleaned_lead = lead_wikicode.strip_code().strip()
     
     if cleaned_lead:
-        sections.append({
+        top_level_sections.append({
             "title": "Wstęp",
-            "text": cleaned_lead
+            "text": cleaned_lead,
+            "subsections": []
         })
+
+    stack = []
 
     # Extract other sections
     for section in wikicode.get_sections(levels=[2, 3, 4, 5, 6], include_lead=False, flat=True):
         headings = section.filter_headings()
         if headings:
-            sec_title = headings[0].title.strip_code().strip()
+            heading = headings[0]
+            sec_title = heading.title.strip_code().strip()
+            level = heading.level
             
             # Ignore "Przypisy"
             if sec_title.lower() == "przypisy":
@@ -207,12 +252,33 @@ def parse_wikitext_to_dict(title: str, wikitext: str) -> dict:
             sec_wikicode = mwparserfromhell.wikicode.Wikicode(nodes_without_heading)
             sec_text = sec_wikicode.strip_code().strip()
             
-            if sec_text:
-                sections.append({
-                    "title": sec_title,
-                    "text": sec_text
-                })
+            new_sec = {
+                "title": sec_title,
+                "text": sec_text,
+                "subsections": []
+            }
+            
+            # Pop sections from stack that are deeper or at the same level
+            while stack and stack[-1][0] >= level:
+                stack.pop()
                 
+            if not stack:
+                top_level_sections.append(new_sec)
+            else:
+                stack[-1][1]["subsections"].append(new_sec)
+                
+            stack.append((level, new_sec))
+
+    def prune_empty(sections_list: list[dict]) -> list[dict]:
+        result = []
+        for s in sections_list:
+            s["subsections"] = prune_empty(s["subsections"])
+            if s["text"] or s["subsections"]:
+                result.append(s)
+        return result
+        
+    sections = prune_empty(top_level_sections)
+    
     return {
         "title": title,
         "meta_templates": meta_templates,

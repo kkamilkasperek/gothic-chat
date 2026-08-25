@@ -6,7 +6,6 @@
     "nazwa": "Feomathar",
     "podnazwa": "Gothic II,GII:NK",
     "obraz": "Feomathar (by Ossowski21).png",
-    "podpis obrazu": "Feomathar w Gothic II",
     "gromada": "Smok",
     "środowisko życia": "Wulkan w Górniczej Dolinie",
     "punkty doświadczenia": "4500",
@@ -32,35 +31,44 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Feomathar – ognisty smok z Górniczej Doliny występujący w Gothic II."
+      "text": "Feomathar – ognisty smok z Górniczej Doliny występujący w Gothic II.",
+      "subsections": []
     },
     {
       "title": "Przed akcją gry",
-      "text": "Za swoją siedzibę wybrał górę, na której stały ruiny starej cytadeli. Smok zniszczył ją i utworzył tam wulkan."
+      "text": "Za swoją siedzibę wybrał górę, na której stały ruiny starej cytadeli. Smok zniszczył ją i utworzył tam wulkan.",
+      "subsections": []
     },
     {
       "title": "Gothic II",
-      "text": "Jest jednym z dwóch smoków, które zaatakowały zamek i spaliły zewnętrzny pierścień. Feomathara broni horda jaszczuroludzi, ognistych jaszczurów i ognistych golemów. Ukrył swój skarb na gorących skałach, gdzie według niego nie ma prawa dotrzeć żadna nielotna istota. Jego bratem jest Feodaron, który osiadł na wyspie Irdorath i zajął się wysiadywaniem smoczych jaj. Podobnie jak pozostałe smoki, atakuje przy pomocy ognistego oddechu lub miotając ogniste kule. Bezimienny może z niego wyciągnąć 12 smoczych łusek, 2 fiolki smoczej krwi (po nauczeniu się odpowiednich umiejętności, kolejno usuwania smoczych łusek i zbierania smoczej krwi) oraz serce ognistego smoka potrzebne do naładowania Oka Innosa.\n\n310px|center|thumb|Bezimienny walczący z Feomatharem"
-    },
-    {
-      "title": "Zlecane zadania",
-      "text": "Smocze jaja (jeśli jest pierwszym smokiem odwiedzonym przez Bezimiennego, a bohater jest łowcą smoków);\n Pan Smoków (jeśli jest ostatnim smokiem odwiedzonym przez Bezimiennego)."
-    },
-    {
-      "title": "Skarb",
-      "text": "W skarbie Feomathara znaleźć można:\n łuk jesionowy;\n dobry długi miecz;\n skrzyneczkę;\n 400 sztuk złota w 8 mieszkach."
+      "text": "Jest jednym z dwóch smoków, które zaatakowały zamek i spaliły zewnętrzny pierścień. Feomathara broni horda jaszczuroludzi, ognistych jaszczurów i ognistych golemów. Ukrył swój skarb na gorących skałach, gdzie według niego nie ma prawa dotrzeć żadna nielotna istota. Jego bratem jest Feodaron, który osiadł na wyspie Irdorath i zajął się wysiadywaniem smoczych jaj. Podobnie jak pozostałe smoki, atakuje przy pomocy ognistego oddechu lub miotając ogniste kule. Bezimienny może z niego wyciągnąć 12 smoczych łusek, 2 fiolki smoczej krwi (po nauczeniu się odpowiednich umiejętności, kolejno usuwania smoczych łusek i zbierania smoczej krwi) oraz serce ognistego smoka potrzebne do naładowania Oka Innosa.",
+      "subsections": [
+        {
+          "title": "Zlecane zadania",
+          "text": "Smocze jaja (jeśli jest pierwszym smokiem odwiedzonym przez Bezimiennego, a bohater jest łowcą smoków);\n Pan Smoków (jeśli jest ostatnim smokiem odwiedzonym przez Bezimiennego).",
+          "subsections": []
+        },
+        {
+          "title": "Skarb",
+          "text": "W skarbie Feomathara znaleźć można:\n łuk jesionowy;\n dobry długi miecz;\n skrzyneczkę;\n 400 sztuk złota w 8 mieszkach.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Gothic II: Noc Kruka",
-      "text": "Feomathar dodatkowo potrafi regenerować punkty trafień w trakcie walki.\n\nOprócz wyżej wymienionych przedmiotów w skarbie smoka można znaleźć dodatkowo bryłkę czarnej rudy.\n\n310px|center|thumb|Skarb Feomathara"
+      "text": "Feomathar dodatkowo potrafi regenerować punkty trafień w trakcie walki.\n\nOprócz wyżej wymienionych przedmiotów w skarbie smoka można znaleźć dodatkowo bryłkę czarnej rudy.",
+      "subsections": []
     },
     {
       "title": "Ciekawostki",
-      "text": "Wbrew słowom Feomathara, do jego skarbu istnieje łatwy dostęp na kilka sposobów – dojście doń znajduje się przy ścieżce prowadzącej do smoka, po prawej stronie, za zakrętem w miejscu, gdzie kończy się urwisko.\n Skarb Feomathara w rzeczywistości zawiera jeszcze jeden mieszek z 50 sztukami złota, jednak przez niedopatrzenie twórców został on umieszczony pod warstwą dekoracyjnych modeli kosztowności, przez co jest niedostępny.\n W podstawie Gothic II jest nieśmiertelny, podobnie jak pozostałe smoki, do czasu rozmowy z nim przy użyciu Oka Innosa, lecz w Nocy Kruka odpowiednia linia w skrypcie z nieznanych przyczyn została zakomentowana. Z tego powodu w dodatku można go zabić nawet bez Oka Innosa."
+      "text": "Wbrew słowom Feomathara, do jego skarbu istnieje łatwy dostęp na kilka sposobów – dojście doń znajduje się przy ścieżce prowadzącej do smoka, po prawej stronie, za zakrętem w miejscu, gdzie kończy się urwisko.\n Skarb Feomathara w rzeczywistości zawiera jeszcze jeden mieszek z 50 sztukami złota, jednak przez niedopatrzenie twórców został on umieszczony pod warstwą dekoracyjnych modeli kosztowności, przez co jest niedostępny.\n W podstawie Gothic II jest nieśmiertelny, podobnie jak pozostałe smoki, do czasu rozmowy z nim przy użyciu Oka Innosa, lecz w Nocy Kruka odpowiednia linia w skrypcie z nieznanych przyczyn została zakomentowana. Z tego powodu w dodatku można go zabić nawet bez Oka Innosa.",
+      "subsections": []
     },
     {
       "title": "Zobacz także",
-      "text": "Pandrodor – bagienny smok\n Pedrakhan – kamienny smok\n Finkregh – lodowy smok"
+      "text": "Pandrodor – bagienny smok\n Pedrakhan – kamienny smok\n Finkregh – lodowy smok",
+      "subsections": []
     }
   ]
 }

@@ -21,7 +21,6 @@
   "infobox": {
     "imię": "Tom",
     "obraz": "Tom (Pirat by Jakimix135xd).png",
-    "podpis obrazu": "Tom na plaży",
     "gildia": "Pirat",
     "miejsce zamieszkania": "Jarkendar",
     "miejsce urzędowania": "Obóz piratów",
@@ -46,11 +45,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Tom – postać występująca w Gothic II: Noc Kruka, lecz nie pojawiająca się podczas rozgrywki."
+      "text": "Tom – postać występująca w Gothic II: Noc Kruka, lecz nie pojawiająca się podczas rozgrywki.",
+      "subsections": []
     },
     {
       "title": "Gothic II: Noc Kruka",
-      "text": "Można go jedynie przyzwać za pomocą kodów. Po przywołaniu stanie na skraju plaży w obozie piratów, nieopodal miejsca treningu Bonesa.\n\nPo rozpoczęciu rozmowy jest dostępna tylko opcja Koniec, natomiast w skryptach gry istnieje krótki zakomentowany dialog z nim (nie został on przetłumaczony na polski ani nie ma nagranych kwestii). Mówi w nim Bezimiennemu, że piraci przyjęli go i dali mu strój. Na zdziwienie bohatera, że przecież należy do bandytów, Tom puszcza do niego oko i radzi, by był cicho, ponieważ wszystko jest w porządku. Może to sugerować, że uciekł on z obozu bandytów i nie chce ujawniać tożsamości lub też przyszedł do piratów na przeszpiegi."
+      "text": "Można go jedynie przyzwać za pomocą kodów. Po przywołaniu stanie na skraju plaży w obozie piratów, nieopodal miejsca treningu Bonesa.\n\nPo rozpoczęciu rozmowy jest dostępna tylko opcja Koniec, natomiast w skryptach gry istnieje krótki zakomentowany dialog z nim (nie został on przetłumaczony na polski ani nie ma nagranych kwestii). Mówi w nim Bezimiennemu, że piraci przyjęli go i dali mu strój. Na zdziwienie bohatera, że przecież należy do bandytów, Tom puszcza do niego oko i radzi, by był cicho, ponieważ wszystko jest w porządku. Może to sugerować, że uciekł on z obozu bandytów i nie chce ujawniać tożsamości lub też przyszedł do piratów na przeszpiegi.",
+      "subsections": []
     }
   ]
 }

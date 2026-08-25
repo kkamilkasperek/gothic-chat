@@ -1,0 +1,635 @@
+'''Bestiariusz w Gothic 3''' – lista wszystkich zwierząt i potworów pojawiających się w [[Gothic 3]].
+
+Na liście nie uwzględniono [[Orkowie|orków]], jako że w trzeciej odsłonie [[Seria Gothic|serii]] stanowią oni odrębną, inteligentną rasę i nie wpasowują się w kategorię zwierząt lub bestii.
+
+== Bestiariusz ==
+{| class="wikitable sortable" style="text-align: center"
+!Obraz
+! style="width: 170px" |Nazwa
+!PD
+!Nastawienie
+|-
+|[[Plik:Bagienny topielec (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Bagienny topielec]]
+|150
+|Agresywny
+|-
+|[[Plik:Bizon. (by Ossowski21) cut.png|150px|center]]
+|style="text-align: left;" | [[Bizon]]
+|200
+|Pasywny<ref name="a">Atakuje po sprowokowaniu.</ref>
+|-
+|[[Plik:Chrząszcz w Gothic 3 by Kubar906 cut.png|150px|center]]
+|style="text-align: left;" | [[Chrząszcz]]
+|25
+|Pasywny
+|-
+|[[Plik:Cieniostwór (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Cieniostwór]]
+|300
+|Agresywny
+|-
+|[[Plik:Czarny goblin G3 CP cut.png|150px|center]]
+|style="text-align: left;" | [[Czarny goblin]]
+|100
+|Agresywny
+|-
+|[[Plik:Czarny troll (Gothic 3) (by Gothicfan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Czarny troll]]
+|500
+|Agresywny
+|-
+|[[Plik:Demon (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Demon]]
+|500
+|Agresywny
+|-
+|[[Plik:Dzik (G3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Dzik]]
+|100
+|Agresywny
+|-
+|[[Plik:Gargulec G3ZB cut.png|150px|center]]
+|style="text-align: left;" | [[Gargulec]]
+|200
+|Agresywny
+|-
+|[[Plik:Goblin (patch 1.75.14.) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Goblin]]
+|50
+|Agresywny
+|-
+|[[Plik:Kapłan ożywieńców G3 (by Wedkarski) cut.png|150px|center]]
+|style="text-align: left;" | [[Główny kapłan ożywieńców]]
+|400
+|Agresywny
+|-
+|[[Plik:Gobliński szaman (Content Mod 2.2) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Gobliński szaman]]
+|50
+|Agresywny
+|-
+|[[Plik:Jaszczur (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Jaszczur]]
+|100
+|Agresywny
+|-
+|[[Plik:Jaszczurka (Gothic 3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Jaszczurka]]
+|25
+|Pasywny
+|-
+|[[Plik:Jeleń (Gothic 3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Jeleń]]
+|50
+|Pasywny<ref name="b">Dodatkowo ucieka przed bohaterem.</ref>
+|-
+|[[Plik:Kamienny golem G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Kamienny golem]]
+|400
+|Agresywny
+|-
+|[[Plik:Krokodyl (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Krokodyl]]
+|200
+|Agresywny
+|-
+|[[Plik:Krowa (patch 1.75.14) (Gothic 3) (by Gothicfan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Krowa]]
+|50
+|Pasywny
+|-
+|[[Plik:Krwiopijca w locie G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Krwiopijca]]
+|50
+|Agresywny
+|-
+|[[Plik:Kura (Gothic 3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Kura]]
+|25
+|Pasywny
+|-
+|[[Plik:Lew i lwica cut.png|150px|center]]
+|style="text-align: left;" | [[Lew]]
+|300
+|Agresywny
+|-
+|[[Plik:Lodowy golem (patch 1.75.14.) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Lodowy golem]]
+|400
+|Agresywny
+|-
+|[[Plik:LodowyWilkG3 cut.png|150px|center]]
+|style="text-align: left;" | [[Lodowy wilk]]
+|100
+|Agresywny
+|-
+|[[Plik:Lwica G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Lwica]]
+|250
+|Agresywny
+|-
+|[[Plik:Mroczny zębacz G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Mroczny zębacz]]
+|150
+|Agresywny
+|-
+|[[Plik:Mumia G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Mumia]]
+|300
+|Agresywny
+|-
+|[[Plik:Nosorożec (patch 1.75.14) (Gothic 3) (by Gothicfan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Nosorożec]]
+|200
+|Agresywny
+|-
+|[[Plik:Ognisty golem G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Ognisty golem]]
+|400
+|Agresywny
+|-
+|[[Plik:Ognisty jaszczur (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Ognisty jaszczur]]
+|150
+|Agresywny
+|-
+|[[Plik:Ogr (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Ogr]]
+|400
+|Agresywny
+|-
+|[[Plik:Pełzacz G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Pełzacz]]
+|200
+|Agresywny
+|-
+|[[Plik:Pełzacz piaskowy G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Pełzacz piaskowy]]
+|150
+|Agresywny
+|-
+|[[Plik:Pełzacz wojownik G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Pełzacz wojownik]]
+|300
+|Agresywny
+|-
+|[[Plik:Piaskowy topielec (G3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Piaskowy topielec]]
+|100
+|Agresywny
+|-
+|[[Plik:Potwór czerwony Gothic 3 cut.png|150px|center]]
+|style="text-align: left;" | [[Potwór]]
+|500
+|Agresywny
+|-
+|[[Plik:Pustynny cienistwór (Gothic 3) (by Avaro21) cut.png|150px|center]]
+|style="text-align: left;" | [[Pustynny cieniostwór]]
+|300
+|Agresywny
+|-
+|[[Plik:Rozpruwacz (Gothic 3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Rozpruwacz]]
+|200
+|Agresywny
+|-
+|[[Plik:Schrat G3 (by Wedkarski) cut.png|150px|center]]
+|style="text-align: left;" | [[Schrat]]
+|300
+|Agresywny
+|-
+|[[Plik:Sęp by Kubar906 cut.png|150px|center]]
+|style="text-align: left;" | [[Sęp]]<ref>Został usunięty w [[Community Patch]]u.</ref>
+|25
+|Pasywny
+|-
+|[[Plik:Smok (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Smok (Gothic 3)|Smok]]
+|500
+|Agresywny
+|-
+|[[Plik:Strażnik świątynny (bestia) (G3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Strażnik świątynny (Gothic 3)|Strażnik świątynny]]
+|400
+|Agresywny
+|-
+|[[Plik:Szabloząb cut.png|150px|center]]
+|style="text-align: left;" | [[Szabloząb]]
+|300
+|Agresywny
+|-
+|[[Plik:Szakal (zwierzę) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Szakal (Gothic 3)|Szakal]]
+|50
+|Agresywny
+|-
+|[[Plik:Szkielet (Gothic 3) (by Gothicfan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Szkielet]]
+|200
+|Agresywny
+|-
+|[[Plik:Ścierwojad G3 by Kubar906 cut.png|150px|center]]
+|style="text-align: left;" | [[Ścierwojad]]
+|50
+|Agresywny
+|-
+|[[Plik:Świnia (patch 1.75.14) (Gothic 3) (by Gothicfan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Świnia]]
+|50
+|Pasywny
+|-
+|[[Plik:Topielec (G3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Topielec]]
+|100
+|Agresywny
+|-
+|[[Plik:Troll (G3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Troll]]
+|500
+|Agresywny
+|-
+|[[Plik:Warg G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Warg]]
+|100
+|Agresywny
+|-
+|[[Plik:Wąż (zwierzę) by Kubar906 cut.png|150px|center]]
+|style="text-align: left;" | [[Wąż (Gothic 3)|Wąż]]
+|25
+|Pasywny
+|-
+|[[Plik:Wilk G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Wilk]]
+|50
+|Agresywny
+|-
+|[[Plik:Włochaty bizon (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Włochaty bizon]]
+|200
+|Pasywny<ref name="a" />
+|-
+|[[Plik:Włochaty nosorożec (Gothic 3) (by SpY) cut.png|150px|center]]
+|style="text-align: left;" | [[Włochaty nosorożec]]
+|250
+|Agresywny
+|-
+|[[Plik:Zając (Gothic 3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Zając]]
+|25
+|Pasywny
+|-
+|[[Plik:Zębacz (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Zębacz]]
+|150
+|Agresywny
+|-
+|[[Plik:Zombie (Gothic 3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Zombie]]
+|200
+|Agresywny
+|-
+|[[Plik:Zółw (G3) cut.png|150px|center]]
+|style="text-align: left;" | [[Żółw]]
+|25
+|Pasywny
+|}
+
+== Imienne/związane z zadaniami ==
+{| class="wikitable sortable" style="text-align: center"
+!Obraz
+! style="width: 170px" |Nazwa
+!PD
+!Nastawienie
+|-
+|[[Plik:Agresywny dzik G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Agresywny dzik]]
+|100
+|Agresywny
+|-
+|[[Plik:Rozpruwacz agresywny G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Agresywny rozpruwacz]]
+|200
+|Agresywny
+|-
+|[[Plik:Bak-Arash G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Bak Arash]]
+|500
+|Agresywny
+|-
+|[[Plik:Czerwony shrat (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Bezimienny (schrat)|Bezimienny]]
+|300
+|Agresywny
+|-
+|[[Plik:Biały cieniostwór cut.png|150px|center]]
+|style="text-align: left;" | [[Biały cieniostwór]]
+|400
+|Agresywny
+|-
+|[[Plik:LodowyWilkG3 cut.png|150px|center]]
+|style="text-align: left;" | [[Biały rozpruwacz]]
+|300
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Boski pomocnik]]
+|300
+|Agresywny
+|-
+|[[Plik:Cierpiący na zatwardzenie jaszczur cut.png|150px|center]]
+|style="text-align: left;" | [[Cierpiący na zatwardzenie jaszczur]]
+|100
+|Agresywny
+|-
+|[[Plik:Czerwony shrat (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Czarnopióry]]
+|300
+|Agresywny
+|-
+|[[Plik:Demon z Gothy (Gothic 3) (by Gothicfan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Demon z Gothy]]
+|500
+|Agresywny
+|-
+|[[Plik:Dowódca ożywieńców (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Dowódca ożywieńców]]
+|200
+|Agresywny
+|-
+|[[Plik:Duży szabloząb cut.png|150px|center]]
+|style="text-align: left;" | [[Duży szabloząb]]
+|300
+|Agresywny
+|-
+|[[Plik:Czerwony shrat (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Dziesiąty Człowiek]]
+|300
+|Agresywny
+|-
+|[[Plik:Dziki lew GOTHIC 3 cut.png|150px|center]]
+|style="text-align: left;" | [[Dziki lew]]
+|300
+|Agresywny
+|-
+|[[Plik:Dziwny topielec cut.png|150px|center]]
+|style="text-align: left;" | [[Dziwny topielec]]
+|100
+|Agresywny
+|-
+|[[Plik:Fanatyczne zwierze Księgo gromca i Włochacz cut.png|150px|center]]
+|style="text-align: left;" | [[Fanatyczne zwierzę]]
+|300
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Furtrapper]]
+|300
+|Agresywny
+|-
+|[[Plik:Goblin jaskiniowy cut.png|150px|center]]
+|style="text-align: left;" | [[Goblin jaskiniowy]]
+|50
+|Agresywny
+|-
+|[[Plik:Golem-strażnik cut.png|150px|center]]
+|style="text-align: left;" | [[Golem-strażnik]]
+|50
+|Pasywny<ref name="a"/>
+|-
+|[[Plik:Groźny zębacz by Kubar906 cut.png|150px|center]]
+|style="text-align: left;" | [[Groźny zębacz]]
+|150
+|Agresywny
+|-
+|[[Plik:Górski jeleń cut.png|150px|center]]
+|style="text-align: left;" | [[Górski jeleń]]
+|50
+|Pasywny<ref name="b">
+|-
+|[[Plik:Głodny wilk cut.png|150px|center]]
+|style="text-align: left;" | [[Głodny wilk]]
+|50
+|Agresywny
+|-
+|[[Plik:Krowa mleczna Gothic 3 cut.png|150px|center]]
+|style="text-align: left;" | [[Krowa mleczna]]
+|50
+|Pasywny
+|-
+|[[Plik:Fanatyczne zwierze Księgo gromca i Włochacz cut.png|150px|center]]
+|style="text-align: left;" | [[Księgo-gromca]]
+|300
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[McAdam]]
+|300
+|Agresywny
+|-
+|[[Plik:Nasycony topielec G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Nasycony topielec]]
+|100
+|Agresywny
+|-
+|[[Plik:Niespokojny zwiadowca G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Niespokojny zwiadowca]]
+|200
+|Agresywny
+|-
+|[[Plik:Nieustraszony gon iec pustynny (G3) cut.png|150px|center]]
+|style="text-align: left;" | [[Nieustraszony goniec pustynny]]
+|300
+|Agresywny
+|-
+|[[Plik:Parskający potweór cut.png|150px|center]]
+|style="text-align: left;" | [[Parskający potwór]]
+|500
+|Agresywny
+|-
+|[[Plik:Paskudny cieniostwór G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Paskudny cieniostwór]]
+|300
+|Agresywny
+|-
+|[[Plik:Paskudny dzik G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Paskudny dzik]]
+|100
+|Agresywny
+|-
+|[[Plik:Podejrzany szabloząb cut.png|150px|center]]
+|style="text-align: left;" | [[Podejrzany tygrys szablozęby]]
+|300
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Podwójny Sobowtór]]
+|300
+|Agresywny
+|-
+|[[Plik:Przeklęty niewolnik by Kubar906 cut.png|150px|center]]
+|style="text-align: left;" | [[Przeklęty niewolnik]]
+|200
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Przyboczny generała]]
+|300
+|Agresywny
+|-
+|[[Plik:Przywódca niczego cut.png|150px|center]]
+|style="text-align: left;" | [[Przywódca Niczego]]
+|50
+|Agresywny
+|-
+|[[Plik:Przywódca stada G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Przywódca stada]]
+|100
+|Agresywny
+|-
+|[[Plik:Płochliwy jeleń (G3) (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Płochliwy jeleń]]
+|50
+|Pasywny<ref name="b"/>
+|-
+|[[Plik:Ranny pełzacz piaskowy - do ognistych pucharów (G3) cut.png|150px|center]]
+|style="text-align: left;" | [[Ranny pełzacz piaskowy (zwierzę)|Ranny pełzacz piaskowy]]
+|150
+|Agresywny
+|-
+|[[Plik:Rozbudzone zombie G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Rozbudzone zombie]]
+|200
+|Agresywny
+|-
+|[[Plik:Rozbudzony szkielet cut.png|150px|center]]
+|style="text-align: left;" | [[Rozbudzony szkielet]]
+|200
+|Agresywny
+|-
+|[[Plik:Rozkładająca się bestia G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Rozkładająca się bestia]]
+|300
+|Agresywny
+|-
+|[[Plik:Czerwony shrat (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Rycerz Okrągłego Stołu]]
+|300
+|Agresywny
+|-
+|[[Plik:Skowyczący szkielet cut.png|150px|center]]
+|style="text-align: left;" | [[Skowyczący szkielet]]
+|200
+|Agresywny
+|-
+|[[Plik:Skradający się ogr cut.png|150px|center]]
+|style="text-align: left;" | [[Skradający się ogr]]
+|400
+|Agresywny
+|-
+|[[Plik:Srebrny wilk (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Srebrny wilk]]
+|50
+|Agresywny
+|-
+|[[Plik:Szaroskóry (by Kubar906) cut.png|150px|center]]
+|style="text-align: left;" | [[Szaroskóry]]
+|250
+|Pasywny
+|-
+|[[Plik:Tchórzliwy goblin (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Tchórzliwy goblin]]
+|50
+|Agresywny
+|-
+|[[Plik:Twardy pełzacz piaskowy cut.png|150px|center]]
+|style="text-align: left;" | [[Twardy pełzacz piaskowy]]
+|200
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Tytan]]
+|300
+|Agresywny
+|-
+|[[Plik:Ugluz Brzuchaty(by Lother) cut.png|150px|center]]
+|style="text-align: left;" | [[Ugluz brzuchaty]]
+|500
+|Agresywny
+|-
+|[[Plik:Wilk tunelowy Gothic 3 cut.png|150px|center]]
+|style="text-align: left;" | [[Wilk tunelowy]]
+|50
+|Agresywny
+|-
+|[[Plik:Fanatyczne zwierze Księgo gromca i Włochacz cut.png|150px|center]]
+|style="text-align: left;" | [[Włochacz]]
+|50
+|Agresywny
+|-
+|[[Plik:Agresywny wilk cut.png|150px|center]]
+|style="text-align: left;" | [[Zabłąkany wilk]]
+|50
+|Agresywny
+|-
+|[[Plik:Czerwony shrat (Gothic 3) cut.png|150px|center]]
+|style="text-align: left;" | [[Zegar]]
+|300
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Zegarynka]]
+|300
+|Agresywny
+|-
+|[[Plik:Podwójny Sobowtór (Gothic 3) (by GothicFan94) cut.png|150px|center]]
+|style="text-align: left;" | [[Zleceniodawca]]
+|300
+|Agresywny
+|-
+|[[Plik:Złodziejski goblin cut.png|150px|center]]
+|style="text-align: left;" | [[Złodziejski goblin]]
+|50
+|Agresywny
+|}
+
+== Niewystępujące ==
+{| class="wikitable sortable" style="text-align: center"
+!Obraz
+! style="width: 170px" |Nazwa
+!PD
+!Nastawienie
+|-
+|[[Plik:Czarny szabloząb G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Czarny szabloząb]]
+|300
+|Agresywny
+|-
+|[[Plik:Czarny topiel G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Czarny topielec]]
+|100
+|Agresywny
+|-
+|[[Plik:Mewa G3 cut.png|150px|center]]
+|style="text-align: left;" | [[Mewa]]
+|25
+|Pasywny
+|-
+|[[Plik:Mors cut.png|150px|center]]
+|style="text-align: left;" | [[Mors]]
+|25
+|Pasywny
+|}
+
+== Zobacz także ==
+* [[Bestiariusz w Gothic]]
+* [[Bestiariusz w Gothic II]]
+* [[Bestiariusz w Gothic II: Noc Kruka]]
+* [[Bestiariusz w Gothic 3: Zmierzch Bogów]]
+* [[Bestiariusz w ArcaniA]]
+* [[Bestiariusz w ArcaniA: Upadek Setarrif]]
+
+== Przypisy ==
+[[Kategoria:Bestiariusz]]
+[[Kategoria:Spisy z Gothic 3]]
+[[ru:Противники (Gothic 3)]]

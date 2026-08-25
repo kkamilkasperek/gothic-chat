@@ -6,7 +6,6 @@
     "nazwa": "Zabij pochrząkujące bestie z jaskini koło farmy Josha",
     "nazwa angielska": "Kill the grunting creatures below Josh's farm",
     "obraz": "Chrząkanie pod farmą zadanie G3.png",
-    "podpis obrazu": "Josh mówiący o pochrząkujących bestiach",
     "zleceniodawca": "Josh",
     "start": "Farma Josha",
     "koniec": "Farma Josha",
@@ -27,23 +26,34 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Zabij pochrząkujące bestie z jaskini koło farmy Josha – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez farmera Josha."
+      "text": "Zabij pochrząkujące bestie z jaskini koło farmy Josha – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez farmera Josha.",
+      "subsections": []
     },
     {
       "title": "Krok po kroku",
-      "text": "Porozmawiaj z Joshem, który przebywa na swojej farmie.\n Udaj się do jaskini chrząkających bestii.\n Zabij 3 rozpruwacze, które przebywają w jaskini.\n Ponownie porozmawiaj z Joshem, aby odebrać nagrodę (opcjonalnie)."
+      "text": "Porozmawiaj z Joshem, który przebywa na swojej farmie.\n Udaj się do jaskini chrząkających bestii.\n Zabij 3 rozpruwacze, które przebywają w jaskini.\n Ponownie porozmawiaj z Joshem, aby odebrać nagrodę (opcjonalnie).",
+      "subsections": []
     },
     {
-      "title": "Niespokojny farmer",
-      "text": "Bezimienny, chodząc po okolicach Trelis, napotyka farmę, na której znajduje się jej właściciel – Josh. Mężczyzna twierdzi, że bohater wygląda na silnego wojownika i skarży się na dziwne odgłosy pod jego dobytkiem, które nie dają mu spokojnie spać. Podejrzewa, że zalęgły się tam jakieś stworzenia. Bezimienny zgadza się zająć problemem."
-    },
-    {
-      "title": "Śmierć bestii",
-      "text": "Protagonista wyrusza zająć się kłopotem. W jaskini, która znajduje się bezpośrednio pod farmą zleceniodawcy, znajduje grupę 3 rozpruwaczy. Po stoczonej i wygranej walce, bohater wraca do Josha.\n\n310px|center|thumb|Bezimienny szyjący z łuku do rozpruwaczy"
-    },
-    {
-      "title": "Nagroda",
-      "text": "Gdy główny bohater dotrze do Josha i poinformuje go o rozwiązaniu problemu, ten jest bardzo zadowolony i daje w zaufaniu Bezimiennemu 1000 sztuk złota, które są daniną dla orków. Zadanie kończy się powodzeniem.\n\n310px|center|thumb|Koniec zadania"
+      "title": "Przebieg zadania",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Niespokojny farmer",
+          "text": "Bezimienny, chodząc po okolicach Trelis, napotyka farmę, na której znajduje się jej właściciel – Josh. Mężczyzna twierdzi, że bohater wygląda na silnego wojownika i skarży się na dziwne odgłosy pod jego dobytkiem, które nie dają mu spokojnie spać. Podejrzewa, że zalęgły się tam jakieś stworzenia. Bezimienny zgadza się zająć problemem.",
+          "subsections": []
+        },
+        {
+          "title": "Śmierć bestii",
+          "text": "Protagonista wyrusza zająć się kłopotem. W jaskini, która znajduje się bezpośrednio pod farmą zleceniodawcy, znajduje grupę 3 rozpruwaczy. Po stoczonej i wygranej walce, bohater wraca do Josha.",
+          "subsections": []
+        },
+        {
+          "title": "Nagroda",
+          "text": "Gdy główny bohater dotrze do Josha i poinformuje go o rozwiązaniu problemu, ten jest bardzo zadowolony i daje w zaufaniu Bezimiennemu 1000 sztuk złota, które są daniną dla orków. Zadanie kończy się powodzeniem.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

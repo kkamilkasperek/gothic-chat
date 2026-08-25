@@ -26,11 +26,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Duże żądło – trofeum zwierzęce występujące w ArcaniA."
+      "text": "Duże żądło – trofeum zwierzęce występujące w ArcaniA.",
+      "subsections": []
     },
     {
       "title": "ArcaniA",
-      "text": "Jest to pospolite trofeum łowieckie, które można pozyskać z martwego krwiopijcy lub osy jeziornej. Jedno duże żądło może posłużyć do uwarzenia eliksiru z osy.\n\nWartość sprzedaży dużego żądła wynosi 1 sztukę złota.\n\n310px|center|thumb|Osa jeziorna – owad, z którego można pozyskać duże żądło"
+      "text": "Jest to pospolite trofeum łowieckie, które można pozyskać z martwego krwiopijcy lub osy jeziornej. Jedno duże żądło może posłużyć do uwarzenia eliksiru z osy.\n\nWartość sprzedaży dużego żądła wynosi 1 sztukę złota.",
+      "subsections": []
     }
   ]
 }

@@ -35,23 +35,28 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Onar – bogaty właściciel ziemski oraz zarządca największej farmy na wyspie Khorinis. Jest żonaty z Marią, ma z nią córkę Elenę. Występuje w Gothic II."
+      "text": "Onar – bogaty właściciel ziemski oraz zarządca największej farmy na wyspie Khorinis. Jest żonaty z Marią, ma z nią córkę Elenę. Występuje w Gothic II.",
+      "subsections": []
     },
     {
       "title": "Charakter i osobowość",
-      "text": "Onar jest oschłym, nieprzyjemnym człowiekiem. Łatwo traci cierpliwość i nie znosi głupoty oraz niekompetencji. Nie lubi zaprzątać sobie głowy sprawami służby, którą opłaca. Jest też niezwykle dumny i uparty. Bardzo dba o swoje rodzinne mienie i nie pozwoli, by ktokolwiek wydawał mu polecenia, choćby był to i sam król. Wydaje się nie liczyć z nikim i niczym, a jedyną osobą, która ma na niego jakikolwiek wpływ, jest jego własna żona. Jest na tyle uparty, że nie obchodzą go nawet losy jego własnego kraju i dba wyłącznie o swój interes."
+      "text": "Onar jest oschłym, nieprzyjemnym człowiekiem. Łatwo traci cierpliwość i nie znosi głupoty oraz niekompetencji. Nie lubi zaprzątać sobie głowy sprawami służby, którą opłaca. Jest też niezwykle dumny i uparty. Bardzo dba o swoje rodzinne mienie i nie pozwoli, by ktokolwiek wydawał mu polecenia, choćby był to i sam król. Wydaje się nie liczyć z nikim i niczym, a jedyną osobą, która ma na niego jakikolwiek wpływ, jest jego własna żona. Jest na tyle uparty, że nie obchodzą go nawet losy jego własnego kraju i dba wyłącznie o swój interes.",
+      "subsections": []
     },
     {
       "title": "Przed akcją gry",
-      "text": "Z dziada pradziada mieszka na swojej farmie. Gdy strażnicy miejscy zaczęli rozkradać dobytek Onara, za namową żony wynajął on najemników z kolonii karnej i odmówił zaopatrywania miasta. Po jego stronie stanęli farmerzy Bengar oraz Sekob. Tak rozpoczął się bunt chłopów."
+      "text": "Z dziada pradziada mieszka na swojej farmie. Gdy strażnicy miejscy zaczęli rozkradać dobytek Onara, za namową żony wynajął on najemników z kolonii karnej i odmówił zaopatrywania miasta. Po jego stronie stanęli farmerzy Bengar oraz Sekob. Tak rozpoczął się bunt chłopów.",
+      "subsections": []
     },
     {
       "title": "Gothic II",
-      "text": "Najemnicy, w przeciwieństwie do strażników miejskich, bronią jego farmy oraz ziem Sekoba i Bengara. Właściciele pobliskich terenów płacą Onarowi daninę za ochronę, wiedząc, że tylko jego najemnicy są w stanie im pomóc. Bezimienny może się zatrudnić na farmie jako najemnik. Jeżeli będzie wykonywać zadania powierzone przez pracowników, dostanie premię każdego dnia w postaci wypłaty.\n\nJeśli Pepe zginie, można od niego kupić owcę za 200 sztuk złota."
+      "text": "Najemnicy, w przeciwieństwie do strażników miejskich, bronią jego farmy oraz ziem Sekoba i Bengara. Właściciele pobliskich terenów płacą Onarowi daninę za ochronę, wiedząc, że tylko jego najemnicy są w stanie im pomóc. Bezimienny może się zatrudnić na farmie jako najemnik. Jeżeli będzie wykonywać zadania powierzone przez pracowników, dostanie premię każdego dnia w postaci wypłaty.\n\nJeśli Pepe zginie, można od niego kupić owcę za 200 sztuk złota.",
+      "subsections": []
     },
     {
       "title": "Ciekawostki",
-      "text": "Warunkiem otrzymania wypłaty jest zdobycie 200 punktów doświadczenia. \n Potrafi walczyć orężem po mistrzowsku. \n Onar wynajmował około 30 najemników. Przy założeniu, że płacił każdemu z nich 50 sztuk złota dziennie (tak jak Bezimiennemu) oraz że okres, w jakim ich utrzymywał, to ponad 100 dni, to znaczy, że musiał mieć ponad 150 000 sztuk złota."
+      "text": "Warunkiem otrzymania wypłaty jest zdobycie 200 punktów doświadczenia. \n Potrafi walczyć orężem po mistrzowsku. \n Onar wynajmował około 30 najemników. Przy założeniu, że płacił każdemu z nich 50 sztuk złota dziennie (tak jak Bezimiennemu) oraz że okres, w jakim ich utrzymywał, to ponad 100 dni, to znaczy, że musiał mieć ponad 150 000 sztuk złota.",
+      "subsections": []
     }
   ]
 }

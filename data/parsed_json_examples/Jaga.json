@@ -34,15 +34,18 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Jaga – postać występująca w modyfikacji Podróżnik – Za liniami wroga do gry Gothic II: Noc Kruka. Mieszka w Gadiukinowie."
+      "text": "Jaga – postać występująca w modyfikacji Podróżnik – Za liniami wroga do gry Gothic II: Noc Kruka. Mieszka w Gadiukinowie.",
+      "subsections": []
     },
     {
       "title": "Podróżnik – Za liniami wroga",
-      "text": "Zajmuje się alchemią i leczeniem ludzi. Handluje różnymi roślinami, napojami leczniczymi i przyrządami alchemicznymi. Z czasem rozszerza swój asortyment o kilka sztuk broni. Większość mieszkańców podejrzewa ją o praktykowanie czarnej magii. W pewnym momencie oskarżona o wywołanie plagi Nocnych zombie ucieka do lasu. Podróżnik w towarzystwie Wielkiego Węża odnajduje ją i dowiaduje się prawdy. Jaga nie ma nic wspólnego z atakującymi ożywieńcami, ale przygotowuje Wzmacniacz umysłu dla Foresta. W późniejszych etapach gry pomaga bohaterowi w odebraniu Gopperowi fragmentu kolejki górskiej i wyleczeniu się z ptasiej grypy."
+      "text": "Zajmuje się alchemią i leczeniem ludzi. Handluje różnymi roślinami, napojami leczniczymi i przyrządami alchemicznymi. Z czasem rozszerza swój asortyment o kilka sztuk broni. Większość mieszkańców podejrzewa ją o praktykowanie czarnej magii. W pewnym momencie oskarżona o wywołanie plagi Nocnych zombie ucieka do lasu. Podróżnik w towarzystwie Wielkiego Węża odnajduje ją i dowiaduje się prawdy. Jaga nie ma nic wspólnego z atakującymi ożywieńcami, ale przygotowuje Wzmacniacz umysłu dla Foresta. W późniejszych etapach gry pomaga bohaterowi w odebraniu Gopperowi fragmentu kolejki górskiej i wyleczeniu się z ptasiej grypy.",
+      "subsections": []
     },
     {
       "title": "Dalsze losy",
-      "text": "Ginie w wybuchu bomby atomowej lub zostaje zabita przez jednostki specjalne W.A.S.P."
+      "text": "Ginie w wybuchu bomby atomowej lub zostaje zabita przez jednostki specjalne W.A.S.P.",
+      "subsections": []
     }
   ]
 }

@@ -44,19 +44,30 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Ben – postać występująca w Gothic 3. Jest to farmer i niewolnik mieszkający na farmie niedaleko Trelis."
+      "text": "Ben – postać występująca w Gothic 3. Jest to farmer i niewolnik mieszkający na farmie niedaleko Trelis.",
+      "subsections": []
     },
     {
       "title": "Gothic 3",
-      "text": "Jest farmerem z farmy Dereca, który nie jest zbyt miły wobec Bezimiennego. Bohater ma wybór: dać mu nauczkę lub odpuścić. Niezależnie od wyboru w dalszej rozmowie Ben wspomina, że ma kontakty wśród wyższych sfer, lecz podczas wypytywania go przez Bezimiennego ten traci pewność siebie, ale twierdzi, że pracował dla orków w świątyni i wciąż musi się tam znajdować jego łopata.\n\nW zamian za jej dostarczenie Ben powie bohaterowi jak zdobyć duże ilości złota. Narzędzie znajduje się na stosie gruzów w pierwszej od wejścia sali w świątyni. Informacją Bena okazuje się fakt, iż Derec często zagląda za chram Innosa na farmie, i że na pewno musi przechowywać tam jakieś kosztowności, co okazuje się prawdą."
+      "text": "Jest farmerem z farmy Dereca, który nie jest zbyt miły wobec Bezimiennego. Bohater ma wybór: dać mu nauczkę lub odpuścić. Niezależnie od wyboru w dalszej rozmowie Ben wspomina, że ma kontakty wśród wyższych sfer, lecz podczas wypytywania go przez Bezimiennego ten traci pewność siebie, ale twierdzi, że pracował dla orków w świątyni i wciąż musi się tam znajdować jego łopata.\n\nW zamian za jej dostarczenie Ben powie bohaterowi jak zdobyć duże ilości złota. Narzędzie znajduje się na stosie gruzów w pierwszej od wejścia sali w świątyni. Informacją Bena okazuje się fakt, iż Derec często zagląda za chram Innosa na farmie, i że na pewno musi przechowywać tam jakieś kosztowności, co okazuje się prawdą.",
+      "subsections": [
+        {
+          "title": "Zlecane zadania",
+          "text": "Ktoś musi dać nauczkę Benowi\n Służący Ben potrzebuje swojej łopaty",
+          "subsections": []
+        }
+      ]
     },
     {
-      "title": "Zlecane zadania",
-      "text": "Ktoś musi dać nauczkę Benowi\n Służący Ben potrzebuje swojej łopaty"
-    },
-    {
-      "title": "Content Mod",
-      "text": "Jego wygląd ulega zmianom kosmetycznym.\n\n150px|center|thumb|Ben w Content Mod 2.2"
+      "title": "Modyfikacje",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Content Mod",
+          "text": "Jego wygląd ulega zmianom kosmetycznym.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

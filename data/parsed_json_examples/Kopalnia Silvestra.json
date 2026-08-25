@@ -6,7 +6,6 @@
     "nazwa": "Kopalnia Silvestra",
     "nazwa angielska": "Silvestro's mine",
     "obraz": "G2NK Kopalnia Silvestra 01 wejście.png",
-    "podpis obrazu": "Drewniane umocnienia przed wejściem do kopalni",
     "typ": "Kopalnia",
     "położenie": "Okolice starej wieży Xardasa",
     "mieszkańcy": "Pełzacze",
@@ -26,31 +25,50 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Kopalnia Silvestra – kopalnia występująca w Gothic II."
+      "text": "Kopalnia Silvestra – kopalnia występująca w Gothic II.",
+      "subsections": []
     },
     {
       "title": "Przed akcją gry",
-      "text": "Za czasów kolonii karnej była to mała, niezamieszkana jaskinia (przed nią przebywała jedynie grupa kąsaczy), znajdująca się niedaleko ścieżki prowadzącej do wieży Xardasa. Po przybyciu ekspedycji paladynów do Górniczej Doliny, kopacze przebili się przez ścianę i odkryli niewielkie złoża rudy.\n\n310px|center|thumb|Jaskinia i znajdująca się przed nią grupa kąsaczy"
+      "text": "Za czasów kolonii karnej była to mała, niezamieszkana jaskinia (przed nią przebywała jedynie grupa kąsaczy), znajdująca się niedaleko ścieżki prowadzącej do wieży Xardasa. Po przybyciu ekspedycji paladynów do Górniczej Doliny, kopacze przebili się przez ścianę i odkryli niewielkie złoża rudy.",
+      "subsections": []
     },
     {
-      "title": "Budowa",
-      "text": "Wewnątrz kopalni znajdują się dwie odnogi prowadzące do dalszych sal. W jednym z pomieszczeń znajduje się kopalniany wagon, kufer oraz kilka beczek. Podłoże kopalni pokrywają szczątki zabitych kopaczy i strażników. W jednej z sal można znaleźć ciało Silvestra, pożerane przez pełzacze."
+      "title": "Gothic II",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Budowa",
+          "text": "Wewnątrz kopalni znajdują się dwie odnogi prowadzące do dalszych sal. W jednym z pomieszczeń znajduje się kopalniany wagon, kufer oraz kilka beczek. Podłoże kopalni pokrywają szczątki zabitych kopaczy i strażników. W jednej z sal można znaleźć ciało Silvestra, pożerane przez pełzacze.",
+          "subsections": []
+        },
+        {
+          "title": "Związek z fabułą",
+          "text": "Jest to jedno z miejsc wydobycia rudy eksploatowane przez siły ekspedycyjne Garonda. Dowódcą kopalni był Silvestro, któremu udało się zabezpieczyć cztery skrzynie rudy. Wysłał je transportem do zamku w asyście Diego jako przewodnika. Niedługo potem kopiący skazańcy natrafili na gniazdo pełzaczy, które wybiły pracujących i zrujnowały kopalnię.",
+          "subsections": []
+        }
+      ]
     },
     {
-      "title": "Związek z fabułą",
-      "text": "Jest to jedno z miejsc wydobycia rudy eksploatowane przez siły ekspedycyjne Garonda. Dowódcą kopalni był Silvestro, któremu udało się zabezpieczyć cztery skrzynie rudy. Wysłał je transportem do zamku w asyście Diego jako przewodnika. Niedługo potem kopiący skazańcy natrafili na gniazdo pełzaczy, które wybiły pracujących i zrujnowały kopalnię."
-    },
-    {
-      "title": "Ucieczka",
-      "text": "Kopalnia została zamknięta kratą, a w środku znajduje się wiele pełzaczy oraz ich samiec-alfa. Samą kopalnią zainteresowani są przemytnicy magicznej rudy, którzy przybyli do doliny jakiś czas po akcji Gothic II."
+      "title": "Modyfikacje",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Ucieczka",
+          "text": "Kopalnia została zamknięta kratą, a w środku znajduje się wiele pełzaczy oraz ich samiec-alfa. Samą kopalnią zainteresowani są przemytnicy magicznej rudy, którzy przybyli do doliny jakiś czas po akcji Gothic II.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Ciekawostki",
-      "text": "Wewnątrz głazu znajdującego się po prawej stronie wejścia do kopalni ukryty jest kufer (o kombinacji zamka: ), do którego można się dostać tylko za pomocą kodów. Zawiera on 50 sztuk złota, kawałek smażonego mięsa oraz butelkę ginu.\n Wewnątrz jednej z beczek znajdujących się po prawej stronie wejścia do kopalni ukryty jest posążek Innosa. Można go zauważyć z pomocą widoku siatki.\n Jeżeli gracz za pomocą kodu wolnej kamery (F6) przeniesie się do kopalni Silvestra przed uruchomieniem przerywnika filmowego przedstawiającego atak smoków na zamek, okaże się, że wszyscy z oddziału Silvestra żyją."
+      "text": "Wewnątrz głazu znajdującego się po prawej stronie wejścia do kopalni ukryty jest kufer (o kombinacji zamka: ), do którego można się dostać tylko za pomocą kodów. Zawiera on 50 sztuk złota, kawałek smażonego mięsa oraz butelkę ginu.\n Wewnątrz jednej z beczek znajdujących się po prawej stronie wejścia do kopalni ukryty jest posążek Innosa. Można go zauważyć z pomocą widoku siatki.\n Jeżeli gracz za pomocą kodu wolnej kamery (F6) przeniesie się do kopalni Silvestra przed uruchomieniem przerywnika filmowego przedstawiającego atak smoków na zamek, okaże się, że wszyscy z oddziału Silvestra żyją.",
+      "subsections": []
     },
     {
       "title": "Zobacz także",
-      "text": "Kopalnia Fajetha\n Kopalnia Marcosa"
+      "text": "Kopalnia Fajetha\n Kopalnia Marcosa",
+      "subsections": []
     }
   ]
 }

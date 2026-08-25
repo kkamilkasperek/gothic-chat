@@ -6,7 +6,6 @@
     "nazwa": "Polowanie na demony z Gornem",
     "nazwa angielska": "Hunting demons with Gorn",
     "obraz": "Polowanie na demony z Gornem.png",
-    "podpis obrazu": "Początek zadania",
     "zleceniodawca": "Gorn",
     "start": "Wieża strażnicza w posterunku Gotha",
     "koniec": "Gotha",
@@ -27,19 +26,29 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Polowanie na demony z Gornem – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez Gorna."
+      "text": "Polowanie na demony z Gornem – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez Gorna.",
+      "subsections": []
     },
     {
       "title": "Krok po kroku",
-      "text": "Wykonaj zadanie Uratuj Gorna z łap orków i rozpocznij zadanie Uwolnij Gothę od klątwy.\n Podążaj za Gornem do Gothy.\n Porozmawiaj z Gornem po dotarciu na miejsce."
+      "text": "Wykonaj zadanie Uratuj Gorna z łap orków i rozpocznij zadanie Uwolnij Gothę od klątwy.\n Podążaj za Gornem do Gothy.\n Porozmawiaj z Gornem po dotarciu na miejsce.",
+      "subsections": []
     },
     {
-      "title": "Sytuacja w Gocie",
-      "text": "Bezimienny po uwolnieniu Gorna z rąk orków rozmawia z nim na temat sytuacji w Gocie. Okazuje się, że w mieście z powodu klątwy grasuje demon. Bohater proponuje swojemu przyjacielowi powrót do twierdzy, aby zabić istotę. Gorn twierdzi, że nie chce tam wracać, ale po krótkim namyśle się zgadza i prowadzi bohatera do demona."
-    },
-    {
-      "title": "Twierdza",
-      "text": "Na miejscu mężczyźni spotykają dziesiątki ożywieńców oraz samego demona. Dochodzi do ciężkiej walki z przeklętymi istotami. Po dotarciu na miejsce Gorn wspomina lepsze czasy twierdzy, a zadanie kończy się powodzeniem.\n\n310px|center|thumb|Rozmowa kończąca zadanie"
+      "title": "Przebieg zadania",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Sytuacja w Gocie",
+          "text": "Bezimienny po uwolnieniu Gorna z rąk orków rozmawia z nim na temat sytuacji w Gocie. Okazuje się, że w mieście z powodu klątwy grasuje demon. Bohater proponuje swojemu przyjacielowi powrót do twierdzy, aby zabić istotę. Gorn twierdzi, że nie chce tam wracać, ale po krótkim namyśle się zgadza i prowadzi bohatera do demona.",
+          "subsections": []
+        },
+        {
+          "title": "Twierdza",
+          "text": "Na miejscu mężczyźni spotykają dziesiątki ożywieńców oraz samego demona. Dochodzi do ciężkiej walki z przeklętymi istotami. Po dotarciu na miejsce Gorn wspomina lepsze czasy twierdzy, a zadanie kończy się powodzeniem.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

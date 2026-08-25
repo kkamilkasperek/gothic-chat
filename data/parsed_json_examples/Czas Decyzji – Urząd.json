@@ -12,7 +12,6 @@
     "nazwa": "Biuro skryby",
     "nazwa angielska": "Scribe's office",
     "obraz": "Biuro skryby KM Archolos.png",
-    "podpis obrazu": "Widok na biuro",
     "typ": "Budynek",
     "położenie": "Miasto Archolos",
     "mieszkańcy": "Ludzie",
@@ -33,15 +32,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Biuro skryby – biuro występujące w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos."
+      "text": "Biuro skryby – biuro występujące w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos.",
+      "subsections": []
     },
     {
       "title": "Kroniki Myrtany: Archolos",
-      "text": "Znajduje się w południowo-zachodniej części miasta Archolos. Prowadzi do niego wejście schodami, na których stoi kolejka petentów. \n\nBiuro podzielone jest na dwie izby. W izbie wejściowej urzęduje Matey i obsługuje petentów. W sąsiedniej izbie znajduje się łóżko, w którym skryba sypia."
-    },
-    {
-      "title": "Mapa",
-      "text": "305px|center|thumb|Lokalizacja biura na mapie"
+      "text": "Znajduje się w południowo-zachodniej części miasta Archolos. Prowadzi do niego wejście schodami, na których stoi kolejka petentów. \n\nBiuro podzielone jest na dwie izby. W izbie wejściowej urzęduje Matey i obsługuje petentów. W sąsiedniej izbie znajduje się łóżko, w którym skryba sypia.",
+      "subsections": []
     }
   ]
 }

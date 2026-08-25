@@ -6,7 +6,6 @@
     "nazwa": "Znajdź buntownicze podziemie w Cape Dun‏‎",
     "nazwa angielska": "Find the rebel underground in Cape Dun",
     "obraz": "Buntownicy w Cape Dun zadanie G3.png",
-    "podpis obrazu": "Początek zadania",
     "zleceniodawca": "Javier",
     "start": "Reddock",
     "koniec": "Cape Dun",
@@ -27,19 +26,29 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Znajdź buntownicze podziemie w Cape Dun‏‎ – jedno z zadań pobocznych występujących w Gothic 3. Jest zlecane Bezimiennemu przez paladyna Javiera."
+      "text": "Znajdź buntownicze podziemie w Cape Dun‏‎ – jedno z zadań pobocznych występujących w Gothic 3. Jest zlecane Bezimiennemu przez paladyna Javiera.",
+      "subsections": []
     },
     {
       "title": "Krok po kroku",
-      "text": "Porozmawiaj z Javierem na temat sytuacji na kontynencie.\n Porozmawiaj ze świnopasem Philem, który znajduje się w Cape Dun.\n Powiedz Philowi, że Bezimiennego przysyła Javier."
+      "text": "Porozmawiaj z Javierem na temat sytuacji na kontynencie.\n Porozmawiaj ze świnopasem Philem, który znajduje się w Cape Dun.\n Powiedz Philowi, że Bezimiennego przysyła Javier.",
+      "subsections": []
     },
     {
-      "title": "Rozmowa",
-      "text": "Bezimienny chodząc po kryjówce buntowników z Reddock, spotyka paladyna Javiera. Podczas rozmowy dowiaduje się, że w całej Myrtanie znajdują się buntownicze podziemia, które szkodzą okupantowi. W pobliskiej mieścinie – Cape Dun – również działają rojaliści, lecz Javier nie jest skłonny ujawnić informacji kim oni są, ponieważ nie ufa wystarczająco bohaterowi. Protagonista postanawia sam zdobyć tę informację."
-    },
-    {
-      "title": "Śmierdzące miejsce",
-      "text": "Bohater, chodząc po miasteczku Cape Dun, spotyka niewolnika Phila. Z rozmowy wynika, że ów więzień jest członkiem buntowniczego podziemia. Na początku nie chce się przyznać, mówiąc, że nienawidzi buntowników, jednak kiedy Bezimienny mówi niewolnikowi, że przysyła go Javier dziękuje bohaterowi za informację i przekazuje mu 50 sztuk złota. Tym samym zadanie kończy się powodzeniem.\n\n310px|center|thumb|Rozmowa kończąca zadanie"
+      "title": "Przebieg zadania",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Rozmowa",
+          "text": "Bezimienny chodząc po kryjówce buntowników z Reddock, spotyka paladyna Javiera. Podczas rozmowy dowiaduje się, że w całej Myrtanie znajdują się buntownicze podziemia, które szkodzą okupantowi. W pobliskiej mieścinie – Cape Dun – również działają rojaliści, lecz Javier nie jest skłonny ujawnić informacji kim oni są, ponieważ nie ufa wystarczająco bohaterowi. Protagonista postanawia sam zdobyć tę informację.",
+          "subsections": []
+        },
+        {
+          "title": "Śmierdzące miejsce",
+          "text": "Bohater, chodząc po miasteczku Cape Dun, spotyka niewolnika Phila. Z rozmowy wynika, że ów więzień jest członkiem buntowniczego podziemia. Na początku nie chce się przyznać, mówiąc, że nienawidzi buntowników, jednak kiedy Bezimienny mówi niewolnikowi, że przysyła go Javier dziękuje bohaterowi za informację i przekazuje mu 50 sztuk złota. Tym samym zadanie kończy się powodzeniem.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

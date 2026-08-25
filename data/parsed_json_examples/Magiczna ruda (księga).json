@@ -24,15 +24,24 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Magiczna ruda – księga występująca w Gothic."
+      "text": "Magiczna ruda – księga występująca w Gothic.",
+      "subsections": []
     },
     {
       "title": "Gothic",
-      "text": "Opisuje ona właściwości i zastosowanie rudy. Można znaleźć dwa egzemplarze tej księgi: jeden w komnacie Kruka na piętrze siedziby magnatów w Starym Obozie, drugi w bibliotece magów wody w Nowym Obozie.\n\nJej wartość kupna wynosi 100 bryłek rudy, przy sprzedaży spada do 50 bryłek."
+      "text": "Opisuje ona właściwości i zastosowanie rudy. Można znaleźć dwa egzemplarze tej księgi: jeden w komnacie Kruka na piętrze siedziby magnatów w Starym Obozie, drugi w bibliotece magów wody w Nowym Obozie.\n\nJej wartość kupna wynosi 100 bryłek rudy, przy sprzedaży spada do 50 bryłek.",
+      "subsections": []
     },
     {
-      "title": "Świat Skazańców",
-      "text": "Wygląd treści księgi został zmieniony.\n\nthumb|center|305px|Treść księgi w modyfikacji Świat Skazańców"
+      "title": "Modyfikacje",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Świat Skazańców",
+          "text": "Wygląd treści księgi został zmieniony.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

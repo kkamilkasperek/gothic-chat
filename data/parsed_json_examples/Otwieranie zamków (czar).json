@@ -16,7 +16,6 @@
     "nazwa": "Otwieranie zamków",
     "nazwa angielska": "Open locks",
     "obraz": "Otwieranie zamków.png",
-    "podpis obrazu": "Bezimienny używający zaklęcia",
     "bóg": "Adanos",
     "nauczyciele": "Saturas, Riordian, Merdarion, Vatras, Cronos, Porgan (po wybraniu ścieżki Adanosa)",
     "opis": "Otwiera większość skrzyń i drzwi.",
@@ -41,11 +40,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Otwieranie zamków – czar magii Adanosa występujący w Gothic 3 i Gothic 3: Zmierzch Bogów."
+      "text": "Otwieranie zamków – czar magii Adanosa występujący w Gothic 3 i Gothic 3: Zmierzch Bogów.",
+      "subsections": []
     },
     {
       "title": "Gothic 3",
-      "text": "Po rzuceniu zaklęcia wskazany zamek zostaje odblokowany. Nie działa jednak ono na każdą skrzynię lub drzwi. Zaklęcia można się nauczyć na stałe od określonych nauczycieli (Saturas, Riordian, Merdarion, Vatras, Cronos, Porgan), trzeba jednak uprzednio wybrać ścieżkę Adanosa. Nauka kosztuje 5 punktów nauki i 5000 sztuk złota, a Bezimienny musi posiadać co najmniej 230 punktów prastarej wiedzy.\n\nKażde rzucenie czaru zużywa 20 punktów many. Nie wiadomo, co było potrzebne do stworzenia runy tego zaklęcia, ponieważ na Khorinis nie było ono używane.\n\nZwój zaklęcia można pospolicie znaleźć w metalowych kufrach i solidnych metalowych kufrach rozmieszczonych na kontynencie oraz w 14. z kolei starej skrzyni. Jest warty 225 sztuk złota przy sprzedaży, a przy odkupie jego cena wzrasta do 750 sztuk złota."
+      "text": "Po rzuceniu zaklęcia wskazany zamek zostaje odblokowany. Nie działa jednak ono na każdą skrzynię lub drzwi. Zaklęcia można się nauczyć na stałe od określonych nauczycieli (Saturas, Riordian, Merdarion, Vatras, Cronos, Porgan), trzeba jednak uprzednio wybrać ścieżkę Adanosa. Nauka kosztuje 5 punktów nauki i 5000 sztuk złota, a Bezimienny musi posiadać co najmniej 230 punktów prastarej wiedzy.\n\nKażde rzucenie czaru zużywa 20 punktów many. Nie wiadomo, co było potrzebne do stworzenia runy tego zaklęcia, ponieważ na Khorinis nie było ono używane.\n\nZwój zaklęcia można pospolicie znaleźć w metalowych kufrach i solidnych metalowych kufrach rozmieszczonych na kontynencie oraz w 14. z kolei starej skrzyni. Jest warty 225 sztuk złota przy sprzedaży, a przy odkupie jego cena wzrasta do 750 sztuk złota.",
+      "subsections": []
     }
   ]
 }

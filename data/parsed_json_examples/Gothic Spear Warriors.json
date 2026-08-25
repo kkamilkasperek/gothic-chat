@@ -18,23 +18,34 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Gothic Spear Warriors – gra autorstwa evampire, stworzona w technologii Flash, osadzona w realiach Gothic II. Umożliwia potyczkę między dwoma graczami przy jednym komputerze. System animacji jest wysoko rozwinięty, a odwzorowanie elementów graficznych – dokładne. Można atakować za pomocą włóczni lub kuli ognia, a także przywołać ożywieńca."
+      "text": "Gothic Spear Warriors – gra autorstwa evampire, stworzona w technologii Flash, osadzona w realiach Gothic II. Umożliwia potyczkę między dwoma graczami przy jednym komputerze. System animacji jest wysoko rozwinięty, a odwzorowanie elementów graficznych – dokładne. Można atakować za pomocą włóczni lub kuli ognia, a także przywołać ożywieńca.",
+      "subsections": []
     },
     {
-      "title": "Gracz 1",
-      "text": "W – skok\n A, D – poruszanie się\n S – atak włócznią\n Q – kula ognia\n E – przywołanie ożywieńca"
-    },
-    {
-      "title": "Gracz 2",
-      "text": "Strzałka w górę (↑) – skok\n Strzałka w lewo (←), strzałka w prawo (→) – poruszanie się\n Strzałka w dół (↓) – atak włócznią\n P – kula ognia\n O – przywołanie ożywieńca"
+      "title": "Sterowanie",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Gracz 1",
+          "text": "W – skok\n A, D – poruszanie się\n S – atak włócznią\n Q – kula ognia\n E – przywołanie ożywieńca",
+          "subsections": []
+        },
+        {
+          "title": "Gracz 2",
+          "text": "Strzałka w górę (↑) – skok\n Strzałka w lewo (←), strzałka w prawo (→) – poruszanie się\n Strzałka w dół (↓) – atak włócznią\n P – kula ognia\n O – przywołanie ożywieńca",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Rozgrywka",
-      "text": "W grze toczona jest walka dwóch postaci. Punktów życia jest dużo, a gracze walczą za pomocą włóczni. Jednakże formuła gry nie jest rozwinięta: Dostępna jest tylko jedna arena, jedna postać i jedna broń, a czary ograniczają się do kuli ognia i przywołania szkieletu. Atak włócznią zadaje niewielkie obrażenia, natomiast szkielet większe, choć płaci za to zmniejszoną ilością punktów życia. Skakanie w grze również nie ma sensu, kula ognia nie posiada cooldowna, ponadto można przywołać tylko jeden szkielet naraz. Rozgrywka sprowadza się więc do przywoływania szkieletu i natychmiastowego ataku włócznią na przeciwnika. W grze nie zostało zawarte nic więcej, po pokonaniu wroga nic się nie dzieje, zwycięzca może się jedynie poruszać po bardzo niewielkiej mapie."
+      "text": "W grze toczona jest walka dwóch postaci. Punktów życia jest dużo, a gracze walczą za pomocą włóczni. Jednakże formuła gry nie jest rozwinięta: Dostępna jest tylko jedna arena, jedna postać i jedna broń, a czary ograniczają się do kuli ognia i przywołania szkieletu. Atak włócznią zadaje niewielkie obrażenia, natomiast szkielet większe, choć płaci za to zmniejszoną ilością punktów życia. Skakanie w grze również nie ma sensu, kula ognia nie posiada cooldowna, ponadto można przywołać tylko jeden szkielet naraz. Rozgrywka sprowadza się więc do przywoływania szkieletu i natychmiastowego ataku włócznią na przeciwnika. W grze nie zostało zawarte nic więcej, po pokonaniu wroga nic się nie dzieje, zwycięzca może się jedynie poruszać po bardzo niewielkiej mapie.",
+      "subsections": []
     },
     {
       "title": "Błędy",
-      "text": "Kula ognia zadaje obrażenia jedynie szkieletom."
+      "text": "Kula ognia zadaje obrażenia jedynie szkieletom.",
+      "subsections": []
     }
   ]
 }

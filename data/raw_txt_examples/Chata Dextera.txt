@@ -1,0 +1,38 @@
+{{Lokacja
+ |Nazwa            = Chata Dextera
+ |Nazwa angielska  = Dexter's hut
+ |Obraz            = G1 Chata Dextera na zewnątrz.png
+ |Podpis obrazu    = Dexter siedzący na ławce przed swoją chatą w Gothic
+ |Typ              = Chata
+ |Położenie        = [[Plac targowy (Stary Obóz)|Targowisko]] w [[Stary Obóz|Starym Obozie]]
+ |Mieszkańcy       =
+ |Populacja        = Jedna osoba
+ |Zarządca         = [[Dexter]]
+ |Ważne postacie   =
+ |Ważne miejsca    =
+ |Związek z fabułą = Nie
+ |Występowanie     = [[Gothic]], [[Gothic II]] (zgliszcza)
+ |Teleportacja     = Brak
+ |Waypoint         = ocr_hut_55
+}}
+'''Chata Dextera''' – budynek występujący w [[Gothic]] oraz jako ruiny w [[Gothic II]].
+
+== Gothic ==
+Chata zamieszkiwana jest przez [[Cienie|cienia]] i zarazem [[Handel|handlarza]] – [[Dexter]]a. Znajduje się ona na [[Plac targowy (Stary Obóz)|targowisku]] w [[Stary Obóz|Starym Obozie]]. Przed chatą stoi [[ławka]], na której Dexter często siedzi za dnia, a w pobliżu znajduje się również stojak z oporządzonymi [[ścierwojad]]ami, [[rożen]] i 2 kolejne ławki stojące po obu jego stronach. Wewnątrz chaty znajduje się jedynie [[łóżko]] i uszkodzony stół.
+
+[[Plik:Chata Dextera wnętrze G.png|310px|center|thumb|Wnętrze chaty]]
+
+=== Mapa ===
+[[Plik:G1 Chata Dextera mapa.png|310px|center|thumb|Chata Dextera zaznaczona na [[Plan Starego Obozu|planie Starego Obozu]]]]
+
+== Gothic II ==
+Chata została poważnie uszkodzona w wyniku ataku [[Smoki z Khorinis|smoków]]; pozostały po niej jedynie zgliszcza.
+
+[[Plik:G2 Chata Dextera.png|310px|center|thumb|Pozostałości chaty Dextera w Gothic II]]
+
+== Ciekawostki ==
+* W drugiej części [[Seria Gothic|serii]] model zniszczonej chaty Dextera nie pasuje do wyglądu chaty występującej w Gothic – w Gothic II otwór wejściowy został zwężony o połowę, zaś kilka ustawionych pionowo desek wskazuje na większą wysokość budynku niż za czasów [[Magiczna bariera|magicznej bariery]].
+[[Kategoria:Chaty i domostwa z Gothic]]
+
+[[Kategoria:Miejsca z Gothic]]
+[[Kategoria:Miejsca w Starym Obozie]]

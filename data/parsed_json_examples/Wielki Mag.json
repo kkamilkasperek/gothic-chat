@@ -10,7 +10,6 @@
   "infobox": {
     "imię": "Wielki Mag",
     "obraz": "Wielki_Mag_MójMod.png",
-    "podpis obrazu": "Wielki Mag",
     "gildia": "Brak",
     "poziom": "60",
     "miejsce zamieszkania": "Pustynia",
@@ -35,15 +34,19 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Wielki Mag – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Mój Mod. Jest tajemniczym magiem nieoficjalnie przewodzącym obozem na pustyni."
+      "text": "Wielki Mag – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Mój Mod. Jest tajemniczym magiem nieoficjalnie przewodzącym obozem na pustyni.",
+      "subsections": []
     },
     {
       "title": "Mój Mod",
-      "text": "Jest magiem, którego potęga i przynależność pozostają nieznane. Odnajduje nieprzytomnego bohatera oraz wprowadza go w świat modyfikacji po jego przebudzeniu. Prosi go o zapoznanie się z ludźmi w obozie."
-    },
-    {
-      "title": "Zlecane zadania",
-      "text": "Zamek"
+      "text": "Jest magiem, którego potęga i przynależność pozostają nieznane. Odnajduje nieprzytomnego bohatera oraz wprowadza go w świat modyfikacji po jego przebudzeniu. Prosi go o zapoznanie się z ludźmi w obozie.",
+      "subsections": [
+        {
+          "title": "Zlecane zadania",
+          "text": "Zamek",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

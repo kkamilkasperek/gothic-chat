@@ -1,0 +1,225 @@
+{{Cytat|Większość z tych stworzeń to zaszyci głęboko w lasach samotnicy. Pozostało ich na świecie bardzo niewiele, nie stanowią więc zagrożenia dla ludzi – chyba że wkroczy się na ich tereny łowieckie. Dobrze wiedzieć, gdzie znajdują się te tereny – róg cieniostwora to cenne trofeum myśliwskie, które jednak trzeba umieć odpowiednio preparować.|Wpis o cieniostworze w księdze ''[[Łowy i zwierzyna]]''}}
+{{Bestia
+ |Nazwa                  = Cieniostwór
+ |Nazwa angielska        = Shadowbeast
+ |Podnazwa               = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA
+ |Obraz                  = Cieniostwór (Gothic).png
+ |Podpis obrazu          = Cieniostwór w Gothic
+ |Gromada                = Ssaki
+ |Odmiany                = Brak
+ |Środowisko życia       = Zacienione lasy, Jaskinie
+ |Punkty doświadczenia   = 400
+ |Siła/Zręczność         = 110/110
+ |Punkty życia           = 200
+ |Pancerz                = Broń: 100, Pociski: 50, Ogień: 50, Magia: 50, Odrzut: 100
+ |Specjalne              = Brak
+ |Rzadkość               = Rzadki (6 osobników)
+ |Nastawienie do gracza  = Agresywne
+ |Pozyskiwane przedmioty = 4x [[surowe mięso]], 4x [[kły]], 1x [[skóra cieniostwora]], 1x [[róg cieniostwora]]
+ |Występowanie           = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[ArcaniA]], [[Nyras Prologue]] (wzmianki)
+ |Kod                    = Shadowbeast
+}}
+{{Bestia
+ |Nazwa                  = Cieniostwór
+ |Nazwa angielska        = Shadowbeast
+ |Podnazwa               = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA
+ |Obraz                  = Cieniostwór (G2).png
+ |Podpis obrazu          = Cieniostwór w Gothic II
+ |Gromada                = Ssaki
+ |Odmiany                = [[Szkielet cieniostwór]]
+ |Środowisko życia       = Zacienione lasy, Jaskinie
+ |Punkty doświadczenia   = 200
+ |Siła/Zręczność         = 100/100
+ |Punkty życia           = 200
+ |Pancerz                = Broń: 40, Pociski: 40, Smoczy ogień: 40, Magia: 40, Odrzut: 80
+ |Specjalne              = Brak
+ |Rzadkość               = Rzadki (13-14 osobników<ref name="a">Dodatkowy cieniostwór pojawia się, jeśli Bezimienny jest najemnikiem.</ref>)
+ |Nastawienie do gracza  = Agresywne
+ |Pozyskiwane przedmioty = 2x [[surowe mięso]], 2x [[kły]], 4x [[pazury]], 1x [[skóra cieniostwora]], 1x [[róg cieniostwora]]
+ |Występowanie           = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[ArcaniA]], [[Nyras Prologue]] (wzmianki)
+ |Kod                    = Shadowbeast
+}}
+{{Bestia
+ |Nazwa                  = Cieniostwór
+ |Nazwa angielska        = Shadowbeast
+ |Podnazwa               = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA
+ |Obraz                  = Cieniostwór (G2).png
+ |Podpis obrazu          = Cieniostwór w Gothic II: Noc Kruka
+ |Gromada                = Ssaki
+ |Odmiany                = [[Szkielet cieniostwór]]
+ |Środowisko życia       = Zacienione lasy i jaskinie
+ |Punkty doświadczenia   = 300
+ |Siła/Zręczność         = 150/150
+ |Punkty życia           = 300
+ |Pancerz                = Broń: 125, Pociski: 75, Smoczy ogień: 125, Magia: 20, Odrzut: 125
+ |Specjalne              = Brak
+ |Rzadkość               = Rzadki (16-17 osobników<ref name="a"/>)
+ |Nastawienie do gracza  = Agresywne
+ |Pozyskiwane przedmioty = 2x [[surowe mięso]], 2x [[kły]], 4x [[pazury]], 1x [[skóra cieniostwora]], 1x [[róg cieniostwora]]
+ |Występowanie           = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[ArcaniA]], [[Nyras Prologue]] (wzmianki)
+ |Kod                    = Shadowbeast
+}}
+{{Bestia
+ |Nazwa                  = Cieniostwór
+ |Nazwa angielska        = Shadowbeast
+ |Podnazwa               = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA
+ |Obraz                  = Cieniostwór (Gothic 3).png
+ |Podpis obrazu          = Cieniostwór w Gothic 3
+ |Gromada                = Ssaki
+ |Odmiany                = [[Biały cieniostwór]], [[Paskudny cieniostwór]], [[Pustynny cieniostwór]], [[Nieustraszony goniec pustynny]]
+ |Środowisko życia       = Zacienione lasy, Jaskinie
+ |Punkty doświadczenia   = 300
+ |Punkty życia           = 600 (łatwy), 800 (średni), 1000 (trudny)
+ |Specjalne              = Brak
+ |Rzadkość               = Pospolite (ok. 50 osobników)
+ |Nastawienie do gracza  = Agresywne
+ |Pozyskiwane przedmioty = 1x [[skóra cieniostwora]], 1x [[róg cieniostwora]]
+ |Występowanie           = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[ArcaniA]], [[Nyras Prologue]] (wzmianki)
+ |Kod                    = Shadowbeast
+}}
+{{Bestia
+ |Nazwa                  = Cieniostwór
+ |Nazwa angielska        = Shadowbeast
+ |Podnazwa               = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA
+ |Obraz                  = Cieniostwór (Gothic 3).png
+ |Podpis obrazu          = Cieniostwór w Gothic 3: Zmierzch Bogów
+ |Gromada                = Ssaki
+ |Odmiany                = Brak
+ |Środowisko życia       = Zacienione lasy, Jaskinie
+ |Punkty doświadczenia   = 300
+ |Punkty życia           = 600 (łatwy), 800 (średni), 1000 (trudny)
+ |Specjalne              = Brak
+ |Rzadkość               = Pospolite
+ |Nastawienie do gracza  = Agresywne
+ |Pozyskiwane przedmioty = 1x [[skóra cieniostwora]], 1x [[róg cieniostwora]]
+ |Występowanie           = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[ArcaniA]], [[Nyras Prologue]] (wzmianki)
+ |Kod                    = Shadowbeast
+}}
+{{Bestia
+ |Nazwa                  = Cieniostwór
+ |Nazwa angielska        = Shadowbeast
+ |Podnazwa               = Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA
+ |Obraz                  = Cieniostwór_(ArcaniA).png
+ |Podpis obrazu          = Cieniostwór w ArcaniA
+ |Gromada                = Ssaki
+ |Odmiany                = [[Stary cieniostwór]]
+ |Środowisko życia       = [[Dżungla]]
+ |Punkty doświadczenia   = 162
+ |Specjalne              = Brak
+ |Rzadkość               = Unikat
+ |Nastawienie do gracza  = Agresywne
+ |Pozyskiwane przedmioty = 8x [[mięso cieniostwora]], 1x [[róg cieniostwora]]
+ |Występowanie           = [[Gothic]], [[Gothic II]], [[Gothic 3]], [[Gothic 3: Zmierzch Bogów]], [[ArcaniA]], [[Nyras Prologue]] (wzmianki)
+ |Kod                    = Brak
+}}
+'''Cieniostwór''' – dużej wielkości drapieżnik występujący w każdej części [[Seria Gothic|serii Gothic]] oraz [[ArcaniA]], a także wspominany w [[Nyras Prologue]].
+
+== Gothic ==
+Cieniostwory to drapieżne ssaki zamieszkujące [[Kolonia karna|kolonię]]. Są samotnikami, w okolicy zazwyczaj przebywa tylko jeden osobnik. Stwory te polują nocą, w dzień zaś śpią w swoich jaskiniach lub gęstych, zacienionych lasach. Czasami atakują drobną zwierzynę taką jak [[ścierwojad]]y lub [[kretoszczur]]y. Walczą za pomocą swoich uzbrojonych w pazury łap. Cieniostwory występują na terenie kolonii stosunkowo rzadko. Łącznie można spotkać 6 osobników, z czego 3 pojawiają się dopiero po rozmowie z [[Tarrok]]iem na temat [[Ulu-Mulu]]. W grze występuje też [[Przemiana w cieniostwora|czar]] umożliwiający przemianę w cieniostwora.
+[[Plik:Cieniostwór w naturze G.png|310px|center|thumb|Cieniostwór w jaskini na terenie klasztoru]]
+Są koloru ciemno-szarego, mają potężnie umięśnione ciała, silne kończyny przednie z ostrymi [[Pazury|pazurami]], duże głowy, gruby i nieco zakrzywiony [[Róg cieniostwora|róg]] na środku czoła oraz potężne szczęki. Pokryte są gęstym [[Skóra cieniostwora|futrem]] uznawanym za bardzo cenne trofeum łowieckie<ref>Dialog z [[Bosper]]em w Gothic II: „Och, nawet skóra cieniostwora - takie są sporo warte.”</ref>, podobnie jak ich rogi<ref>[[Łowy i zwierzyna]], tom III.</ref>.
+
+Są agresywnie nastawione do [[Bezimienny|Bezimiennego]]. Za zabicie cieniostwora bohater otrzymuje 400 [[Punkty doświadczenia|punktów doświadczenia]]. Z ciała bestii można pozyskać 4 sztuki [[Surowe mięso|surowego mięsa]], 4 [[kły]], 1 skórę oraz 1 róg, o ile bohater opanował odpowiednie umiejętności. Róg ten jest jednym ze składników Ulu-Mulu, symbolu pokoju dla [[Orkowie|orków]].
+
+=== Występowanie ===
+Osobniki, które można spotkać od początku rozgrywki:
+* w [[Wschodni las w Górniczej Dolinie|lesie]] rozciągającym się pomiędzy [[Stary Obóz|Starym Obozem]] a [[Obóz Bractwa|Obozem Bractwa]];
+* na płaskowyżu nieopodal [[Krypta Nadzorcy|krypty pod kamiennym kręgiem]];
+* w jaskini na terenie [[Stary klasztor|starego klasztoru]].
+Cieniostwory pojawiające się po rozmowie z Tarrokiem:
+* we wschodnim lesie między Starym Obozem i Obozem Bractwa (w tym samym miejscu co osobnik przebywający tam od początku gry);
+* w [[Jaskinia na południe od krypty Nadzorcy|jaskini]] na południe od krypty;
+* w tunelu prowadzącym przez środek [[Północny las w Górniczej Dolinie|lasu]] znajdującego się między [[Kanion trolli|kanionem trolli]] a [[Stara Kopalnia|Starą Kopalnią]].
+
+<gallery widths="250" position="center" captionalign="center">
+Cieniostwór projekt początkowy.jpg|Grafika koncepcyjna wczesnej wersji cieniostwora w Gothic
+Gothic main shadowbeast.jpg|Wczesny wygląd modelu cieniostwora
+EARLY SHA.png|Model-pierwowzór, na bazie którego powstał cieniostwór
+</gallery>
+
+== Gothic II ==
+[[Plik:Głowa cieniostwora GII.png|250px|right|thumb|Głowa cieniostwora jako trofeum łowieckie]]
+Zachowanie, sposób walki i środowisko życia cieniostwora nie uległy zmianom względem pierwszej części. W grze można jednak spotkać więcej osobników oraz okazjonalnie pojawiają się w niewielkich grupach. Miejsce ich przebywania często oznaczone jest krwawymi plamami pochodzącymi z ciał poprzednich ofiar potwora. Łeb cieniostwora jest częstym trofeum spotykanym jako ozdoba na ścianach domów. Podobnie jak w poprzedniej odsłonie, tutaj również występuje zaklęcie umożliwiające przemianę w bestię.
+
+Oprócz zwykłego cieniostwora w grze występuje też jego ożywiony [[Szkielet cieniostwór|szkielet]].
+
+Wygląd cieniostwora uległ drobnym zmianom. Ma teraz bardziej wyrazisty grzbiet oraz zmienił się kształt jego głowy i ciała. Futro bestii jest też nieco ciemniejsze.
+
+Za zabicie cieniostwora Bezimienny otrzymuje 200 punktów doświadczenia. Z ich ciał można pozyskać 2 sztuki surowego mięsa, 2 kły, 4 [[pazury]], 1 skórę oraz 1 róg, o ile bohater opanował odpowiednie umiejętności. [[Najemnicy Lee|Najemnik]] imieniem [[Buster]] zleca Bezimiennemu [[Rogi cieniostwora dla Bustera|zadanie]] dostarczenia rogów tych bestii.
+
+=== Występowanie ===
+; [[Wyspa Khorinis|Okolice Khorinis]]
+Od [[Zagrożenie|I rozdziału]]:
+* w lesie na południe od [[Miasto Khorinis|Khorinis]] (bohater może się tam wybrać na polowanie wspólnie z [[Bartok]]iem);
+* w [[Kotlina na wschód od Khorinis|kotlinie]] nieopodal miasta, przed wejściem do [[Jaskinia w kotlinie na wschód od Khorinis|jaskini]];
+* w jednej z komór wyżej wymienionej jaskini w kotlinie nieopodal miasta;
+* w [[Jaskinia cieniostwora koło latarni morskiej|jaskini]] nieopodal [[Latarnia morska w Khorinis|latarni morskiej]];
+* w [[Las za farmą Sekoba|lesie]] za [[Farma Sekoba|farmą Sekoba]];
+* w [[Jaskinia cieniostworów pod mostem do piramid|jaskini pod mostem linowym]] prowadzącym w kierunku [[Piramidy|piramid]] (2 okazy);
+* przy mniejszej piramidzie;
+* w pobliżu [[Kamienne kręgi|kamiennego kręgu]] w [[Wielki las|wielkim lesie]].
+[[Plik:Śpiący cieniostwór GII.png|310px|right|thumb|Cieniostwór śpiący w lesie]]
+Od [[Oko Innosa (rozdział)|III rozdziału]]:
+* w pobliżu [[Jaskinia Sagitty|jaskini Sagitty]];
+* w pobliżu [[Kamienne kręgi|kamiennego kręgu]] koło [[Farma Lobarta|farmy Lobarta]] (pojawia się tylko, gdy bohater jest najemnikiem).
+
+; [[Górnicza Dolina]]
+Od [[Polowanie na smoki (rozdział)|IV rozdziału]]:
+* w [[Wschodni las w Górniczej Dolinie|małym lesie]] nad rzeką niedaleko [[Orkowy taran|orkowego tarana]] (3 okazy).
+
+== Gothic II: Noc Kruka ==
+W dodatku można spotkać dodatkowe trzy cieniostwory zamieszkujące zapomnianą dolinę [[Jarkendar]]. Można je znaleźć:
+* w [[Jaskinia między ruinami centralnymi a obozem piratów|jaskini]] przy drodze prowadzącej z [[Ruiny centralne|ruin centralnych]] do [[Obóz piratów|obozu piratów]];
+* w [[Jaskinia cieniostwora koło obozu piratów|jaskini]] na końcu północnej części [[Plaża w Jarkendarze|plaży]] (związany z zadaniem ''[[Plaża na północy]]'');
+* w [[Dolina w Jarkendarze|dolinie]] nieopodal [[Chata eremity|chaty eremity]].
+
+Za zabicie cieniostwora bohater otrzymuje 300 punktów doświadczenia zamiast 200. Co więcej, wszystkie statystyki bestii zostały zwiększone.
+
+== Gothic 3 ==
+Cieniostwory z [[kontynent]]u są mniej groźne od swoich kuzynów z Khorinis. Nadal zamieszkują ciemne jaskinie i lasy oraz znaczą swój teren krwią przeciwników. Można je spotkać w [[Nordmar]]ze oraz na terenie [[Myrtana|Myrtany]]. Często pojawiają się w grupach liczących około 3 osobniki. Najwięcej cieniostworów znajduje się w lesie na zachód od [[Geldern]], koło [[Obóz druida Runaka|obozu Runaka]].  Bestie te polują na mniejszą drapieżną zwierzynę, gdy takowa znajdzie się w pobliżu. Walczą za pomocą swoich zębów, a nie łapą jak w poprzednich częściach. Podczas rozgrywki można znaleźć [[druidzki kamień cieniostwora]] oraz [[Mikstura przemiany w zębacza|miksturę przemiany w cieniostwora]]. Oba te przedmioty umożliwiają wcielenie się w bestię.
+[[Plik:Gniazdo cieniostworów G3.png|310px|right|thumb|Cieniostwory śpiące w swoim legowisku]]
+W grze istnieje kilka odmian cieniostwora. Na terenie [[Varant]]u żyją [[Pustynny cieniostwór|pustynne cieniostwory]] o zmienionym kolorze futra oraz [[Nieustraszony goniec pustynny|nieustraszone gońce pustynne]], które stanowią problem dla orkowych wykopalisk. Oprócz tego [[Candela]] zleca [[Polowanie na cieniostwory|zadanie]] polegające na upolowaniu [[Paskudny cieniostwór|paskudnych cieniostworów]] w pobliżu ich [[Obóz Candeli i Frasera|obozu]] nieopodal [[Okara|Okary]]. W Nordmarze występuje też unikatowy [[biały cieniostwór]], który jest celem ostatniego polowania [[Bogir]]a.
+
+Wygląd cieniostworów uległ sporym zmianom. Są mniejsze i słabiej umięśnione. Ich futro jest brązowe, a z grzbietów wystają czarne kolce. Głowa mniej się odróżnia od tułowia, a róg umiejscowiony jest bliżej pyska.
+
+Za zabicie cieniostwora Bezimienny otrzymuje 300 punktów doświadczenia. Z ich ciał można zdobyć skórę oraz róg po nauczeniu się odpowiednich umiejętności.
+
+=== Mapa ===
+[[Plik:Cieniostwór mapa.png|250px|center|thumb|Mapa z zaznaczoną lokalizacją wszystkich cieniostworów]]
+
+== Gothic 3: Zmierzch Bogów ==
+Cieniostwory nadal można spotkać w jaskiniach i zacienionych lasach Myrtany. Ich statystyki, wygląd i pozyskiwane z nich przedmioty nie uległy zmianie.
+
+== ArcaniA ==
+W grze występuje tylko jeden cieniostwór. Mieszkający w [[Dżungla|dżungli]] pustelnik o imieniu [[Jabo]] ''wytresował'' bestię na psa obronnego, który miał chronić jego dom i ogródek przed ścierwojadami. Bestia nie dopuszczała jednak mężczyzny do jego chaty, przez co musiał się przenieść. [[Pasterz z Feshyr|Bezimienny]] może pomóc Jabo w zgładzeniu potwora.
+
+W grze można spotkać też unikatowego [[Stary cieniostwór|starego cieniostwora]], który strzeże [[Skrzynia|skrzyń]] w [[Przejście z Thorniary do Krwawej Doliny|przejściu z Thorniary do Krwawej Doliny]].
+
+[[Wyspa Argaan|Argaańskie]] cieniostwory są kruczoczarne i posiadają mniej dystyngowane cechy wyglądu niż pozostałe. Emanuje z nich mroczna, magiczna aura.
+
+Za pokonanie cieniostwora bohater dostaje 162 punkty doświadczenia. Z jego ciała można pozyskać 8 kawałków [[Mięso cieniostwora|mięsa cieniostwora]] oraz jeden róg.
+
+== Nyras Prologue ==
+{{Prolog|Sekcja}}
+Samego cieniostwora nie można spotkać w demie, jest on jednak wspominany przez większość postaci. Z powodu realnego zagrożenia z jego strony [[Nyras]] musi przed zmrokiem znaleźć [[miejsce do spania]]. [[Ratford]] przypuszcza, że to właśnie ta bestia zabiła [[Jorik]]a. Jeśli bohater doprowadzi do śmierci [[Kirgo]], może skłamać [[Orry|Orry'emu]], że [[Strażnicy Starego Obozu|strażnik]] zginął w wyniku ataku cieniostwora.
+
+== Modyfikacje ==
+{{Główny artykuł|Cieniostwór/Modyfikacje}}
+
+== Ciekawostki ==
+* W [[Gothic]] i [[Gothic II]] jest jedynym zwierzęciem, które atakują orkowie.
+* W Gothic II powieszone na ścianach trofea głowy cieniostworów wykorzystują model bestii z Gothic.
+
+== Przypisy ==
+[[Kategoria:Stworzenia z Gothic]]
+[[Kategoria:Stworzenia z Gothic II]]
+[[Kategoria:Stworzenia z Gothic 3]]
+[[Kategoria:Stworzenia z Gothic 3: Zmierzch Bogów]]
+[[Kategoria:Stworzenia z ArcaniA]]
+[[Kategoria:Zwierzęta Argaanii]]
+[[Kategoria:Zwierzęta Khorinis]]
+[[Kategoria:Zwierzęta Myrtany]]
+[[Kategoria:Zwierzęta Nordmaru]]
+[[en:Shadowbeast]]
+[[it:Bestia d'ombra]]
+[[ru:Мракорис]]

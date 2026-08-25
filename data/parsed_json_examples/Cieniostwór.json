@@ -1,0 +1,107 @@
+{
+  "title": "Cieniostwór",
+  "meta_templates": [
+    {
+      "name": "Cytat",
+      "params": {
+        "1": "Większość z tych stworzeń to zaszyci głęboko w lasach samotnicy. Pozostało ich na świecie bardzo niewiele, nie stanowią więc zagrożenia dla ludzi – chyba że wkroczy się na ich tereny łowieckie. Dobrze wiedzieć, gdzie znajdują się te tereny – róg cieniostwora to cenne trofeum myśliwskie, które jednak trzeba umieć odpowiednio preparować.",
+        "2": "Wpis o cieniostworze w księdze ''[[Łowy i zwierzyna]]''"
+      }
+    }
+  ],
+  "type": "Bestia",
+  "infobox": {
+    "nazwa": "Cieniostwór",
+    "nazwa angielska": "Shadowbeast",
+    "podnazwa": "Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA",
+    "obraz": "Cieniostwór (Gothic).png",
+    "gromada": "Ssaki",
+    "odmiany": "Brak",
+    "środowisko życia": "Zacienione lasy, Jaskinie",
+    "punkty doświadczenia": "400",
+    "siła/zręczność": "110/110",
+    "punkty życia": "200",
+    "pancerz": "Broń: 100, Pociski: 50, Ogień: 50, Magia: 50, Odrzut: 100",
+    "specjalne": "Brak",
+    "rzadkość": "Rzadki (6 osobników)",
+    "nastawienie do gracza": "Agresywne",
+    "pozyskiwane przedmioty": "4x surowe mięso, 4x kły, 1x skóra cieniostwora, 1x róg cieniostwora",
+    "występowanie": "Gothic, Gothic II, Gothic 3, Gothic 3: Zmierzch Bogów, ArcaniA, Nyras Prologue (wzmianki)",
+    "kod": "Shadowbeast"
+  },
+  "categories": [
+    "Stworzenia z Gothic",
+    "Stworzenia z Gothic II",
+    "Stworzenia z Gothic 3",
+    "Stworzenia z Gothic 3: Zmierzch Bogów",
+    "Stworzenia z ArcaniA",
+    "Zwierzęta Argaanii",
+    "Zwierzęta Khorinis",
+    "Zwierzęta Myrtany",
+    "Zwierzęta Nordmaru"
+  ],
+  "languages": {
+    "en": "Shadowbeast",
+    "it": "Bestia d'ombra",
+    "ru": "Мракорис"
+  },
+  "sections": [
+    {
+      "title": "Wstęp",
+      "text": "Cieniostwór – dużej wielkości drapieżnik występujący w każdej części serii Gothic oraz ArcaniA, a także wspominany w Nyras Prologue.",
+      "subsections": []
+    },
+    {
+      "title": "Gothic",
+      "text": "Cieniostwory to drapieżne ssaki zamieszkujące kolonię. Są samotnikami, w okolicy zazwyczaj przebywa tylko jeden osobnik. Stwory te polują nocą, w dzień zaś śpią w swoich jaskiniach lub gęstych, zacienionych lasach. Czasami atakują drobną zwierzynę taką jak ścierwojady lub kretoszczury. Walczą za pomocą swoich uzbrojonych w pazury łap. Cieniostwory występują na terenie kolonii stosunkowo rzadko. Łącznie można spotkać 6 osobników, z czego 3 pojawiają się dopiero po rozmowie z Tarrokiem na temat Ulu-Mulu. W grze występuje też czar umożliwiający przemianę w cieniostwora.\n\nSą koloru ciemno-szarego, mają potężnie umięśnione ciała, silne kończyny przednie z ostrymi pazurami, duże głowy, gruby i nieco zakrzywiony róg na środku czoła oraz potężne szczęki. Pokryte są gęstym futrem uznawanym za bardzo cenne trofeum łowieckie (Dialog z Bosperem w Gothic II: „Och, nawet skóra cieniostwora - takie są sporo warte.”), podobnie jak ich rogi (Łowy i zwierzyna, tom III.).\n\nSą agresywnie nastawione do Bezimiennego. Za zabicie cieniostwora bohater otrzymuje 400 punktów doświadczenia. Z ciała bestii można pozyskać 4 sztuki surowego mięsa, 4 kły, 1 skórę oraz 1 róg, o ile bohater opanował odpowiednie umiejętności. Róg ten jest jednym ze składników Ulu-Mulu, symbolu pokoju dla orków.",
+      "subsections": [
+        {
+          "title": "Występowanie",
+          "text": "Osobniki, które można spotkać od początku rozgrywki:\n w lesie rozciągającym się pomiędzy Starym Obozem a Obozem Bractwa;\n na płaskowyżu nieopodal krypty pod kamiennym kręgiem;\n w jaskini na terenie starego klasztoru.\nCieniostwory pojawiające się po rozmowie z Tarrokiem:\n we wschodnim lesie między Starym Obozem i Obozem Bractwa (w tym samym miejscu co osobnik przebywający tam od początku gry);\n w jaskini na południe od krypty;\n w tunelu prowadzącym przez środek lasu znajdującego się między kanionem trolli a Starą Kopalnią.",
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "title": "Gothic II",
+      "text": "Zachowanie, sposób walki i środowisko życia cieniostwora nie uległy zmianom względem pierwszej części. W grze można jednak spotkać więcej osobników oraz okazjonalnie pojawiają się w niewielkich grupach. Miejsce ich przebywania często oznaczone jest krwawymi plamami pochodzącymi z ciał poprzednich ofiar potwora. Łeb cieniostwora jest częstym trofeum spotykanym jako ozdoba na ścianach domów. Podobnie jak w poprzedniej odsłonie, tutaj również występuje zaklęcie umożliwiające przemianę w bestię.\n\nOprócz zwykłego cieniostwora w grze występuje też jego ożywiony szkielet.\n\nWygląd cieniostwora uległ drobnym zmianom. Ma teraz bardziej wyrazisty grzbiet oraz zmienił się kształt jego głowy i ciała. Futro bestii jest też nieco ciemniejsze.\n\nZa zabicie cieniostwora Bezimienny otrzymuje 200 punktów doświadczenia. Z ich ciał można pozyskać 2 sztuki surowego mięsa, 2 kły, 4 pazury, 1 skórę oraz 1 róg, o ile bohater opanował odpowiednie umiejętności. Najemnik imieniem Buster zleca Bezimiennemu zadanie dostarczenia rogów tych bestii.",
+      "subsections": [
+        {
+          "title": "Występowanie",
+          "text": "Okolice Khorinis\nOd I rozdziału:\n w lesie na południe od Khorinis (bohater może się tam wybrać na polowanie wspólnie z Bartokiem);\n w kotlinie nieopodal miasta, przed wejściem do jaskini;\n w jednej z komór wyżej wymienionej jaskini w kotlinie nieopodal miasta;\n w jaskini nieopodal latarni morskiej;\n w lesie za farmą Sekoba;\n w jaskini pod mostem linowym prowadzącym w kierunku piramid (2 okazy);\n przy mniejszej piramidzie;\n w pobliżu kamiennego kręgu w wielkim lesie.\n\nOd III rozdziału:\n w pobliżu jaskini Sagitty;\n w pobliżu kamiennego kręgu koło farmy Lobarta (pojawia się tylko, gdy bohater jest najemnikiem).\n\n Górnicza Dolina\nOd IV rozdziału:\n w małym lesie nad rzeką niedaleko orkowego tarana (3 okazy).",
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "title": "Gothic II: Noc Kruka",
+      "text": "W dodatku można spotkać dodatkowe trzy cieniostwory zamieszkujące zapomnianą dolinę Jarkendar. Można je znaleźć:\n w jaskini przy drodze prowadzącej z ruin centralnych do obozu piratów;\n w jaskini na końcu północnej części plaży (związany z zadaniem Plaża na północy);\n w dolinie nieopodal chaty eremity.\n\nZa zabicie cieniostwora bohater otrzymuje 300 punktów doświadczenia zamiast 200. Co więcej, wszystkie statystyki bestii zostały zwiększone.",
+      "subsections": []
+    },
+    {
+      "title": "Gothic 3",
+      "text": "Cieniostwory z kontynentu są mniej groźne od swoich kuzynów z Khorinis. Nadal zamieszkują ciemne jaskinie i lasy oraz znaczą swój teren krwią przeciwników. Można je spotkać w Nordmarze oraz na terenie Myrtany. Często pojawiają się w grupach liczących około 3 osobniki. Najwięcej cieniostworów znajduje się w lesie na zachód od Geldern, koło obozu Runaka.  Bestie te polują na mniejszą drapieżną zwierzynę, gdy takowa znajdzie się w pobliżu. Walczą za pomocą swoich zębów, a nie łapą jak w poprzednich częściach. Podczas rozgrywki można znaleźć druidzki kamień cieniostwora oraz miksturę przemiany w cieniostwora. Oba te przedmioty umożliwiają wcielenie się w bestię.\n\nW grze istnieje kilka odmian cieniostwora. Na terenie Varantu żyją pustynne cieniostwory o zmienionym kolorze futra oraz nieustraszone gońce pustynne, które stanowią problem dla orkowych wykopalisk. Oprócz tego Candela zleca zadanie polegające na upolowaniu paskudnych cieniostworów w pobliżu ich obozu nieopodal Okary. W Nordmarze występuje też unikatowy biały cieniostwór, który jest celem ostatniego polowania Bogira.\n\nWygląd cieniostworów uległ sporym zmianom. Są mniejsze i słabiej umięśnione. Ich futro jest brązowe, a z grzbietów wystają czarne kolce. Głowa mniej się odróżnia od tułowia, a róg umiejscowiony jest bliżej pyska.\n\nZa zabicie cieniostwora Bezimienny otrzymuje 300 punktów doświadczenia. Z ich ciał można zdobyć skórę oraz róg po nauczeniu się odpowiednich umiejętności.",
+      "subsections": []
+    },
+    {
+      "title": "Gothic 3: Zmierzch Bogów",
+      "text": "Cieniostwory nadal można spotkać w jaskiniach i zacienionych lasach Myrtany. Ich statystyki, wygląd i pozyskiwane z nich przedmioty nie uległy zmianie.",
+      "subsections": []
+    },
+    {
+      "title": "ArcaniA",
+      "text": "W grze występuje tylko jeden cieniostwór. Mieszkający w dżungli pustelnik o imieniu Jabo wytresował bestię na psa obronnego, który miał chronić jego dom i ogródek przed ścierwojadami. Bestia nie dopuszczała jednak mężczyzny do jego chaty, przez co musiał się przenieść. Bezimienny może pomóc Jabo w zgładzeniu potwora.\n\nW grze można spotkać też unikatowego starego cieniostwora, który strzeże skrzyń w przejściu z Thorniary do Krwawej Doliny.\n\nArgaańskie cieniostwory są kruczoczarne i posiadają mniej dystyngowane cechy wyglądu niż pozostałe. Emanuje z nich mroczna, magiczna aura.\n\nZa pokonanie cieniostwora bohater dostaje 162 punkty doświadczenia. Z jego ciała można pozyskać 8 kawałków mięsa cieniostwora oraz jeden róg.",
+      "subsections": []
+    },
+    {
+      "title": "Nyras Prologue",
+      "text": "Samego cieniostwora nie można spotkać w demie, jest on jednak wspominany przez większość postaci. Z powodu realnego zagrożenia z jego strony Nyras musi przed zmrokiem znaleźć miejsce do spania. Ratford przypuszcza, że to właśnie ta bestia zabiła Jorika. Jeśli bohater doprowadzi do śmierci Kirgo, może skłamać Orry'emu, że strażnik zginął w wyniku ataku cieniostwora.",
+      "subsections": []
+    },
+    {
+      "title": "Ciekawostki",
+      "text": "W Gothic i Gothic II jest jedynym zwierzęciem, które atakują orkowie.\n W Gothic II powieszone na ścianach trofea głowy cieniostworów wykorzystują model bestii z Gothic.",
+      "subsections": []
+    }
+  ]
+}

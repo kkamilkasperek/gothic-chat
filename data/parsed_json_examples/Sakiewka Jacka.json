@@ -11,7 +11,6 @@
     "ikona": "Mieszek Amula G3 ico.png",
     "nazwa": "Sakiewka Jacka",
     "obraz": "Sakiweka Amula G3.png",
-    "podpis obrazu": "Sakiewka Jacka",
     "typ": "Sakiewka",
     "opis": "Sakwa Jacka.",
     "właściciel": "Brak",
@@ -32,11 +31,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Sakiewka Jacka – przedmiot występujący w Gothic 3."
+      "text": "Sakiewka Jacka – przedmiot występujący w Gothic 3.",
+      "subsections": []
     },
     {
       "title": "Gothic 3",
-      "text": "Sakiewka jest dostępna jedynie za pomocą kodów. Po treści kodu i opisu można wywnioskować, że przedmiot był w jakiś sposób powiązany z Jackiem, który mieszka w latarni morskiej koło Ardei. Możliwe, że Bezimienny otrzymywał taką sakiewkę w ramach zadania Jack i złoto buntowników zamiast zwykłego złota.\n\nPrzedmiotu nie można kupić ani sprzedać."
+      "text": "Sakiewka jest dostępna jedynie za pomocą kodów. Po treści kodu i opisu można wywnioskować, że przedmiot był w jakiś sposób powiązany z Jackiem, który mieszka w latarni morskiej koło Ardei. Możliwe, że Bezimienny otrzymywał taką sakiewkę w ramach zadania Jack i złoto buntowników zamiast zwykłego złota.\n\nPrzedmiotu nie można kupić ani sprzedać.",
+      "subsections": []
     }
   ]
 }

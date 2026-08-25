@@ -10,7 +10,6 @@
   "infobox": {
     "nazwa": "Strój wielkiego maga",
     "obraz": "Wielki_Mag_MójMod.png",
-    "podpis obrazu": "Wielki Mag w swojej szacie",
     "typ": "Szata",
     "opis": "Brak",
     "gildia": "Brak",
@@ -30,19 +29,29 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Strój wielkiego maga – szata występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Mój Mod."
+      "text": "Strój wielkiego maga – szata występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Mój Mod.",
+      "subsections": []
     },
     {
-      "title": "Wygląd",
-      "text": "Szatę wykonano z czerwonego, zdobionego materiału. Jest spięta brązowym pasem ze sprzączką. Przez środek szaty biegnie fragment wykonany z czarnego ćwiekowanego materiału, który rozdziela się na dwie ścieżki w stronę ramion. Ubranie wyróżnia się też wysokim kołnierzem."
-    },
-    {
-      "title": "Występowanie",
-      "text": "Jest to szata noszona wyłącznie przez Wielkiego Maga. Bohater nie ma możliwości zdobycia jej podczas zwykłej rozgrywki.\n\nZnani posiadacze\n Wielki Mag."
-    },
-    {
-      "title": "Statystyki",
-      "text": "Zwiększa o 120 punktów ochronę przed bronią, pociskami, ogniem i magią. Szata ma wartość 500 sztuk złota, przy sprzedaży jej cena spada do 75 złotych monet."
+      "title": "Mój Mod",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Wygląd",
+          "text": "Szatę wykonano z czerwonego, zdobionego materiału. Jest spięta brązowym pasem ze sprzączką. Przez środek szaty biegnie fragment wykonany z czarnego ćwiekowanego materiału, który rozdziela się na dwie ścieżki w stronę ramion. Ubranie wyróżnia się też wysokim kołnierzem.",
+          "subsections": []
+        },
+        {
+          "title": "Występowanie",
+          "text": "Jest to szata noszona wyłącznie przez Wielkiego Maga. Bohater nie ma możliwości zdobycia jej podczas zwykłej rozgrywki.\n\nZnani posiadacze\n Wielki Mag.",
+          "subsections": []
+        },
+        {
+          "title": "Statystyki",
+          "text": "Zwiększa o 120 punktów ochronę przed bronią, pociskami, ogniem i magią. Szata ma wartość 500 sztuk złota, przy sprzedaży jej cena spada do 75 złotych monet.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

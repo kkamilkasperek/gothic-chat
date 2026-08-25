@@ -11,7 +11,6 @@
     "nazwa": "Lud Północy",
     "nazwa angielska": "The people of the North",
     "obraz": "lud_polnocy.png",
-    "podpis obrazu": "Treść księgi",
     "opis": "Księga o mieszkańcach Nordmaru",
     "posiadacz": "Grif",
     "autor": "Nieznany",
@@ -30,11 +29,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Lud Północy – księga występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos."
+      "text": "Lud Północy – księga występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos.",
+      "subsections": []
     },
     {
       "title": "Kroniki Myrtany: Archolos",
-      "text": "Książka zawiera opis Nordmarczyków zamieszkujących mroźne północne krainy. Zarysowuje normy i zwyczaje panujące wśród tego ludu.\n\nMarvin może zakupić ją od Grifa za 25 sztuk złota. Przy sprzedaży jej wartość spada do 4 sztuk złota.\n\nPrzeczytanie książki zapewnia bonus 50 punktów doświadczenia."
+      "text": "Książka zawiera opis Nordmarczyków zamieszkujących mroźne północne krainy. Zarysowuje normy i zwyczaje panujące wśród tego ludu.\n\nMarvin może zakupić ją od Grifa za 25 sztuk złota. Przy sprzedaży jej wartość spada do 4 sztuk złota.\n\nPrzeczytanie książki zapewnia bonus 50 punktów doświadczenia.",
+      "subsections": []
     }
   ]
 }

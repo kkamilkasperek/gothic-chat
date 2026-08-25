@@ -29,23 +29,34 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Gołe pięści – broń występująca w Gothic Remake i Nyras Prologue."
+      "text": "Gołe pięści – broń występująca w Gothic Remake i Nyras Prologue.",
+      "subsections": []
     },
     {
-      "title": "Wygląd",
-      "text": "Są to gołe pięści Bezimiennego, które gra traktuje jako osobny przedmiot."
-    },
-    {
-      "title": "Występowanie",
-      "text": "W grze występuje tylko jedna sztuka, przypisana na stałe do ekwipunku Bezimiennego. Są wyposażane automatycznie, kiedy bohater nie ma żadnej broni. Można je też wyposażyć zamiast obecnie używanej broni w dowolnym momencie rozgrywki."
-    },
-    {
-      "title": "Statystyki",
-      "text": "Pięści zadają 1 punkt obrażeń obuchowych. Do ich wyposażenia nie są wymagane żadne atrybuty. Ze względu na swoją charakterystykę nie można ich sprzedać ani kupić. Pokonanie 10 przeciwników za pomocą gołych pięści premiowanie jest osiągnięciem Droga pięści."
+      "title": "Gothic Remake",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Wygląd",
+          "text": "Są to gołe pięści Bezimiennego, które gra traktuje jako osobny przedmiot.",
+          "subsections": []
+        },
+        {
+          "title": "Występowanie",
+          "text": "W grze występuje tylko jedna sztuka, przypisana na stałe do ekwipunku Bezimiennego. Są wyposażane automatycznie, kiedy bohater nie ma żadnej broni. Można je też wyposażyć zamiast obecnie używanej broni w dowolnym momencie rozgrywki.",
+          "subsections": []
+        },
+        {
+          "title": "Statystyki",
+          "text": "Pięści zadają 1 punkt obrażeń obuchowych. Do ich wyposażenia nie są wymagane żadne atrybuty. Ze względu na swoją charakterystykę nie można ich sprzedać ani kupić. Pokonanie 10 przeciwników za pomocą gołych pięści premiowanie jest osiągnięciem Droga pięści.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Nyras Prologue",
-      "text": "Gołe pięści występują również w demie gry z Nyrasem jako głównym bohaterem. Ich działanie i charakterystyka jest identyczna jak w Gothic Remake. Przedmiot miał swój opis, który został usunięty w finalnej wersji gry."
+      "text": "Gołe pięści występują również w demie gry z Nyrasem jako głównym bohaterem. Ich działanie i charakterystyka jest identyczna jak w Gothic Remake. Przedmiot miał swój opis, który został usunięty w finalnej wersji gry.",
+      "subsections": []
     }
   ]
 }

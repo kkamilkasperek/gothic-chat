@@ -8,7 +8,6 @@
     "podnazwa": "Gothic 3,G3:ZB",
     "nazwa angielska": "Barbarian Battle Axe",
     "obraz": "Topór_bojowy_barbarzyńcy_(by_Vultus123).png",
-    "podpis obrazu": "Topór bojowy barbarzyńcy w Gothic 3",
     "typ": "Broń dwuręczna",
     "opis": "Nawet ork bałby się tej broni.",
     "wymagane umiejętności": "Duży oręż II",
@@ -30,39 +29,66 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Topór bojowy barbarzyńcy – dwuręczny topór występujący w Gothic 3 i Gothic 3: Zmierzch Bogów."
+      "text": "Topór bojowy barbarzyńcy – dwuręczny topór występujący w Gothic 3 i Gothic 3: Zmierzch Bogów.",
+      "subsections": []
     },
     {
-      "title": "Wygląd",
-      "text": "Trzon topora jest srebrny z charakterystycznymi zdobieniami. Obuch jest ułożony symetrycznie względem trzonu oraz zachowuje jego kolorystykę i styl tworząc jednolitą całość."
+      "title": "Gothic 3",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Wygląd",
+          "text": "Trzon topora jest srebrny z charakterystycznymi zdobieniami. Obuch jest ułożony symetrycznie względem trzonu oraz zachowuje jego kolorystykę i styl tworząc jednolitą całość.",
+          "subsections": []
+        },
+        {
+          "title": "Występowanie",
+          "text": "Broń używana jest głównie w Nordmarze przez niektórych wojowników i zabójców orków, a także przez starego przyjaciela Bezimiennego – Gorna, są to jednak zużyte egzemplarze. Jedna sztuka tego topora znajduje się również w 37. otwartej z kolei ciężkiej skrzyni spośród rozmieszczonych na obszarze Myrtany, Varantu i Nordmaru.",
+          "subsections": []
+        },
+        {
+          "title": "Statystyki",
+          "text": "Wartość topora wynosi 10 500 sztuk złota przy sprzedaży. W trakcie kupna cena rośnie do 35 000 sztuk złota. Broń zadaje 120 punktów obrażeń (60 w wersji zużytej), a żeby jej używać, wymagane jest 250 punktów siły i zdolnosć Duży oręż II. Dodatkowo podczas korzystania z oręża bohater automatycznie ma opanowaną umiejętność Zabójca orków.",
+          "subsections": []
+        }
+      ]
     },
     {
-      "title": "Występowanie",
-      "text": "Broń używana jest głównie w Nordmarze przez niektórych wojowników i zabójców orków, a także przez starego przyjaciela Bezimiennego – Gorna, są to jednak zużyte egzemplarze. Jedna sztuka tego topora znajduje się również w 37. otwartej z kolei ciężkiej skrzyni spośród rozmieszczonych na obszarze Myrtany, Varantu i Nordmaru."
+      "title": "Gothic 3: Zmierzch Bogów",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Wygląd",
+          "text": "Wygląd broni nie uległ zmianom względem podstawowej wersji gry.",
+          "subsections": []
+        },
+        {
+          "title": "Występowanie",
+          "text": "W grze występuje tylko jeden egzemplarz. Można go znaleźć w 9. otwartej z kolei ciężkiej skrzyni spośród rozmieszczonych w Myrtanie. Z topora nie korzysta żadna z postaci niezależnych ani nie sprzedaje go żaden handlarz.",
+          "subsections": []
+        },
+        {
+          "title": "Statystyki",
+          "text": "Wysokość zadawanych obrażeń spadła do 115 punktów, podobnie jak cena sprzedaży, która wynosi teraz 8750 sztuk złota. Reszta parametrów pozostała bez zmian.",
+          "subsections": []
+        }
+      ]
     },
     {
-      "title": "Statystyki",
-      "text": "Wartość topora wynosi 10 500 sztuk złota przy sprzedaży. W trakcie kupna cena rośnie do 35 000 sztuk złota. Broń zadaje 120 punktów obrażeń (60 w wersji zużytej), a żeby jej używać, wymagane jest 250 punktów siły i zdolnosć Duży oręż II. Dodatkowo podczas korzystania z oręża bohater automatycznie ma opanowaną umiejętność Zabójca orków."
-    },
-    {
-      "title": "Wygląd",
-      "text": "Wygląd broni nie uległ zmianom względem podstawowej wersji gry."
-    },
-    {
-      "title": "Występowanie",
-      "text": "W grze występuje tylko jeden egzemplarz. Można go znaleźć w 9. otwartej z kolei ciężkiej skrzyni spośród rozmieszczonych w Myrtanie. Z topora nie korzysta żadna z postaci niezależnych ani nie sprzedaje go żaden handlarz."
-    },
-    {
-      "title": "Statystyki",
-      "text": "Wysokość zadawanych obrażeń spadła do 115 punktów, podobnie jak cena sprzedaży, która wynosi teraz 8750 sztuk złota. Reszta parametrów pozostała bez zmian."
-    },
-    {
-      "title": "Quest Pack 4",
-      "text": "W modyfikacji Quest Pack 4 topór bojowy barbarzyńcy nie dodaje zdolności zabójcy orków."
+      "title": "Modyfikacje",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Quest Pack 4",
+          "text": "W modyfikacji Quest Pack 4 topór bojowy barbarzyńcy nie dodaje zdolności zabójcy orków.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Ciekawostki",
-      "text": "W Gothic II oraz ArcaniA: Upadek Setarrif występuje broń o podobnej nazwie – barbarzyński topór bojowy.\n Na zdjęciach opublikowanych przed premierą Gothic 3 można było zobaczyć orków używających tego topora, jednak w finalnej wersji gry jest dzierżony tylko przez ludzi."
+      "text": "W Gothic II oraz ArcaniA: Upadek Setarrif występuje broń o podobnej nazwie – barbarzyński topór bojowy.\n Na zdjęciach opublikowanych przed premierą Gothic 3 można było zobaczyć orków używających tego topora, jednak w finalnej wersji gry jest dzierżony tylko przez ludzi.",
+      "subsections": []
     }
   ]
 }

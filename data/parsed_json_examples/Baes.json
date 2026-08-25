@@ -40,15 +40,19 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Baes – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos."
+      "text": "Baes – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos.",
+      "subsections": []
     },
     {
       "title": "Kroniki Myrtany: Archolos",
-      "text": "Jest sierżantem Wilczych Synów, przebywającym w Wilczym Leżu. Odpowiada za kwestie organizacyjne i trening wojowników. Po wykonaniu wszystkich zadań w lokacji daje Marvinowi pancerz Wilczego Syna. Jeśli bohater ma minimum 60 punktów siły oraz ukończone zadanie Wilczych skór wiele może nauczać go do maksymalnie 150 punktów tego współczynnika.\n\nPodczas zadania Nocny wartownik zlecanego przez Arethe protagonista odkrywa, że Baes posiada niedźwiedzia, którego ukrywa w podziemiach obok karczmy. Jeżeli Marvin nie zdradzi wojownika, to Baes pojawi się wraz z niedźwiedziem podczas ataku na miasto w VI rozdziale w dzielnicy rzemieślników obok kuźni Odgara. W przeciwnym wypadku zamiast niego i zwierzaka w dzielnicy będą najemnicy Volkera."
-    },
-    {
-      "title": "Zlecane zadania",
-      "text": "Wilczych skór wiele"
+      "text": "Jest sierżantem Wilczych Synów, przebywającym w Wilczym Leżu. Odpowiada za kwestie organizacyjne i trening wojowników. Po wykonaniu wszystkich zadań w lokacji daje Marvinowi pancerz Wilczego Syna. Jeśli bohater ma minimum 60 punktów siły oraz ukończone zadanie Wilczych skór wiele może nauczać go do maksymalnie 150 punktów tego współczynnika.\n\nPodczas zadania Nocny wartownik zlecanego przez Arethe protagonista odkrywa, że Baes posiada niedźwiedzia, którego ukrywa w podziemiach obok karczmy. Jeżeli Marvin nie zdradzi wojownika, to Baes pojawi się wraz z niedźwiedziem podczas ataku na miasto w VI rozdziale w dzielnicy rzemieślników obok kuźni Odgara. W przeciwnym wypadku zamiast niego i zwierzaka w dzielnicy będą najemnicy Volkera.",
+      "subsections": [
+        {
+          "title": "Zlecane zadania",
+          "text": "Wilczych skór wiele",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

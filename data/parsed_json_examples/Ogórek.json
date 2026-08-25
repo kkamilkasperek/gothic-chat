@@ -22,11 +22,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Ogórek – jedzenie występujące w ArcaniA."
+      "text": "Ogórek – jedzenie występujące w ArcaniA.",
+      "subsections": []
     },
     {
       "title": "ArcaniA",
-      "text": "Jest to długie, zielone warzywo. Po spożyciu go pasterzowi z Feshyr regeneruje się 10 punktów zdrowia. Można znaleźć go np. w jednej ze skrzyń w gospodzie „Pod Rozdartą Dziewicą” lub kupić od handlarzy żywnością.\n\nWartość sprzedaży ogórka to 1 sztuka złota."
+      "text": "Jest to długie, zielone warzywo. Po spożyciu go pasterzowi z Feshyr regeneruje się 10 punktów zdrowia. Można znaleźć go np. w jednej ze skrzyń w gospodzie „Pod Rozdartą Dziewicą” lub kupić od handlarzy żywnością.\n\nWartość sprzedaży ogórka to 1 sztuka złota.",
+      "subsections": []
     }
   ]
 }

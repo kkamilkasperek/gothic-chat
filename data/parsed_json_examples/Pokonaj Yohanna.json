@@ -6,7 +6,6 @@
     "nazwa": "Pokonaj Yohanna",
     "nazwa angielska": "Beat Yohann",
     "obraz": "Pokonaj_Yohanna_(pierwsza_wypowiedź)_(G3ZB)_(by_Kubar906).png",
-    "podpis obrazu": "Początek zadania",
     "zleceniodawca": "Derex",
     "start": "Arena w Geldern",
     "koniec": "Arena w Geldern",
@@ -25,19 +24,29 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Pokonaj Yohanna – zadanie poboczne występujące w Gothic 3: Zmierzch Bogów. Jest zlecane Bezimiennemu przez Derexa."
+      "text": "Pokonaj Yohanna – zadanie poboczne występujące w Gothic 3: Zmierzch Bogów. Jest zlecane Bezimiennemu przez Derexa.",
+      "subsections": []
     },
     {
       "title": "Krok po kroku",
-      "text": "Porozmawiaj z Derexem na arenie w Geldern.\n Pokonaj Yohanna w pojedynku."
+      "text": "Porozmawiaj z Derexem na arenie w Geldern.\n Pokonaj Yohanna w pojedynku.",
+      "subsections": []
     },
     {
-      "title": "Pierwszy przeciwnik",
-      "text": "Będąc w Geldern, Bezimienny zagląda na tamtejszą arenę. Pyta on Derexa – jej zarządcę – czy mógłby zmierzyć się z jednym z gladiatorów. Derex szybko objaśnia bohaterowi zasady areny, a następnie poleca, żeby stawił czoło Yohannowi."
-    },
-    {
-      "title": "Walka",
-      "text": "Mężczyźni wchodzą na arenę i dobywają broni. Yohann posługuje się zwykłym mieczem, a jego opancerzenie to lekki pancerz buntownika. Bohater szybko powala przeciwnika. Po wszystkim zadanie dobiega końca i kończy się powodzeniem."
+      "title": "Przebieg zadania",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Pierwszy przeciwnik",
+          "text": "Będąc w Geldern, Bezimienny zagląda na tamtejszą arenę. Pyta on Derexa – jej zarządcę – czy mógłby zmierzyć się z jednym z gladiatorów. Derex szybko objaśnia bohaterowi zasady areny, a następnie poleca, żeby stawił czoło Yohannowi.",
+          "subsections": []
+        },
+        {
+          "title": "Walka",
+          "text": "Mężczyźni wchodzą na arenę i dobywają broni. Yohann posługuje się zwykłym mieczem, a jego opancerzenie to lekki pancerz buntownika. Bohater szybko powala przeciwnika. Po wszystkim zadanie dobiega końca i kończy się powodzeniem.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

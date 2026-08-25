@@ -16,7 +16,6 @@
     "nazwa": "Słownik przekleństw Tom I",
     "podnazwa": "I, II, III, IV",
     "obraz": "Słownik przekleństw I-0.png",
-    "podpis obrazu": "Zawartość słownika",
     "nadawca": "Nieznany",
     "odbiorca": "Wszyscy",
     "posiadacz": "Pietrowicz",
@@ -34,11 +33,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Słownik przekleństw – dokument występujący w modyfikacji Podróżnik – Za liniami wroga do gry Gothic II: Noc Kruka."
+      "text": "Słownik przekleństw – dokument występujący w modyfikacji Podróżnik – Za liniami wroga do gry Gothic II: Noc Kruka.",
+      "subsections": []
     },
     {
       "title": "Podróżnik – Za liniami wroga",
-      "text": "Pierwszy tom można uzyskać od Pietrowicza podczas wykonywania zadania Wychowanie Pietrowicza. Książkę należy zanieść Pizdochujewowi. Zafascynowany intelektualista każe Podróżnikowi odnaleźć pozostałe tomy i przynieść je do siebie. Słownik opisuje podstawowe przekleństwa występujące w języku rosyjskim.\n\nW posiadaniu słowników są:\n I tom – Pietrowicz – odda po rozmowie na temat jego złego zachowania;\n II tom – Wowan Biały – może sprzedać;\n III tom – Fritz – również może sprzedać;\n IV tom – Żyridowski – odda gdy Podróżnik poprosi go o naukę lepszego wysławiania się."
+      "text": "Pierwszy tom można uzyskać od Pietrowicza podczas wykonywania zadania Wychowanie Pietrowicza. Książkę należy zanieść Pizdochujewowi. Zafascynowany intelektualista każe Podróżnikowi odnaleźć pozostałe tomy i przynieść je do siebie. Słownik opisuje podstawowe przekleństwa występujące w języku rosyjskim.\n\nW posiadaniu słowników są:\n I tom – Pietrowicz – odda po rozmowie na temat jego złego zachowania;\n II tom – Wowan Biały – może sprzedać;\n III tom – Fritz – również może sprzedać;\n IV tom – Żyridowski – odda gdy Podróżnik poprosi go o naukę lepszego wysławiania się.",
+      "subsections": []
     }
   ]
 }

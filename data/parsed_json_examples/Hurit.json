@@ -38,23 +38,24 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Hurit – postać występująca w Gothic 3. Jest to myśliwy i jeden z dowódców koczowników."
+      "text": "Hurit – postać występująca w Gothic 3. Jest to myśliwy i jeden z dowódców koczowników.",
+      "subsections": []
     },
     {
       "title": "Przed akcją gry",
-      "text": "Mieszkał wraz ze swoim plemieniem na terenie oazy na południowy zachód od Ben Erai. Gdy wraz ze swoimi towarzyszami wyruszył na polowanie ich oaza została przejęta przez asasynów, którym przewodzi Sugut. Z tego powodu byli zmuszeni zamieszkać w pobliskich ruinach."
+      "text": "Mieszkał wraz ze swoim plemieniem na terenie oazy na południowy zachód od Ben Erai. Gdy wraz ze swoimi towarzyszami wyruszył na polowanie ich oaza została przejęta przez asasynów, którym przewodzi Sugut. Z tego powodu byli zmuszeni zamieszkać w pobliskich ruinach.",
+      "subsections": []
     },
     {
       "title": "Gothic 3",
-      "text": "Hurit proponuje Bezimiennemu zaatakowanie zajętej przez asasynów oazy. Znajdujący się tam Sugut, jest złodziejem magicznej rudy z Ben Sali, którego można zabić na zlecenie Julio. Koczownik może z bohaterem handlować oraz nauczy go zdolności myśliwskich.\n\nOd Campy, sprzedawcy wody w Ben Erai, lub samego Suguta Bezimienny otrzymuje zlecenie na zabójstwo Hurita. Po podbiciu osady asasynów Lago i uwolnieniu z więzienia Vatrasa, maga wody, ten poprosi bohatera o zaprowadzenie go do obozu koczownika."
-    },
-    {
-      "title": "Zlecane zadania",
-      "text": "Bankiet dla sępów"
-    },
-    {
-      "title": "Mapa",
-      "text": "310px|center|thumb|Mapa z zaznaczoną pozycją Hurita"
+      "text": "Hurit proponuje Bezimiennemu zaatakowanie zajętej przez asasynów oazy. Znajdujący się tam Sugut, jest złodziejem magicznej rudy z Ben Sali, którego można zabić na zlecenie Julio. Koczownik może z bohaterem handlować oraz nauczy go zdolności myśliwskich.\n\nOd Campy, sprzedawcy wody w Ben Erai, lub samego Suguta Bezimienny otrzymuje zlecenie na zabójstwo Hurita. Po podbiciu osady asasynów Lago i uwolnieniu z więzienia Vatrasa, maga wody, ten poprosi bohatera o zaprowadzenie go do obozu koczownika.",
+      "subsections": [
+        {
+          "title": "Zlecane zadania",
+          "text": "Bankiet dla sępów",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

@@ -38,15 +38,19 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Jil – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos. Jest kucharką w posiadłości zamieszkiwanej przez Albyna."
+      "text": "Jil – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos. Jest kucharką w posiadłości zamieszkiwanej przez Albyna.",
+      "subsections": []
     },
     {
       "title": "Kroniki Myrtany: Archolos",
-      "text": "Została nadworną kucharką w momencie, gdy sir Ramsey i jego kucharz wyprowadzili się z Silbach. Jeżeli Marvin zagada ją pytaniem na temat przygotowywanego posiłku, ta przez nieuwagę spali przygotowywaną potrawkę z dzika i wyśle bohatera w poszukiwaniu nowego mięsa."
-    },
-    {
-      "title": "Zlecane zadania",
-      "text": "Sprawa życia lub śmierci"
+      "text": "Została nadworną kucharką w momencie, gdy sir Ramsey i jego kucharz wyprowadzili się z Silbach. Jeżeli Marvin zagada ją pytaniem na temat przygotowywanego posiłku, ta przez nieuwagę spali przygotowywaną potrawkę z dzika i wyśle bohatera w poszukiwaniu nowego mięsa.",
+      "subsections": [
+        {
+          "title": "Zlecane zadania",
+          "text": "Sprawa życia lub śmierci",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

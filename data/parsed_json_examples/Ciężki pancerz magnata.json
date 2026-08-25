@@ -7,7 +7,6 @@
     "nazwa": "Ciężki pancerz magnata",
     "nazwa angielska": "Heavy Ore Baron's Armor",
     "obraz": "Ciężki pancerz magnata (by Ossowski21).png",
-    "podpis obrazu": "Ciężki pancerz magnata",
     "typ": "Pancerz",
     "gildia": "Magnaci",
     "ochrona": "Broń: 80, Pociski: 8, Ogień: 40, Magia: 3",
@@ -27,23 +26,34 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Ciężki pancerz magnata – pancerz występujący w Gothic. W Gothic II: Noc Kruka pojawia się pod nazwą zbroja magnata."
+      "text": "Ciężki pancerz magnata – pancerz występujący w Gothic. W Gothic II: Noc Kruka pojawia się pod nazwą zbroja magnata.",
+      "subsections": []
     },
     {
-      "title": "Wygląd",
-      "text": "Pancerz składa się z wysokich czarnych butów, czerwonych spodni i tuniki, spod której wystaje czerwona koszula i zdobiony napierśnik, również z elementami czerwieni. Oprócz tego na zbroję składają się czarne, metalowe rękawice i opachy oraz pas z rogatą bestią na klamrze. Dodatkowo na ramiona narzucone jest futro nieznanego zwierzęcia."
-    },
-    {
-      "title": "Występowanie",
-      "text": "Zbroja ta noszona jest przez magnatów ze Starego Obozu. Bezimienny nie ma możliwości zdobycia zbroi podczas rozgrywki.\n\nZnani posiadacze\n Arto;\n Blizna;\n Kruk."
-    },
-    {
-      "title": "Statystyki",
-      "text": "Zbroja zwiększa ochronę przed bronią o 80 punktów, przed pociskami o 8 punktów, przed ogniem o 40 punktów i przed magią o 3 punkty. Po przywołaniu zbroi kodami można ją sprzedać za 1200 bryłek rudy. Przy odkupie wartość rośnie do 2400 bryłek rudy."
+      "title": "Gothic",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Wygląd",
+          "text": "Pancerz składa się z wysokich czarnych butów, czerwonych spodni i tuniki, spod której wystaje czerwona koszula i zdobiony napierśnik, również z elementami czerwieni. Oprócz tego na zbroję składają się czarne, metalowe rękawice i opachy oraz pas z rogatą bestią na klamrze. Dodatkowo na ramiona narzucone jest futro nieznanego zwierzęcia.",
+          "subsections": []
+        },
+        {
+          "title": "Występowanie",
+          "text": "Zbroja ta noszona jest przez magnatów ze Starego Obozu. Bezimienny nie ma możliwości zdobycia zbroi podczas rozgrywki.\n\nZnani posiadacze\n Arto;\n Blizna;\n Kruk.",
+          "subsections": []
+        },
+        {
+          "title": "Statystyki",
+          "text": "Zbroja zwiększa ochronę przed bronią o 80 punktów, przed pociskami o 8 punktów, przed ogniem o 40 punktów i przed magią o 3 punkty. Po przywołaniu zbroi kodami można ją sprzedać za 1200 bryłek rudy. Przy odkupie wartość rośnie do 2400 bryłek rudy.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Ciekawostki",
-      "text": "Mimo że nosi nazwę „ciężki pancerz”, w grze nie występuje jego lekka wersja, zaś kod na przywołanie wskazuje, że średnią wersją pancerza magnata jest ozdobna szata."
+      "text": "Mimo że nosi nazwę „ciężki pancerz”, w grze nie występuje jego lekka wersja, zaś kod na przywołanie wskazuje, że średnią wersją pancerza magnata jest ozdobna szata.",
+      "subsections": []
     }
   ]
 }

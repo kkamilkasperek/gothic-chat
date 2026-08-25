@@ -123,11 +123,72 @@ Zadanie 1.
 W Khorinis.
 """
     result = parse_wikitext_to_dict("Test", wikitext)
-    assert len(result["sections"]) == 2
+    assert len(result["sections"]) == 1
     assert result["sections"][0]["title"] == "Zadania"
     assert result["sections"][0]["text"] == "Zadanie 1."
-    assert result["sections"][1]["title"] == "Gdzie znaleźć"
-    assert result["sections"][1]["text"] == "W Khorinis."
+    assert len(result["sections"][0]["subsections"]) == 1
+    assert result["sections"][0]["subsections"][0]["title"] == "Gdzie znaleźć"
+    assert result["sections"][0]["subsections"][0]["text"] == "W Khorinis."
+
+def test_parse_wikitext_nested_sections():
+    wikitext = """
+== Poziom 2 ==
+tekst 2
+=== Poziom 3 ===
+tekst 3
+==== Poziom 4 ====
+tekst 4
+=== Poziom 3 B ===
+tekst 3 B
+== Inny 2 ==
+tekst inny 2
+"""
+    result = parse_wikitext_to_dict("Nested", wikitext)
+    assert len(result["sections"]) == 2
+    
+    sec1 = result["sections"][0]
+    assert sec1["title"] == "Poziom 2"
+    assert sec1["text"] == "tekst 2"
+    assert len(sec1["subsections"]) == 2
+    
+    sec1_sub1 = sec1["subsections"][0]
+    assert sec1_sub1["title"] == "Poziom 3"
+    assert sec1_sub1["text"] == "tekst 3"
+    assert len(sec1_sub1["subsections"]) == 1
+    
+    sec1_sub1_sub1 = sec1_sub1["subsections"][0]
+    assert sec1_sub1_sub1["title"] == "Poziom 4"
+    assert sec1_sub1_sub1["text"] == "tekst 4"
+    
+    sec1_sub2 = sec1["subsections"][1]
+    assert sec1_sub2["title"] == "Poziom 3 B"
+    assert sec1_sub2["text"] == "tekst 3 B"
+    
+    sec2 = result["sections"][1]
+    assert sec2["title"] == "Inny 2"
+    assert sec2["text"] == "tekst inny 2"
+    assert len(sec2["subsections"]) == 0
+
+def test_parse_wikitext_prune_empty_sections():
+    wikitext = """
+== Pusta ==
+=== Pusta 3 ===
+==== Pusta 4 ====
+== Z tekstem ==
+=== Z tekstem 3 ===
+Tekst
+"""
+    result = parse_wikitext_to_dict("Empty", wikitext)
+    # The first top-level section ("Pusta") and its subsections have NO TEXT AT ALL.
+    # So they should be pruned completely.
+    # The second top-level section has a subsection with text, so it's kept.
+    assert len(result["sections"]) == 1
+    assert result["sections"][0]["title"] == "Z tekstem"
+    assert result["sections"][0]["text"] == ""
+    assert len(result["sections"][0]["subsections"]) == 1
+    assert result["sections"][0]["subsections"][0]["title"] == "Z tekstem 3"
+    assert result["sections"][0]["subsections"][0]["text"] == "Tekst"
+
 
 def test_parse_wikitext_multiple_infoboxes():
     wikitext = """{{Broń
@@ -229,3 +290,81 @@ Wstęp.
     assert "Miecz, 40" in text
     assert "Topór, 50" in text
     assert "Broń, Obrażenia" not in text
+def test_parse_wikitext_inline_images_removed():
+    wikitext = """{{Przedmiot
+ |Nazwa = Artefakt
+}}
+To jest opis przedmiotu.
+[[Plik:test.png|310px|center|Wnętrze chaty]]
+To jest drugie zdanie.
+"""
+    result = parse_wikitext_to_dict("Artefakt", wikitext)
+    text = result["sections"][0]["text"]
+    assert "Wnętrze chaty" not in text
+    assert "310px" not in text
+    assert text == "To jest opis przedmiotu.\n\nTo jest drugie zdanie."
+
+def test_parse_wikitext_table_image_header_removed():
+    wikitext = """{{Przedmiot
+ |Nazwa = Artefakt
+}}
+<table class="wikitable">
+<tr>
+<th>Obraz</th>
+<th>Broń</th>
+<th>Obrażenia</th>
+</tr>
+<tr>
+<td>[[Plik:miecz.png]]</td>
+<td>Miecz</td>
+<td>40</td>
+</tr>
+</table>
+"""
+    result = parse_wikitext_to_dict("Artefakt", wikitext)
+    text = result["sections"][0]["text"]
+    assert "TABLE" in text
+    assert "Broń, Obrażenia" in text
+    assert "Miecz, 40" in text
+    assert "Obraz" not in text
+    assert "miecz" not in text
+
+def test_parse_wikitext_table_empty_column_removed():
+    wikitext = """{{Przedmiot
+ |Nazwa = Artefakt
+}}
+<table>
+<tr>
+<td>[[Plik:miecz.png]]</td>
+<td>Miecz</td>
+<td>40</td>
+</tr>
+<tr>
+<td>[[Plik:topor.png]]</td>
+<td>Topór</td>
+<td>50</td>
+</tr>
+</table>
+"""
+    result = parse_wikitext_to_dict("Artefakt", wikitext)
+    text = result["sections"][0]["text"]
+    assert "TABLE" in text
+    assert "Miecz, 40" in text
+    assert "Topór, 50" in text
+    assert "miecz" not in text
+
+def test_parse_wikitext_infobox_image_keys_ignored():
+    wikitext = """{{Przedmiot
+ |Nazwa = Artefakt
+ |Obraz = artefakt.png
+ |Podpis obrazu = To jest artefakt
+ |Grafika = inna.jpg
+ |Cena = 100
+}}
+"""
+    result = parse_wikitext_to_dict("Artefakt", wikitext)
+    assert result["infobox"].get("nazwa") == "Artefakt"
+    assert result["infobox"].get("cena") == "100"
+    assert result["infobox"].get("obraz") == "artefakt.png"
+    assert result["infobox"].get("grafika") == "inna.jpg"
+    assert "podpis obrazu" not in result["infobox"]

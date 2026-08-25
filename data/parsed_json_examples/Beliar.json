@@ -13,7 +13,6 @@
   "infobox": {
     "nazwa": "Beliar",
     "obraz": "Beliar symbol.png",
-    "podpis obrazu": "Symbol Beliara",
     "wyznawcy": "Orkowie, Asasyni, Czarni magowie, Nekromanci",
     "najważniejsi wyznawcy": "Zuben, Kruk, Kan",
     "szczególne miejsca kultu": "Dwór Irdorath, Świątynia Beliara w Bakareshu",
@@ -36,55 +35,70 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Beliar – mroczny bóg śmierci, zniszczenia i wszystkich rzeczy nienaturalnych. Jest młodszym bratem Innosa oraz starszym bratem Adanosa. Stworzył noc i ustalił kres żywota człowieka – śmierć (Mądrość bogów, tom II). Jest czczony przez asasynów i rasę orków. Toczy odwieczną wojnę ze swoim bratem Innosem."
+      "text": "Beliar – mroczny bóg śmierci, zniszczenia i wszystkich rzeczy nienaturalnych. Jest młodszym bratem Innosa oraz starszym bratem Adanosa. Stworzył noc i ustalił kres żywota człowieka – śmierć (Mądrość bogów, tom II). Jest czczony przez asasynów i rasę orków. Toczy odwieczną wojnę ze swoim bratem Innosem.",
+      "subsections": []
     },
     {
       "title": "Wyobrażenie Beliara",
-      "text": "Beliar jest postrzegany jako mężczyzna w szacie, z dwoma skrzyżowanymi mieczami i maską otoczoną sześcioma żądłami (Posąg Beliara i chram Beliara).\n\n310px|center|thumb|Objawienie Beliara w świątyni w Bakareshu"
+      "text": "Beliar jest postrzegany jako mężczyzna w szacie, z dwoma skrzyżowanymi mieczami i maską otoczoną sześcioma żądłami (Posąg Beliara i chram Beliara).",
+      "subsections": []
     },
     {
       "title": "Symbolika",
-      "text": "Symbolem Beliara są dwie linie rozchodzące się u dołu w lewo i prawo pod kątem prostym. Symbolizują one ręce skierowane ku ziemi, ucisk oraz magię związaną z ziemią (The Art of Gothic 3, fragment). Symbole takie można znaleźć np. na kamieniu teleportacyjnym do Bakareshu lub na zwojach magicznych z zaklęciami Beliara.\n\nDrugim symbolem boga ciemności jest maska otoczona sześcioma żądłami. Ten symbol można zauważyć na posągach Beliara, chramach poświęconych mrocznemu bogu lub na sztandarach asasynów na pustyni Varant. Taką maskę nosił również jeden z demonów – Śniący.\n\nW świątyni Śniącego pojawia się orkowe malowidło z symbolem księżyca, odnoszące się do Beliara (https://docs.phoenixthegame.com/lore/gods).\n\n310px|center|thumb|Malowidło z motywem księżyca"
+      "text": "Symbolem Beliara są dwie linie rozchodzące się u dołu w lewo i prawo pod kątem prostym. Symbolizują one ręce skierowane ku ziemi, ucisk oraz magię związaną z ziemią (The Art of Gothic 3, fragment). Symbole takie można znaleźć np. na kamieniu teleportacyjnym do Bakareshu lub na zwojach magicznych z zaklęciami Beliara.\n\nDrugim symbolem boga ciemności jest maska otoczona sześcioma żądłami. Ten symbol można zauważyć na posągach Beliara, chramach poświęconych mrocznemu bogu lub na sztandarach asasynów na pustyni Varant. Taką maskę nosił również jeden z demonów – Śniący.\n\nW świątyni Śniącego pojawia się orkowe malowidło z symbolem księżyca, odnoszące się do Beliara (https://docs.phoenixthegame.com/lore/gods).",
+      "subsections": []
     },
     {
       "title": "Historia Beliara",
-      "text": "Beliar powstał z podziału Innosa, który chciał zmniejszyć blask padający na ziemię. Bóg ciemności stworzył więc noc. Po pewnym czasie Beliar zauważył, że ludzie się go boją i nie oddają mu czci tak jak Innosowi lub Adanosowi. Postanowił więc stworzyć człowieka, który będzie wyznawał tylko jego. Plan się jednak nie powiódł, ponieważ ów człowiek również bał się Beliara. Mroczne bóstwo wypowiedziało wtedy słowa „Dobrze! Bójcie się mnie zatem, ale cześć oddacie mi, choćby po śmierci”, ustanawiając kres żywota człowieka – śmierć. Beliar nie znosił też widoku światła i niszczył wszystkie dzieła Innosa. Rozpoczęła się wojna bogów, w której Adanos próbował być rozjemcą, jednak bezskutecznie (Przemowa Vatrasa, Gothic II).\n\nPonad 1000 lat temu (Dialog z Saturasem, Gothic 3: „Gdy tysiąc lat temu te ziemie zalała wielka powódź […]”.) Beliar był wściekły z powodu Pradawnych budujących portal dla Innosa, który pozwoliłby mu rządzić światem ludzi na wieki (Pulpity, Gothic 3.). Dlatego też przemierzył ziemię, by znaleźć bestię. Obdarzył ją częścią swojej mocy, za pomocą której miała zniszczyć świat. Innos podpatrzył czyn Beliara i zwrócił się do człowieka, w którego tchnął swoją boską moc, by ten naprawił szkody wyrządzone przez boga zniszczenia. Wtedy Beliar zwrócił się do innej istoty, lecz widzący to Adanos zesłał potop zmywający istoty Beliara i Pradawnych z powierzchni ziemi. Zwrócił się wtedy do swych braci, mówiąc, że jego ziemia jest święta na wieki i zabronił im dalszej bezpośredniej ingerencji w świat ludzi (Te wydarzenia są opisywane zarówno w przemówieniu Vatrasa jak i w pulpitach w Gothic 3.). Człowiek i bestia jednak kontynuowali walkę, którą wygrał sługa Innosa. Wtedy Adanos zaklął Innosa, by ten odebrał swoją boską moc ludziom, prosząc go, by zostawił część tej mocy na wypadek powrotu bestii.\n\nPo wielu latach bestia Beliara wróciła i ścigała Rhobara I, który ukrył się w jaskini, gdzie znalazł miecz przepełniony mocą Innosa. Udało mu się nim pokonać bestię jednym ciosem. Następnie Rhobar z pomocą Innosa pokonał orków zamieszkujących Myrtanę, co zapoczątkowało jego królestwo.\n190px|left|thumb|Wybraniec Beliara – Zuben\nPo I wojnie z orkami orkowie władali Myrtaną. Zniewolili oni ludzi, lecz najlepsi wojownicy mogli zostać gladiatorami. Jednym z nich był Zuben, który za swoje umiejętności i poglądy został uwolniony. Wyruszył więc na południe, gdzie znalazł kostur Wiecznego Wędrowca. Wtedy przemówił do niego Beliar, mówiąc „Udaj się do kraju koczowników i zbuduj tam dla mnie królestwo!”. W ten sposób powstał lud asasynów wyznający Beliara.\n\nOstatecznie moc Innosa, Beliara i Adanosa została wygnana z ziemi przez Bezimiennego, który zabił wybrańców bogów (Rhobara II i Zubena), zniszczył boskie artefakty oraz opuścił wraz z Xardasem świat ludzi, by udać się do Nieznanych Krain. Tym samym świat został pozbawiony wpływu bogów, kończąc wojnę."
-    },
-    {
-      "title": "Alternatywna historia",
-      "text": "Bezimienny może również podjąć decyzję, aby za pomocą artefaktów Adanosa aktywować chram Beliara w świątyni w Bakareshu, tym samym stając się jego sługą i wykonując jego wolę. Wtedy bohater na rozkaz Beliara zabija Rhobara II, Zubena i Xardasa, a Beliar wygrywa wojnę bogów.\n\nBohater może także zdecydować się poprzeć Innosa, co wiąże się z zabiciem Zubena oraz wyzwoleniem Myrtany spod orkowej okupacji. W tym przypadku Beliar ponosi klęskę i przegrywa wojnę bogów."
+      "text": "Beliar powstał z podziału Innosa, który chciał zmniejszyć blask padający na ziemię. Bóg ciemności stworzył więc noc. Po pewnym czasie Beliar zauważył, że ludzie się go boją i nie oddają mu czci tak jak Innosowi lub Adanosowi. Postanowił więc stworzyć człowieka, który będzie wyznawał tylko jego. Plan się jednak nie powiódł, ponieważ ów człowiek również bał się Beliara. Mroczne bóstwo wypowiedziało wtedy słowa „Dobrze! Bójcie się mnie zatem, ale cześć oddacie mi, choćby po śmierci”, ustanawiając kres żywota człowieka – śmierć. Beliar nie znosił też widoku światła i niszczył wszystkie dzieła Innosa. Rozpoczęła się wojna bogów, w której Adanos próbował być rozjemcą, jednak bezskutecznie (Przemowa Vatrasa, Gothic II).\n\nPonad 1000 lat temu (Dialog z Saturasem, Gothic 3: „Gdy tysiąc lat temu te ziemie zalała wielka powódź […]”.) Beliar był wściekły z powodu Pradawnych budujących portal dla Innosa, który pozwoliłby mu rządzić światem ludzi na wieki (Pulpity, Gothic 3.). Dlatego też przemierzył ziemię, by znaleźć bestię. Obdarzył ją częścią swojej mocy, za pomocą której miała zniszczyć świat. Innos podpatrzył czyn Beliara i zwrócił się do człowieka, w którego tchnął swoją boską moc, by ten naprawił szkody wyrządzone przez boga zniszczenia. Wtedy Beliar zwrócił się do innej istoty, lecz widzący to Adanos zesłał potop zmywający istoty Beliara i Pradawnych z powierzchni ziemi. Zwrócił się wtedy do swych braci, mówiąc, że jego ziemia jest święta na wieki i zabronił im dalszej bezpośredniej ingerencji w świat ludzi (Te wydarzenia są opisywane zarówno w przemówieniu Vatrasa jak i w pulpitach w Gothic 3.). Człowiek i bestia jednak kontynuowali walkę, którą wygrał sługa Innosa. Wtedy Adanos zaklął Innosa, by ten odebrał swoją boską moc ludziom, prosząc go, by zostawił część tej mocy na wypadek powrotu bestii.\n\nPo wielu latach bestia Beliara wróciła i ścigała Rhobara I, który ukrył się w jaskini, gdzie znalazł miecz przepełniony mocą Innosa. Udało mu się nim pokonać bestię jednym ciosem. Następnie Rhobar z pomocą Innosa pokonał orków zamieszkujących Myrtanę, co zapoczątkowało jego królestwo.\n\nPo I wojnie z orkami orkowie władali Myrtaną. Zniewolili oni ludzi, lecz najlepsi wojownicy mogli zostać gladiatorami. Jednym z nich był Zuben, który za swoje umiejętności i poglądy został uwolniony. Wyruszył więc na południe, gdzie znalazł kostur Wiecznego Wędrowca. Wtedy przemówił do niego Beliar, mówiąc „Udaj się do kraju koczowników i zbuduj tam dla mnie królestwo!”. W ten sposób powstał lud asasynów wyznający Beliara.\n\nOstatecznie moc Innosa, Beliara i Adanosa została wygnana z ziemi przez Bezimiennego, który zabił wybrańców bogów (Rhobara II i Zubena), zniszczył boskie artefakty oraz opuścił wraz z Xardasem świat ludzi, by udać się do Nieznanych Krain. Tym samym świat został pozbawiony wpływu bogów, kończąc wojnę.",
+      "subsections": [
+        {
+          "title": "Alternatywna historia",
+          "text": "Bezimienny może również podjąć decyzję, aby za pomocą artefaktów Adanosa aktywować chram Beliara w świątyni w Bakareshu, tym samym stając się jego sługą i wykonując jego wolę. Wtedy bohater na rozkaz Beliara zabija Rhobara II, Zubena i Xardasa, a Beliar wygrywa wojnę bogów.\n\nBohater może także zdecydować się poprzeć Innosa, co wiąże się z zabiciem Zubena oraz wyzwoleniem Myrtany spod orkowej okupacji. W tym przypadku Beliar ponosi klęskę i przegrywa wojnę bogów.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Dary Beliara",
-      "text": "Jednym z nielicznych znanych dzieł Beliara, które dotarło do królestwa ludzi jest Szpon Beliara (Dialog z Saturasem, Gothic II: Noc Kruka: „Beliar stworzył ten miecz własnoręcznie”.) – miecz obdarzony własną wolą (Dialog z Saturasem, Gothic II: Noc Kruka: „Ma swoją duszę i własną wolę”.), raniący jego przeciwników piorunami. Według zapisków również runa stworzona z Uriziela pochodzi wprost od Beliara (Szósty krąg magii.)."
+      "text": "Jednym z nielicznych znanych dzieł Beliara, które dotarło do królestwa ludzi jest Szpon Beliara (Dialog z Saturasem, Gothic II: Noc Kruka: „Beliar stworzył ten miecz własnoręcznie”.) – miecz obdarzony własną wolą (Dialog z Saturasem, Gothic II: Noc Kruka: „Ma swoją duszę i własną wolę”.), raniący jego przeciwników piorunami. Według zapisków również runa stworzona z Uriziela pochodzi wprost od Beliara (Szósty krąg magii.).",
+      "subsections": []
     },
     {
       "title": "Wymiar Beliara",
-      "text": "Wymiar we władaniu Beliara zamieszkany przez ożywieńców (Opis armii ciemności w Gothic 3 sugeruje, że przywoływani ożywieńcy pochodzą z wymiaru Beliara.), demony (Jednymi z istot przywoływanych przez Xardasa (który specjalizuje się w przywoływaniu istot z wymiaru Beliara) są demony.) i sługi boga ciemności (Dialog z Saturasem: „Xardas chciał kontynuować swe badania nad przyzywaniem ożywieńców i istot z innych wymiarów”.). Jest to też miejsce, do którego po śmierci trafiają ciała umarłych (Wynika to z przysięgi ognia i wody w pierwszej części gry. Jednakże w przysiędze ognia z drugiej odsłony padają słowa „póki twe ciało i dusza nie spoczną w jego [Innosa] świętym domu, gdy zgaśnie płomień twego życia”, a po odnalezieniu Lance'a Saturas stwierdza: „Oby jego dusza dostąpiła królestwa Adanosa”. Oznacza to, że źródła w grze podają różne wersje tego, dokąd trafiają dusze stworzeń po śmierci.)."
+      "text": "Wymiar we władaniu Beliara zamieszkany przez ożywieńców (Opis armii ciemności w Gothic 3 sugeruje, że przywoływani ożywieńcy pochodzą z wymiaru Beliara.), demony (Jednymi z istot przywoływanych przez Xardasa (który specjalizuje się w przywoływaniu istot z wymiaru Beliara) są demony.) i sługi boga ciemności (Dialog z Saturasem: „Xardas chciał kontynuować swe badania nad przyzywaniem ożywieńców i istot z innych wymiarów”.). Jest to też miejsce, do którego po śmierci trafiają ciała umarłych (Wynika to z przysięgi ognia i wody w pierwszej części gry. Jednakże w przysiędze ognia z drugiej odsłony padają słowa „póki twe ciało i dusza nie spoczną w jego [Innosa] świętym domu, gdy zgaśnie płomień twego życia”, a po odnalezieniu Lance'a Saturas stwierdza: „Oby jego dusza dostąpiła królestwa Adanosa”. Oznacza to, że źródła w grze podają różne wersje tego, dokąd trafiają dusze stworzeń po śmierci.).",
+      "subsections": []
     },
     {
       "title": "Kult Beliara",
-      "text": "Beliar wyznawany jest głównie przez orków i asasynów. Sługami Beliara korzystającymi z jego magii są czarni magowie i nekromanci. Magowie i istoty służące Beliarowi czasami opętują ludzi, by wykorzystywać ich do własnych celów (Przykładami takich przypadków są Śniący, Poszukiwacze oraz Szpon Beliara, którzy opętywali ludzi.)."
-    },
-    {
-      "title": "Miejsca szczególnego kultu Beliara",
-      "text": "Cztery świątynie Beliara – niegdyś istniały 4 świątynie poświęcone Beliarowi, w których sekta Beliara oddawała mu cześć. 40 lat przed akcją gier dwie z nich zostały zburzone przez paladynów. Po tych wydarzeniach pozostałe dwie świątynie zniknęły (Rozmowa z Pyrokarem, Gothic II).\n Dwór Irdorath – jedna z tych świątyń odzyskała moc i pojawiła się na wyspie niedaleko Khorinis. Rezyduje na niej Smok-ożywieniec.\n Świątynia Beliara w Bakareshu – świątynia na kontynencie poświęcona bogu ciemności."
-    },
-    {
-      "title": "Kaplice Beliara",
-      "text": "Na wyspie Khorinis można okazjonalnie znaleźć posągi Beliara, jednak w przeciwieństwie do tych poświęconych Innosowi, występują one w bardziej niedostępnych i mrocznych miejscach. Na kontynencie bogowi ciemności stawiane są chramy Beliara, które zlokalizowane są w miejscach publicznych, miastach asasynów lub miastach okupowanych przez orków."
-    },
-    {
-      "title": "Wybrańcy Beliara",
-      "text": "Xardas (Rozmowa z Xardasem w outro Gothic II.);\n Smok-ożywieniec (Dialog z czarnym magiem z Dworu Irdorath, Gothic II: „Jest wybrańcem Beliara, który uwolni królestwo od cuchnących wyznawców Innosa”.);\n Zuben;\n Bezimienny (Jeśli Bezimienny odda artefakty Adanosa Beliarowi w Gothic 3, ten mu się objawi, co oznacza, że jest jego wybrańcem.)."
-    },
-    {
-      "title": "Stworzenia Beliara",
-      "text": "Ożywieńcy;\n Smoki (Dialog z Finkreghem: „Beliar nie tylko pozwolił na nasze przybycie. On KAZAŁ nam tutaj przybyć!”);\n Demony (Działa na nie umiejętność Paladyn, która umożliwia zadawanie dodatkowych obrażeń stworzeniom Beliara.) (Opis przyzwania demona z Gothic 3.);\n Gargulce;\n Strażnicy świątynni."
+      "text": "Beliar wyznawany jest głównie przez orków i asasynów. Sługami Beliara korzystającymi z jego magii są czarni magowie i nekromanci. Magowie i istoty służące Beliarowi czasami opętują ludzi, by wykorzystywać ich do własnych celów (Przykładami takich przypadków są Śniący, Poszukiwacze oraz Szpon Beliara, którzy opętywali ludzi.).",
+      "subsections": [
+        {
+          "title": "Miejsca szczególnego kultu Beliara",
+          "text": "Cztery świątynie Beliara – niegdyś istniały 4 świątynie poświęcone Beliarowi, w których sekta Beliara oddawała mu cześć. 40 lat przed akcją gier dwie z nich zostały zburzone przez paladynów. Po tych wydarzeniach pozostałe dwie świątynie zniknęły (Rozmowa z Pyrokarem, Gothic II).\n Dwór Irdorath – jedna z tych świątyń odzyskała moc i pojawiła się na wyspie niedaleko Khorinis. Rezyduje na niej Smok-ożywieniec.\n Świątynia Beliara w Bakareshu – świątynia na kontynencie poświęcona bogu ciemności.",
+          "subsections": []
+        },
+        {
+          "title": "Kaplice Beliara",
+          "text": "Na wyspie Khorinis można okazjonalnie znaleźć posągi Beliara, jednak w przeciwieństwie do tych poświęconych Innosowi, występują one w bardziej niedostępnych i mrocznych miejscach. Na kontynencie bogowi ciemności stawiane są chramy Beliara, które zlokalizowane są w miejscach publicznych, miastach asasynów lub miastach okupowanych przez orków.",
+          "subsections": []
+        },
+        {
+          "title": "Wybrańcy Beliara",
+          "text": "Xardas (Rozmowa z Xardasem w outro Gothic II.);\n Smok-ożywieniec (Dialog z czarnym magiem z Dworu Irdorath, Gothic II: „Jest wybrańcem Beliara, który uwolni królestwo od cuchnących wyznawców Innosa”.);\n Zuben;\n Bezimienny (Jeśli Bezimienny odda artefakty Adanosa Beliarowi w Gothic 3, ten mu się objawi, co oznacza, że jest jego wybrańcem.).",
+          "subsections": []
+        },
+        {
+          "title": "Stworzenia Beliara",
+          "text": "Ożywieńcy;\n Smoki (Dialog z Finkreghem: „Beliar nie tylko pozwolił na nasze przybycie. On KAZAŁ nam tutaj przybyć!”);\n Demony (Działa na nie umiejętność Paladyn, która umożliwia zadawanie dodatkowych obrażeń stworzeniom Beliara.) (Opis przyzwania demona z Gothic 3.);\n Gargulce;\n Strażnicy świątynni.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Ciekawostki",
-      "text": "Imię tego boga może nawiązywać do postaci upadłego anioła, Beliala, czasem zwanego też Beliarem bądź Berialem. W przekładzie z języka hebrajskiego składa się z dwóch słów: blj- negacja oraz ja'al- użytek. Belial symbolizuje niegodziwość, niezależność, północ i często utożsamiany jest z Szatanem."
+      "text": "Imię tego boga może nawiązywać do postaci upadłego anioła, Beliala, czasem zwanego też Beliarem bądź Berialem. W przekładzie z języka hebrajskiego składa się z dwóch słów: blj- negacja oraz ja'al- użytek. Belial symbolizuje niegodziwość, niezależność, północ i często utożsamiany jest z Szatanem.",
+      "subsections": []
     }
   ]
 }

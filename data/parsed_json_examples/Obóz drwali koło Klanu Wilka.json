@@ -7,7 +7,6 @@
     "nazwa angielska": "Lumberjack's camp near Wolf's Clan",
     "typ": "Obóz",
     "obraz": "Obóz drwali koło Klanu Wilka.png",
-    "podpis obrazu": "Widok na obóz",
     "położenie": "Okolice Klanu Wilka",
     "mieszkańcy": "Nordmarczycy (drwale)",
     "populacja": "5",
@@ -28,19 +27,29 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Obóz drwali koło Klanu Wilka – obóz występujący w Gothic 3. Jest zamieszkany przez Corwyna i 4 drwali."
+      "text": "Obóz drwali koło Klanu Wilka – obóz występujący w Gothic 3. Jest zamieszkany przez Corwyna i 4 drwali.",
+      "subsections": []
     },
     {
-      "title": "Związek z fabułą",
-      "text": "Bezimienny dostarcza do obozu szynkę od kwatermistrza Rune'a. Na miejscu okazuje się, że drwale mają problem z szablozębami, które przebywają w pobliżu. Po wybiciu bestii i dostarczeniu mięsa zadania związane z obozem się kończą."
-    },
-    {
-      "title": "Budowa",
-      "text": "Obóz znajduje się w małym zagajniku nieopodal Klanu Wilka. Składa się z kilku ośnieżonych desek i skrzynek. Drwale pracują przy pobliskich drzewach, a jeden korzysta ze stojaka na pień."
+      "title": "Gothic 3",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Związek z fabułą",
+          "text": "Bezimienny dostarcza do obozu szynkę od kwatermistrza Rune'a. Na miejscu okazuje się, że drwale mają problem z szablozębami, które przebywają w pobliżu. Po wybiciu bestii i dostarczeniu mięsa zadania związane z obozem się kończą.",
+          "subsections": []
+        },
+        {
+          "title": "Budowa",
+          "text": "Obóz znajduje się w małym zagajniku nieopodal Klanu Wilka. Składa się z kilku ośnieżonych desek i skrzynek. Drwale pracują przy pobliskich drzewach, a jeden korzysta ze stojaka na pień.",
+          "subsections": []
+        }
+      ]
     },
     {
       "title": "Gothic 3: Zmierzch Bogów",
-      "text": "W dodatku do trzeciej części gry obóz nie występuje, ponieważ przejście do Nordmaru jest zablokowane."
+      "text": "W dodatku do trzeciej części gry obóz nie występuje, ponieważ przejście do Nordmaru jest zablokowane.",
+      "subsections": []
     }
   ]
 }

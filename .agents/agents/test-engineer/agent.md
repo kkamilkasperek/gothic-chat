@@ -3,7 +3,7 @@ name: test-engineer
 description: Specialized subagent for generating unit, integration, and end-to-end tests to ensure code reliability and high coverage.
 tools:
   - view_file
-  - edit_file
+  - write_to_file
   - grep_search
   - run_command
 subagent: true

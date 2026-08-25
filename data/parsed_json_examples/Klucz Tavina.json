@@ -7,7 +7,6 @@
     "nazwa": "Klucz Tavina",
     "nazwa angielska": "Tavin's key",
     "obraz": "Klucz do kufra Tjalfa.png",
-    "podpis obrazu": "Klucz Tavina",
     "typ": "Klucz",
     "opis": "Jeden z kluczy do skrzyni Rollana.",
     "właściciel": "Tavin",
@@ -26,11 +25,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Klucz Tavina – klucz występujący w Gothic 3: Zmierzch Bogów."
+      "text": "Klucz Tavina – klucz występujący w Gothic 3: Zmierzch Bogów.",
+      "subsections": []
     },
     {
       "title": "Gothic 3: Zmierzch Bogów",
-      "text": "Znajduje się w ekwipunku Tavina. Jedyny sposób, aby go zdobyć, to pobicie właściciela. Nie pełni żadnej funkcji w grze. Jest nieskasowaną pozostałością po kluczach wymaganych do otworzenia skrzyni Rollana. Finalnie skrzynia otwierana jest za pomocą 3 fragmentów klucza, które wręczają Bezimiennemu trzej magowie wody.\n\nKlucza nie można kupić ani sprzedać."
+      "text": "Znajduje się w ekwipunku Tavina. Jedyny sposób, aby go zdobyć, to pobicie właściciela. Nie pełni żadnej funkcji w grze. Jest nieskasowaną pozostałością po kluczach wymaganych do otworzenia skrzyni Rollana. Finalnie skrzynia otwierana jest za pomocą 3 fragmentów klucza, które wręczają Bezimiennemu trzej magowie wody.\n\nKlucza nie można kupić ani sprzedać.",
+      "subsections": []
     }
   ]
 }

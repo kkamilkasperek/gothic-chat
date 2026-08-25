@@ -10,7 +10,6 @@
   "infobox": {
     "nazwa": "Karaluch",
     "obraz": "Pełzacz GII.png",
-    "podpis obrazu": "Karaluch",
     "gromada": "Owady",
     "odmiany": "Duży karaluch",
     "środowisko życia": "Opuszczony szyb, Tunele pod kołchozem, Jaskinia na pustkowiu",
@@ -31,11 +30,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Karaluch – insekt występujący w modyfikacji Podróżnik – Za liniami wroga do Gothic II: Noc Kruka."
+      "text": "Karaluch – insekt występujący w modyfikacji Podróżnik – Za liniami wroga do Gothic II: Noc Kruka.",
+      "subsections": []
     },
     {
       "title": "Podróżnik – Za liniami wroga",
-      "text": "To olbrzymie pajęczaki żyjące w Rosji. Najczęściej występują w jaskiniach lub starych szybach kopalń, gdzie zakładają gniazda i czyhają na nieuważnych podróżnych lub amatorów górnictwa. W momencie zauważeniu ofiary głośno syczą, po czym ruszają do ataku. Poruszają się szybko, więc ucieczka przed nimi nie należy do najprostszych. Podczas walki wyprowadzają szybkie ciosy przednimi odnóżami, jednocześnie unikając kontrataków i próbując zajść przeciwnika od tyłu. Z ciał zabitych osobników można pozyskać żuwaczki."
+      "text": "To olbrzymie pajęczaki żyjące w Rosji. Najczęściej występują w jaskiniach lub starych szybach kopalń, gdzie zakładają gniazda i czyhają na nieuważnych podróżnych lub amatorów górnictwa. W momencie zauważeniu ofiary głośno syczą, po czym ruszają do ataku. Poruszają się szybko, więc ucieczka przed nimi nie należy do najprostszych. Podczas walki wyprowadzają szybkie ciosy przednimi odnóżami, jednocześnie unikając kontrataków i próbując zajść przeciwnika od tyłu. Z ciał zabitych osobników można pozyskać żuwaczki.",
+      "subsections": []
     }
   ]
 }

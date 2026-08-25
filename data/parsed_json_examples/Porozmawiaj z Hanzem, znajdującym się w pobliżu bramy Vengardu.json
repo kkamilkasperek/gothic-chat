@@ -6,7 +6,6 @@
     "nazwa": "Porozmawiaj z Hanzem, znajdującym się w pobliżu bramy Vengardu",
     "nazwa angielska": "Talk to Hanz near Vengard's town gate",
     "obraz": "Talk with Hanz pocz.png",
-    "podpis obrazu": "Początek zadania",
     "zleceniodawca": "Lee",
     "start": "Zamek w Vengardzie",
     "koniec": "Zamek w Vengardzie",
@@ -25,23 +24,34 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Porozmawiaj z Hanzem, znajdującym się w pobliżu bramy Vengardu – zadanie główne występujące w Gothic 3: Zmierzch Bogów. Jest zlecane Bezimiennemu przez Lee."
+      "text": "Porozmawiaj z Hanzem, znajdującym się w pobliżu bramy Vengardu – zadanie główne występujące w Gothic 3: Zmierzch Bogów. Jest zlecane Bezimiennemu przez Lee.",
+      "subsections": []
     },
     {
       "title": "Krok po kroku",
-      "text": "Porozmawiaj z Lee po wykonaniu zadania Lee musi wysłać dodatkowe siły do Gothy.\n Porozmawiaj z Hanzem, który przebywa niedaleko bramy prowadzącej do Vengardu.\n Ponownie porozmawiaj z Lee."
+      "text": "Porozmawiaj z Lee po wykonaniu zadania Lee musi wysłać dodatkowe siły do Gothy.\n Porozmawiaj z Hanzem, który przebywa niedaleko bramy prowadzącej do Vengardu.\n Ponownie porozmawiaj z Lee.",
+      "subsections": []
     },
     {
-      "title": "Potrzebna zgoda",
-      "text": "Bezimienny, pytając o wsparcie dla Gorna, który chce powstrzymać Thorusa przed przejęciem władzy w Myrtanie, słyszy, że Lee nie może się na to zgodzić, ponieważ jego generałowie stanowczo odmówią. Bohater postanawia się tym zająć i przekonać tego, który ma kluczowy głos – Hanza."
-    },
-    {
-      "title": "Rozmowa z Hanzem",
-      "text": "Bezimienny udaje się do Hanza. Ten twierdzi, że nie ma szans na pokój w Myrtanie, a wszelkie próby jego zaprowadzenia są śmiechu warte. Kiedy bohater wspomina o wsparciu dla Gorna, Hanz stanowczo odmawia, mówiąc, że prędzej zabiłby własną matkę, niż stanął do boju razem z nim. Uważa, że głowa Gorna powinna zawisnąć na włóczni w centrum Myrtany, aby każdy mógł go przekląć. Według niego Gorn walczy bez honoru i wyłącznie dla własnego zysku. Motywację odbiera mu też fakt, że wielu wojowników próbowało wprowadzić zmiany i nic to nie dało. Wspomina wtedy nieświadomie postać Bezimiennego, pytając, gdzie jest wojownik, który zabił Smoka Ożywieńca i Rhobara. Kiedy dowiaduje się, że właśnie z nim rozmawia, wpada w osłupienie i finalnie udziela zgody.\n\n310px|center|thumb|Rozmowa z Hanzem"
-    },
-    {
-      "title": "Powrót do Lee",
-      "text": "Po rozmowie z Hanzem Bezimienny wraca do Lee i ponownie prosi o wsparcie, tym razem mając poparcie Hanza. Lee się zgadza, a zadanie kończy się powodzeniem.\n\n310px|center|thumb|Koniec zadania"
+      "title": "Przebieg zadania",
+      "text": "",
+      "subsections": [
+        {
+          "title": "Potrzebna zgoda",
+          "text": "Bezimienny, pytając o wsparcie dla Gorna, który chce powstrzymać Thorusa przed przejęciem władzy w Myrtanie, słyszy, że Lee nie może się na to zgodzić, ponieważ jego generałowie stanowczo odmówią. Bohater postanawia się tym zająć i przekonać tego, który ma kluczowy głos – Hanza.",
+          "subsections": []
+        },
+        {
+          "title": "Rozmowa z Hanzem",
+          "text": "Bezimienny udaje się do Hanza. Ten twierdzi, że nie ma szans na pokój w Myrtanie, a wszelkie próby jego zaprowadzenia są śmiechu warte. Kiedy bohater wspomina o wsparciu dla Gorna, Hanz stanowczo odmawia, mówiąc, że prędzej zabiłby własną matkę, niż stanął do boju razem z nim. Uważa, że głowa Gorna powinna zawisnąć na włóczni w centrum Myrtany, aby każdy mógł go przekląć. Według niego Gorn walczy bez honoru i wyłącznie dla własnego zysku. Motywację odbiera mu też fakt, że wielu wojowników próbowało wprowadzić zmiany i nic to nie dało. Wspomina wtedy nieświadomie postać Bezimiennego, pytając, gdzie jest wojownik, który zabił Smoka Ożywieńca i Rhobara. Kiedy dowiaduje się, że właśnie z nim rozmawia, wpada w osłupienie i finalnie udziela zgody.",
+          "subsections": []
+        },
+        {
+          "title": "Powrót do Lee",
+          "text": "Po rozmowie z Hanzem Bezimienny wraca do Lee i ponownie prosi o wsparcie, tym razem mając poparcie Hanza. Lee się zgadza, a zadanie kończy się powodzeniem.",
+          "subsections": []
+        }
+      ]
     }
   ]
 }

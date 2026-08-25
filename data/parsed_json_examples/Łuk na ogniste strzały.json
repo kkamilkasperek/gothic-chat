@@ -11,7 +11,6 @@
     "ikona": "Pogromca orków (ikonka) (G1).png",
     "nazwa": "Łuk na ogniste strzały",
     "obraz": "Pogromca orków (G1).png",
-    "podpis obrazu": "Łuk na ogniste strzały",
     "typ": "Łuk",
     "opis": "Łuk na ogniste strzały, Zadaje obrażenia ogniem",
     "wymagane atrybuty": "Zręczność: 15",
@@ -33,11 +32,13 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Łuk na ogniste strzały – broń dystansowa występująca w modyfikacji do Gothic pod tytułem Die Bedrohung."
+      "text": "Łuk na ogniste strzały – broń dystansowa występująca w modyfikacji do Gothic pod tytułem Die Bedrohung.",
+      "subsections": []
     },
     {
       "title": "Die Bedrohung",
-      "text": "Jest to specjalny łuk, jedyna broń, którą można zabić strażnika wody strzegącego ołtarza położonego na przeciwległym brzegu jeziora w pobliżu bramy do Nowego Obozu. Paranor musi użyć go do pokonania owego stworzenia podczas rozwiązywania zagadki magicznych skrzyń. Łuk jest unikatowy i można go znaleźć przy wspomnianym ołtarzu wody. Do korzystania z niego niezbędne są ogniste strzały – gdy bohater przejdzie tuż przed ołtarzem, automatycznie otrzyma 30 tych pocisków.\n\nBroń zadaje 10 punktów obrażeń od ognia i wymaga 15 punktów zręczności, aby móc jej używać. Wartość łuku wynosi 200 bryłek rudy, przy sprzedaży spada ona do 100 bryłek."
+      "text": "Jest to specjalny łuk, jedyna broń, którą można zabić strażnika wody strzegącego ołtarza położonego na przeciwległym brzegu jeziora w pobliżu bramy do Nowego Obozu. Paranor musi użyć go do pokonania owego stworzenia podczas rozwiązywania zagadki magicznych skrzyń. Łuk jest unikatowy i można go znaleźć przy wspomnianym ołtarzu wody. Do korzystania z niego niezbędne są ogniste strzały – gdy bohater przejdzie tuż przed ołtarzem, automatycznie otrzyma 30 tych pocisków.\n\nBroń zadaje 10 punktów obrażeń od ognia i wymaga 15 punktów zręczności, aby móc jej używać. Wartość łuku wynosi 200 bryłek rudy, przy sprzedaży spada ona do 100 bryłek.",
+      "subsections": []
     }
   ]
 }

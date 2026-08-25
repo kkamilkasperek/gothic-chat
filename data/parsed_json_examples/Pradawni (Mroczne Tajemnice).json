@@ -18,7 +18,6 @@
   "infobox": {
     "nazwa": "Pradawni",
     "obraz": "Ken'Udz (by Jao98).png",
-    "podpis obrazu": "Ken'Udz - przywódca Pradawnych",
     "zarządca gildii": "Ken'Udz",
     "siedziba gildii": "Świątynia Pradawnych",
     "członkowie": "Eli'Ne, Balaiareth, Horgan, Algirion Tas an'Dar, Sheer'Ghar, Flad'Nag, Uriziel (dawniej)",
@@ -34,23 +33,28 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Pradawni w Mrocznych Tajemnicach są prastarym zakonem sług Innosa. Ich przywódcą jest Ken'Udz. Odnalezienie ich jest jednym z najważniejszych elementów fabuły tej modyfikacji. Dawniej byli najbliższymi sługami Innosa, ale z powodu wojny bogów musieli zejść na ziemię. Ich głównym wrogiem jest zbuntowany pradawny imieniem Uriziel, który to więzi Dziecię Innosa."
+      "text": "Pradawni w Mrocznych Tajemnicach są prastarym zakonem sług Innosa. Ich przywódcą jest Ken'Udz. Odnalezienie ich jest jednym z najważniejszych elementów fabuły tej modyfikacji. Dawniej byli najbliższymi sługami Innosa, ale z powodu wojny bogów musieli zejść na ziemię. Ich głównym wrogiem jest zbuntowany pradawny imieniem Uriziel, który to więzi Dziecię Innosa.",
+      "subsections": []
     },
     {
       "title": "Przed akcją modyfikacji",
-      "text": "Gdy ludzkość była jeszcze młoda, na ziemię z wymiaru Innosa przybyli pierwsi Pradawni pod wodzą Uriziela, pierwszego awatara Innosa. Prymitywni ludzie nazwali ich Bogami z Gwiazd. Zaczęli służyć Pradawnym, którzy w zamian dawali im wielką wiedzę. Dzięki temu ludzkość ucywilizowała się w ciągu kilku stuleci. Najwspanialsi spośród śmiertelników sami mogli zostać członkami zakonu - tę drogę obrali między innymi Uriziel, jego przyjaciel Flad'Nag oraz prawdopodobnie młody, lecz zdolny mag Ken'Udz. Ci, którzy opanowali magię, lecz nie byli godni zostania Pradawnymi, utworzyli krąg magów ognia, a ci, którzy pragnęli walczyć w ich obronie, wstępowali do zakonu paladynów. Wkrótce Pradawni przybyli na Khorinis, gdzie szalał nienazwany demon. Został on jednak pokonany, a Pradawni osiedli w Górniczej Dolinie, gdzie przyłączył się do nich Sheer'Ghar oraz kilku innych należących do ludu Sacrr'Ankthierr. Lud ten miał zostać wyniszczony, zaniechano tego jednak, gdy mag ważny wśród Pradawnych sprzeciwił się pozostałym. Był to przyszły Czarny Arcymag, który chciał poznać tajemnice Poświęconych Dobru - Beliar przemawiał do niego w snach i zatruł mu serce. Większość z nich uciekła, niektórzy jednak zostali. Gdy Ken'Udz został Wielkim Mistrzem Konsekracji, ów mag wściekł się i obwołał się Urizielem, twierdząc, że jest nowym wcieleniem prastarego przywódcy. Ken'Udz jednak pokazał, że jest od niego potężniejszy, co poskutkowało zdradą Uriziela. Porwał on Dziecię Innosa, wielką tajemnicę Pradawnych, i uciekł, uprzednio zabijając wszystkich, którzy chcieli go powstrzymać. Wkrótce potem wrócił z ogromną armią orków. W bitwie Pradawni musieli salwować się ucieczką, a wszyscy paladyni zginęli. Z powodu przysięgi złożonej chwilę przed śmiercią ich dowódca, Lord Korthagor, zaczął strzec wejścia do świątyni Pradawnych jako nieumarły. Generał ludzi, Feallan Morkh, zdołał zbiec, lecz orkowie odebrali mu jego miecz, Uriziel. Wkrótce jednak generał zmarł po walce z pajęczakami. Pradawni zaszyli się w swej świątyni. Czarny Arcymag zaś zniknął i ukrył się w swej siedzibie na wyspie Avalon."
+      "text": "Gdy ludzkość była jeszcze młoda, na ziemię z wymiaru Innosa przybyli pierwsi Pradawni pod wodzą Uriziela, pierwszego awatara Innosa. Prymitywni ludzie nazwali ich Bogami z Gwiazd. Zaczęli służyć Pradawnym, którzy w zamian dawali im wielką wiedzę. Dzięki temu ludzkość ucywilizowała się w ciągu kilku stuleci. Najwspanialsi spośród śmiertelników sami mogli zostać członkami zakonu - tę drogę obrali między innymi Uriziel, jego przyjaciel Flad'Nag oraz prawdopodobnie młody, lecz zdolny mag Ken'Udz. Ci, którzy opanowali magię, lecz nie byli godni zostania Pradawnymi, utworzyli krąg magów ognia, a ci, którzy pragnęli walczyć w ich obronie, wstępowali do zakonu paladynów. Wkrótce Pradawni przybyli na Khorinis, gdzie szalał nienazwany demon. Został on jednak pokonany, a Pradawni osiedli w Górniczej Dolinie, gdzie przyłączył się do nich Sheer'Ghar oraz kilku innych należących do ludu Sacrr'Ankthierr. Lud ten miał zostać wyniszczony, zaniechano tego jednak, gdy mag ważny wśród Pradawnych sprzeciwił się pozostałym. Był to przyszły Czarny Arcymag, który chciał poznać tajemnice Poświęconych Dobru - Beliar przemawiał do niego w snach i zatruł mu serce. Większość z nich uciekła, niektórzy jednak zostali. Gdy Ken'Udz został Wielkim Mistrzem Konsekracji, ów mag wściekł się i obwołał się Urizielem, twierdząc, że jest nowym wcieleniem prastarego przywódcy. Ken'Udz jednak pokazał, że jest od niego potężniejszy, co poskutkowało zdradą Uriziela. Porwał on Dziecię Innosa, wielką tajemnicę Pradawnych, i uciekł, uprzednio zabijając wszystkich, którzy chcieli go powstrzymać. Wkrótce potem wrócił z ogromną armią orków. W bitwie Pradawni musieli salwować się ucieczką, a wszyscy paladyni zginęli. Z powodu przysięgi złożonej chwilę przed śmiercią ich dowódca, Lord Korthagor, zaczął strzec wejścia do świątyni Pradawnych jako nieumarły. Generał ludzi, Feallan Morkh, zdołał zbiec, lecz orkowie odebrali mu jego miecz, Uriziel. Wkrótce jednak generał zmarł po walce z pajęczakami. Pradawni zaszyli się w swej świątyni. Czarny Arcymag zaś zniknął i ukrył się w swej siedzibie na wyspie Avalon.",
+      "subsections": []
     },
     {
       "title": "Mroczne Tajemnice",
-      "text": "Pięćset lat później, Bezimienny z pomocą maga Gardhara odnajduje siedzibę prastarego zakonu. Śmierć nieumarłego paladyna otwiera przed bohaterem wrota do Pradawnych. Po rozmowie z najważniejszymi członkami frakcji rozpoczyna drogę siedmiu kroków. W jej trakcie może zadecydować czy stanie po stronie Pradawnych czy przeciw nim.\n\nthumb|center|310px|Kryształ Wieczności w siedzibie Pradawnych"
+      "text": "Pięćset lat później, Bezimienny z pomocą maga Gardhara odnajduje siedzibę prastarego zakonu. Śmierć nieumarłego paladyna otwiera przed bohaterem wrota do Pradawnych. Po rozmowie z najważniejszymi członkami frakcji rozpoczyna drogę siedmiu kroków. W jej trakcie może zadecydować czy stanie po stronie Pradawnych czy przeciw nim.",
+      "subsections": []
     },
     {
       "title": "Alternatywy",
-      "text": "Zależnie od poczynań gracza losy Pradawnych mogą się różnie potoczyć:\n Droga Beliara: Bezimienny atakuje Świątynię, przez co giną wszyscy Pradawni.\n Droga Innosa: W czasie Drogi Siedmiu Kroków następuje atak sług Beliara na Świątynię, przez co ginie część z nich - przeżywają tylko Algirion, Sheer'Ghar, Eli'Ne i Ken'Udz, który pada nieprzytomny, jednak po śmierci Uriziela wraca do siebie."
+      "text": "Zależnie od poczynań gracza losy Pradawnych mogą się różnie potoczyć:\n Droga Beliara: Bezimienny atakuje Świątynię, przez co giną wszyscy Pradawni.\n Droga Innosa: W czasie Drogi Siedmiu Kroków następuje atak sług Beliara na Świątynię, przez co ginie część z nich - przeżywają tylko Algirion, Sheer'Ghar, Eli'Ne i Ken'Udz, który pada nieprzytomny, jednak po śmierci Uriziela wraca do siebie.",
+      "subsections": []
     },
     {
       "title": "Ciekawostki",
-      "text": "Wszyscy Pradawni mają białe źrenice, mimo to, żaden z nich nie jest ślepcem.\n Cechuje ich wysoki wzrost, są wyżsi od Bezimiennego i reszty śmiertelników."
+      "text": "Wszyscy Pradawni mają białe źrenice, mimo to, żaden z nich nie jest ślepcem.\n Cechuje ich wysoki wzrost, są wyżsi od Bezimiennego i reszty śmiertelników.",
+      "subsections": []
     }
   ]
 }

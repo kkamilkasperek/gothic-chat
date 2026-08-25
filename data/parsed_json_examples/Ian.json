@@ -14,7 +14,6 @@
   "infobox": {
     "imię": "Ian",
     "obraz": "Ian (GI).png",
-    "podpis obrazu": "Ian",
     "gildia": "Cień",
     "zawód": "Zarządca kopalni",
     "poziom": "13",
@@ -44,15 +43,18 @@
   "sections": [
     {
       "title": "Wstęp",
-      "text": "Ian – postać występująca w Gothic. Jest cieniem zarządzającym Starą Kopalnią oraz zajmujący się organizacją pracy i zaopatrzeniem."
+      "text": "Ian – postać występująca w Gothic. Jest cieniem zarządzającym Starą Kopalnią oraz zajmujący się organizacją pracy i zaopatrzeniem.",
+      "subsections": []
     },
     {
       "title": "Gothic",
-      "text": "Przebywa niedaleko stoiska Alberto na czwartym poziomie głównego szybu kopalni. Mówi Bezimiennemu, że to on zarządza kopalnią, mimo że należy ona do Gomeza. Opowiada o ilości wydobywanej rudy oraz o magicznych właściwościach wykonanych z niej broni. Wspomina, że sztukę prawidłowego jej wytapiania posiadają tylko kowale z Nordmaru. Ian może też opowiedzieć o kopalni. Ostrzega Bezimiennego przed pełzaczami oraz zabrania przeszkadzać jego ludziom i strażnikom świątynnym, którzy wspierają ich w walce z tymi bestiami.\n\n310px|center|thumb|Ian stojący przy stoisku Alberto\n\nJeśli bohater zdecyduje się dołączyć do Starego Obozu, musi w ramach testu zaufania dostarczyć listę towarów od Iana do Diega. Cień odda ją tylko, jeśli protagonista powie, że przysyła go Diego.\n\nW II rozdziale Bezimienny pracujący dla bractwa prosi Iana o zgodę na wejście do gniazda pełzaczy. Cień odmawia, mówiąc, że nie ma teraz na to czasu w związku z awarią młocarni z powodu uszkodzonego koła zębatego. Mówi protagoniście, że rozpatrzy jego prośbę po przyniesieniu części zamiennej. W pierwszej kolejności radzi mu rozejrzeć się po bocznych szybach, gdzie znajduje się nieużywana młocarnia. Po dostarczeniu koła zębatego Ian wyraża zgodę na otwarcie bramy prowadzącej do gniazda i każe bohaterowi przekazać strażnikowi kraty – Asghanowi – hasło Wszystko będzie w porządku.\n\nPo odnalezieniu i zniszczeniu gniazda Ian jest zadowolony z pozbycia się problemu i nagradza bohatera skrzynką mocnego piwa."
+      "text": "Przebywa niedaleko stoiska Alberto na czwartym poziomie głównego szybu kopalni. Mówi Bezimiennemu, że to on zarządza kopalnią, mimo że należy ona do Gomeza. Opowiada o ilości wydobywanej rudy oraz o magicznych właściwościach wykonanych z niej broni. Wspomina, że sztukę prawidłowego jej wytapiania posiadają tylko kowale z Nordmaru. Ian może też opowiedzieć o kopalni. Ostrzega Bezimiennego przed pełzaczami oraz zabrania przeszkadzać jego ludziom i strażnikom świątynnym, którzy wspierają ich w walce z tymi bestiami.\n\nJeśli bohater zdecyduje się dołączyć do Starego Obozu, musi w ramach testu zaufania dostarczyć listę towarów od Iana do Diega. Cień odda ją tylko, jeśli protagonista powie, że przysyła go Diego.\n\nW II rozdziale Bezimienny pracujący dla bractwa prosi Iana o zgodę na wejście do gniazda pełzaczy. Cień odmawia, mówiąc, że nie ma teraz na to czasu w związku z awarią młocarni z powodu uszkodzonego koła zębatego. Mówi protagoniście, że rozpatrzy jego prośbę po przyniesieniu części zamiennej. W pierwszej kolejności radzi mu rozejrzeć się po bocznych szybach, gdzie znajduje się nieużywana młocarnia. Po dostarczeniu koła zębatego Ian wyraża zgodę na otwarcie bramy prowadzącej do gniazda i każe bohaterowi przekazać strażnikowi kraty – Asghanowi – hasło Wszystko będzie w porządku.\n\nPo odnalezieniu i zniszczeniu gniazda Ian jest zadowolony z pozbycia się problemu i nagradza bohatera skrzynką mocnego piwa.",
+      "subsections": []
     },
     {
       "title": "Ciekawostki",
-      "text": "Bezimienny może go zagadnąć To ty jesteś Ian, szef tej kopalni?, nawet jeżeli z nikim wcześniej nie rozmawiał na jego temat.\n W polskim tłumaczeniu jego imię jest błędnie wymawiane. Czytane jest jan, podczas gdy tak naprawdę powinno się je czytać ijan.\n Jeżeli Bezimienny nie będzie miał przy sobie jaj królowej pełzaczy, nie będzie mógł powiedzieć Ianowi o znalezieniu gniazda, jeśli natomiast będzie miał ze sobą mniej niż trzy jaja, Ian stwierdzi, że jest ich mało i nie wręczy mu w nagrodę piwa."
+      "text": "Bezimienny może go zagadnąć To ty jesteś Ian, szef tej kopalni?, nawet jeżeli z nikim wcześniej nie rozmawiał na jego temat.\n W polskim tłumaczeniu jego imię jest błędnie wymawiane. Czytane jest jan, podczas gdy tak naprawdę powinno się je czytać ijan.\n Jeżeli Bezimienny nie będzie miał przy sobie jaj królowej pełzaczy, nie będzie mógł powiedzieć Ianowi o znalezieniu gniazda, jeśli natomiast będzie miał ze sobą mniej niż trzy jaja, Ian stwierdzi, że jest ich mało i nie wręczy mu w nagrodę piwa.",
+      "subsections": []
     }
   ]
 }

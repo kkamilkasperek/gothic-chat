@@ -3,3 +3,4 @@
 .venv
 .agents/
 __pycache__
+data/parsed_json

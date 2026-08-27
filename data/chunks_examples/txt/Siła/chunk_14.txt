@@ -1,0 +1,4 @@
+Tytuł: Siła
+Sekcja: Gothic 3
+
+Bezimienny na początku gry ma 100 punktów siły. Definiuje ona, jakie bohater może unieść bronie białe i kusze, ile będzie zadawał obrażeń z broni białej oraz jakich umiejętności będzie mógł się nauczyć.

@@ -1,0 +1,8 @@
+Tytuł: Starożytna zbroja magiczna_Modyfikacje
+Sekcja: Returning oraz L'HIVER Edition
+
+Bohater jest ubrany w tę zbroję jeszcze podczas początkowej rozmowy z Xardasem. Pęka ona na bohaterze po zakończeniu dialogu.
+
+Istnieje jednak sztuczka, dzięki której bohater nie straci zbroi i będzie mógł dzięki niej wejść bez problemu do miasta bądź inaczej poprowadzić rozmowę z Cantharem. Zbroja jednak nie posiada żadnych parametrów ochronnych.
+
+W wersji 1.0 oraz ReBalance zbroja Runiczna wyglądała tak samo, gdyż Haradrimowie tworzyli swoje pancerze na wzór właśnie zbroi noszonej przez Uriziela.

@@ -1,0 +1,4 @@
+Tytuł: Maczuga
+Sekcja: Gothic > Statystyki
+
+Broń zadaje 23 punkty obrażeń obuchowych i wymaga 10 punktów siły, aby się nią posługiwać. Wartość kupna maczugi wynosi 55 bryłek rudy, przy sprzedaży spada do 28 bryłek.

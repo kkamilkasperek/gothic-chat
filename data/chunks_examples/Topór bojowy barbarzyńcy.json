@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nPodstawowe informacje:\n- nazwa: Topór bojowy barbarzyńcy\n- podnazwa: Gothic 3,G3:ZB\n- nazwa angielska: Barbarian Battle Axe\n- typ: Broń dwuręczna\n- opis: Nawet ork bałby się tej broni.\n- wymagane umiejętności: Duży oręż II\n- wymagane atrybuty: Siła: 250\n- obrażenia: 120 (60 w wersji zużytej)\n- dodatkowe: Zabójca orków\n- posiadacz: Nordmarczycy, Zabójcy orków, Gorn\n- handlarze: Brak\n- wartość kupna: 35000 Złoto\n- wartość sprzedaży: 10500 Złoto\n- występowanie: Gothic 3, Gothic 3: Zmierzch Bogów\n- kod: It_Axe_BarbarianAxe_01",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Wstęp\n\nTopór bojowy barbarzyńcy – dwuręczny topór występujący w Gothic 3 i Gothic 3: Zmierzch Bogów.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Gothic 3 > Wygląd\n\nTrzon topora jest srebrny z charakterystycznymi zdobieniami. Obuch jest ułożony symetrycznie względem trzonu oraz zachowuje jego kolorystykę i styl tworząc jednolitą całość.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Gothic 3 > Wygląd",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Gothic 3 > Występowanie\n\nBroń używana jest głównie w Nordmarze przez niektórych wojowników i zabójców orków, a także przez starego przyjaciela Bezimiennego – Gorna, są to jednak zużyte egzemplarze. Jedna sztuka tego topora znajduje się również w 37. otwartej z kolei ciężkiej skrzyni spośród rozmieszczonych na obszarze Myrtany, Varantu i Nordmaru.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Gothic 3 > Występowanie",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Gothic 3 > Statystyki\n\nWartość topora wynosi 10 500 sztuk złota przy sprzedaży. W trakcie kupna cena rośnie do 35 000 sztuk złota. Broń zadaje 120 punktów obrażeń (60 w wersji zużytej), a żeby jej używać, wymagane jest 250 punktów siły i zdolnosć Duży oręż II. Dodatkowo podczas korzystania z oręża bohater automatycznie ma opanowaną umiejętność Zabójca orków.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Gothic 3 > Statystyki",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Gothic 3: Zmierzch Bogów > Wygląd\n\nWygląd broni nie uległ zmianom względem podstawowej wersji gry.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Gothic 3: Zmierzch Bogów > Wygląd",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Gothic 3: Zmierzch Bogów > Występowanie\n\nW grze występuje tylko jeden egzemplarz. Można go znaleźć w 9. otwartej z kolei ciężkiej skrzyni spośród rozmieszczonych w Myrtanie. Z topora nie korzysta żadna z postaci niezależnych ani nie sprzedaje go żaden handlarz.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Gothic 3: Zmierzch Bogów > Występowanie",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Gothic 3: Zmierzch Bogów > Statystyki\n\nWysokość zadawanych obrażeń spadła do 115 punktów, podobnie jak cena sprzedaży, która wynosi teraz 8750 sztuk złota. Reszta parametrów pozostała bez zmian.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Gothic 3: Zmierzch Bogów > Statystyki",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Modyfikacje > Quest Pack 4\n\nW modyfikacji Quest Pack 4 topór bojowy barbarzyńcy nie dodaje zdolności zabójcy orków.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Modyfikacje > Quest Pack 4",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Tytuł: Topór bojowy barbarzyńcy\nSekcja: Ciekawostki\n\nW Gothic II oraz ArcaniA: Upadek Setarrif występuje broń o podobnej nazwie – barbarzyński topór bojowy.\n Na zdjęciach opublikowanych przed premierą Gothic 3 można było zobaczyć orków używających tego topora, jednak w finalnej wersji gry jest dzierżony tylko przez ludzi.",
+    "metadata": {
+      "title": "Topór bojowy barbarzyńcy",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic 3",
+        "Broń dwuręczna z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 9
+    }
+  }
+]

@@ -1,0 +1,9 @@
+Tytuł: Bestiariusz w Gothic 3
+Sekcja: Niewystępujące
+
+| Nazwa | PD | Nastawienie |
+| --- | --- | --- |
+| Czarny szabloząb | 300 | Agresywny |
+| Czarny topielec | 100 | Agresywny |
+| Mewa | 25 | Pasywny |
+| Mors | 25 | Pasywny |

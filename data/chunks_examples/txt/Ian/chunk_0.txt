@@ -1,0 +1,20 @@
+Tytuł: Ian
+Podstawowe informacje:
+- imię: Ian
+- gildia: Cień
+- zawód: Zarządca kopalni
+- poziom: 13
+- miejsce zamieszkania: Stary Obóz
+- miejsce urzędowania: Stara Kopalnia; czwarty od góry poziom głównego szybu kopalni
+- posiadana broń: Miecz bojowy, Łuk myśliwski
+- posiadana zbroja: Strój cienia
+- występowanie: Gothic
+- status: Nieznany
+- dubbing: Piotr Bąk
+- kod: Stt_301_Ian
+- przedmiot kradzieży: Kradzież niemożliwa
+Dodatkowe informacje:
+- Inne znaczenia (1: postaci występującej w Gothic, 2: Ian (Gothic 3: Zmierzch Bogów), 3: Ian (Gothic 3: Zmierzch Bogów))
+Inne języki:
+- en: Ian
+- ru: Ян (Gothic)

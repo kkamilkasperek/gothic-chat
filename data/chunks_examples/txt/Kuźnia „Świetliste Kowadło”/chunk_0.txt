@@ -1,0 +1,11 @@
+Tytuł: Kuźnia „Świetliste Kowadło”
+Podstawowe informacje:
+- nazwa: Kuźnia „Świetliste kowadło”
+- nazwa angielska: The Glowing Anvil
+- położenie: Khorinis
+- typ: Kuźnia
+- mieszkańcy: Kowale
+- zarządca: Harad
+- ważne postacie: Brian
+- występowanie: Gothic II
+- waypoint: nw_city_smith_01

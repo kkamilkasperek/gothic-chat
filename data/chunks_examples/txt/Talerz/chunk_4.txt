@@ -1,0 +1,4 @@
+Tytuł: Talerz
+Sekcja: Modyfikacje > Carnage Graphic Patch
+
+Wygląd talerza został zmieniony.

@@ -1,0 +1,7 @@
+Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha
+Sekcja: Krok po kroku
+
+Porozmawiaj z Joshem, który przebywa na swojej farmie.
+ Udaj się do jaskini chrząkających bestii.
+ Zabij 3 rozpruwacze, które przebywają w jaskini.
+ Ponownie porozmawiaj z Joshem, aby odebrać nagrodę (opcjonalnie).

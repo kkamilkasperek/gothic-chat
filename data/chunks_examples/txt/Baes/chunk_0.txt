@@ -1,0 +1,19 @@
+Tytuł: Baes
+Podstawowe informacje:
+- imię: Baes
+- gildia: Wilczy Syn
+- zawód: Sierżant
+- poziom: 50, 60 (w VI rozdziale)
+- miejsce zamieszkania: Wyspa Archolos
+- miejsce urzędowania: Wilcze Leże
+- posiadana broń: Miecz Wilczego Syna, W VI rozdziale losowo:, Miecz Wilczego Syna; młot Wilczego Syna lub kusza Wilczych Synów + 20 bełtów
+- posiadana zbroja: Pancerz Wilczego Syna
+- występowanie: Kroniki Myrtany: Archolos
+- dubbing: Mateusz Zabłocki
+- kod: Djg_10015_Baes, Djg_10015_Baes_Q602 (zaatakowane miasto)
+- przedmiot kradzieży: Zestaw losowy, (mistrz; Wilczy Syn)
+- wymagana umiejętność: Kradzież kieszonkowa –, mistrz
+Dodatkowe informacje:
+- Niekanon
+Inne języki:
+- ru: Байс

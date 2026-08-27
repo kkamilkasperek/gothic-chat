@@ -1,0 +1,17 @@
+Tytuł: Czas Decyzji – Urząd
+Podstawowe informacje:
+- nazwa: Biuro skryby
+- nazwa angielska: Scribe's office
+- typ: Budynek
+- położenie: Miasto Archolos
+- mieszkańcy: Ludzie
+- zarządca: Matey
+- ważne postacie: Matey
+- ważne miejsca: Brak
+- związek z fabułą: Obywatel Marvin, Czyste ulice
+- występowanie: Kroniki Myrtany: Archolos
+- teleportacja: Brak
+Dodatkowe informacje:
+- Niekanon
+Inne języki:
+- ru: Время решений – Контора

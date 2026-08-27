@@ -1,0 +1,12 @@
+Tytuł: Przeklęty kostur Chaosu
+Podstawowe informacje:
+- nazwa: Przeklęty kostur Chaosu
+- typ: Kostur
+- obrażenia: ?
+- dodatkowe: Odrzuca przeciwnika
+- posiadacz: Awatar Chaosu
+- wartość kupna: Brak możliwości kupna
+- wartość sprzedaży: 1 złoto
+- występowanie: Returning 2.0
+Dodatkowe informacje:
+- Niekanon

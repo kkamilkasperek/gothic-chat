@@ -1,0 +1,8 @@
+Tytuł: Kamień teleportacyjny do Mora Sul
+Sekcja: Gothic 3
+
+Kamień można użyć do teleportacji do miasta Mora Sul. Po użyciu, wokół Bezimiennego zaczynają się wydzielać kłęby różowo-fioletowego dymu, a bohater wykonuje charakterystyczną inkantację, po której zostaje przeniesiony do konkretnego punktu w mieście. Korzystanie z kamienia nie zużywa punktów many.
+
+Kamień można znaleźć na stole koło Bandaro. Drugi znajduje się w posiadaniu Ilji.
+
+Kamień można sprzedać za 300 sztuk złota. Przy odkupie jego wartość rośnie do 1000 sztuk złota.

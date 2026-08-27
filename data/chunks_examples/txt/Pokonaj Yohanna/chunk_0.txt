@@ -1,0 +1,13 @@
+Tytuł: Pokonaj Yohanna
+Podstawowe informacje:
+- nazwa: Pokonaj Yohanna
+- nazwa angielska: Beat Yohann
+- zleceniodawca: Derex
+- start: Arena w Geldern
+- koniec: Arena w Geldern
+- poprzednie: Brak
+- część zadania: Brak
+- następne: Pokonaj Brennusa
+- dostępność: Wszyscy
+- nagroda: 2000 punktów doświadczenia
+- występowanie: Gothic 3: Zmierzch Bogów

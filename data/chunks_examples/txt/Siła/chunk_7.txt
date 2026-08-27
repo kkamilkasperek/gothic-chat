@@ -1,0 +1,16 @@
+Tytuł: Siła
+Sekcja: Gothic II > Nauka
+
+System nauki jest prawie taki sam jak w Gothic, tj. jeden punkt siły kosztuje jeden punkt nauki, lecz została wprowadzona różnica związana z gildią bohatera. Gdy jest on nowicjuszem lub magiem ognia, szkolenie kosztuje go 2 punkty nauki za każdy punkt siły.
+
+Każdy z nauczycieli ma określoną maksymalną wysokość atrybutu, do której będzie uczył, większość z nich wymaga przynależności do konkretnej gildii lub spełnienia innego warunku. Są to:
+ Carl (po zapłaceniu 50 sztuk złota lub zwróceniu posążka Innosa Eddzie) – do 30 punktów;
+ Harad (jako jego czeladnik) – do 50 punktów;
+ Mortis (tylko jako strażnik miejski/paladyn) – do 60 punktów;
+ Opolos (tylko jako nowicjusz/mag ognia, po przyniesieniu mu receptury lub wykonaniu zadania od Neorasa) – do 70 punktów;
+ Torlof (na farmie Onara, tylko przy braku gildii lub jako najemnik/łowca smoków) – do 90 punktów;
+ Brutus (po oddaniu 200 sztuk złota) – do 75 punktów;
+ Ingmar (tylko jako paladyn) – do 90 punktów;
+ Feros (po odnalezieniu jego miecza) – do 70 punktów;
+ Bennet (tylko na okręcie w VI rozdziale) – do 100 punktów;
+ Torlof (na okręcie w VI rozdziale, niezależnie od gildii) – do 100 punktów.

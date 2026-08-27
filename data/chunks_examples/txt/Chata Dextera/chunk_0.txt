@@ -1,0 +1,12 @@
+Tytuł: Chata Dextera
+Podstawowe informacje:
+- nazwa: Chata Dextera
+- nazwa angielska: Dexter's hut
+- typ: Chata
+- położenie: Targowisko w Starym Obozie
+- populacja: Jedna osoba
+- zarządca: Dexter
+- związek z fabułą: Nie
+- występowanie: Gothic, Gothic II (zgliszcza)
+- teleportacja: Brak
+- waypoint: ocr_hut_55

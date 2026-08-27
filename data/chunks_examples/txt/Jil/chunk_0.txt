@@ -1,0 +1,19 @@
+Tytuł: Jil
+Podstawowe informacje:
+- imię: Jil
+- gildia: Farmerka
+- zawód: Kucharka
+- poziom: 10
+- miejsce zamieszkania: Wyspa Archolos
+- miejsce urzędowania: Silbach
+- posiadana broń: Patelnia Jil
+- posiadana zbroja: Strój obywatela
+- występowanie: Kroniki Myrtany: Archolos
+- dubbing: Izabela Gawlas
+- kod: Bau_729_Nob
+- przedmiot kradzieży: 2x surowe mięso ścierwojada + zestaw losowy, (zielony; farmer)
+- wymagana umiejętność: Kradzież kieszonkowa –, zielony
+Dodatkowe informacje:
+- Niekanon
+Inne języki:
+- ru: Джил

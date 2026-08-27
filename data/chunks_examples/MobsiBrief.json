@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Tytuł: MobsiBrief\nPodstawowe informacje:\n- nazwa: MobsiBrief\n- typ: Przedmiot pomocniczy / testowy\n- posiadacz: Brak\n- wartość kupna: 0 złoto\n- wartość sprzedaży: 0 złoto\n- występowanie: Gothic II (tylko za pomocą kodów)\n- questowy: Nie\n- kod: MobsiBrief\nDodatkowe informacje:\n- Nieużywana zawartość",
+    "metadata": {
+      "title": "MobsiBrief",
+      "type": "Dokument",
+      "categories": [
+        "Nieużywana zawartość z Gothic II",
+        "Dokumenty z Gothic II"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: MobsiBrief\nSekcja: Wstęp\n\nMobsiBrief – dokument występujący w Gothic II, niedostępny w trakcie rozgrywki.",
+    "metadata": {
+      "title": "MobsiBrief",
+      "type": "Dokument",
+      "categories": [
+        "Nieużywana zawartość z Gothic II",
+        "Dokumenty z Gothic II"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: MobsiBrief\nSekcja: Gothic II\n\nMożna go przywołać za pomocą kodów. Dokument zawiera nagłówek o treści StandardBrief, zdanie opisowe w języku niemieckim Jetzt wird alles wieder gut (pol. Teraz znowu wszystko będzie w porządku) oraz polecenia, jakie są przypisane w skrypcie przedmiotu do funkcji jego użycia. Bezimienny może go przeczytać, co spowoduje ustawienie zmiennej PLAYER_MOBSI_PRODUCTION (Zmienna ta jest wykorzystywana podczas używania przez bohatera obiektów interaktywnych posiadających okna dialogowe z wyborem poszczególnych opcji (np. łóżko, stół alchemiczny, kowadło itp.).) na wartość MOBSI_NONE oraz spowoduje wznowienie ataków ze strony wrogich NPC, jeśli zostały przerwane (np. w wyniku błędu gry po niepoprawnym zamknięciu się okna wyboru opcji dialogowych). Przedmiot ten prawdopodobnie służył twórcom do celów testowych i/lub do debugowania na etapie tworzenia gry.\n\nDokument nie ma żadnej wartości w złocie.",
+    "metadata": {
+      "title": "MobsiBrief",
+      "type": "Dokument",
+      "categories": [
+        "Nieużywana zawartość z Gothic II",
+        "Dokumenty z Gothic II"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: MobsiBrief\nSekcja: Gothic II: Noc Kruka\n\nZdanie opisowe z treści dokumentu zostało przetłumaczone na język polski.",
+    "metadata": {
+      "title": "MobsiBrief",
+      "type": "Dokument",
+      "categories": [
+        "Nieużywana zawartość z Gothic II",
+        "Dokumenty z Gothic II"
+      ],
+      "section": "Gothic II: Noc Kruka",
+      "chunk_index": 3
+    }
+  }
+]

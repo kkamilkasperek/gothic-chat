@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Tytuł: Ciężki pancerz magnata\nPodstawowe informacje:\n- nazwa: Ciężki pancerz magnata\n- nazwa angielska: Heavy Ore Baron's Armor\n- typ: Pancerz\n- gildia: Magnaci\n- ochrona: Broń: 80, Pociski: 8, Ogień: 40, Magia: 3\n- posiadacz: Arto, Blizna, Kruk\n- handlarze: Brak\n- wartość kupna: 2400 Ruda\n- wartość sprzedaży: 1200 Ruda\n- występowanie: Gothic\n- kod: Ebr_Armor_H2\nInne języki:\n- ru: Тяжелые доспехи барона",
+    "metadata": {
+      "title": "Ciężki pancerz magnata",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Ciężki pancerz magnata\nSekcja: Wstęp\n\nCiężki pancerz magnata – pancerz występujący w Gothic. W Gothic II: Noc Kruka pojawia się pod nazwą zbroja magnata.",
+    "metadata": {
+      "title": "Ciężki pancerz magnata",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Ciężki pancerz magnata\nSekcja: Gothic > Wygląd\n\nPancerz składa się z wysokich czarnych butów, czerwonych spodni i tuniki, spod której wystaje czerwona koszula i zdobiony napierśnik, również z elementami czerwieni. Oprócz tego na zbroję składają się czarne, metalowe rękawice i opachy oraz pas z rogatą bestią na klamrze. Dodatkowo na ramiona narzucone jest futro nieznanego zwierzęcia.",
+    "metadata": {
+      "title": "Ciężki pancerz magnata",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic"
+      ],
+      "section": "Gothic > Wygląd",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Ciężki pancerz magnata\nSekcja: Gothic > Występowanie\n\nZbroja ta noszona jest przez magnatów ze Starego Obozu. Bezimienny nie ma możliwości zdobycia zbroi podczas rozgrywki.\n\nZnani posiadacze\n Arto;\n Blizna;\n Kruk.",
+    "metadata": {
+      "title": "Ciężki pancerz magnata",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic"
+      ],
+      "section": "Gothic > Występowanie",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Ciężki pancerz magnata\nSekcja: Gothic > Statystyki\n\nZbroja zwiększa ochronę przed bronią o 80 punktów, przed pociskami o 8 punktów, przed ogniem o 40 punktów i przed magią o 3 punkty. Po przywołaniu zbroi kodami można ją sprzedać za 1200 bryłek rudy. Przy odkupie wartość rośnie do 2400 bryłek rudy.",
+    "metadata": {
+      "title": "Ciężki pancerz magnata",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic"
+      ],
+      "section": "Gothic > Statystyki",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Ciężki pancerz magnata\nSekcja: Ciekawostki\n\nMimo że nosi nazwę „ciężki pancerz”, w grze nie występuje jego lekka wersja, zaś kod na przywołanie wskazuje, że średnią wersją pancerza magnata jest ozdobna szata.",
+    "metadata": {
+      "title": "Ciężki pancerz magnata",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 5
+    }
+  }
+]

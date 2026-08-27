@@ -1,0 +1,15 @@
+Tytuł: Udaj się z Xardasem do portalu
+Podstawowe informacje:
+- nazwa: Udaj się z Xardasem do portalu
+- nazwa angielska: Go to the portal with Xardas
+- zleceniodawca: Xardas
+- start: Wieża Xardasa w Nordmarze
+- koniec: Portal do Nieznanych Krain
+- poprzednie: Zabij króla Rhobara, Zabij Zubena, Berło Varantu!, Kostur Wiecznego Wędrowca!
+- część zadania: Brak
+- następne: Otwórz bramę do nieznanej krainy!
+- dostępność: Wszyscy
+- nagroda: 2500 punktów doświadczenia
+- występowanie: Gothic 3
+Inne języki:
+- ru: Отправляйся с Ксардасом к порталу

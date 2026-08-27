@@ -1,0 +1,15 @@
+Tytuł: Obóz drwali koło Klanu Wilka
+Podstawowe informacje:
+- nazwa: Obóz drwali koło Klanu Wilka
+- nazwa angielska: Lumberjack's camp near Wolf's Clan
+- typ: Obóz
+- położenie: Okolice Klanu Wilka
+- mieszkańcy: Nordmarczycy (drwale)
+- populacja: 5
+- zarządca: Corwyn
+- ważne postacie: Corwyn
+- ważne miejsca: Brak
+- występowanie: Gothic 3
+- teleportacja: Brak
+Inne języki:
+- ru: Лагерь лесорубов возле Клана Волка

@@ -1,0 +1,17 @@
+Tytuł: Tom (pirat)
+Podstawowe informacje:
+- imię: Tom
+- gildia: Pirat
+- miejsce zamieszkania: Jarkendar
+- miejsce urzędowania: Obóz piratów
+- posiadana broń: El Bastardo
+- posiadana zbroja: Pirackie ubranie
+- występowanie: Gothic II: Noc Kruka (tylko za pomocą kodów)
+- status: Nieznany
+- dubbing: Adam Bauman
+- kod: Pir_1389_addon_tom
+- przedmiot kradzieży: Kradzież niemożliwa
+Dodatkowe informacje:
+- DISPLAYTITLE:Tom
+- Nieużywana zawartość
+- Inne znaczenia (1: pirata występującego w Gothic II: Noc Kruka, 2: Tom)

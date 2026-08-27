@@ -1,0 +1,26 @@
+Tytuł: Mordrag_Modyfikacje
+Sekcja: Świat Skazańców > Towary
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Nimrod | 1 | 600 |
+| Wytrych | 40 | 10 |
+| Strzała | 400 | 1 |
+| Bełt | 400 | 1 |
+| Piorun kulisty (zwój) | 1 | 90 |
+| Lodowa fala (zwój) | 3 | 110 |
+| Ognista burza (zwój) | 2 | 110 |
+| Deszcz ognia (zwój) | 2 | 130 |
+| Bryłka rudy | 95 | 1 |
+
+
+ Rozdział VI
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Wytrych | 50 | 10 |
+| Strzała | 500 | 1 |
+| Bełt | 500 | 1 |
+| Pogromca orków | 1 | 680 |
+| Deszcz ognia (zwój) | 3 | 130 |
+| Bryłka rudy | 105 | 1 |

@@ -1,0 +1,14 @@
+Tytuł: Klucz Tavina
+Podstawowe informacje:
+- nazwa: Klucz Tavina
+- nazwa angielska: Tavin's key
+- typ: Klucz
+- opis: Jeden z kluczy do skrzyni Rollana.
+- właściciel: Tavin
+- rzadkość: Unikat
+- dodatkowe: Brak
+- wartość kupna: Brak możliwości kupna
+- wartość sprzedaży: Brak możliwości sprzedaży
+- występowanie: Gothic 3: Zmierzch Bogów
+- questowy: Nie
+- kod: It_Key_Mage_02

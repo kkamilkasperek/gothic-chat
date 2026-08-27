@@ -1,0 +1,8 @@
+Tytuł: Gothic Spear Warriors
+Sekcja: Sterowanie > Gracz 1
+
+W – skok
+ A, D – poruszanie się
+ S – atak włócznią
+ Q – kula ognia
+ E – przywołanie ożywieńca

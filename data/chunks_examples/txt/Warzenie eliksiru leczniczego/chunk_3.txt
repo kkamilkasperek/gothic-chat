@@ -1,0 +1,6 @@
+Tytuł: Warzenie eliksiru leczniczego
+Sekcja: Gothic II: Noc Kruka
+
+Koszty nauki, nauczyciele oraz składniki do przyrządzenia mikstury nie zmieniły się. Nastąpiły natomiast dwie zmiany:
+ Umiejętność ta nie jest już konieczna, aby nauczyć się przyrządzania eliksiru siły czy eliksiru zręczności;
+ Po nauce tej zdolności bohater może zacząć warzyć pełnię życia na stole alchemicznym po przeczytaniu odpowiedniego przepisu.

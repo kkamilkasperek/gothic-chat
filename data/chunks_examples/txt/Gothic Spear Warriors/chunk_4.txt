@@ -1,0 +1,4 @@
+Tytuł: Gothic Spear Warriors
+Sekcja: Rozgrywka
+
+W grze toczona jest walka dwóch postaci. Punktów życia jest dużo, a gracze walczą za pomocą włóczni. Jednakże formuła gry nie jest rozwinięta: Dostępna jest tylko jedna arena, jedna postać i jedna broń, a czary ograniczają się do kuli ognia i przywołania szkieletu. Atak włócznią zadaje niewielkie obrażenia, natomiast szkielet większe, choć płaci za to zmniejszoną ilością punktów życia. Skakanie w grze również nie ma sensu, kula ognia nie posiada cooldowna, ponadto można przywołać tylko jeden szkielet naraz. Rozgrywka sprowadza się więc do przywoływania szkieletu i natychmiastowego ataku włócznią na przeciwnika. W grze nie zostało zawarte nic więcej, po pokonaniu wroga nic się nie dzieje, zwycięzca może się jedynie poruszać po bardzo niewielkiej mapie.

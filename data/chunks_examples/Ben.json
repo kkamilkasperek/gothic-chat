@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Tytuł: Ben\nPodstawowe informacje:\n- imię: Ben\n- gildia: Niewolnik\n- zawód: Farmer\n- poziom: 0\n- miejsce zamieszkania: Farma Dereca\n- miejsce urzędowania: Farma Dereca\n- posiadana broń: Miecz\n- posiadana zbroja: Ubranie farmera\n- występowanie: Gothic 3\n- status: Nieznany\n- dubbing: Jarosław Domin\n- kod: Ben\n- przedmiot kradzieży: 5-19 złoto, Czarny Rhobar\n- wymagana umiejętność: Prosta kradzież kieszonkowa\nDodatkowe informacje:\n- Inne znaczenia (1: postaci z [[Gothic 3]], 2: Ben (Mroczne Tajemnice), 3: postać z Mrocznych Tajemnic)\nInne języki:\n- it: Ben\n- ru: Бен",
+    "metadata": {
+      "title": "Ben",
+      "type": "Postać",
+      "categories": [
+        "Farmerzy",
+        "Niewolnicy",
+        "Postacie z Gothic 3"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Ben\nSekcja: Wstęp\n\nBen – postać występująca w Gothic 3. Jest to farmer i niewolnik mieszkający na farmie niedaleko Trelis.",
+    "metadata": {
+      "title": "Ben",
+      "type": "Postać",
+      "categories": [
+        "Farmerzy",
+        "Niewolnicy",
+        "Postacie z Gothic 3"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Ben\nSekcja: Gothic 3\n\nJest farmerem z farmy Dereca, który nie jest zbyt miły wobec Bezimiennego. Bohater ma wybór: dać mu nauczkę lub odpuścić. Niezależnie od wyboru w dalszej rozmowie Ben wspomina, że ma kontakty wśród wyższych sfer, lecz podczas wypytywania go przez Bezimiennego ten traci pewność siebie, ale twierdzi, że pracował dla orków w świątyni i wciąż musi się tam znajdować jego łopata.\n\nW zamian za jej dostarczenie Ben powie bohaterowi jak zdobyć duże ilości złota. Narzędzie znajduje się na stosie gruzów w pierwszej od wejścia sali w świątyni. Informacją Bena okazuje się fakt, iż Derec często zagląda za chram Innosa na farmie, i że na pewno musi przechowywać tam jakieś kosztowności, co okazuje się prawdą.",
+    "metadata": {
+      "title": "Ben",
+      "type": "Postać",
+      "categories": [
+        "Farmerzy",
+        "Niewolnicy",
+        "Postacie z Gothic 3"
+      ],
+      "section": "Gothic 3",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Ben\nSekcja: Gothic 3 > Zlecane zadania\n\nKtoś musi dać nauczkę Benowi\n Służący Ben potrzebuje swojej łopaty",
+    "metadata": {
+      "title": "Ben",
+      "type": "Postać",
+      "categories": [
+        "Farmerzy",
+        "Niewolnicy",
+        "Postacie z Gothic 3"
+      ],
+      "section": "Gothic 3 > Zlecane zadania",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Ben\nSekcja: Modyfikacje > Content Mod\n\nJego wygląd ulega zmianom kosmetycznym.",
+    "metadata": {
+      "title": "Ben",
+      "type": "Postać",
+      "categories": [
+        "Farmerzy",
+        "Niewolnicy",
+        "Postacie z Gothic 3"
+      ],
+      "section": "Modyfikacje > Content Mod",
+      "chunk_index": 4
+    }
+  }
+]

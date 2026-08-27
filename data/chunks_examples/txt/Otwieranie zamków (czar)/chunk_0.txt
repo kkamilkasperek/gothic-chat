@@ -1,0 +1,20 @@
+Tytuł: Otwieranie zamków (czar)
+Podstawowe informacje:
+- nazwa: Otwieranie zamków
+- nazwa angielska: Open locks
+- bóg: Adanos
+- nauczyciele: Saturas, Riordian, Merdarion, Vatras, Cronos, Porgan (po wybraniu ścieżki Adanosa)
+- opis: Otwiera większość skrzyń i drzwi.
+- koszt nauki: 5 punktów nauki, 5000 złoto
+- prastara wiedza: 230
+- obrażenia: 0
+- wymagana mana: 20
+- działanie: Odblokowuje zamknięty zamek
+- wartość kupna: 750 złoto
+- wartość sprzedaży: 225 złoto
+- występowanie: Gothic 3, Gothic 3: Zmierzch Bogów
+- kod: It_Spell_OpenLocks (czar), It_Scroll_OpenLocks (zwój)
+Dodatkowe informacje:
+- Inne znaczenia (1: czaru z Gothic 3, 2: Otwieranie zamków (umiejętność), 3: otwieranie zamków (umiejętność))
+Inne języki:
+- ru: Взлом замков

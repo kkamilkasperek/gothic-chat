@@ -1,0 +1,15 @@
+Tytuł: Kamień teleportacyjny do Mora Sul
+Podstawowe informacje:
+- nazwa: Kamień teleportacyjny do Mora Sul
+- typ: Kamień teleportacyjny
+- opis: Teleport do Mora Sul.
+- właściciel: Ilja
+- rzadkość: Bardzo rzadkie (2 sztuki)
+- dodatkowe: Po użyciu przenosi do Mora Sul
+- wartość kupna: 1000 złoto
+- wartość sprzedaży: 300 złoto
+- występowanie: Gothic 3
+- questowy: Nie
+- kod: It_Teleport_MoraSul
+Inne języki:
+- ru: Камень телепортации в Мора Сул

@@ -1,0 +1,15 @@
+Tytuł: Karabin snajperski MSG90
+Podstawowe informacje:
+- nazwa: Karabin snajperski MSG90
+- typ: Karabin snajperski
+- opis: Brak
+- wymagane atrybuty: Siła: 62
+- obrażenia: 60
+- posiadacz: Profesor, Fritz, Mowgli, Perevernikruczenko, Szeregowy Sidorow, Brązowi ninja
+- handlarze: Fritz, Kulibin, Milten
+- wartość kupna: 1000 ruble
+- wartość sprzedaży: 150 ruble
+- występowanie: Podróżnik – Za liniami wroga
+- kod: itrw_gun4
+Dodatkowe informacje:
+- Niekanon

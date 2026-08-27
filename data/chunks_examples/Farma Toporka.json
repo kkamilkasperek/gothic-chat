@@ -1,0 +1,77 @@
+[
+  {
+    "text": "Tytuł: Farma Toporka\nPodstawowe informacje:\n- nazwa: Farma Toporka\n- nazwa angielska: Topork's farm\n- podnazwa: Gothic 3,G3:ZB\n- typ: Farma\n- położenie: Wschód Myrtany; okolice Cape Dun i Reddock\n- mieszkańcy: Orkowie, Kliff, Świnie, Kury\n- populacja: 4x orkowie, Kliff, 3x świnia, 4x kura\n- zarządca: Topork\n- ważne postacie: Topork, Kliff\n- ważne miejsca: Brak\n- związek z fabułą: W Reddock potrzebują kowala, Pokonaj w pojedynku Toporka, Uwolnij Kliffa z niewoli u orków, Zabierz Kliffa do Javiera; przywódcy Reddock, Pozbądź się patrolu orków stacjonującego na farmie\n- występowanie: Gothic 3, Gothic 3: Zmierzch Bogów\n- teleportacja: Brak",
+    "metadata": {
+      "title": "Farma Toporka",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Gothic 3",
+        "Miejsca z Gothic 3: Zmierzch Bogów",
+        "Miejsca w Myrtanie",
+        "Farmy"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Farma Toporka\nSekcja: Wstęp\n\nFarma Toporka – lokacja występująca w Gothic 3 i Gothic 3: Zmierzch Bogów. Jest to farma położona na wschodzie Myrtany, między Cape Dun a Reddock.",
+    "metadata": {
+      "title": "Farma Toporka",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Gothic 3",
+        "Miejsca z Gothic 3: Zmierzch Bogów",
+        "Miejsca w Myrtanie",
+        "Farmy"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Farma Toporka\nSekcja: Gothic 3 > Związek z fabułą\n\nZarządcą farmy jest Topork, który wraz z niewielkim oddziałem orków przebywa na terenie gospodarstwa. Bezimienny może trafić na farmę, poszukując dla Reddock kowala lub na zlecenie Gelforda, który prosi o pozbycie się patrolu orków z farmy.\n\nNa miejscu okazuje się, że do pracy przy piłowaniu drewna zmuszony jest niewolnik o imieniu Kliff będący z zawodu kowalem. Bezimienny może wyzwać Toporka na pojedynek i po wygranej walce zwrócić Kliffowi wolność, a następnie zaprowadzić go do pobliskiego obozu buntowników Reddock. Protagonista może też zabić Toporka, spełniając prośbę Gelforda o pozbycie się patrolu z farmy.",
+    "metadata": {
+      "title": "Farma Toporka",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Gothic 3",
+        "Miejsca z Gothic 3: Zmierzch Bogów",
+        "Miejsca w Myrtanie",
+        "Farmy"
+      ],
+      "section": "Gothic 3 > Związek z fabułą",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Farma Toporka\nSekcja: Gothic 3 > Budowa\n\nNa gospodarstwo składa się pojedynczy dom otoczony płotem. Przy ogrodzeniu znajdują się bele siana, a na podwórku hodowane są świnie oraz kury. Przy jednej ze ścian domu zbudowano składzik na drewno, obok którego stoi pień drzewa. Przed domem postawiono ławkę i rozpalono ognisko. Stacjonuje tutaj dwóch zwiadowców oraz wojownik. Wewnątrz domu znajdują się pojedyncze meble oraz orkowy tron zajęty przez Toporka.",
+    "metadata": {
+      "title": "Farma Toporka",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Gothic 3",
+        "Miejsca z Gothic 3: Zmierzch Bogów",
+        "Miejsca w Myrtanie",
+        "Farmy"
+      ],
+      "section": "Gothic 3 > Budowa",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Farma Toporka\nSekcja: Gothic 3: Zmierzch Bogów\n\nFarma została opuszczona. Ognisko zgasło oraz zniknęły wszystkie zwierzęta. W domu nie ma już tronu, a zamiast niego wstawiono dwa kufry. Można tu też znaleźć 3 paczki z bronią. Lokacja nie jest powiązana z żadnym zadaniem.\n\nW podstawowej wersji gry ognisko dalej jest zapalone, a w domu nadal stoi orkowy tron. Oprócz dwóch kufrów znajduje się tu też skrzynia Theo.",
+    "metadata": {
+      "title": "Farma Toporka",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Gothic 3",
+        "Miejsca z Gothic 3: Zmierzch Bogów",
+        "Miejsca w Myrtanie",
+        "Farmy"
+      ],
+      "section": "Gothic 3: Zmierzch Bogów",
+      "chunk_index": 4
+    }
+  }
+]

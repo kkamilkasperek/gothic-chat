@@ -1,0 +1,4 @@
+Tytuł: Siła
+Sekcja: Gothic
+
+Bezimienny ma na początku rozgrywki 10 punktów siły. Jej wysokość decyduje, którą bronią białą jedno- i dwuręczną są w stanie posługiwać się poszczególne postacie. Wpływa także na zadawane nią obrażenia – jej wartość jest doliczana do obrażeń danej broni podczas zadawania ciosu.

@@ -1,0 +1,9 @@
+Tytuł: Warzenie eliksiru leczniczego
+Podstawowe informacje:
+- nazwa: Warzenie eliksiru leczniczego
+- podnazwa: GII, GII:NK
+- nauczyciele: Constantino, Neoras, Vatras
+- wymagania: Warzenie ekstraktu leczniczego
+- następstwa: Warzenie eliksiru życia, Warzenie eliksiru siły, Warzenie eliksiru zręczności
+- pozwala na: Przyrządzenie eliksiru leczniczego na stole alchemicznym
+- koszt: 5 punktów nauki

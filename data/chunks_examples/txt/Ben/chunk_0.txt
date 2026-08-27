@@ -1,0 +1,21 @@
+Tytuł: Ben
+Podstawowe informacje:
+- imię: Ben
+- gildia: Niewolnik
+- zawód: Farmer
+- poziom: 0
+- miejsce zamieszkania: Farma Dereca
+- miejsce urzędowania: Farma Dereca
+- posiadana broń: Miecz
+- posiadana zbroja: Ubranie farmera
+- występowanie: Gothic 3
+- status: Nieznany
+- dubbing: Jarosław Domin
+- kod: Ben
+- przedmiot kradzieży: 5-19 złoto, Czarny Rhobar
+- wymagana umiejętność: Prosta kradzież kieszonkowa
+Dodatkowe informacje:
+- Inne znaczenia (1: postaci z [[Gothic 3]], 2: Ben (Mroczne Tajemnice), 3: postać z Mrocznych Tajemnic)
+Inne języki:
+- it: Ben
+- ru: Бен

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Tytuł: Paczka\nPodstawowe informacje:\n- nazwa: Paczka\n- nazwa angielska: Packet\n- typ: Pakunek\n- rzadkość: Nie występuje w rozgrywce\n- dodatkowe: Dostępna tylko za pomocą kodów\n- wartość kupna: 0 złoto\n- wartość sprzedaży: 0 złoto\n- występowanie: Gothic II\n- questowy: Nie\n- kod: ItMi_Packet\nDodatkowe informacje:\n- Nieużywana zawartość\nInne języki:\n- ru: Пакет",
+    "metadata": {
+      "title": "Paczka",
+      "type": "Przedmiot",
+      "categories": [
+        "Przedmioty z Gothic II",
+        "Nieużywana zawartość z Gothic II"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Paczka\nSekcja: Wstęp\n\nPaczka – przedmiot występujący w Gothic II.",
+    "metadata": {
+      "title": "Paczka",
+      "type": "Przedmiot",
+      "categories": [
+        "Przedmioty z Gothic II",
+        "Nieużywana zawartość z Gothic II"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Paczka\nSekcja: Gothic II\n\nNie pojawia się w rozgrywce, jest dostępna jedynie za pomocą kodów. Paczkę tę można otworzyć, lecz nie posiada ona żadnej zawartości. Przedmiot ten prawdopodobnie służył twórcom jako prototyp do zaimplementowania do gry innych paczek.\n\nPaczka ta nie ma żadnej wartości w złocie.",
+    "metadata": {
+      "title": "Paczka",
+      "type": "Przedmiot",
+      "categories": [
+        "Przedmioty z Gothic II",
+        "Nieużywana zawartość z Gothic II"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 2
+    }
+  }
+]

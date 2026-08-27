@@ -1,0 +1,16 @@
+Tytuł: Jaga
+Podstawowe informacje:
+- imię: Jaga
+- zawód: Alchemiczka,Znachorka
+- poziom: 10
+- miejsce zamieszkania: Gadiukinowo
+- miejsce urzędowania: Gadiukinowo
+- posiadana broń: Miotła
+- posiadana zbroja: Duma farmerki
+- występowanie: Podróżnik – Za liniami wroga
+- status: Nie żyje
+- kod: none_121_yaga
+- przedmiot kradzieży: 111 ruble
+- wymagana zręczność: 33
+Dodatkowe informacje:
+- Niekanon

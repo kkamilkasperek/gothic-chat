@@ -1,0 +1,6 @@
+Tytuł: Magiczna ruda (księga)
+Sekcja: Gothic
+
+Opisuje ona właściwości i zastosowanie rudy. Można znaleźć dwa egzemplarze tej księgi: jeden w komnacie Kruka na piętrze siedziby magnatów w Starym Obozie, drugi w bibliotece magów wody w Nowym Obozie.
+
+Jej wartość kupna wynosi 100 bryłek rudy, przy sprzedaży spada do 50 bryłek.

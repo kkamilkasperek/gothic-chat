@@ -1,0 +1,6 @@
+Tytuł: Szewc Fiska
+Sekcja: Krok po kroku
+
+Porozmawiaj z Fiskiem na targowisku.
+ Porozmawiaj z Draxem przy drodze do placu wymian.
+ Wróć do Fiska.

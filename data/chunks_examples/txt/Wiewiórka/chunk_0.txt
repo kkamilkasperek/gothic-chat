@@ -1,0 +1,9 @@
+Tytuł: Wiewiórka
+Podstawowe informacje:
+- nazwa: Wiewiórka
+- gromada: Ssaki
+- rzadkość: Bardzo rzadkie
+- nastawienie do gracza: Neutralne
+- występowanie: Wielka Wojna
+Dodatkowe informacje:
+- Niekanon

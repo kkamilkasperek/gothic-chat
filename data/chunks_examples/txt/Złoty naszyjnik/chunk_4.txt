@@ -1,0 +1,4 @@
+Tytuł: Złoty naszyjnik
+Sekcja: Gothic II > Statystyki
+
+Naszyjnik ma wartość 300 sztuk złota, natomiast przy sprzedaży spada ona do 90 sztuk złota.

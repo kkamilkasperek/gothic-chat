@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tytuł: Olej syrianiczny\nPodstawowe informacje:\n- nazwa: Olej syrianiczny\n- nazwa angielska: Syrianic oil\n- typ: Substancja\n- dodatkowe: Dostępny tylko za pomocą kodów\n- wartość kupna: 15 ruda\n- wartość sprzedaży: 8 ruda\n- występowanie: Gothic\n- questowy: Nie\n- kod: ItMi_Alchemy_SyrianOil_01\nDodatkowe informacje:\n- Nieużywana zawartość\nInne języki:\n- ru: Масло",
+    "metadata": {
+      "title": "Olej syrianiczny",
+      "type": "Przedmiot",
+      "categories": [
+        "Substancje i surowce",
+        "Przedmioty z Gothic",
+        "Nieużywana zawartość z Gothic"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Olej syrianiczny\nSekcja: Wstęp\n\nOlej syrianiczny – przedmiot występujący w Gothic. Jest to jeden ze składników alchemicznych.",
+    "metadata": {
+      "title": "Olej syrianiczny",
+      "type": "Przedmiot",
+      "categories": [
+        "Substancje i surowce",
+        "Przedmioty z Gothic",
+        "Nieużywana zawartość z Gothic"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Olej syrianiczny\nSekcja: Gothic\n\nPochodzi z Syriany (Nazwa w języku niemieckim Syrianisches Öl (Syrian-isches Öl) sugeruje miejsce pochodzenia (z Syriany).). Olej nie występuje w rozgrywce, można go zdobyć jedynie za pomocą kodów. Nie ma żadnego zastosowania. Jego wartość kupna wynosi 15 bryłek rudy, przy sprzedaży spada do 8 bryłek.",
+    "metadata": {
+      "title": "Olej syrianiczny",
+      "type": "Przedmiot",
+      "categories": [
+        "Substancje i surowce",
+        "Przedmioty z Gothic",
+        "Nieużywana zawartość z Gothic"
+      ],
+      "section": "Gothic",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Olej syrianiczny\nSekcja: Ciekawostki\n\nTak samo jak czysty alkohol, rtęć, sadło kretoszczura, siarka i sól, jest to pozostałość po niedokończonej implementacji alchemii do części pierwszej serii Gothic. Świadczy o tym kod przedmiotu oraz zapis konwersacji dwóch programistów w komentarzach do skryptów gry:\n| // FIXME: noch benutzen? // NEin, aber liegen überall ind er Welt, von daher als Ambient Items drinlassen!M.F.(tłum. \"// FIXME: nadal używać? //Nie | ale są wszędzie na świecie | w związku z tym należy pozostawić jako elementy otoczenia! M.F.\") |\n| --- | --- | --- |\n\n\n Występuje jako statyczny element stołu alchemicznego pojawiającego się w Gothic II.",
+    "metadata": {
+      "title": "Olej syrianiczny",
+      "type": "Przedmiot",
+      "categories": [
+        "Substancje i surowce",
+        "Przedmioty z Gothic",
+        "Nieużywana zawartość z Gothic"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 3
+    }
+  }
+]

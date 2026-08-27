@@ -1,0 +1,15 @@
+Tytuł: Dostarcz dziesięć sztabek rudy magicznej kowalowi Svenowi
+Podstawowe informacje:
+- nazwa: Dostarcz dziesięć sztabek rudy magicznej kowalowi Svenowi
+- nazwa angielska: Bring the magic ore blank to Sven the smith
+- zleceniodawca: Sven
+- start: Ishtar
+- koniec: Ishtar
+- poprzednie: Brak
+- część zadania: Brak
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 3000 punktów doświadczenia, Możliwość nauki u Svena
+- występowanie: Gothic 3
+Inne języki:
+- ru: Принеси Свену 10 брусков магической руды

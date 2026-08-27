@@ -1,0 +1,6 @@
+Tytuł: Siła
+Sekcja: Gothic II
+
+Tak samo jak w pierwszej części, Bezimienny zaczyna rozgrywkę z 10 punktami siły. Jej znaczenie jest niemal identyczne, tj. od jej wysokości uzależniona jest możliwość używania większości broni białej jedno- i dwuręcznej. Istnieje jednak kilka broni jednoręcznych, które do używania wymagają zręczności. Nadal jednak to wartość siły jest doliczana do obrażeń każdej broni białej podczas zadawania ciosu.
+
+30 punktów siły jest wymaganych do uniesienia miecza Roda, a tym samym zyskania poparcia jego właściciela bez bójki w ramach zadania Jeden z najemników.

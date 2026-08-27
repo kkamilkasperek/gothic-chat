@@ -1,0 +1,15 @@
+Tytuł: Serce orkowego psa
+Podstawowe informacje:
+- nazwa: Serce orkowego psa
+- typ: Serce
+- opis: Ważny składnik alchemiczny.
+- wymagane umiejętności: Brak
+- do zdobycia z: orkowego psa
+- dodatkowe: Składnik eliksiru ducha i napoju z pełzaczy
+- wartość kupna: 50 ruda
+- wartość sprzedaży: 25 ruda
+- występowanie: Świat Skazańców (Hardcore)
+- questowy: Nie
+- kod: ItAt_OrcHeart4
+Dodatkowe informacje:
+- Niekanon

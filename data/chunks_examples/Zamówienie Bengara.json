@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Tytuł: Zamówienie Bengara\nPodstawowe informacje:\n- nazwa: Zamówienie Bengara\n- zleceniodawca: Lutero\n- start: Górne miasto w Khorinis\n- koniec: Plac targowy w Khorinis\n- poprzednie: Brak\n- część zadania: Brak\n- następne: Handel w klasztorze\n- dostępność: Wszyscy\n- nagroda: Doświadczenie\n- występowanie: Returning\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Zamówienie Bengara",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Returning"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Zamówienie Bengara\nSekcja: Wstęp\n\nZamówienie Bengara – zadanie poboczne występujące w modyfikacji Returning do Gothic II: Noc Kruka. Zlecane jest Bezimiennemu przez kupca Lutero po dołączeniu do gildii kupców.",
+    "metadata": {
+      "title": "Zamówienie Bengara",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Returning"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Zamówienie Bengara\nSekcja: Krok po kroku\n\nPo dołączeniu do gildii kupców porozmawiaj z Lutero.\n Zanieś przesyłkę od Lutero farmerowi Bengarowi.\n Oddaj pieniądze otrzymane od Bengara Jorze.",
+    "metadata": {
+      "title": "Zamówienie Bengara",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Returning"
+      ],
+      "section": "Krok po kroku",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Zamówienie Bengara\nSekcja: Przebieg zadania\n\nPo dołączeniu do gildii kupców Lutero zleca Bezimiennemu dostarczenie przesyłki, którą zamówił Bengar i prosi bohatera, by złoto, które za nią otrzyma, dał kupcowi Jorze. Farmer w zamian za przesyłkę daje 1000 sztuk złota. Bohater wręcza ją kupcowi Jorze, a Lutero zleca mu następne zlecenie związane z gildią. Zadanie kończy się powodzeniem.",
+    "metadata": {
+      "title": "Zamówienie Bengara",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Returning"
+      ],
+      "section": "Przebieg zadania",
+      "chunk_index": 3
+    }
+  }
+]

@@ -1,0 +1,4 @@
+Tytuł: Gothic Spear Warriors
+Sekcja: Błędy
+
+Kula ognia zadaje obrażenia jedynie szkieletom.

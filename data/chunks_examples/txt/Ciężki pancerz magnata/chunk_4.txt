@@ -1,0 +1,4 @@
+Tytuł: Ciężki pancerz magnata
+Sekcja: Gothic > Statystyki
+
+Zbroja zwiększa ochronę przed bronią o 80 punktów, przed pociskami o 8 punktów, przed ogniem o 40 punktów i przed magią o 3 punkty. Po przywołaniu zbroi kodami można ją sprzedać za 1200 bryłek rudy. Przy odkupie wartość rośnie do 2400 bryłek rudy.

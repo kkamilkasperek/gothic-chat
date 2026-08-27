@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Tytuł: Polowanie na demony z Gornem\nPodstawowe informacje:\n- nazwa: Polowanie na demony z Gornem\n- nazwa angielska: Hunting demons with Gorn\n- zleceniodawca: Gorn\n- start: Wieża strażnicza w posterunku Gotha\n- koniec: Gotha\n- poprzednie: Uratuj Gorna z łap orków\n- część zadania: Uwolnij Gothę od klątwy\n- następne: Brak\n- dostępność: Wszyscy\n- nagroda: 1000 punktów doświadczenia\n- występowanie: Gothic 3\nInne języki:\n- ru: Охота на демона с Горном",
+    "metadata": {
+      "title": "Polowanie na demony z Gornem",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Gocie z Gothic 3"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Polowanie na demony z Gornem\nSekcja: Wstęp\n\nPolowanie na demony z Gornem – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez Gorna.",
+    "metadata": {
+      "title": "Polowanie na demony z Gornem",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Gocie z Gothic 3"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Polowanie na demony z Gornem\nSekcja: Krok po kroku\n\nWykonaj zadanie Uratuj Gorna z łap orków i rozpocznij zadanie Uwolnij Gothę od klątwy.\n Podążaj za Gornem do Gothy.\n Porozmawiaj z Gornem po dotarciu na miejsce.",
+    "metadata": {
+      "title": "Polowanie na demony z Gornem",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Gocie z Gothic 3"
+      ],
+      "section": "Krok po kroku",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Polowanie na demony z Gornem\nSekcja: Przebieg zadania > Sytuacja w Gocie\n\nBezimienny po uwolnieniu Gorna z rąk orków rozmawia z nim na temat sytuacji w Gocie. Okazuje się, że w mieście z powodu klątwy grasuje demon. Bohater proponuje swojemu przyjacielowi powrót do twierdzy, aby zabić istotę. Gorn twierdzi, że nie chce tam wracać, ale po krótkim namyśle się zgadza i prowadzi bohatera do demona.",
+    "metadata": {
+      "title": "Polowanie na demony z Gornem",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Gocie z Gothic 3"
+      ],
+      "section": "Przebieg zadania > Sytuacja w Gocie",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Polowanie na demony z Gornem\nSekcja: Przebieg zadania > Twierdza\n\nNa miejscu mężczyźni spotykają dziesiątki ożywieńców oraz samego demona. Dochodzi do ciężkiej walki z przeklętymi istotami. Po dotarciu na miejsce Gorn wspomina lepsze czasy twierdzy, a zadanie kończy się powodzeniem.",
+    "metadata": {
+      "title": "Polowanie na demony z Gornem",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Gocie z Gothic 3"
+      ],
+      "section": "Przebieg zadania > Twierdza",
+      "chunk_index": 4
+    }
+  }
+]

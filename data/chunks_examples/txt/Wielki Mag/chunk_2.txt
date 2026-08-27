@@ -1,0 +1,4 @@
+Tytuł: Wielki Mag
+Sekcja: Mój Mod
+
+Jest magiem, którego potęga i przynależność pozostają nieznane. Odnajduje nieprzytomnego bohatera oraz wprowadza go w świat modyfikacji po jego przebudzeniu. Prosi go o zapoznanie się z ludźmi w obozie.

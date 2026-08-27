@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Tytuł: Strój wielkiego maga\nPodstawowe informacje:\n- nazwa: Strój wielkiego maga\n- typ: Szata\n- opis: Brak\n- gildia: Brak\n- ochrona: Broń: 120, Pociski: 120, Ogień: 120, Magia: 120\n- posiadacz: Wielki Mag\n- handlarze: Brak\n- wartość kupna: 500 Złoto\n- wartość sprzedaży: 75 Złoto\n- występowanie: Mój Mod\n- kod: Itar_MM_GreatMage\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Strój wielkiego maga",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Mój Mod",
+        "Bez ikony z modyfikacji"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Strój wielkiego maga\nSekcja: Wstęp\n\nStrój wielkiego maga – szata występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Mój Mod.",
+    "metadata": {
+      "title": "Strój wielkiego maga",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Mój Mod",
+        "Bez ikony z modyfikacji"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Strój wielkiego maga\nSekcja: Mój Mod > Wygląd\n\nSzatę wykonano z czerwonego, zdobionego materiału. Jest spięta brązowym pasem ze sprzączką. Przez środek szaty biegnie fragment wykonany z czarnego ćwiekowanego materiału, który rozdziela się na dwie ścieżki w stronę ramion. Ubranie wyróżnia się też wysokim kołnierzem.",
+    "metadata": {
+      "title": "Strój wielkiego maga",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Mój Mod",
+        "Bez ikony z modyfikacji"
+      ],
+      "section": "Mój Mod > Wygląd",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Strój wielkiego maga\nSekcja: Mój Mod > Występowanie\n\nJest to szata noszona wyłącznie przez Wielkiego Maga. Bohater nie ma możliwości zdobycia jej podczas zwykłej rozgrywki.\n\nZnani posiadacze\n Wielki Mag.",
+    "metadata": {
+      "title": "Strój wielkiego maga",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Mój Mod",
+        "Bez ikony z modyfikacji"
+      ],
+      "section": "Mój Mod > Występowanie",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Strój wielkiego maga\nSekcja: Mój Mod > Statystyki\n\nZwiększa o 120 punktów ochronę przed bronią, pociskami, ogniem i magią. Szata ma wartość 500 sztuk złota, przy sprzedaży jej cena spada do 75 złotych monet.",
+    "metadata": {
+      "title": "Strój wielkiego maga",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Mój Mod",
+        "Bez ikony z modyfikacji"
+      ],
+      "section": "Mój Mod > Statystyki",
+      "chunk_index": 4
+    }
+  }
+]

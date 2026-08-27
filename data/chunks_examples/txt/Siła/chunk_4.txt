@@ -1,0 +1,11 @@
+Tytuł: Siła
+Sekcja: Gothic > Bonusy tymczasowe
+
+Bezimienny może tymczasowo podnieść swoją siłę, korzystając z poniższych artefaktów:
+ amulet mocy – 10 punktów;
+ amulet siły – 20 punktów;
+ amulet potęgi – 7 punktów;
+ pierścień mocy – 5 punktów;
+ pierścień siły – 10 punktów;
+ pierścień siły wojownika – 4 punkty.
+Istnieje też pierścień Laresa, który dodaje 3 punkty siły, lecz nie pojawia się on w rozgrywce.

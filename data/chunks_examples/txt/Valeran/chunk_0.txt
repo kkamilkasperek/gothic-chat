@@ -1,0 +1,15 @@
+Tytuł: Valeran
+Podstawowe informacje:
+- imię: Valeran
+- gildia: Obywatel
+- zawód: Handlarz
+- poziom: 10
+- miejsce zamieszkania: Miasto Khorinis
+- miejsce urzędowania: Dom Fernando w górnym mieście
+- posiadana broń: Miecz
+- posiadana zbroja: Lekki strój obywatela
+- występowanie: Returning
+- status: Nie żyje
+- kod: vlk_6134_valeran
+Dodatkowe informacje:
+- Niekanon

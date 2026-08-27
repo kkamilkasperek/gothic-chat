@@ -1,0 +1,16 @@
+Tytuł: Przepis na miksturę przemiany w ścierwojada
+Podstawowe informacje:
+- nazwa: Przepis na miksturę przemiany w ścierwojada
+- wymagane składniki: 1x jajo ścierwojada, 1x dziwny grzyb, 1x fiolka
+- wymagane umiejętności: Warzenie mikstur przemiany
+- wymagane narzędzie: Stół alchemiczny
+- powstający przedmiot: Mikstura przemiany w ścierwojada
+- posiadacz: Alchemicy
+- status: Pospolity
+- występowanie: Gothic 3
+- wartość sprzedaży: Brak możliwości sprzedaży
+- wartość kupna: 200 złoto
+- wartość przedmiotu: 450 złoto
+- kod: It_Recipe_Scavenger
+Inne języki:
+- ru: Рецепт зелья превращения в падальщика

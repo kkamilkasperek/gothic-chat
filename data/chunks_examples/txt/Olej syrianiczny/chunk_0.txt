@@ -1,0 +1,15 @@
+Tytuł: Olej syrianiczny
+Podstawowe informacje:
+- nazwa: Olej syrianiczny
+- nazwa angielska: Syrianic oil
+- typ: Substancja
+- dodatkowe: Dostępny tylko za pomocą kodów
+- wartość kupna: 15 ruda
+- wartość sprzedaży: 8 ruda
+- występowanie: Gothic
+- questowy: Nie
+- kod: ItMi_Alchemy_SyrianOil_01
+Dodatkowe informacje:
+- Nieużywana zawartość
+Inne języki:
+- ru: Масло

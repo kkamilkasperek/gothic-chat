@@ -1,0 +1,15 @@
+Tytuł: Farma Toporka
+Podstawowe informacje:
+- nazwa: Farma Toporka
+- nazwa angielska: Topork's farm
+- podnazwa: Gothic 3,G3:ZB
+- typ: Farma
+- położenie: Wschód Myrtany; okolice Cape Dun i Reddock
+- mieszkańcy: Orkowie, Kliff, Świnie, Kury
+- populacja: 4x orkowie, Kliff, 3x świnia, 4x kura
+- zarządca: Topork
+- ważne postacie: Topork, Kliff
+- ważne miejsca: Brak
+- związek z fabułą: W Reddock potrzebują kowala, Pokonaj w pojedynku Toporka, Uwolnij Kliffa z niewoli u orków, Zabierz Kliffa do Javiera; przywódcy Reddock, Pozbądź się patrolu orków stacjonującego na farmie
+- występowanie: Gothic 3, Gothic 3: Zmierzch Bogów
+- teleportacja: Brak

@@ -1,0 +1,4 @@
+Tytuł: Zew nocy_Modyfikacje
+Sekcja: Carnage Graphic Patch
+
+Wygląd zewu nocy został zmieniony.

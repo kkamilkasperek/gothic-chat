@@ -1,0 +1,6 @@
+Tytuł: Ogórek
+Sekcja: ArcaniA
+
+Jest to długie, zielone warzywo. Po spożyciu go pasterzowi z Feshyr regeneruje się 10 punktów zdrowia. Można znaleźć go np. w jednej ze skrzyń w gospodzie „Pod Rozdartą Dziewicą” lub kupić od handlarzy żywnością.
+
+Wartość sprzedaży ogórka to 1 sztuka złota.

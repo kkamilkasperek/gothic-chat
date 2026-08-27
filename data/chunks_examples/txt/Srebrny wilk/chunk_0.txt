@@ -1,0 +1,14 @@
+Tytuł: Srebrny wilk
+Podstawowe informacje:
+- nazwa: Srebrny wilk
+- nazwa angielska: Silver wolf
+- gromada: Ssaki
+- odmiany: Odmiana wilka
+- środowisko życia: Łąka niedaleko Silden
+- punkty doświadczenia: 50
+- punkty życia: 200 (łatwy), 400 (średni), 600 (trudny)
+- rzadkość: Unikatowe
+- nastawienie do gracza: Agresywne
+- pozyskiwane przedmioty: 1x surowe mięso, 1x wilcza skóra, 1x zęby
+- występowanie: Gothic 3
+- kod: Silden_Wolf_01

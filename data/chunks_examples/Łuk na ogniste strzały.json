@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tytuł: Łuk na ogniste strzały\nPodstawowe informacje:\n- nazwa: Łuk na ogniste strzały\n- typ: Łuk\n- opis: Łuk na ogniste strzały, Zadaje obrażenia ogniem\n- wymagane atrybuty: Zręczność: 15\n- obrażenia: 10 (od ognia)\n- posiadacz: Brak\n- handlarze: Brak\n- wartość kupna: 200 ruda\n- wartość sprzedaży: 100 ruda\n- występowanie: Die Bedrohung\n- questowy: Na tropie magicznych skrzyń\n- kod: ItRw_FlameBow\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Łuk na ogniste strzały",
+      "type": "Broń",
+      "categories": [
+        "Łuki z modyfikacji",
+        "Die Bedrohung",
+        "Przedmioty związane z zadaniami z Die Bedrohung"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Łuk na ogniste strzały\nSekcja: Wstęp\n\nŁuk na ogniste strzały – broń dystansowa występująca w modyfikacji do Gothic pod tytułem Die Bedrohung.",
+    "metadata": {
+      "title": "Łuk na ogniste strzały",
+      "type": "Broń",
+      "categories": [
+        "Łuki z modyfikacji",
+        "Die Bedrohung",
+        "Przedmioty związane z zadaniami z Die Bedrohung"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Łuk na ogniste strzały\nSekcja: Die Bedrohung\n\nJest to specjalny łuk, jedyna broń, którą można zabić strażnika wody strzegącego ołtarza położonego na przeciwległym brzegu jeziora w pobliżu bramy do Nowego Obozu. Paranor musi użyć go do pokonania owego stworzenia podczas rozwiązywania zagadki magicznych skrzyń. Łuk jest unikatowy i można go znaleźć przy wspomnianym ołtarzu wody. Do korzystania z niego niezbędne są ogniste strzały – gdy bohater przejdzie tuż przed ołtarzem, automatycznie otrzyma 30 tych pocisków.\n\nBroń zadaje 10 punktów obrażeń od ognia i wymaga 15 punktów zręczności, aby móc jej używać. Wartość łuku wynosi 200 bryłek rudy, przy sprzedaży spada ona do 100 bryłek.",
+    "metadata": {
+      "title": "Łuk na ogniste strzały",
+      "type": "Broń",
+      "categories": [
+        "Łuki z modyfikacji",
+        "Die Bedrohung",
+        "Przedmioty związane z zadaniami z Die Bedrohung"
+      ],
+      "section": "Die Bedrohung",
+      "chunk_index": 2
+    }
+  }
+]

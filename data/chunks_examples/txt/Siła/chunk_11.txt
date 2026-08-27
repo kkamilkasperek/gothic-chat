@@ -1,0 +1,28 @@
+Tytuł: Siła
+Sekcja: Gothic II: Noc Kruka > Nauka
+
+W systemie nauki nie ma już różnic między gildiami, za to zostały wprowadzone progi aktualnej wysokości atrybutu, po których przekroczeniu zwiększa się koszt punktów nauki za jeden punkt siły – z tego powodu bardziej opłacalne jest wykorzystywanie wszystkich trwałych bonusów dopiero po znacznym wyuczeniu się atrybutu. Koszt jednego punktu siły w kolejnych progach przedstawia się następująco: 
+ od 0 do 29 punktów – 1 punkt nauki;
+ od 30 do 59 punktów – 2 PN;
+ od 60 do 89 punktów – 3 PN;
+ od 90 do 119 punktów – 4 PN;
+ od 120 punktów – 5 PN.
+Wykorzystując ograniczenia skryptów dialogowych, można zaoszczędzić część punktów nauki (Posiadając siłę na granicy progów, można nauczyć się 5 punktów atrybutu naraz po niższym koszcie punktów nauki. Np. gdy bohater ma siłę równą 29, ucząc się 5 punktów, zwiększy siłę do 34 i wyda tylko 5 PN. Gdyby zaś najpierw nauczył się do 30, to za kolejne 4 punkty siły musiałby już wydać według wyższego progu 8 PN. Taki sam manewr można wykonać, mając atrybut na granicy każdego z progów.).
+
+U dotychczasowych nauczycieli są wciąż identyczne wymagania rozpoczęcia nauki, natomiast większości z nich zmieniły się poziomy, do których mogą nauczać:
+ Carl – do 120 punktów;
+ Harad – do 90 punktów;
+ Mortis – do 60 punktów;
+ Opolos – do 90 punktów;
+ Torlof (zarówno na farmie Onara, jak i na okręcie) – do 200 punktów;
+ Brutus – do 90 punktów;
+ Ingmar – do 200 punktów;
+ Feros – do 90 punktów;
+ Bennet (tylko na okręcie) – do 200 punktów.
+
+W dodatku są też nowe osoby uczące siły:
+ Lares (tylko na wyspie Khorinis) – do 60 punktów;
+ Erol (po wykonaniu zadania) – do 200 punktów;
+ Diego (tylko w Górniczej Dolinie) – do 90 punktów;
+ Brandon (po przyniesieniu szybkiego śledzia) – do 90 punktów;
+ Bandyta (kucharz) – do 90 punktów.

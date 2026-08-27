@@ -1,0 +1,4 @@
+Tytuł: Maczuga
+Sekcja: Nyras Prologue > Statystyki
+
+Celne uderzenie wykonane maczugą zadaje 5 punktów obrażeń obuchowych, a do posługiwania się nią wymagane jest 5 punktów siły. Broni nie można kupić ani sprzedać, ponieważ w demie nie zaimplementowano systemu handlu.

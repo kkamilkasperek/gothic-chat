@@ -1,0 +1,57 @@
+Tytuł: Hakon
+Sekcja: Gothic II: Noc Kruka > Towary
+
+Pokaż/ukryj towary
+ Asortyment z I rozdziału to asortyment początkowy. Reszta rozdziałów to przedmioty, które zostają dodane do oferty handlarza.
+ Towary handlarza, ich liczba oraz statystyki różnią się w grze bez dodatku „Noc Kruka”.
+
+ Rozdział I 
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Krótki miecz | 1 | 500 |
+| Wilczy kieł | 1 | 550 |
+| Kostur sędziego | 1 | 600 |
+| Kiepski miecz półtoraręczny | 1 | 850 |
+| Buława | 1 | 1000 |
+| Topór marynarski | 1 | 600 |
+| Surowa stal | 5 | 10 |
+| Topór wojenny | 1 | 1400 |
+| Skórzany pas | 1 | 250 |
+| Pas straży | 1 | 250 |
+| Amulet pancerza | 1 | 800 |
+
+
+ Rozdział II 
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Surowa stal | 5 | 10 |
+
+
+ Rozdział III 
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Oskard | 1 | 800 |
+| Topór obosieczny | 2 | 900 |
+| Buława | 1 | 1000 |
+| Orkowa zguba | 2 | 1300 |
+| Surowa stal | 5 | 10 |
+| Pas obrony | 1 | 500 |
+
+
+ Rozdział IV 
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Surowa stal | 5 | 10 |
+| Pas ochrony (typ 2) | 1 | 500 |
+| Pas strażnika | 1 | 2000 |
+
+
+ Rozdział V 
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Surowa stal | 5 | 10 |

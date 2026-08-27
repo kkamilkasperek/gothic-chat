@@ -1,0 +1,9 @@
+Tytuł: Przepis na miksturę przemiany w ścierwojada
+Sekcja: Gothic 3
+
+Przepis pozwala na wytwarzanie mikstur przemiany w ścierwojada przy użyciu stołu alchemicznego. Aby Bezimienny mógł uwarzyć tą miksturę, musi posiadać zdolność Warzenie mikstur przemiany. Recepturę można nabyć od większości alchemików na kontynencie. Jej wartość kupna wynosi 200 sztuk złota.
+
+Składniki potrzebne do uwarzenia mikstury:
+ 1x jajo ścierwojada
+ 1x dziwny grzyb;
+ 1x fiolka.

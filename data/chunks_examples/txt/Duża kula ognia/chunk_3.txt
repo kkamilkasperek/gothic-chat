@@ -1,0 +1,8 @@
+Tytuł: Duża kula ognia
+Sekcja: Gothic II: Noc Kruka
+
+Zmieniły się statystyki czaru. Minimalne obrażenia zostały zmniejszone do 75 punktów. W zależności od poziomu naładowania czar zużywa teraz od 40 do 160 punktów many.
+
+Oprócz Goraxa i Isgarotha, 3 egzemplarze zwoju można teraz zakupić w IV rozdziale również od Cronosa.
+
+Wartość nominalna zwoju spadła do 60 sztuk złota. Teraz runę i zwój bohater może sprzedać odpowiednio za 300 i 9 złotych monet.

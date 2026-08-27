@@ -1,0 +1,11 @@
+Tytuł: Ogórek
+Podstawowe informacje:
+- nazwa: Ogórek
+- typ: Owoc
+- opis w grze: Jedzenie.
+- działanie: Odnawia 10 punktów zdrowia
+- wartość kupna: Brak możliwości kupna
+- wartość: 1 złoto
+- występowanie: ArcaniA
+- questowy: Nie
+- kod: Brak

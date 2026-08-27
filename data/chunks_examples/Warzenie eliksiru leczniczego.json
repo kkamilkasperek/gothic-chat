@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Tytuł: Warzenie eliksiru leczniczego\nPodstawowe informacje:\n- nazwa: Warzenie eliksiru leczniczego\n- podnazwa: GII, GII:NK\n- nauczyciele: Constantino, Neoras, Vatras\n- wymagania: Warzenie ekstraktu leczniczego\n- następstwa: Warzenie eliksiru życia, Warzenie eliksiru siły, Warzenie eliksiru zręczności\n- pozwala na: Przyrządzenie eliksiru leczniczego na stole alchemicznym\n- koszt: 5 punktów nauki",
+    "metadata": {
+      "title": "Warzenie eliksiru leczniczego",
+      "type": "Umiejętność",
+      "categories": [
+        "Umiejętności alchemiczne z Gothic II"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Warzenie eliksiru leczniczego\nSekcja: Wstęp\n\nWarzenie eliksiru leczniczego – umiejętność alchemiczna występująca w Gothic II oraz Gothic II: Noc Kruka. Jak sama nazwa wskazuje, pozwala ona Bezimiennemu na przygotowanie eliksiru leczniczego na stole alchemicznym.",
+    "metadata": {
+      "title": "Warzenie eliksiru leczniczego",
+      "type": "Umiejętność",
+      "categories": [
+        "Umiejętności alchemiczne z Gothic II"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Warzenie eliksiru leczniczego\nSekcja: Gothic II\n\nBohater może nauczyć się tej zdolności od następujących osób:\n Constantina, gdy Bezimienny jest jego czeladnikiem lub został czeladnikiem Harada albo Bospera i potrafi przyrządzić dowolną miksturę;\n Neorasa, gdy bohater jest magiem ognia lub paladynem;\n Vatrasa, po dotarciu na dwór Irdorath.\nBezimienny musi umieć warzyć ekstrakt leczniczy oraz wydać 5 punktów nauki na naukę tej umiejętności. Po przyswojeniu tego talentu bohater ma możliwość przyrządzenia eliksiru leczniczego na stole alchemicznym, jeśli posiada następujące składniki:\n menzurkę;\n 2 korzenie lecznicze;\n 1 rdest polny.\nPóźniej, Bezimienny może nauczyć się, jak uwarzyć eliksir życia, eliksir siły oraz eliksiru zręczności.",
+    "metadata": {
+      "title": "Warzenie eliksiru leczniczego",
+      "type": "Umiejętność",
+      "categories": [
+        "Umiejętności alchemiczne z Gothic II"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Warzenie eliksiru leczniczego\nSekcja: Gothic II: Noc Kruka\n\nKoszty nauki, nauczyciele oraz składniki do przyrządzenia mikstury nie zmieniły się. Nastąpiły natomiast dwie zmiany:\n Umiejętność ta nie jest już konieczna, aby nauczyć się przyrządzania eliksiru siły czy eliksiru zręczności;\n Po nauce tej zdolności bohater może zacząć warzyć pełnię życia na stole alchemicznym po przeczytaniu odpowiedniego przepisu.",
+    "metadata": {
+      "title": "Warzenie eliksiru leczniczego",
+      "type": "Umiejętność",
+      "categories": [
+        "Umiejętności alchemiczne z Gothic II"
+      ],
+      "section": "Gothic II: Noc Kruka",
+      "chunk_index": 3
+    }
+  }
+]

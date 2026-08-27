@@ -1,0 +1,16 @@
+Tytuł: Pierścień siły duchowej
+Podstawowe informacje:
+- nazwa: Pierścień siły duchowej
+- nazwa angielska: Ring of Spiritual Power
+- typ: Pierścień
+- właściciel: Brak
+- rzadkość: Unikat
+- ochrona: Magia: 1
+- wartość kupna: 200 ruda
+- wartość sprzedaży: 100 ruda
+- handlarze: Baal Cadar
+- występowanie: Gothic
+- questowy: Nie
+- kod: SchutzRing_Magie1
+Inne języki:
+- ru: Кольцо духовной силы

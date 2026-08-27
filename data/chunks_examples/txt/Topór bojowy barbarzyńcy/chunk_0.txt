@@ -1,0 +1,17 @@
+Tytuł: Topór bojowy barbarzyńcy
+Podstawowe informacje:
+- nazwa: Topór bojowy barbarzyńcy
+- podnazwa: Gothic 3,G3:ZB
+- nazwa angielska: Barbarian Battle Axe
+- typ: Broń dwuręczna
+- opis: Nawet ork bałby się tej broni.
+- wymagane umiejętności: Duży oręż II
+- wymagane atrybuty: Siła: 250
+- obrażenia: 120 (60 w wersji zużytej)
+- dodatkowe: Zabójca orków
+- posiadacz: Nordmarczycy, Zabójcy orków, Gorn
+- handlarze: Brak
+- wartość kupna: 35000 Złoto
+- wartość sprzedaży: 10500 Złoto
+- występowanie: Gothic 3, Gothic 3: Zmierzch Bogów
+- kod: It_Axe_BarbarianAxe_01

@@ -1,0 +1,17 @@
+Tytuł: Karaluch
+Podstawowe informacje:
+- nazwa: Karaluch
+- gromada: Owady
+- odmiany: Duży karaluch
+- środowisko życia: Opuszczony szyb, Tunele pod kołchozem, Jaskinia na pustkowiu
+- punkty doświadczenia: 104
+- siła/zręczność: 60/60
+- punkty życia: 120
+- pancerz: Ochrona przed bronią: 60, Ochrona przed pociskami: 60, Ochrona przed ogniem: 60, Ochrona przed magią: 0
+- rzadkość: Rzadki
+- nastawienie do gracza: Agresywne
+- pozyskiwane przedmioty: Żuwaczki karalucha
+- występowanie: Podróżnik – Za liniami wroga
+- kod: minecrawler
+Dodatkowe informacje:
+- Niekanon

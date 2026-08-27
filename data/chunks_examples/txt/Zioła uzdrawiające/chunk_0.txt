@@ -1,0 +1,14 @@
+Tytuł: Zioła uzdrawiające
+Podstawowe informacje:
+- nazwa: Zioła uzdrawiające
+- nazwa angielska: Healing Herbs
+- typ: Roślina
+- działanie: Słabe: przywraca 30 punktów życia, Średnie: przywraca 39 punktów życia, Mocne: przywraca 49 punktów życia
+- status: Słabe: 40 sztuk, Średnie: 17 sztuk, Mocne: 41 sztuk
+- wartość kupna: Słabe: 14 bryłek rudy, Średnie: 19 bryłek rudy, Mocne: 24 bryłki rudy
+- wartość: Słabe: 7 bryłek rudy, Średnie: 10 bryłek rudy, Mocne: 12 bryłek rudy
+- występowanie: Gothic
+- questowy: Słabe i średnie: nie, Mocne: Lecznicze zioła dla Y'Beriona
+- kod: Słabe: ItFo_Plants_Herb_01, Średnie: ItFo_Plants_Herb_02, Mocne: ItFo_Plants_Herb_03
+Inne języki:
+- ru: Целительные травы

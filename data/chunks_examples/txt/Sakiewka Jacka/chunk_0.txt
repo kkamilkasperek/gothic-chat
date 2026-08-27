@@ -1,0 +1,15 @@
+Tytuł: Sakiewka Jacka
+Podstawowe informacje:
+- nazwa: Sakiewka Jacka
+- typ: Sakiewka
+- opis: Sakwa Jacka.
+- właściciel: Brak
+- rzadkość: Nie występuje
+- dodatkowe: Dostępnie jedynie za pomocą kodów
+- wartość kupna: Brak możliwości kupna
+- wartość sprzedaży: Brak możliwości sprzedaży
+- występowanie: Gothic 3
+- questowy: Nie
+- kod: It_Pocket_Jack
+Dodatkowe informacje:
+- Nieużywana zawartość

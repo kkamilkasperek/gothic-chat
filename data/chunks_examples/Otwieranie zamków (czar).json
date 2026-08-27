@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tytuł: Otwieranie zamków (czar)\nPodstawowe informacje:\n- nazwa: Otwieranie zamków\n- nazwa angielska: Open locks\n- bóg: Adanos\n- nauczyciele: Saturas, Riordian, Merdarion, Vatras, Cronos, Porgan (po wybraniu ścieżki Adanosa)\n- opis: Otwiera większość skrzyń i drzwi.\n- koszt nauki: 5 punktów nauki, 5000 złoto\n- prastara wiedza: 230\n- obrażenia: 0\n- wymagana mana: 20\n- działanie: Odblokowuje zamknięty zamek\n- wartość kupna: 750 złoto\n- wartość sprzedaży: 225 złoto\n- występowanie: Gothic 3, Gothic 3: Zmierzch Bogów\n- kod: It_Spell_OpenLocks (czar), It_Scroll_OpenLocks (zwój)\nDodatkowe informacje:\n- Inne znaczenia (1: czaru z Gothic 3, 2: Otwieranie zamków (umiejętność), 3: otwieranie zamków (umiejętność))\nInne języki:\n- ru: Взлом замков",
+    "metadata": {
+      "title": "Otwieranie zamków (czar)",
+      "type": "Czar",
+      "categories": [
+        "Magia Adanosa",
+        "Czary z Gothic 3",
+        "Czary z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Otwieranie zamków (czar)\nSekcja: Wstęp\n\nOtwieranie zamków – czar magii Adanosa występujący w Gothic 3 i Gothic 3: Zmierzch Bogów.",
+    "metadata": {
+      "title": "Otwieranie zamków (czar)",
+      "type": "Czar",
+      "categories": [
+        "Magia Adanosa",
+        "Czary z Gothic 3",
+        "Czary z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Otwieranie zamków (czar)\nSekcja: Gothic 3\n\nPo rzuceniu zaklęcia wskazany zamek zostaje odblokowany. Nie działa jednak ono na każdą skrzynię lub drzwi. Zaklęcia można się nauczyć na stałe od określonych nauczycieli (Saturas, Riordian, Merdarion, Vatras, Cronos, Porgan), trzeba jednak uprzednio wybrać ścieżkę Adanosa. Nauka kosztuje 5 punktów nauki i 5000 sztuk złota, a Bezimienny musi posiadać co najmniej 230 punktów prastarej wiedzy.\n\nKażde rzucenie czaru zużywa 20 punktów many. Nie wiadomo, co było potrzebne do stworzenia runy tego zaklęcia, ponieważ na Khorinis nie było ono używane.\n\nZwój zaklęcia można pospolicie znaleźć w metalowych kufrach i solidnych metalowych kufrach rozmieszczonych na kontynencie oraz w 14. z kolei starej skrzyni. Jest warty 225 sztuk złota przy sprzedaży, a przy odkupie jego cena wzrasta do 750 sztuk złota.",
+    "metadata": {
+      "title": "Otwieranie zamków (czar)",
+      "type": "Czar",
+      "categories": [
+        "Magia Adanosa",
+        "Czary z Gothic 3",
+        "Czary z Gothic 3: Zmierzch Bogów"
+      ],
+      "section": "Gothic 3",
+      "chunk_index": 2
+    }
+  }
+]

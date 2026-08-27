@@ -1,0 +1,20 @@
+Tytuł: Hakon
+Podstawowe informacje:
+- imię: Hakon
+- podnazwa: Gothic II,GII:NK
+- gildia: Obywatel
+- zawód: Handlarz
+- poziom: 24
+- miejsce zamieszkania: Khorinis
+- miejsce urzędowania: Plac targowy
+- posiadana broń: Kiepski krótki miecz
+- posiadana zbroja: Strój obywatela
+- status: Nieznany
+- dubbing: Piotr Bąk
+- kod: Vlk_407_Hakon
+- przedmiot kradzieży: 65 złoto
+- wymagana zręczność: 45
+Inne języki:
+- cs: Hakon
+- it: Hakon
+- ru: Хакон

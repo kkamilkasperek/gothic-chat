@@ -1,0 +1,16 @@
+Tytuł: Piorun kulisty
+Podstawowe informacje:
+- nazwa: Piorun kulisty
+- nazwa angielska: Ball Lightning
+- podnazwa: Gothic,Gothic II,GII:NK
+- bóg: Adanos
+- krąg: Trzeci
+- obrażenia: 20-80
+- wymagana mana: 1-5
+- działanie: Zadaje średnie obrażenia i na chwilę paraliżuje cel
+- wartość kupna: 900 ruda (runa), 90 ruda (zwój)
+- wartość sprzedaży: 450 ruda (runa), 45 ruda (zwój)
+- występowanie: Gothic, Gothic II
+- kod: itarrunethunderball (runa), itarscrollthunderball (zwój)
+Inne języki:
+- ru: Шаровая молния

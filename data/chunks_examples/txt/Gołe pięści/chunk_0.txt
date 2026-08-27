@@ -1,0 +1,17 @@
+Tytuł: Gołe pięści
+Podstawowe informacje:
+- nazwa: Gołe pięści
+- nazwa angielska: Bare fists
+- podnazwa: Gothic Remake,NP
+- typ: Broń dwuręczna
+- opis: Brak
+- wymagane atrybuty: Brak
+- obrażenia: 1 (obuchowe)
+- rzadkość: Unikat
+- posiadacz: Bezimienny (domyślnie)
+- handlarze: Brak
+- wartość kupna: Brak możliwości kupna
+- wartość sprzedaży: Brak możliwości sprzedaży
+- występowanie: Gothic Remake, Nyras Prologue
+- questowy: Nie
+- kod: Brak

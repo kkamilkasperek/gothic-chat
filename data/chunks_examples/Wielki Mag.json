@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Tytuł: Wielki Mag\nPodstawowe informacje:\n- imię: Wielki Mag\n- gildia: Brak\n- poziom: 60\n- miejsce zamieszkania: Pustynia\n- miejsce urzędowania: Obóz na pustyni\n- posiadana broń: Magia\n- posiadana zbroja: Strój wielkiego maga\n- występowanie: Mój Mod\n- status: Żyje\n- dubbing: Syntezator IVONA\n- kod: MM_001_Mage\n- przedmiot kradzieży: Kradzież niemożliwa\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Wielki Mag",
+      "type": "Postać",
+      "categories": [
+        "Postacie z Mój Mod",
+        "Magowie z modyfikacji"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Wielki Mag\nSekcja: Wstęp\n\nWielki Mag – postać występująca w modyfikacji do Gothic II: Noc Kruka pod tytułem Mój Mod. Jest tajemniczym magiem nieoficjalnie przewodzącym obozem na pustyni.",
+    "metadata": {
+      "title": "Wielki Mag",
+      "type": "Postać",
+      "categories": [
+        "Postacie z Mój Mod",
+        "Magowie z modyfikacji"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Wielki Mag\nSekcja: Mój Mod\n\nJest magiem, którego potęga i przynależność pozostają nieznane. Odnajduje nieprzytomnego bohatera oraz wprowadza go w świat modyfikacji po jego przebudzeniu. Prosi go o zapoznanie się z ludźmi w obozie.",
+    "metadata": {
+      "title": "Wielki Mag",
+      "type": "Postać",
+      "categories": [
+        "Postacie z Mój Mod",
+        "Magowie z modyfikacji"
+      ],
+      "section": "Mój Mod",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Wielki Mag\nSekcja: Mój Mod > Zlecane zadania\n\nZamek",
+    "metadata": {
+      "title": "Wielki Mag",
+      "type": "Postać",
+      "categories": [
+        "Postacie z Mój Mod",
+        "Magowie z modyfikacji"
+      ],
+      "section": "Mój Mod > Zlecane zadania",
+      "chunk_index": 3
+    }
+  }
+]

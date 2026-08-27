@@ -1,0 +1,15 @@
+Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha
+Podstawowe informacje:
+- nazwa: Zabij pochrząkujące bestie z jaskini koło farmy Josha
+- nazwa angielska: Kill the grunting creatures below Josh's farm
+- zleceniodawca: Josh
+- start: Farma Josha
+- koniec: Farma Josha
+- poprzednie: Brak
+- część zadania: Brak
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 1000 punktów doświadczenia (+500 po rozmowie z Joshem po wykonaniu zadania), Reputacja w Trelis: +8, 1000 Złoto
+- występowanie: Gothic 3
+Inne języki:
+- ru: Убей хрюкающих тварей

@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Tytuł: Sparing\nPodstawowe informacje:\n- nazwa: Sparing\n- nazwa angielska: Sparring Session\n- zleceniodawca: Kirgo\n- start: Rumowisko skalne na drodze do doliny\n- koniec: Rumowisko skalne na drodze do doliny\n- poprzednie: Brak\n- część zadania: Brak\n- następne: Brak\n- dostępność: Wszyscy\n- nagroda: 50 punktów doświadczenia, Esencja uzdrawiająca (przy przegranej), Nauka walki bronią jednoręczną\n- występowanie: Nyras Prologue\nDodatkowe informacje:\n- Prolog",
+    "metadata": {
+      "title": "Sparing",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Nyras Prologue"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Sparing\nSekcja: Wstęp\n\nSparing – zadanie poboczne występujące w Nyras Prologue. Jest zlecane Nyrasowi przez Kirgo.",
+    "metadata": {
+      "title": "Sparing",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Nyras Prologue"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Sparing\nSekcja: Krok po kroku\n\nPorozmawiaj z Kirgo.\n Powiedz, że jesteś gotów do walki (konieczne posiadanie broni białej).\n Po starciu porozmawiaj ponownie z Kirgo.",
+    "metadata": {
+      "title": "Sparing",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Nyras Prologue"
+      ],
+      "section": "Krok po kroku",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Sparing\nSekcja: Przebieg zadania\n\nPrzy rumowisku skalnym blokującym dalszą drogę do doliny Nyras spotyka Kirgo, strażnika ze Starego Obozu, który stara się odgruzować przejście. Po krótkiej rozmowie proponuje on sparing w ramach treningu przed zbliżającą się jego walką na arenie. Jeśli bohater ma przy sobie jakąś broń białą, np. zardzewiały miecz lub maczugę, może stwierdzić, że jest gotów, i rozpocznie się potyczka.\n\nNiezależnie od jej wyniku Kirgo stwierdzi, że protagonista mógłby się czegoś nauczyć i podszkoli go w walce bronią jednoręczną. Ponadto jeśli Nyras przegrał, dostanie od strażnika esencję uzdrawiającą. Zadanie kończy się powodzeniem, a za wykonanie go bohater otrzymuje 50 punktów doświadczenia. Ma wówczas możliwość jednorazowo poprosić o rewanż.",
+    "metadata": {
+      "title": "Sparing",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Nyras Prologue"
+      ],
+      "section": "Przebieg zadania",
+      "chunk_index": 3
+    }
+  }
+]

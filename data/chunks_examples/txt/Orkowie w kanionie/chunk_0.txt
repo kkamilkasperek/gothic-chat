@@ -1,0 +1,14 @@
+Tytuł: Orkowie w kanionie
+Podstawowe informacje:
+- nazwa: Orkowie w kanionie
+- nazwa angielska: The Orcs in the canyon
+- zleceniodawca: Riordian
+- start: Ruiny centralne
+- koniec: Obóz magów wody w Jarkendarze
+- poprzednie: Posiadłości Budowniczych
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 300 punktów doświadczenia
+- występowanie: Gothic II: Noc Kruka
+Inne języki:
+- ru: Орки в каньоне

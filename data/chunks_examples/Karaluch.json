@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Tytuł: Karaluch\nPodstawowe informacje:\n- nazwa: Karaluch\n- gromada: Owady\n- odmiany: Duży karaluch\n- środowisko życia: Opuszczony szyb, Tunele pod kołchozem, Jaskinia na pustkowiu\n- punkty doświadczenia: 104\n- siła/zręczność: 60/60\n- punkty życia: 120\n- pancerz: Ochrona przed bronią: 60, Ochrona przed pociskami: 60, Ochrona przed ogniem: 60, Ochrona przed magią: 0\n- rzadkość: Rzadki\n- nastawienie do gracza: Agresywne\n- pozyskiwane przedmioty: Żuwaczki karalucha\n- występowanie: Podróżnik – Za liniami wroga\n- kod: minecrawler\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Karaluch",
+      "type": "Bestia",
+      "categories": [
+        "Insekty z Podróżnik – Za liniami wroga"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Karaluch\nSekcja: Wstęp\n\nKaraluch – insekt występujący w modyfikacji Podróżnik – Za liniami wroga do Gothic II: Noc Kruka.",
+    "metadata": {
+      "title": "Karaluch",
+      "type": "Bestia",
+      "categories": [
+        "Insekty z Podróżnik – Za liniami wroga"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Karaluch\nSekcja: Podróżnik – Za liniami wroga\n\nTo olbrzymie pajęczaki żyjące w Rosji. Najczęściej występują w jaskiniach lub starych szybach kopalń, gdzie zakładają gniazda i czyhają na nieuważnych podróżnych lub amatorów górnictwa. W momencie zauważeniu ofiary głośno syczą, po czym ruszają do ataku. Poruszają się szybko, więc ucieczka przed nimi nie należy do najprostszych. Podczas walki wyprowadzają szybkie ciosy przednimi odnóżami, jednocześnie unikając kontrataków i próbując zajść przeciwnika od tyłu. Z ciał zabitych osobników można pozyskać żuwaczki.",
+    "metadata": {
+      "title": "Karaluch",
+      "type": "Bestia",
+      "categories": [
+        "Insekty z Podróżnik – Za liniami wroga"
+      ],
+      "section": "Podróżnik – Za liniami wroga",
+      "chunk_index": 2
+    }
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "text": "Tytuł: Maczuga\nPodstawowe informacje:\n- nazwa: Maczuga\n- nazwa angielska: Mace\n- podnazwa: Gothic,G3:TB,ArcaniA,NP\n- typ: Obuchowa broń jednoręczna\n- wymagane atrybuty: Siła: 10\n- obrażenia: 23 (obuchowe)\n- posiadacz: Homer, Talas, Szkodnicy, Gobliny-wojownicy\n- handlarze: II rozdział:, Sharky, Darrion\n- wartość kupna: 55 ruda\n- wartość sprzedaży: 28 ruda\n- występowanie: Gothic, Gothic 3: The Beginning, ArcaniA, Nyras Prologue\n- kod: itmw_1h_mace_01\nInne języki:\n- de: Streitkolben (G1)\n- ru: Булава (Gothic)",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Wstęp\n\nMaczuga – broń występująca w Gothic, Gothic 3: The Beginning, ArcaniA oraz Nyras Prologue. W Gothic II pojawia się jako pałka z kolcami.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Gothic > Wygląd\n\nSkłada się z drewnianego trzonka owiniętego czarnym materiałem przy uchwycie, na końcu którego umieszczono metalowa wstawkę koloru złotego. Po drugiej stronie znajduje się kolejna metalowa wstawka, z nasadzonym nań żelaznym obuchem z pięcioma kolcami.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Gothic > Wygląd",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Gothic > Występowanie\n\nUżywają jej głównie bezimienni szkodnicy (w tym bandziory Lewusa), kilku nowicjuszy Bractwa Śniącego oraz wojownicy goblinów w kanionie trolli. Baal Namib posiada własny egzemplarz maczugi o lepszych statystykach.\n\n Znani użytkownicy broni\n Talas\n Homer\n\nBezimienny może ją kupić w II rozdziale u Sharky'ego lub Darriona.\n\nJeden egzemplarz znajduje się w jaskini czarnych goblinów obok skrzyni z almanachem. Dwa kolejne można znaleźć w Starym Obozie, w zamkniętej na klucz skrzyni w zbrojowni na parterze siedziby magnatów.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Gothic > Występowanie",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Gothic > Statystyki\n\nBroń zadaje 23 punkty obrażeń obuchowych i wymaga 10 punktów siły, aby się nią posługiwać. Wartość kupna maczugi wynosi 55 bryłek rudy, przy sprzedaży spada do 28 bryłek.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Gothic > Statystyki",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Gothic 3: The Beginning > Wygląd\n\nJest to maczuga o dość krótkim zasięgu rażenia wykonana z jednego kawałka drewna.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Gothic 3: The Beginning > Wygląd",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Gothic 3: The Beginning > Występowanie\n\nMaczugę można znaleźć w ciałach pokonanych początkujących zbójców, kościotrupów oraz zwiadowców orków lub w niektórych schowkach rozmieszczonych na wyspie Khorinis. Często w swoim asortymencie posiada ją kowal z Khorinis.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Gothic 3: The Beginning > Występowanie",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Gothic 3: The Beginning > Statystyki\n\nWartość kupna maczugi wynosi 6 sztuk złota, a podczas sprzedaży spada do 3 sztuk złota. Broń zadaje od 14 do 17 punktów obrażeń, ma zasięg o wartości 10, a jej współczynnik prędkości wynosi 60. Szansa na trafienie maczugą wynosi 56, a szansa na zadanie obrażeń krytycznych – 8. Żeby ją wyposażyć, Xardas musi mieć wytrenowany atrybut siły do co najmniej 5 punktów, co oznacza, że jest w stanie się nią posługiwać od początku rozgrywki.\n\nOręż może posiadać wiele dodatkowych bonusów, które zostały opisane w poniższej tabeli.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Gothic 3: The Beginning > Statystyki",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: ArcaniA\n\nJest to mocna maczuga jednoręczna wykonana w całości z metalu. Na głowni posiada cztery pióra, a rękojeść pokryto skórą dla lepszego i wygodniejszego uchwytu.\n\nBezimienny może znaleźć ją w jednej ze skrzyń w kryjówce buntowników Hertana lub zakupić ją u Thora za 275 sztuk złota. Może ją potem przekuć w maczugę z rudy. Potrzebuje do tego odpowiedniego schematu kowalskiego i wymaganych składników.\n\nWartość sprzedaży maczugi wynosi 55 sztuk złota.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "ArcaniA",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Nyras Prologue\n\nJest to prosta broń, która w Gothic występuje jako pałka.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Nyras Prologue",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Nyras Prologue > Występowanie\n\nNyras może znaleźć jeden egzemplarz przy ludzkim szkielecie w pobliżu drzewa wisielców, a drugi na płaskowyżu ponad opuszczoną kopalnią. Ostatnim posługuje się zielony goblin przebywający nieopodal szałasu na końcu tego płaskowyżu i bohater może go zdobyć po pokonaniu humanoida.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Nyras Prologue > Występowanie",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Nyras Prologue > Statystyki\n\nCelne uderzenie wykonane maczugą zadaje 5 punktów obrażeń obuchowych, a do posługiwania się nią wymagane jest 5 punktów siły. Broni nie można kupić ani sprzedać, ponieważ w demie nie zaimplementowano systemu handlu.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Nyras Prologue > Statystyki",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Tytuł: Maczuga\nSekcja: Ciekawostki\n\nW pierwszej części jedna maczuga powinna leżeć w świątyni Śniącego obok środkowego przełącznika w komnacie Varraga-Kasorga, lecz z powodu współrzędnej wysokości równej 0 znajduje się ona ponad modelem sufitu i można ją zdobyć jedynie za pomocą kodów.",
+    "metadata": {
+      "title": "Maczuga",
+      "type": "Broń",
+      "categories": [
+        "Broń jednoręczna z ArcaniA",
+        "Broń jednoręczna z Gothic",
+        "Broń jednoręczna z Gothic 3: The Beginning",
+        "Broń jednoręczna z Nyras Prologue"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 12
+    }
+  }
+]

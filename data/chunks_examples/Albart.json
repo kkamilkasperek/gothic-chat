@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Tytuł: Albart\nPodstawowe informacje:\n- imię: Albart\n- gildia: Strażnik\n- zawód: Wojownik\n- miejsce zamieszkania: Stara Kopalnia\n- miejsce urzędowania: Stara Kopalnia\n- posiadana broń: Miecz strażnika\n- posiadana zbroja: Zbroja strażnika\n- występowanie: Kopalnia\n- status: Żyje\n- poziom: 13\n- kod: MNW_006_ALBART\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Albart",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Kopalni",
+        "Strażnicy w Starym Obozie z modyfikacji"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Albart\nSekcja: Wstęp\n\nAlbart – postać występująca w modyfikacji Kopalnia. Jest jednym ze strażników w Starej Kopalni.",
+    "metadata": {
+      "title": "Albart",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Kopalni",
+        "Strażnicy w Starym Obozie z modyfikacji"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Albart\nSekcja: Przed akcją modyfikacji\n\nAlbart dołączył do Starego Obozu. Szybko wspinał się po szczeblach kariery i ostatecznie został strażnikiem. Jakiś czas później został wysłany przez Thorusa do Starej Kopalni.",
+    "metadata": {
+      "title": "Albart",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Kopalni",
+        "Strażnicy w Starym Obozie z modyfikacji"
+      ],
+      "section": "Przed akcją modyfikacji",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Albart\nSekcja: Kopalnia\n\nZ tego co wynika z rozmowy, Albart i Torak znali się przed akcją modyfikacji. Strażnik ubolewa nad zniszczeniami spowodowanymi zawalaniem się Starej Kopalni. W III rozdziale, gdy bohater pyta się Albarta czy opowie się przeciw Ianowi, Albart odmawia.",
+    "metadata": {
+      "title": "Albart",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Kopalni",
+        "Strażnicy w Starym Obozie z modyfikacji"
+      ],
+      "section": "Kopalnia",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Albart\nSekcja: Dalsze losy\n\nAlbart ginie w V rozdziale podczas ataku pełzaczy na Starą Kopalnię.",
+    "metadata": {
+      "title": "Albart",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Kopalni",
+        "Strażnicy w Starym Obozie z modyfikacji"
+      ],
+      "section": "Dalsze losy",
+      "chunk_index": 4
+    }
+  }
+]

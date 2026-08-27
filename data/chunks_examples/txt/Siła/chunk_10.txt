@@ -1,0 +1,6 @@
+Tytuł: Siła
+Sekcja: Gothic II: Noc Kruka
+
+Względem podstawowej gry nie zmienił się wpływ siły na walkę bronią białą, tj. wciąż od jej wysokości zależy możliwość używania większości broni jedno- i dwuręcznej, z wyjątkiem kilku jednoręcznych, które wymagają zręczności oraz jednej dwuręcznej, do której potrzebna jest mana. Niezmiennie przy wszystkich to wartość siły jest doliczana do obrażeń każdej broni białej podczas zadawania ciosu.
+
+Dodatkowo teraz to siła odpowiada za używanie kusz, lecz na obrażenia nimi zadane nadal wpływa zręczność.

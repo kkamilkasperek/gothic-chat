@@ -1,0 +1,4 @@
+Tytuł: Starożytna zbroja magiczna_Modyfikacje
+Sekcja: Świat Skazańców
+
+Wartość zbroi nie uległa zmianie, natomiast oprócz standardowych ochron przed bronią, ogniem i magią z podstawowej gry zwiększa ona także o 95 punktów ochronę przed pociskami. Jej opis został skrócony do: Wykonana z magicznej rudy.

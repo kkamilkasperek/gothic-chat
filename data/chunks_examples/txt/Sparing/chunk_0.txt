@@ -1,0 +1,15 @@
+Tytuł: Sparing
+Podstawowe informacje:
+- nazwa: Sparing
+- nazwa angielska: Sparring Session
+- zleceniodawca: Kirgo
+- start: Rumowisko skalne na drodze do doliny
+- koniec: Rumowisko skalne na drodze do doliny
+- poprzednie: Brak
+- część zadania: Brak
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 50 punktów doświadczenia, Esencja uzdrawiająca (przy przegranej), Nauka walki bronią jednoręczną
+- występowanie: Nyras Prologue
+Dodatkowe informacje:
+- Prolog

@@ -1,0 +1,326 @@
+[
+  {
+    "text": "Tytuł: Siła\nPodstawowe informacje:\n- nazwa: Siła\n- nazwa angielska: Strength\n- podnazwa: Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT\n- wpływa na: Noszenie broni białej, Liczbę punktów obrażeń zadawanych bronią białą\n- nauczyciele: Lista nauczycieli\n- koszt nauki: 1 punkt nauki\n- występowanie: Gothic, Gothic II, Gothic 3, Gothic 3: Zmierzch Bogów, Gothic Playable Teaser\n- kod: edit abilities → attributes → 4 = wartość",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Wstęp\n\nSiła – współczynnik występujący w Gothic, Gothic II, Gothic 3, Gothic 3: Zmierzch Bogów oraz Gothic Playable Teaser.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic\n\nBezimienny ma na początku rozgrywki 10 punktów siły. Jej wysokość decyduje, którą bronią białą jedno- i dwuręczną są w stanie posługiwać się poszczególne postacie. Wpływa także na zadawane nią obrażenia – jej wartość jest doliczana do obrażeń danej broni podczas zadawania ciosu.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic > Nauka\n\nSystem nauki jest bardzo prosty: jeden punkt siły kosztuje Bezimiennego jeden punkt nauki. Nauczyciele mogą zwiększyć siłę maksymalnie do 100 punktów, niektórzy będą uczyć bohatera wyłącznie po dołączeniu do konkretnej gildii. Są to:\n Diego;\n Lares;\n Cor Angar – tylko jako nowicjusz/strażnik świątynny;\n Gor Na Toth – tylko jako nowicjusz/strażnik świątynny;\n Lee – tylko jako najemnik;\n Thorus – tylko jako strażnik Starego Obozu.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic > Nauka",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic > Bonusy tymczasowe\n\nBezimienny może tymczasowo podnieść swoją siłę, korzystając z poniższych artefaktów:\n amulet mocy – 10 punktów;\n amulet siły – 20 punktów;\n amulet potęgi – 7 punktów;\n pierścień mocy – 5 punktów;\n pierścień siły – 10 punktów;\n pierścień siły wojownika – 4 punkty.\nIstnieje też pierścień Laresa, który dodaje 3 punkty siły, lecz nie pojawia się on w rozgrywce.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic > Bonusy tymczasowe",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic > Bonusy trwałe\n\nBohater może trwale zwiększyć swoją siłę, pijąc odpowiednie mikstury:\n esencja siły – 3 punkty;\n eliksir siły – 8 punktów;\n napój potęgi – 4 punkty;\n napój władzy – 6 punktów.\nIstnieje też wyciąg siły, który dodaje 5 punktów siły, ale nie występuje on w regularnej rozgrywce.\n\nDodatkowo Horacy może jednorazowo zwiększyć siłę bohatera o 5 bez zużycia punktów nauki po ukończeniu zadania Zbieracz Horacy. Należy pamiętać, że podnosi on siłę maksymalnie do 100 punktów, więc jeśli podczas odpowiedniego dialogu z nim Bezimienny ma tę cechę powyżej 100 punktów (podniesioną poprzez wypicie odpowiednich mikstur lub dzięki założonym amuletom czy pierścieniom), to Horacy obniży jej aktualną wartość właśnie do 100.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic > Bonusy trwałe",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II\n\nTak samo jak w pierwszej części, Bezimienny zaczyna rozgrywkę z 10 punktami siły. Jej znaczenie jest niemal identyczne, tj. od jej wysokości uzależniona jest możliwość używania większości broni białej jedno- i dwuręcznej. Istnieje jednak kilka broni jednoręcznych, które do używania wymagają zręczności. Nadal jednak to wartość siły jest doliczana do obrażeń każdej broni białej podczas zadawania ciosu.\n\n30 punktów siły jest wymaganych do uniesienia miecza Roda, a tym samym zyskania poparcia jego właściciela bez bójki w ramach zadania Jeden z najemników.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II > Nauka\n\nSystem nauki jest prawie taki sam jak w Gothic, tj. jeden punkt siły kosztuje jeden punkt nauki, lecz została wprowadzona różnica związana z gildią bohatera. Gdy jest on nowicjuszem lub magiem ognia, szkolenie kosztuje go 2 punkty nauki za każdy punkt siły.\n\nKażdy z nauczycieli ma określoną maksymalną wysokość atrybutu, do której będzie uczył, większość z nich wymaga przynależności do konkretnej gildii lub spełnienia innego warunku. Są to:\n Carl (po zapłaceniu 50 sztuk złota lub zwróceniu posążka Innosa Eddzie) – do 30 punktów;\n Harad (jako jego czeladnik) – do 50 punktów;\n Mortis (tylko jako strażnik miejski/paladyn) – do 60 punktów;\n Opolos (tylko jako nowicjusz/mag ognia, po przyniesieniu mu receptury lub wykonaniu zadania od Neorasa) – do 70 punktów;\n Torlof (na farmie Onara, tylko przy braku gildii lub jako najemnik/łowca smoków) – do 90 punktów;\n Brutus (po oddaniu 200 sztuk złota) – do 75 punktów;\n Ingmar (tylko jako paladyn) – do 90 punktów;\n Feros (po odnalezieniu jego miecza) – do 70 punktów;\n Bennet (tylko na okręcie w VI rozdziale) – do 100 punktów;\n Torlof (na okręcie w VI rozdziale, niezależnie od gildii) – do 100 punktów.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II > Nauka",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II > Bonusy tymczasowe\n\nBezimienny może tymczasowo podnieść swoją siłę, korzystając z poniższych artefaktów:\n amulet siły – 15 punktów;\n amulet mocy – 10 punktów;\n pierścień mocy (pierwszy lub drugi typ) – 5 punktów;\n pierścień siły – 10 punktów.\nIstnieje też pierścień orkowych przywódców, który po założeniu tymczasowo odejmuje 20 punktów siły.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II > Bonusy tymczasowe",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II > Bonusy trwałe\n\nBohater może trwale zwiększyć swoją siłę po zjedzeniu lub wypiciu odpowiednich potraw czy mikstur (niektóre dostępne tylko dla wybranych gildii):\n 25 jabłek – 1 punkt (bonus jednorazowy);\n smoczy korzeń – 1 punkt;\n gulasz Thekli – 1 punkt;\n eliksir siły – 5 punktów;\n mikstura wydzieliny ze smoczych jaj – 5 punktów (tylko paladyn/mag ognia);\n Łzy Innosa – 5 punktów (tylko mag ognia);\n Embarla Firgasto – 15 punktów.\n\nDodatkowo składając ofiarę 100 sztuk złota przy posągu Innosa, bohater ma pewną szansę (Występuje to losowo: \n paladyn – po 25% szans na zyskanie +4 do maksymalnych punktów many, +8 do maksymalnych punktów trafień, +2 do siły lub +2 do zręczności;\n pozostałe gildie (prócz maga)/brak gildii – po 50% szans na zyskanie +2 do maksymalnych punktów trafień lub +1 do siły.) na otrzymanie maksymalnie 10 razy bonusu +2 do siły (jeśli jest paladynem) lub +1 (jeśli należy do każdej innej gildii oprócz maga ognia lub nie posiada żadnej).",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II > Bonusy trwałe",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II: Noc Kruka\n\nWzględem podstawowej gry nie zmienił się wpływ siły na walkę bronią białą, tj. wciąż od jej wysokości zależy możliwość używania większości broni jedno- i dwuręcznej, z wyjątkiem kilku jednoręcznych, które wymagają zręczności oraz jednej dwuręcznej, do której potrzebna jest mana. Niezmiennie przy wszystkich to wartość siły jest doliczana do obrażeń każdej broni białej podczas zadawania ciosu.\n\nDodatkowo teraz to siła odpowiada za używanie kusz, lecz na obrażenia nimi zadane nadal wpływa zręczność.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II: Noc Kruka",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II: Noc Kruka > Nauka\n\nW systemie nauki nie ma już różnic między gildiami, za to zostały wprowadzone progi aktualnej wysokości atrybutu, po których przekroczeniu zwiększa się koszt punktów nauki za jeden punkt siły – z tego powodu bardziej opłacalne jest wykorzystywanie wszystkich trwałych bonusów dopiero po znacznym wyuczeniu się atrybutu. Koszt jednego punktu siły w kolejnych progach przedstawia się następująco: \n od 0 do 29 punktów – 1 punkt nauki;\n od 30 do 59 punktów – 2 PN;\n od 60 do 89 punktów – 3 PN;\n od 90 do 119 punktów – 4 PN;\n od 120 punktów – 5 PN.\nWykorzystując ograniczenia skryptów dialogowych, można zaoszczędzić część punktów nauki (Posiadając siłę na granicy progów, można nauczyć się 5 punktów atrybutu naraz po niższym koszcie punktów nauki. Np. gdy bohater ma siłę równą 29, ucząc się 5 punktów, zwiększy siłę do 34 i wyda tylko 5 PN. Gdyby zaś najpierw nauczył się do 30, to za kolejne 4 punkty siły musiałby już wydać według wyższego progu 8 PN. Taki sam manewr można wykonać, mając atrybut na granicy każdego z progów.).\n\nU dotychczasowych nauczycieli są wciąż identyczne wymagania rozpoczęcia nauki, natomiast większości z nich zmieniły się poziomy, do których mogą nauczać:\n Carl – do 120 punktów;\n Harad – do 90 punktów;\n Mortis – do 60 punktów;\n Opolos – do 90 punktów;\n Torlof (zarówno na farmie Onara, jak i na okręcie) – do 200 punktów;\n Brutus – do 90 punktów;\n Ingmar – do 200 punktów;\n Feros – do 90 punktów;\n Bennet (tylko na okręcie) – do 200 punktów.\n\nW dodatku są też nowe osoby uczące siły:\n Lares (tylko na wyspie Khorinis) – do 60 punktów;\n Erol (po wykonaniu zadania) – do 200 punktów;\n Diego (tylko w Górniczej Dolinie) – do 90 punktów;\n Brandon (po przyniesieniu szybkiego śledzia) – do 90 punktów;\n Bandyta (kucharz) – do 90 punktów.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II: Noc Kruka > Nauka",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II: Noc Kruka > Bonusy tymczasowe\n\nArtefakty z podstawowej gry dodają teraz mniej siły:\n amulet siły – 10 punktów;\n amulet mocy – 8 punktów;\n pierścień mocy (pierwszy typ) – 3 punkty;\n pierścień mocy (drugi typ) – 4 punkty;\n pierścień siły – 5 punktów.\nPierścień orkowych przywódców bez zmian odejmuje 20 punktów.\n\nPojawiły się też nowe przedmioty dodające tymczasowo siłę po założeniu:\n amulet Franka – 4 punkty;\n pas siły – 5 punktów;\n pas mocy – 10 punktów.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II: Noc Kruka > Bonusy tymczasowe",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic II: Noc Kruka > Bonusy trwałe\n\nNiektórym z potraw i mikstur zwiększających siłę na stałe też zostały zmienione bonusy:\n jabłko – bonus w postaci 1 punktu stał się wielokrotnym po każdym zjedzeniu 25 sztuk;\n eliksir siły – 3 punkty;\n mikstura wydzieliny ze smoczych jaj – 3 punkty;\n smoczy korzeń, gulasz Thekli, Łzy Innosa i Embarla Firgasto – bez zmian.\n\nOfiara 100 sztuk złota przy posągu Innosa może dać bohaterowi maksymalnie 10 razy bonus +1 do siły – pod warunkiem, że nie jest on nowicjuszem ani magiem ognia.\n\nWystępują też nowe przedmioty dające trwałe bonusy do siły:\n kamienna tablica siły I – 2 punkty;\n kamienna tablica siły II – 4 punkty;\n kamienna tablica siły III – 6 punktów.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic II: Noc Kruka > Bonusy trwałe",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3\n\nBezimienny na początku gry ma 100 punktów siły. Definiuje ona, jakie bohater może unieść bronie białe i kusze, ile będzie zadawał obrażeń z broni białej oraz jakich umiejętności będzie mógł się nauczyć.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Nauka\n\nKoszt jednego punktu siły to 1 punkt nauki i 50 sztuk złota. Można ją zwiększać bez ograniczeń oraz nie występują progi punktowe, po których trzeba wydać większą liczbę punktów nauki. Zmienia to alternatywny balans, który sprawia, że od 250 punktów trzeba przeznaczyć 2 punkty nauki i 100 sztuk złota na każdy punkt siły.\n\nPoniżej znajduje się spis wszystkich nauczycieli z podziałem na krainy, w których przebywają.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Nauka",
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Nauka > Myrtana\n\nReddock: Norris;\n Cape Dun: Bufford;\n Montera: Arakos (po wykonaniu zadania Złodziejski patrol orków), Kor-Shach (po wykonaniu zadania Zmuś Follecka do pracy na dziedzińcu zamkowym), Marik;\n Okara: Roland;\n Vengard: Cobryn, Rhobar II (po rozpoczęciu zadania Za Innosa!).\n Faring: Curtis (po wykonaniu zadania Pokonaj Spike'a na arenie), Kan (po wykonaniu zadania Złam opór Morr!), Tarok;\n Silden: Anog, Denpok, Lars (po wykonaniu zadania Uwolnij Nordmarczyka Larsa z obozu), Will;\n Geldern: Agenak, Samuel, Torn (po wykonaniu zadania Ludzie z Geldern i kamień druidów);\n Trelis: Pranck (po wykonaniu zadania Ork wojownik Pranck potrzebuje mikstur leczniczych i przekazaniu mu 500 sztuk złota);\n Nemora: Karlen;",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Nauka > Myrtana",
+      "chunk_index": 16
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Nauka > Nordmar\n\nKlan Wilka: Hogar;\n Klan Młota: Ugolf (po wykonaniu zadania Ruda dla Ugolfa);\n Klan Ognia: Kaelin, Kerth;\n Klasztor: Olivier.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Nauka > Nordmar",
+      "chunk_index": 17
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Nauka > Varant\n\nBen Erai: Navaras (po wykonaniu zadania Praca dla Sancha);\n Lago: Grubuz;\n Ben Sala: Daro;\n Bakaresh: Achmed (po przekazaniu 500 sztuk złota), Knut, Silvio;\n Mora Sul: Angar, Kayor, Nasib;\n Al Shedim: Wutras;\n Ishtar: Ugrasal (po rozpoczęciu zadania Sprawdzian Asasynów), Zarkos (po przekazaniu 500 sztuk złota).",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Nauka > Varant",
+      "chunk_index": 18
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Bonusy tymczasowe\n\nW grze można znaleźć przedmioty, które podnoszą liczbę punktów siły, gdy są założone. Są to:\n amulet wojownika (5 punktów);\n amulet paladyna (5 punktów);\n amulet siły (10 punktów);\n Artefakt Kamaka (5 punktów);\n pierścień siły (5 punktów).",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Bonusy tymczasowe",
+      "chunk_index": 19
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Bonusy trwałe\n\nBohater może zyskać na stałe punkty siły poprzez:\n wypicie mikstury siły (+2 punkty);\n zjedzenie dragrotu (+1 punkt);\n podnoszenie młyńskich kamieni (+5 punktów za każdy);\n wykonanie określonych zadań.\nOstatnim sposobem jest rozmowa z Innosem lub Beliarem w ramach zadań Za Innosa! lub Za Beliara!. Jeśli gracz wybierze opcję Chcę być silniejszy!, m.in. jego siła zostanie zwiększona o 25 punktów.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Bonusy trwałe",
+      "chunk_index": 20
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Bonusy trwałe > Zadania dające siłę\n\nŁącznie można zdobyć 48 punktów siły za wykonanie wszystkich wymienionych poniżej zadań:\n Pokonaj Joeya na arenie (+1 punkt);\n Pokonaj Coppera na arenie (+1 punkt);\n Pokonaj w pojedynku Toporka (+1 punkt);\n Pokonaj Darmoka na arenie (+1 punkt);\n Pokonaj Fadiego na arenie (+1 punkt);\n Pokonaj Dana na arenie (+1 punkt);\n Pokonaj Fedora na arenie (+1 punkt);\n Pokonaj Goose'a na arenie (+1 punkt);\n Pokonaj Ugo na arenie (+1 punkt);\n Pokonaj na arenie mistrza Ashtona (+1 punkt);\n Bogata kopalnia (+1 punkt);\n Pokonaj Potrosa (+1 punkt);\n Pokonaj Jarocka na arenie (+1 punkt);\n Pokonaj Jarolla na arenie (+1 punkt);\n Pokonaj Trompoka na arenie (+1 punkt);\n Pokonaj Willa (+1 punkt);\n Daj Mirzo nauczkę (+1 punkt);\n Pokonaj Dimitara na arenie (+1 punkt);\n Pokonaj Gembaka na arenie (+1 punkt);\n Pokonaj Kulaka na arenie (+1 punkt);\n Ktoś musi dać nauczkę Benowi (+1 punkt);\n Pokonaj Gorana na arenie (+1 punkt);\n Pokonaj Moffa na arenie (+1 punkt);\n Pokonaj Spike'a na arenie (+1 punkt);\n Pojedynek z Hogarem (+1 punkt);\n Grobowiec Baldara (+3 punkty);\n Grobowiec Snorre'a (+3 punkty);\n Zmierz się z Grubuzem (+1 punkt);\n Zmierz się z Mamukiem (+1 punkt);\n Pokonaj Achmeda na arenie (+1 punkt);\n Pokonaj Irhabara na arenie (+1 punkt);\n Pokonaj Mufassę na arenie (+1 punkt);\n Walka o tytuł (+1 punkt);\n Pokonaj Angara na arenie (+1 punkt);\n Pokonaj Anktosa na arenie (+1 punkt);\n Pokonaj Grubasa (+1 punkt);\n Pokonaj Oelka na arenie (+1 punkt);\n Pokonaj Paladyna na arenie (+1 punkt);\n Folleckowi należy się nauczka (+1 punkt);\n Walka na arenie z Emetem! (+1 punkt);\n Walka na arenie z Makasem! (+1 punkt);\n Walka na arenie z Musanem! (+1 punkt);\n Walka z Surusem (+1 punkt);\n Więcej szakali! (+1 punkt).",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Bonusy trwałe > Zadania dające siłę",
+      "chunk_index": 21
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3 > Umiejętności\n\nPoniższe umiejętności wymagają posiadania określonej siły, by móc je opanować.\n\n| Nazwa | Siła |\n| --- | --- |\n| Regeneracja | 300 |\n| Duży oręż III | 250 |\n| Duży oręż II | 200 |\n| Mistrz dwóch ostrzy | 200 |\n| Mistrz strzelectwa | 200 |\n| Mistrz walki mieczem | 200 |\n| Duży oręż | 150 |\n| Kusznik | 150 |\n| Lepsza walka mieczem | 150 |\n| Paladyn | 150 |\n| Silne parowanie tarczą | 150 |\n| Walka dwoma ostrzami | 150 |\n| Zabójca orków | 150 |\n| Parowanie tarczą | 125 |\n| Ciężka kusza | 100 |\n| Walka mieczem | 100 |\n",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3 > Umiejętności",
+      "chunk_index": 22
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3: Zmierzch Bogów\n\nSystem działania siły jest taki sam jak w Gothic 3.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3: Zmierzch Bogów",
+      "chunk_index": 23
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3: Zmierzch Bogów > Nauczyciele\n\nAnog – po przyniesieniu mu listów polecających;\n Olis – po obronieniu orków przed paladynami;\n Kazus;\n Gorn;\n Garik – po dostarczeniu wiadomości dla Gorna.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3: Zmierzch Bogów > Nauczyciele",
+      "chunk_index": 24
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic 3: Zmierzch Bogów > Zadania dające siłę\n\nŁącznie można zdobyć 70 punktów siły za wykonanie wszystkich wymienionych poniżej zadań:\n Zabierz artefakt Hildura z jaskini (+5 punktów);\n Zajmij się Asdisem (+1 punkt);\n Pokonaj Benata (+2 punkty);\n Pokonaj Gareya (+1 punkt);\n Porozmawiaj z Urbanusem (+1 punkt);\n Hector Osch uda się do Gorna (+3 punkty);\n Mag Ognia w potrzebie (+3 punkty);\n Mistrz przywołań musi zginąć (+3 punkty);\n Porozmawiaj z Magiem Wody (+5 punktów);\n Pozbądź się szpiega orków (+1 punkt);\n Przeprowadź szkolenie czwartego rekruta (+1 punkt);\n Przeprowadź szkolenie drugiego rekruta (+1 punkt);\n Przeprowadź szkolenie ostatniego rekruta (+2 punkty);\n Przeprowadź szkolenie pierwszego rekruta (+1 punkt);\n Przeprowadź szkolenie trzeciego rekruta (+1 punkt);\n Smocze kości (+5 punktów);\n Zabij bestię (+7 punktów);\n Barnabas nie zapłacił długów (+1 punkt);\n Jak można spać przy takim hałasie? (+2 punkty);\n Pokonaj Everta (+2 punkty);\n Pokonaj Ritta (+1 punkt);\n Zabij Antona (+1 punkt);\n Czarny Mag musi zginąć (+2 punkty);\n Eskortuj karawanę kupiecką (+2 punkty);\n Pobij górników (+1 punkt);\n Pokonaj Brennusa (+1 punkt);\n Pokonaj Corta (+1 punkt);\n Zlikwiduj stado szalonych bizonów (+2 punkty);\n Zniszcz obóz orków znajdujący się najbliżej Geldern (+2 punkty);\n Kan potrzebuje więcej orków (+3 punkty);\n Pokonaj Druda (+2 punkty);\n Pokonaj Lewisa (+1 punkt);\n Puchar Cor Kaloma (+3 punkty).",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic 3: Zmierzch Bogów > Zadania dające siłę",
+      "chunk_index": 25
+    }
+  },
+  {
+    "text": "Tytuł: Siła\nSekcja: Gothic Playable Teaser\n\nBohater od początku gry posiada 10 punktów siły. Nie można jej zwiększyć, ponieważ w demie remake'u nie występuje system nauki ani nie można znaleźć żadnych przedmiotów zwiększających atrybuty. Nieznane też jest działanie siły i jej wpływ na otoczenie.",
+    "metadata": {
+      "title": "Siła",
+      "type": "Współczynnik",
+      "categories": [
+        "Współczynniki"
+      ],
+      "section": "Gothic Playable Teaser",
+      "chunk_index": 26
+    }
+  }
+]

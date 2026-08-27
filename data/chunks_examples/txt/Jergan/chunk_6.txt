@@ -1,0 +1,7 @@
+Tytuł: Jergan
+Sekcja: Ciekawostki
+
+W kopalni Marcosa znajduje się waypoint o nazwie OW_MINE2_STAND_JERGAN, co sugeruje że na pewnym etapie produkcji gry miał się tam znajdować.
+ W polskiej wersji podstawowego Gothic II Jergan, gdy prosi o przekazanie wiadomości paladynowi Orikowi, wypowiada niezrozumiałą kwestię: Powiedz mu, że jego brat kupił to na przełęczy. Błąd wynika z dosłownego przetłumaczenia angielskiego idiomu bought it oznaczającego zginąć. W Nocy Kruka został on poprawiony (zarówno w tekście, jak i dubbingu) na poległ na przełęczy.
+ Najpewniej jest on szpiegiem, o którym wspomina Orik w IV rozdziale, mówiąc o smokach i Hosh-Paku.
+ Jako jedyny nosi zbroję bandytów, choć nie jest jednym z nich. Z tego względu inni ludzie go nie atakują, także w Nocy Kruka, ponieważ dla postaci niezależnych skrypt zachowań nie bierze pod uwagę posiadanego pancerza, a przynależność do gildii Bandyta. Jeśli jednak w dodatku gracz przejmie nad nim kontrolę przy pomocy kodów, to zadziała skrypt związany z bandyckim pancerzem i ludzie zaczną go atakować.

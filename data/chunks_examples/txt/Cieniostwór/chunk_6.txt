@@ -1,0 +1,9 @@
+Tytuł: Cieniostwór
+Sekcja: Gothic II: Noc Kruka
+
+W dodatku można spotkać dodatkowe trzy cieniostwory zamieszkujące zapomnianą dolinę Jarkendar. Można je znaleźć:
+ w jaskini przy drodze prowadzącej z ruin centralnych do obozu piratów;
+ w jaskini na końcu północnej części plaży (związany z zadaniem Plaża na północy);
+ w dolinie nieopodal chaty eremity.
+
+Za zabicie cieniostwora bohater otrzymuje 300 punktów doświadczenia zamiast 200. Co więcej, wszystkie statystyki bestii zostały zwiększone.

@@ -1,0 +1,6 @@
+Tytuł: Zabij trzy trolle na wzgórzach w pobliżu Faring
+Sekcja: Krok po kroku
+
+Porozmawiaj z Zakoshem, który przebywa na zamku w Faring.
+ Zabij 3 trolle, które żyją w lesie nieopodal miasta.
+ Ponownie porozmawiaj z Zakoshem (opcjonalnie).

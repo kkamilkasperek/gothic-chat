@@ -1,0 +1,14 @@
+Tytuł: Grog dla kucharza
+Podstawowe informacje:
+- nazwa: Grog dla kucharza
+- nazwa angielska: Grog for the cook
+- zleceniodawca: Pirat (kucharz)
+- start: Obóz piratów
+- koniec: Obóz piratów
+- poprzednie: Brak
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 100 punktów doświadczenia, Możliwość zabrania kucharza na polowanie na brzytwiaki
+- występowanie: Gothic II: Noc Kruka
+Inne języki:
+- ru: Грог для повара

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Tytuł: Czas Decyzji – Urząd\nPodstawowe informacje:\n- nazwa: Biuro skryby\n- nazwa angielska: Scribe's office\n- typ: Budynek\n- położenie: Miasto Archolos\n- mieszkańcy: Ludzie\n- zarządca: Matey\n- ważne postacie: Matey\n- ważne miejsca: Brak\n- związek z fabułą: Obywatel Marvin, Czyste ulice\n- występowanie: Kroniki Myrtany: Archolos\n- teleportacja: Brak\nDodatkowe informacje:\n- Niekanon\nInne języki:\n- ru: Время решений – Контора",
+    "metadata": {
+      "title": "Czas Decyzji – Urząd",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Kroniki Myrtany: Archolos",
+        "Miejsca w mieście Archolos"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Czas Decyzji – Urząd\nSekcja: Wstęp\n\nBiuro skryby – biuro występujące w modyfikacji do Gothic II: Noc Kruka pod tytułem Kroniki Myrtany: Archolos.",
+    "metadata": {
+      "title": "Czas Decyzji – Urząd",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Kroniki Myrtany: Archolos",
+        "Miejsca w mieście Archolos"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Czas Decyzji – Urząd\nSekcja: Kroniki Myrtany: Archolos\n\nZnajduje się w południowo-zachodniej części miasta Archolos. Prowadzi do niego wejście schodami, na których stoi kolejka petentów. \n\nBiuro podzielone jest na dwie izby. W izbie wejściowej urzęduje Matey i obsługuje petentów. W sąsiedniej izbie znajduje się łóżko, w którym skryba sypia.",
+    "metadata": {
+      "title": "Czas Decyzji – Urząd",
+      "type": "Lokacja",
+      "categories": [
+        "Miejsca z Kroniki Myrtany: Archolos",
+        "Miejsca w mieście Archolos"
+      ],
+      "section": "Kroniki Myrtany: Archolos",
+      "chunk_index": 2
+    }
+  }
+]

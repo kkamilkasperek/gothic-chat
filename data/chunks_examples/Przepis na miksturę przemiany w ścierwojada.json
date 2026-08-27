@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Tytuł: Przepis na miksturę przemiany w ścierwojada\nPodstawowe informacje:\n- nazwa: Przepis na miksturę przemiany w ścierwojada\n- wymagane składniki: 1x jajo ścierwojada, 1x dziwny grzyb, 1x fiolka\n- wymagane umiejętności: Warzenie mikstur przemiany\n- wymagane narzędzie: Stół alchemiczny\n- powstający przedmiot: Mikstura przemiany w ścierwojada\n- posiadacz: Alchemicy\n- status: Pospolity\n- występowanie: Gothic 3\n- wartość sprzedaży: Brak możliwości sprzedaży\n- wartość kupna: 200 złoto\n- wartość przedmiotu: 450 złoto\n- kod: It_Recipe_Scavenger\nInne języki:\n- ru: Рецепт зелья превращения в падальщика",
+    "metadata": {
+      "title": "Przepis na miksturę przemiany w ścierwojada",
+      "type": "Przepis",
+      "categories": [
+        "Przepisy na potrawy i napoje z Gothic 3"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Przepis na miksturę przemiany w ścierwojada\nSekcja: Wstęp\n\nPrzepis na miksturę przemiany w ścierwojada – receptura na miksturę przemiany występująca w Gothic 3.",
+    "metadata": {
+      "title": "Przepis na miksturę przemiany w ścierwojada",
+      "type": "Przepis",
+      "categories": [
+        "Przepisy na potrawy i napoje z Gothic 3"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Przepis na miksturę przemiany w ścierwojada\nSekcja: Gothic 3\n\nPrzepis pozwala na wytwarzanie mikstur przemiany w ścierwojada przy użyciu stołu alchemicznego. Aby Bezimienny mógł uwarzyć tą miksturę, musi posiadać zdolność Warzenie mikstur przemiany. Recepturę można nabyć od większości alchemików na kontynencie. Jej wartość kupna wynosi 200 sztuk złota.\n\nSkładniki potrzebne do uwarzenia mikstury:\n 1x jajo ścierwojada\n 1x dziwny grzyb;\n 1x fiolka.",
+    "metadata": {
+      "title": "Przepis na miksturę przemiany w ścierwojada",
+      "type": "Przepis",
+      "categories": [
+        "Przepisy na potrawy i napoje z Gothic 3"
+      ],
+      "section": "Gothic 3",
+      "chunk_index": 2
+    }
+  }
+]

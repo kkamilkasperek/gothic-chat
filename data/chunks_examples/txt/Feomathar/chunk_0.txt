@@ -1,0 +1,18 @@
+Tytuł: Feomathar
+Podstawowe informacje:
+- nazwa: Feomathar
+- podnazwa: Gothic II,GII:NK
+- gromada: Smok
+- środowisko życia: Wulkan w Górniczej Dolinie
+- punkty doświadczenia: 4500
+- siła/zręczność: 140/100
+- punkty życia: 700
+- pancerz: Broń: 100, Pociski: 100, Smoczy ogień: 50, Magia: 50, Odrzut: -1
+- specjalne: Zianie ogniem, Kula ognia
+- pozyskiwane przedmioty: 1x serce ognistego smoka, 2x smocza krew, 12x smocze łuski
+- występowanie: Gothic II
+- dubbing: Tomasz Marzecki
+- kod: Dragon_Fire
+Inne języki:
+- it: Feomathar
+- ru: Феоматар

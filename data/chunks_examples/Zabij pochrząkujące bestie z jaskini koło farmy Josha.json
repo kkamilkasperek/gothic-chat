@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha\nPodstawowe informacje:\n- nazwa: Zabij pochrząkujące bestie z jaskini koło farmy Josha\n- nazwa angielska: Kill the grunting creatures below Josh's farm\n- zleceniodawca: Josh\n- start: Farma Josha\n- koniec: Farma Josha\n- poprzednie: Brak\n- część zadania: Brak\n- następne: Brak\n- dostępność: Wszyscy\n- nagroda: 1000 punktów doświadczenia (+500 po rozmowie z Joshem po wykonaniu zadania), Reputacja w Trelis: +8, 1000 Złoto\n- występowanie: Gothic 3\nInne języki:\n- ru: Убей хрюкающих тварей",
+    "metadata": {
+      "title": "Zabij pochrząkujące bestie z jaskini koło farmy Josha",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Trelis z Gothic 3"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha\nSekcja: Wstęp\n\nZabij pochrząkujące bestie z jaskini koło farmy Josha – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez farmera Josha.",
+    "metadata": {
+      "title": "Zabij pochrząkujące bestie z jaskini koło farmy Josha",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Trelis z Gothic 3"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha\nSekcja: Krok po kroku\n\nPorozmawiaj z Joshem, który przebywa na swojej farmie.\n Udaj się do jaskini chrząkających bestii.\n Zabij 3 rozpruwacze, które przebywają w jaskini.\n Ponownie porozmawiaj z Joshem, aby odebrać nagrodę (opcjonalnie).",
+    "metadata": {
+      "title": "Zabij pochrząkujące bestie z jaskini koło farmy Josha",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Trelis z Gothic 3"
+      ],
+      "section": "Krok po kroku",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha\nSekcja: Przebieg zadania > Niespokojny farmer\n\nBezimienny, chodząc po okolicach Trelis, napotyka farmę, na której znajduje się jej właściciel – Josh. Mężczyzna twierdzi, że bohater wygląda na silnego wojownika i skarży się na dziwne odgłosy pod jego dobytkiem, które nie dają mu spokojnie spać. Podejrzewa, że zalęgły się tam jakieś stworzenia. Bezimienny zgadza się zająć problemem.",
+    "metadata": {
+      "title": "Zabij pochrząkujące bestie z jaskini koło farmy Josha",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Trelis z Gothic 3"
+      ],
+      "section": "Przebieg zadania > Niespokojny farmer",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha\nSekcja: Przebieg zadania > Śmierć bestii\n\nProtagonista wyrusza zająć się kłopotem. W jaskini, która znajduje się bezpośrednio pod farmą zleceniodawcy, znajduje grupę 3 rozpruwaczy. Po stoczonej i wygranej walce, bohater wraca do Josha.",
+    "metadata": {
+      "title": "Zabij pochrząkujące bestie z jaskini koło farmy Josha",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Trelis z Gothic 3"
+      ],
+      "section": "Przebieg zadania > Śmierć bestii",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Zabij pochrząkujące bestie z jaskini koło farmy Josha\nSekcja: Przebieg zadania > Nagroda\n\nGdy główny bohater dotrze do Josha i poinformuje go o rozwiązaniu problemu, ten jest bardzo zadowolony i daje w zaufaniu Bezimiennemu 1000 sztuk złota, które są daniną dla orków. Zadanie kończy się powodzeniem.",
+    "metadata": {
+      "title": "Zabij pochrząkujące bestie z jaskini koło farmy Josha",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Trelis z Gothic 3"
+      ],
+      "section": "Przebieg zadania > Nagroda",
+      "chunk_index": 5
+    }
+  }
+]

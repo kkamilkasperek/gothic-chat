@@ -1,0 +1,15 @@
+Tytuł: Siła
+Sekcja: Gothic II: Noc Kruka > Bonusy tymczasowe
+
+Artefakty z podstawowej gry dodają teraz mniej siły:
+ amulet siły – 10 punktów;
+ amulet mocy – 8 punktów;
+ pierścień mocy (pierwszy typ) – 3 punkty;
+ pierścień mocy (drugi typ) – 4 punkty;
+ pierścień siły – 5 punktów.
+Pierścień orkowych przywódców bez zmian odejmuje 20 punktów.
+
+Pojawiły się też nowe przedmioty dodające tymczasowo siłę po założeniu:
+ amulet Franka – 4 punkty;
+ pas siły – 5 punktów;
+ pas mocy – 10 punktów.

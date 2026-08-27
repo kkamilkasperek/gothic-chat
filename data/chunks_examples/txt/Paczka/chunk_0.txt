@@ -1,0 +1,16 @@
+Tytuł: Paczka
+Podstawowe informacje:
+- nazwa: Paczka
+- nazwa angielska: Packet
+- typ: Pakunek
+- rzadkość: Nie występuje w rozgrywce
+- dodatkowe: Dostępna tylko za pomocą kodów
+- wartość kupna: 0 złoto
+- wartość sprzedaży: 0 złoto
+- występowanie: Gothic II
+- questowy: Nie
+- kod: ItMi_Packet
+Dodatkowe informacje:
+- Nieużywana zawartość
+Inne języki:
+- ru: Пакет

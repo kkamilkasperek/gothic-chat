@@ -1,0 +1,10 @@
+Tytuł: Bryła lodu
+Sekcja: Gothic
+
+Rzucone na wroga zadaje mu 50 punktów obrażeń oraz unieruchamia go w bryle lodu na 10 sekund. Zaklęcie to nie jest w stanie zabić ludzi; jeśli posiadają 1 punkt życia, stracą jedynie przytomność.
+
+Zwoje z czarem można kupić już w I rozdziale u Cronosa. Mag wówczas oferuje 2 egzemplarze, w następnym dodaje do asortymentu 2 kolejne, w III i IV rozdziale po 4, a w V 10 sztuk. Poza tym jeden zwój znajduje się w jaskini zębaczy na drodze do areny orków, a drugi w świątyni Śniącego, leży w ukrytej, otwieranej przyciskiem wnęce w zakrwawionym pomieszczeniu z kolcami obok Gor Boby.
+
+Runę tego zaklęcia posiada Saturas oraz Cronos. Ten pierwszy używa jej tylko wtedy, gdy zostanie zaatakowany przez przyzwane przez Bezimiennego istoty (ponieważ jeśli bohater sam zaatakuje przywódcę magów wody, ten nie odpowie siłą) lub po naładowaniu miecza Uriziela energią z kopca rudy. Strażnik rudy natomiast może też ją sprzedać. Choć w asortymencie ma ją dopiero od III rozdziału, to jeśli nie użyje swojego osobistego egzemplarza, można go od niego kupić od początku gry. Na dodatek skrypt sprawia, że jeśli nie ma on tej runy przy sobie, po każdym zakończeniu rozmowy z nim, w jego ekwipunku pojawia się kolejna. Można więc kupować nieskończoną ich liczbę do momentu sprowokowania maga do użycia czaru (np. przez zaatakowanie go).
+
+Wartość kupna runy wynosi 500 bryłek rudy, zaś zwoju 50 bryłek, przy sprzedaży spada odpowiednio do 250 i 25 bryłek.

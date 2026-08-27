@@ -1,0 +1,15 @@
+Tytuł: Znajdź buntownicze podziemie w Cape Dun
+Podstawowe informacje:
+- nazwa: Znajdź buntownicze podziemie w Cape Dun‏‎
+- nazwa angielska: Find the rebel underground in Cape Dun
+- zleceniodawca: Javier
+- start: Reddock
+- koniec: Cape Dun
+- poprzednie: Brak
+- część zadania: Brak
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 500 punktów doświadczenia, Reputacja w Reddock: +10, Reputacja u Buntowników: +2, 50 Złoto
+- występowanie: Gothic 3
+Inne języki:
+- ru: Найди повстанческое подполье в Кап Дуне

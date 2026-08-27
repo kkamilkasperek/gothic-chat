@@ -1,0 +1,16 @@
+Tytuł: Wielki Mag
+Podstawowe informacje:
+- imię: Wielki Mag
+- gildia: Brak
+- poziom: 60
+- miejsce zamieszkania: Pustynia
+- miejsce urzędowania: Obóz na pustyni
+- posiadana broń: Magia
+- posiadana zbroja: Strój wielkiego maga
+- występowanie: Mój Mod
+- status: Żyje
+- dubbing: Syntezator IVONA
+- kod: MM_001_Mage
+- przedmiot kradzieży: Kradzież niemożliwa
+Dodatkowe informacje:
+- Niekanon

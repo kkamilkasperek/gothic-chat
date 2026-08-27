@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tytuł: Tom (pirat)\nPodstawowe informacje:\n- imię: Tom\n- gildia: Pirat\n- miejsce zamieszkania: Jarkendar\n- miejsce urzędowania: Obóz piratów\n- posiadana broń: El Bastardo\n- posiadana zbroja: Pirackie ubranie\n- występowanie: Gothic II: Noc Kruka (tylko za pomocą kodów)\n- status: Nieznany\n- dubbing: Adam Bauman\n- kod: Pir_1389_addon_tom\n- przedmiot kradzieży: Kradzież niemożliwa\nDodatkowe informacje:\n- DISPLAYTITLE:Tom\n- Nieużywana zawartość\n- Inne znaczenia (1: pirata występującego w Gothic II: Noc Kruka, 2: Tom)",
+    "metadata": {
+      "title": "Tom (pirat)",
+      "type": "Postać",
+      "categories": [
+        "Nieużywana zawartość z Gothic II: Noc Kruka",
+        "Piraci",
+        "Postacie z Gothic II: Noc Kruka"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Tom (pirat)\nSekcja: Wstęp\n\nTom – postać występująca w Gothic II: Noc Kruka, lecz nie pojawiająca się podczas rozgrywki.",
+    "metadata": {
+      "title": "Tom (pirat)",
+      "type": "Postać",
+      "categories": [
+        "Nieużywana zawartość z Gothic II: Noc Kruka",
+        "Piraci",
+        "Postacie z Gothic II: Noc Kruka"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Tom (pirat)\nSekcja: Gothic II: Noc Kruka\n\nMożna go jedynie przyzwać za pomocą kodów. Po przywołaniu stanie na skraju plaży w obozie piratów, nieopodal miejsca treningu Bonesa.\n\nPo rozpoczęciu rozmowy jest dostępna tylko opcja Koniec, natomiast w skryptach gry istnieje krótki zakomentowany dialog z nim (nie został on przetłumaczony na polski ani nie ma nagranych kwestii). Mówi w nim Bezimiennemu, że piraci przyjęli go i dali mu strój. Na zdziwienie bohatera, że przecież należy do bandytów, Tom puszcza do niego oko i radzi, by był cicho, ponieważ wszystko jest w porządku. Może to sugerować, że uciekł on z obozu bandytów i nie chce ujawniać tożsamości lub też przyszedł do piratów na przeszpiegi.",
+    "metadata": {
+      "title": "Tom (pirat)",
+      "type": "Postać",
+      "categories": [
+        "Nieużywana zawartość z Gothic II: Noc Kruka",
+        "Piraci",
+        "Postacie z Gothic II: Noc Kruka"
+      ],
+      "section": "Gothic II: Noc Kruka",
+      "chunk_index": 2
+    }
+  }
+]

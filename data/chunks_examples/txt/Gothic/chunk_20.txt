@@ -1,0 +1,10 @@
+Tytuł: Gothic
+Sekcja: Ciekawostki
+
+Na podstawie pierwszej części sagi fanowski zespół T.M.T. Production stworzył film Gothic: Der Film, oparty na silniku graficznym gry (https://www.youtube.com/watch?v=MrRoWIortQw).
+ W wywiadzie dla serwisu Gothicz.net Michael Hoge zdradził, że to on zaprojektował fabułę gry, gildie, scenerię i większość postaci. Złożenie wszystkiego w całość zajęło 3 lata, a duże zmiany w fabule zachodziły nawet 4 miesiące przed premierą (https://www.gothicz.net/serie-gothic/mike-hoge-talks-about-gothic/).
+ Twórcy początkowo planowali dodanie trybu multiplayer, w którym gracze mogli przejąć rolę czterech przyjaciół Bezimiennego, jednak ze względu na trudności w zaimplementowaniu gry wieloosobowej, prace nad modułem sieciowym zostały anulowane (https://gothicarchive.org/postrelease/interviews/MikeHoge_30_12_2020.html).
+ Interfejs początkowo wyglądał inaczej, co można zobaczyć na oficjalnym trailerze gry. Pasek życia miał postać serduszek, a pasek many – kropli wody.
+ Michael Hoge zdradził, że przy tworzeniu pierwszej części gry twórcy inspirowali się grami z serii Ultima.
+ W początkowej fazie produkcji grę nazwano Orpheus, potem zmieniono ją na Finster (z niemieckiego - Mroczny, co miało nawiązywać do mrocznej atmosfery panującej w grze). W późniejszym czasie jeden z twórców gry, Bert Speckels, pod wpływem gotyckiego rocka, którego wówczas słuchał, zaproponował, by zmienić nazwę na Gothic, gdyż brzmiała wystarczająco mroczno i międzynarodowo, aby gra przyjęła się poza Niemcami (https://youtu.be/yuvISO5qGG8?si=k1Ul7SBn_GRKPkDX&t=504).
+ Pierwotnie w grze miała być możliwość wybrania klasy swojego bohatera. Informacje o tym można było przeczytać w informacji prasowej wydawcy z 1999 roku (https://youtu.be/yuvISO5qGG8?si=hu4k_5lUWVQPF36b&t=1130). Dodatkowo kody na przywołanie najbliższych przyjaciół Bezimiennego odpowiadają klasom, jakie miały znaleźć się w grze: Gorn Fighter, czyli wojownik; Diego Thief, czyli złodziej; Milten Mage, czyli mag; Lester Psionic, czyli mag psioniczny.

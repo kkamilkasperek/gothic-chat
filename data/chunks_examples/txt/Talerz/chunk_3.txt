@@ -1,0 +1,6 @@
+Tytuł: Talerz
+Sekcja: Nyras Prologue
+
+W demie występuje tylko jeden talerz. Można go znaleźć w szałasie na samym końcu płaskowyżu ponad opuszczoną kopalnią.
+
+Talerz nie ma żadnego zastosowania, nie można go też kupić ani sprzedać, ponieważ w demie nie zaimplementowano systemu handlu.

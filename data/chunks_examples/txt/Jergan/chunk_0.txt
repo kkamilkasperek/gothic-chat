@@ -1,0 +1,18 @@
+Tytuł: Jergan
+Podstawowe informacje:
+- imię: Jergan
+- zawód: Zwiadowca
+- poziom: GII: 30, NK: 50
+- miejsce zamieszkania: Górnicza Dolina
+- miejsce urzędowania: Droga między opuszczoną kopalnią a zamkiem, Kopalnia Fajetha
+- posiadana broń: Kiepski topór bojowy
+- posiadana zbroja: Średni pancerz bandyty
+- występowanie: Gothic II
+- dubbing: Paweł Iwanicki
+- kod: Vlk_4110_Jergan
+- przedmiot kradzieży: 110 złoto
+- wymagana zręczność: 84
+Inne języki:
+- cs: Jergan
+- it: Jergan
+- ru: Джерган

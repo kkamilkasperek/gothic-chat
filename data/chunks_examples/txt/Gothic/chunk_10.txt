@@ -1,0 +1,42 @@
+Tytuł: Gothic
+Sekcja: Bestiariusz
+
+Chrząszcz – niewielki owad bytujący przy odpadkach i porzuconych budynkach.
+ Kretoszczur – pozbawione włosia stworzenia zamieszkujące niewielkie jaskinie. Można spotkać również jego młode osobniki.
+ Ścierwojad – ptak nielot zamieszkujący równiny kolonii. Okazjonalnie napotkać można młode ścierwojady.
+ Goblin – humanoidalny potwór walczący pałką lub zardzewiałym mieczem.
+ Czarny goblin – groźniejsza odmiana goblina walcząca kijem z gwoździem.
+ Goblin wojownik – najgroźniejsza odmiana goblina walcząca maczugą.
+ Krwiopijca – latający owad bytujący przy zbiornikach wodnych.
+ Wilk – pospolity ssak zamieszkujący lasy.
+ Jaszczur – stadny gad żyjący w okolicach zbiorników wodnych.
+ Ognisty jaszczur – ognista odmiana zwykłego jaszczura ziejąca ogniem.
+ Topielec – drapieżny gad żyjący nad wodą.
+
+ Pełzacz – duży owad żyjący w kopalniach i podziemnych korytarzach.
+ Pełzacz wojownik – groźniejsza odmiana pełzacza o większej odporności i sile ataku.
+ Świątynny pełzacz – najgroźniejsza odmiana pełzacza zamieszkująca świątynię Śniącego.
+ Królowa pełzaczy – królowa-matka pełzaczy. Występuje tylko jeden okaz w Starej Kopalni.
+ Zębacz – drapieżny gad zamieszkujący górskie tereny.
+ Ogar – drapieżny potwór przebywający na drodze do górskiej fortecy.
+ Brzytwa – drapieżny gad stadny zamieszkujący ziemie orków.
+ Kąsacz – drapieżny gad zamieszkujący ziemie orków.
+ Orkowy pies – ssak przypominający wilka zamieszkujący ziemie orków.
+ Cieniostwór – drapieżny potwór zamieszkujący zacienione lasy i jaskinie.
+ Troll – ogromna bestia zamieszkująca górzyste tereny. W grze występuje też unikatowy młody osobnik.
+ Wąż błotny – olbrzymi gad zamieszkujący tereny bagniste.
+
+ Harpia – latający humanoidalny potwór występujący w kanionie trolli i górskiej fortecy.
+ Golemy – magiczne istoty powiązane z żywiołami.
+ Kamienny golem – kamienny wariant golema. Przy starej fortecy można spotkać unikatowego kamiennego golema nazwanego golemem mostowym.
+ Lodowy golem – lodowy wariant golema posługujący się zaklęciami lodu.
+ Ognisty golem – ognisty wariant golema posługujący się zaklęciami ognia.
+ Szkielet – ożywieniec pozbawiony tkanki miękkiej walczący zardzewiałym mieczem lub wyszczerbionym toporem.
+ Szkielet mag – odmiana szkieletu korzystająca z magii. W grze można spotkać unikatowego szkielet maga powiązanego z Wieżą Mgieł.
+ Szkielet zwiadowca – groźniejsza odmiana szkieletu walcząca siekaczem.
+ Szkielet wojownik – najgroźniejsza odmiana szkieletu posługująca się wyszczerbionym toporem.
+ Zombi – rozkładający się ożywieniec. W grze występuje również Nadzorca będący zombi dotkniętym klątwą.
+ Opiekunowie świątyni – orkowi ożywieńcy strzegący świątyni Śniącego.
+ Starsi opiekunowie świątyni – silniejsza odmiana opiekunów świątyni.
+ Pomniejszy demon – magiczna istota broniąca świątyni Śniącego. Unikatowy osobnik strzeże wieży Xardasa.
+ Książę demonów – groźniejsza odmiana demona. Strzeże serc kapłanów wokół Śniącego.

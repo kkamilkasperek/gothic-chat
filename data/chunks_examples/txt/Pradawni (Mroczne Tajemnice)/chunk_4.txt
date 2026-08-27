@@ -1,0 +1,6 @@
+Tytuł: Pradawni (Mroczne Tajemnice)
+Sekcja: Alternatywy
+
+Zależnie od poczynań gracza losy Pradawnych mogą się różnie potoczyć:
+ Droga Beliara: Bezimienny atakuje Świątynię, przez co giną wszyscy Pradawni.
+ Droga Innosa: W czasie Drogi Siedmiu Kroków następuje atak sług Beliara na Świątynię, przez co ginie część z nich - przeżywają tylko Algirion, Sheer'Ghar, Eli'Ne i Ken'Udz, który pada nieprzytomny, jednak po śmierci Uriziela wraca do siebie.

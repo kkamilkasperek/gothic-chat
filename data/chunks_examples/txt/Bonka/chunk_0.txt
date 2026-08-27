@@ -1,0 +1,15 @@
+Tytuł: Bonka
+Podstawowe informacje:
+- nazwa: Bonka
+- gildia: Nieznana
+- zawód: Nieznany
+- poziom: Nie dotyczy
+- miejsce zamieszkania: Nieznane
+- miejsce urzędowania: Nie dotyczy
+- posiadana broń: Nie dotyczy
+- posiadana zbroja: Nie dotyczy
+- występowanie: Gothic II (wzmianki)
+- status: Nieznany
+- dubbing: Nie dotyczy
+- kod: Brak
+- przedmiot kradzieży: Kradzież niemożliwa

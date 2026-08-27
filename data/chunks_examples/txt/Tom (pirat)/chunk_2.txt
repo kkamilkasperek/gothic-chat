@@ -1,0 +1,6 @@
+Tytuł: Tom (pirat)
+Sekcja: Gothic II: Noc Kruka
+
+Można go jedynie przyzwać za pomocą kodów. Po przywołaniu stanie na skraju plaży w obozie piratów, nieopodal miejsca treningu Bonesa.
+
+Po rozpoczęciu rozmowy jest dostępna tylko opcja Koniec, natomiast w skryptach gry istnieje krótki zakomentowany dialog z nim (nie został on przetłumaczony na polski ani nie ma nagranych kwestii). Mówi w nim Bezimiennemu, że piraci przyjęli go i dali mu strój. Na zdziwienie bohatera, że przecież należy do bandytów, Tom puszcza do niego oko i radzi, by był cicho, ponieważ wszystko jest w porządku. Może to sugerować, że uciekł on z obozu bandytów i nie chce ujawniać tożsamości lub też przyszedł do piratów na przeszpiegi.

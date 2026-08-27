@@ -1,0 +1,4 @@
+Tytuł: Topór bojowy barbarzyńcy
+Sekcja: Gothic 3 > Statystyki
+
+Wartość topora wynosi 10 500 sztuk złota przy sprzedaży. W trakcie kupna cena rośnie do 35 000 sztuk złota. Broń zadaje 120 punktów obrażeń (60 w wersji zużytej), a żeby jej używać, wymagane jest 250 punktów siły i zdolnosć Duży oręż II. Dodatkowo podczas korzystania z oręża bohater automatycznie ma opanowaną umiejętność Zabójca orków.

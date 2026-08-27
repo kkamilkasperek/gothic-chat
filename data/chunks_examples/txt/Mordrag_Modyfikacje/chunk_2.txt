@@ -1,0 +1,79 @@
+Tytuł: Mordrag_Modyfikacje
+Sekcja: Świat Skazańców > Towary
+
+Pokaż/ukryj towary
+ Asortyment z I rozdziału to asortyment początkowy. Reszta rozdziałów to przedmioty, które zostają dodane do przedmiotów oferowanych przez handlarza.
+ Rozdział I
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Magiczna ruda | 1 | 100 |
+| Kula ognia (zwój) | 4 | 70 |
+| Deszcz ognia (zwój) | 2 | 130 |
+| Puchar | 2 | 50 |
+| Esencja uzdrawiająca | 3 | 25 |
+| Esencja magicznej energii | 2 | 25 |
+| Maczuga | 1 | 55 |
+| Uzdrowienie (zwój) | 6 | 50 |
+| Sadło kretoszczura | 3 | 5 |
+| Jabłko | 4 | 4 |
+| Siarka | 2 | 20 |
+| Szynka | 2 | 12 |
+| Ser | 3 | 10 |
+| Łowy i zwierzyna | 1 | 100 |
+| Przemiana w krwiopijcę | 2 | 100 |
+| Lekki miecz strażnika (Fletchera) | 1 | 40 |
+| Lekka kusza (Skorpiona) | 1 | 150 |
+| Ząb kopacza (Złego) | 1 | 30 |
+| Stary pierścień | 1 | 250 |
+| Strzała | 100 | 1 |
+| Bryłka rudy | 90 | 1 |
+
+
+ Rozdział II
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Wytrych | 10 | 10 |
+| Strzała | 100 | 1 |
+| Bełt | 100 | 1 |
+| Łuk polowy | 1 | 120 |
+| Łuk myśliwski | 1 | 160 |
+| Sopel lodu (zwój) | 1 | 50 |
+| Uzdrowienie (zwój) | 3 | 50 |
+| Kula ognia (zwój) | 2 | 70 |
+| Bryłka rudy | 65 | 1 |
+
+
+ Rozdział III
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Wytrych | 20 | 10 |
+| Strzała | 200 | 1 |
+| Bełt | 200 | 1 |
+| Łuk kolczasty | 1 | 280 |
+| Łuk wierzbowy | 1 | 320 |
+| Piorun kulisty (zwój) | 2 | 90 |
+| Ognista burza (zwój) | 1 | 110 |
+| Lodowa fala (zwój) | 3 | 110 |
+| Kula ognia (zwój) | 2 | 70 |
+| Bryłka rudy | 75 | 1 |
+
+
+ Rozdział IV
+
+| Przedmiot | Liczba | Cena |
+| --- | --- | --- |
+| Podmuch wiatru | 1 | 480 |
+| Wytrych | 30 | 10 |
+| Strzała | 300 | 1 |
+| Bełt | 300 | 1 |
+| Ognista burza (zwój) | 1 | 110 |
+| Lodowa fala (zwój) | 2 | 110 |
+| Piorun kulisty (zwój) | 2 | 90 |
+| Deszcz ognia (zwój) | 1 | 130 |
+| Bryłka rudy | 85 | 1 |
+
+
+ Rozdział V

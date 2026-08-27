@@ -1,0 +1,16 @@
+Tytuł: Łuk na ogniste strzały
+Podstawowe informacje:
+- nazwa: Łuk na ogniste strzały
+- typ: Łuk
+- opis: Łuk na ogniste strzały, Zadaje obrażenia ogniem
+- wymagane atrybuty: Zręczność: 15
+- obrażenia: 10 (od ognia)
+- posiadacz: Brak
+- handlarze: Brak
+- wartość kupna: 200 ruda
+- wartość sprzedaży: 100 ruda
+- występowanie: Die Bedrohung
+- questowy: Na tropie magicznych skrzyń
+- kod: ItRw_FlameBow
+Dodatkowe informacje:
+- Niekanon

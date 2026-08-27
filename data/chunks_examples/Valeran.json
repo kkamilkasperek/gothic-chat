@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tytuł: Valeran\nPodstawowe informacje:\n- imię: Valeran\n- gildia: Obywatel\n- zawód: Handlarz\n- poziom: 10\n- miejsce zamieszkania: Miasto Khorinis\n- miejsce urzędowania: Dom Fernando w górnym mieście\n- posiadana broń: Miecz\n- posiadana zbroja: Lekki strój obywatela\n- występowanie: Returning\n- status: Nie żyje\n- kod: vlk_6134_valeran\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Valeran",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Returning",
+        "Handlarze z modyfikacji",
+        "Obywatele Khorinis z modyfikacji"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Valeran\nSekcja: Wstęp\n\nValeran – postać występująca w modyfikacji Returning do gry Gothic II: Noc Kruka.",
+    "metadata": {
+      "title": "Valeran",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Returning",
+        "Handlarze z modyfikacji",
+        "Obywatele Khorinis z modyfikacji"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Valeran\nSekcja: Returning\n\nPracuje on jako asystent u kupca Fernando. Sprzedaje różne towary oraz prowadzi większość spraw finansowych swojego pracodawcy.\n\nJeżeli Bezimienny postanowi donieść na Fernanda do straży, podczas wykonywania zadania Handlarz bronią dla bandytów, Valeran straci pracę i będzie wtedy przebywał w gospodzie Orlana.\n\nBezimienny bohater może zatrudnić Valerana jako pomocnika dla kupca Lutero, jeżeli wykonuje zadania dla gildii kupców, oraz w wersji 2.0, jako swojego osobistego zarządcę dworu. Wymagane jest wtedy 50 punktów retoryki.",
+    "metadata": {
+      "title": "Valeran",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Returning",
+        "Handlarze z modyfikacji",
+        "Obywatele Khorinis z modyfikacji"
+      ],
+      "section": "Returning",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Valeran\nSekcja: Dalsze losy\n\nW zależności od wyborów bohatera ginie w VII rozdziale bądź umiera po wypłynięciu bohatera z poselstwem do króla po bitwie z orkami, gdyż zielonoskórzy ostatecznie najeżdżają wyspę.",
+    "metadata": {
+      "title": "Valeran",
+      "type": "Postać",
+      "categories": [
+        "Bez informacji o kradzieży z modyfikacji",
+        "Postacie z Returning",
+        "Handlarze z modyfikacji",
+        "Obywatele Khorinis z modyfikacji"
+      ],
+      "section": "Dalsze losy",
+      "chunk_index": 3
+    }
+  }
+]

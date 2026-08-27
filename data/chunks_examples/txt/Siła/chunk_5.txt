@@ -1,0 +1,11 @@
+Tytuł: Siła
+Sekcja: Gothic > Bonusy trwałe
+
+Bohater może trwale zwiększyć swoją siłę, pijąc odpowiednie mikstury:
+ esencja siły – 3 punkty;
+ eliksir siły – 8 punktów;
+ napój potęgi – 4 punkty;
+ napój władzy – 6 punktów.
+Istnieje też wyciąg siły, który dodaje 5 punktów siły, ale nie występuje on w regularnej rozgrywce.
+
+Dodatkowo Horacy może jednorazowo zwiększyć siłę bohatera o 5 bez zużycia punktów nauki po ukończeniu zadania Zbieracz Horacy. Należy pamiętać, że podnosi on siłę maksymalnie do 100 punktów, więc jeśli podczas odpowiedniego dialogu z nim Bezimienny ma tę cechę powyżej 100 punktów (podniesioną poprzez wypicie odpowiednich mikstur lub dzięki założonym amuletom czy pierścieniom), to Horacy obniży jej aktualną wartość właśnie do 100.

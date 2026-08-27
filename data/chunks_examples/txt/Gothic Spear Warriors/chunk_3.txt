@@ -1,0 +1,8 @@
+Tytuł: Gothic Spear Warriors
+Sekcja: Sterowanie > Gracz 2
+
+Strzałka w górę (↑) – skok
+ Strzałka w lewo (←), strzałka w prawo (→) – poruszanie się
+ Strzałka w dół (↓) – atak włócznią
+ P – kula ognia
+ O – przywołanie ożywieńca

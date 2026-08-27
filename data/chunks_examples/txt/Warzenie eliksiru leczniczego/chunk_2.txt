@@ -1,0 +1,12 @@
+Tytuł: Warzenie eliksiru leczniczego
+Sekcja: Gothic II
+
+Bohater może nauczyć się tej zdolności od następujących osób:
+ Constantina, gdy Bezimienny jest jego czeladnikiem lub został czeladnikiem Harada albo Bospera i potrafi przyrządzić dowolną miksturę;
+ Neorasa, gdy bohater jest magiem ognia lub paladynem;
+ Vatrasa, po dotarciu na dwór Irdorath.
+Bezimienny musi umieć warzyć ekstrakt leczniczy oraz wydać 5 punktów nauki na naukę tej umiejętności. Po przyswojeniu tego talentu bohater ma możliwość przyrządzenia eliksiru leczniczego na stole alchemicznym, jeśli posiada następujące składniki:
+ menzurkę;
+ 2 korzenie lecznicze;
+ 1 rdest polny.
+Później, Bezimienny może nauczyć się, jak uwarzyć eliksir życia, eliksir siły oraz eliksiru zręczności.

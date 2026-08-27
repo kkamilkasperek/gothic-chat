@@ -1,0 +1,17 @@
+Tytuł: Maczuga
+Podstawowe informacje:
+- nazwa: Maczuga
+- nazwa angielska: Mace
+- podnazwa: Gothic,G3:TB,ArcaniA,NP
+- typ: Obuchowa broń jednoręczna
+- wymagane atrybuty: Siła: 10
+- obrażenia: 23 (obuchowe)
+- posiadacz: Homer, Talas, Szkodnicy, Gobliny-wojownicy
+- handlarze: II rozdział:, Sharky, Darrion
+- wartość kupna: 55 ruda
+- wartość sprzedaży: 28 ruda
+- występowanie: Gothic, Gothic 3: The Beginning, ArcaniA, Nyras Prologue
+- kod: itmw_1h_mace_01
+Inne języki:
+- de: Streitkolben (G1)
+- ru: Булава (Gothic)

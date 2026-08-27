@@ -1,0 +1,16 @@
+Tytuł: Lekka zbroja strażnika
+Podstawowe informacje:
+- nazwa: Lekka zbroja strażnika
+- nazwa angielska: Light Guard's Armor
+- typ: Pancerz
+- gildia: Strażnicy Starego Obozu
+- ochrona: Broń: 45, Pociski: 5, Ogień: 20
+- posiadacz: Kirgo, Nek, Orry, Pacho, Ulbert, Strażnicy mostu
+- handlarze: Brak
+- wartość kupna: 1350 Ruda
+- wartość sprzedaży: 675 Ruda
+- występowanie: Gothic
+- kod: Grd_Armor_L
+Inne języki:
+- cs: Lehká zbroj strážce
+- ru: Легкие доспехи стражника

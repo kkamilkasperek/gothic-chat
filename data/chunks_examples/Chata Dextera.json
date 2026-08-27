@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Tytuł: Chata Dextera\nPodstawowe informacje:\n- nazwa: Chata Dextera\n- nazwa angielska: Dexter's hut\n- typ: Chata\n- położenie: Targowisko w Starym Obozie\n- populacja: Jedna osoba\n- zarządca: Dexter\n- związek z fabułą: Nie\n- występowanie: Gothic, Gothic II (zgliszcza)\n- teleportacja: Brak\n- waypoint: ocr_hut_55",
+    "metadata": {
+      "title": "Chata Dextera",
+      "type": "Lokacja",
+      "categories": [
+        "Chaty i domostwa z Gothic",
+        "Miejsca z Gothic",
+        "Miejsca w Starym Obozie"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Chata Dextera\nSekcja: Wstęp\n\nChata Dextera – budynek występujący w Gothic oraz jako ruiny w Gothic II.",
+    "metadata": {
+      "title": "Chata Dextera",
+      "type": "Lokacja",
+      "categories": [
+        "Chaty i domostwa z Gothic",
+        "Miejsca z Gothic",
+        "Miejsca w Starym Obozie"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Chata Dextera\nSekcja: Gothic\n\nChata zamieszkiwana jest przez cienia i zarazem handlarza – Dextera. Znajduje się ona na targowisku w Starym Obozie. Przed chatą stoi ławka, na której Dexter często siedzi za dnia, a w pobliżu znajduje się również stojak z oporządzonymi ścierwojadami, rożen i 2 kolejne ławki stojące po obu jego stronach. Wewnątrz chaty znajduje się jedynie łóżko i uszkodzony stół.",
+    "metadata": {
+      "title": "Chata Dextera",
+      "type": "Lokacja",
+      "categories": [
+        "Chaty i domostwa z Gothic",
+        "Miejsca z Gothic",
+        "Miejsca w Starym Obozie"
+      ],
+      "section": "Gothic",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Chata Dextera\nSekcja: Gothic II\n\nChata została poważnie uszkodzona w wyniku ataku smoków; pozostały po niej jedynie zgliszcza.",
+    "metadata": {
+      "title": "Chata Dextera",
+      "type": "Lokacja",
+      "categories": [
+        "Chaty i domostwa z Gothic",
+        "Miejsca z Gothic",
+        "Miejsca w Starym Obozie"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Chata Dextera\nSekcja: Ciekawostki\n\nW drugiej części serii model zniszczonej chaty Dextera nie pasuje do wyglądu chaty występującej w Gothic – w Gothic II otwór wejściowy został zwężony o połowę, zaś kilka ustawionych pionowo desek wskazuje na większą wysokość budynku niż za czasów magicznej bariery.",
+    "metadata": {
+      "title": "Chata Dextera",
+      "type": "Lokacja",
+      "categories": [
+        "Chaty i domostwa z Gothic",
+        "Miejsca z Gothic",
+        "Miejsca w Starym Obozie"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 4
+    }
+  }
+]

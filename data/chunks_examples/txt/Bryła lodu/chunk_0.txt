@@ -1,0 +1,16 @@
+Tytuł: Bryła lodu
+Podstawowe informacje:
+- nazwa: Bryła lodu
+- nazwa angielska: Ice block
+- podnazwa: Gothic,Gothic II,GII:NK
+- bóg: Adanos
+- krąg: Trzeci
+- obrażenia: 50
+- wymagana mana: 3
+- działanie: Unieruchamia przeciwnika na 10 sekund i zadaje średnie obrażenia
+- wartość kupna: 700 ruda (runa), 70 ruda (zwój)
+- wartość sprzedaży: 350 ruda (runa), 35 ruda (zwój)
+- występowanie: Gothic, Gothic Remake, Gothic II
+- kod: ItArRuneIceCube (runa), ItArScrollIceCube (zwój)
+Inne języki:
+- ru: Ледяной блок

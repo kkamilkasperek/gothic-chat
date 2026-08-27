@@ -1,0 +1,4 @@
+Tytuł: Strój wielkiego maga
+Sekcja: Mój Mod > Statystyki
+
+Zwiększa o 120 punktów ochronę przed bronią, pociskami, ogniem i magią. Szata ma wartość 500 sztuk złota, przy sprzedaży jej cena spada do 75 złotych monet.

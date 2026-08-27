@@ -1,0 +1,15 @@
+Tytuł: Lud Północy
+Podstawowe informacje:
+- nazwa: Lud Północy
+- nazwa angielska: The people of the North
+- opis: Księga o mieszkańcach Nordmaru
+- posiadacz: Grif
+- autor: Nieznany
+- ilość tomów: 1
+- występowanie: Kroniki Myrtany: Archolos
+- wartość kupna: 25 złoto
+- wartość sprzedaży: 4 złoto
+- questowy: Nie
+- kod: ItWr_AboutNordmar
+Dodatkowe informacje:
+- Niekanon

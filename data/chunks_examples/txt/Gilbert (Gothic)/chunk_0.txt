@@ -1,0 +1,20 @@
+Tytuł: Gilbert (Gothic)
+Podstawowe informacje:
+- imię: Gilbert
+- gildia: Kopacz (przed akcją gry), Brak
+- poziom: 4
+- miejsce zamieszkania: Jaskinia Gilberta
+- miejsce urzędowania: Jaskinia Gilberta
+- posiadana broń: Wyszczerbiony topór
+- posiadana zbroja: Spodnie kopacza
+- występowanie: Gothic, Gothic II (wzmianki)
+- status: Nieznany
+- dubbing: Andrzej Tomecki
+- kod: Non_1500_Gilbert
+- przedmiot kradzieży: Kradzież niemożliwa
+Dodatkowe informacje:
+- Inne znaczenia (1: postaci występującej w Gothic, 2: Gilbert)
+Inne języki:
+- en: Gilbert
+- it: Gilbert
+- ru: Гилберт

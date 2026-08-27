@@ -1,0 +1,15 @@
+Tytuł: Pazury trolla ziemnego
+Podstawowe informacje:
+- nazwa: Pazury trolla ziemnego
+- typ: Trofeum
+- wymagane umiejętności: Usuwanie pazurów ziemnych trolli
+- do zdobycia z: Ziemnego trolla, Młodego trolla ziemnego, Samicy ziemnego trolla
+- rzadkość: Rzadkie
+- wartość kupna: 20 ruda
+- wartość sprzedaży: 10 ruda
+- posiadacz: Brak
+- występowanie: Gothic Edycja rozszerzona
+- questowy: Nie
+- kod: ItAt_Claws_02
+Dodatkowe informacje:
+- Niekanon

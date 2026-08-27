@@ -1,0 +1,14 @@
+Tytuł: Gothic
+Sekcja: Ekwipunek
+
+Gracz może wyposażyć Bezimiennego w szereg broni, pancerzy i artefaktów, które zwiększają zadawane obrażenia, poziom ochrony lub liczbę punktów atrybutów. W grze są dostępne (Wliczając w to również przedmioty dostępne tylko dla postaci niezależnych oraz za pomocą kodów.):
+
+ 63 bronie jednoręczne;
+ 45 broni dwuręcznych;
+ 21 łuków;
+ 4 kusze;
+ 35 pancerzy;
+ 19 amuletów;
+ 25 pierścieni.
+
+Przedmioty w ekwipunku są podzielone na kategorie (bronie, pancerze, magia, pisma, napoje, jedzenie, artefakty i pozostałe), by ułatwić nawigację po zebranych przedmiotach.

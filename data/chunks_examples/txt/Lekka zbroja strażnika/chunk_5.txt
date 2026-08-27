@@ -1,0 +1,4 @@
+Tytuł: Lekka zbroja strażnika
+Sekcja: Gothic > Statystyki
+
+Jest to najsłabszy pancerz strażników o gorszych statystykach niż zbroja strażnika i jej ciężki wariant. Zwiększa ochronę przed bronią o 45 punktów, przed pociskami o 5 punktów oraz przed ogniem o 20 punktów, czyli tyle samo co lekka zbroja najemnika oraz lekka zbroja świątynna. Wartość nominalna stroju wynosi 1350 bryłek rudy, przy sprzedaży spada do 675 bryłek.

@@ -1,0 +1,14 @@
+Tytuł: Duże żądło
+Podstawowe informacje:
+- nazwa: Duże żądło
+- nazwa angielska: Large Stinger
+- typ: Żądło
+- opis: Składnik alchemiczny. Do żądła ciągle przyczepiony jest gruczoł jadowy.
+- do zdobycia z: Krwiopijcy, Osy jeziornej
+- rzadkość: Pospolity
+- handlarze: Brak
+- wartość sprzedaży: 1 złoto
+- posiadacz: Brak
+- występowanie: ArcaniA
+- questowy: Nie
+- kod: Brak

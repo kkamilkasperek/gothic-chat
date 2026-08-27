@@ -1,0 +1,4 @@
+Tytuł: Gothic
+Sekcja: Silnik gry
+
+Gra działa na silniku graficznym ZenGin stworzonym w 1997 przez Piranha Bytes.

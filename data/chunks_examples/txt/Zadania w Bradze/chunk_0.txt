@@ -1,0 +1,113 @@
+Tytuł: Zadania w Bradze
+Sekcja: Informacje Podstawowe
+
+Tytuł: Zadania w Bradze
+Podstawowe informacje:
+- nazwa: Aila
+- zleceniodawca: Nafalem
+- pd: 1500
+- reputacja: +15 do reputacji w Bradze
+- złoto: 300
+Dodatkowe informacje:
+- ZadaniaG3 (1: {{ZadanieG3
+ |Nazwa            = [[Aila (zadanie)|Aila]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +15 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 300
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina Bernado]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 1000
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 500
+ |Interakcje       = (+250 punktów doświadczenia po rozmowie z Nafalemem po wykonaniu zadania)
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina Jose]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 500
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina Luki]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 500
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Danina z Bragi]]
+ |Zleceniodawca    = [[Nafalem]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +15 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = +10 do reputacji u [[Asasyni|asasynów]]
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Eskortuj Riordiana]]
+ |Zleceniodawca    = [[Riordian]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = Możliwość [[Nauczyciele w Gothic 3|nauki]] u Riordiana
+}}
+{{ZadanieG3
+ |Nazwa            = [[Podążaj za Tufailem]]
+ |Zleceniodawca    = [[Tufail]]
+ |PD               = 1000
+ |Zdolności        = 
+ |Reputacja        = 
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Polowanie na nagrody: Asaru]]
+ |Zleceniodawca    = [[Jose]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +15 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 500
+ |Interakcje       = (+500 punktów doświadczenia po rozmowie z Jose po wykonaniu zadania)
+}}
+{{ZadanieG3
+ |Nazwa            = [[Polowanie na nagrody: Braga]]
+ |Zleceniodawca    = [[Jose]]
+ |PD               = 1500
+ |Zdolności        = 
+ |Reputacja        = +5 do [[Reputacja|reputacji]] w [[Braga|Bradze]]
+ |Reputacja ogólna = 
+ |Przedmioty       = 
+ |Złoto            = 900
+ |Interakcje       = 
+}}
+{{ZadanieG3
+ |Nazwa            = [[Polowanie na nagrody: Malir]]
+ |Zleceniodawca    = [[Jose]]

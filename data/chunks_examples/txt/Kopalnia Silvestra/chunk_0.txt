@@ -1,0 +1,12 @@
+Tytuł: Kopalnia Silvestra
+Podstawowe informacje:
+- nazwa: Kopalnia Silvestra
+- nazwa angielska: Silvestro's mine
+- typ: Kopalnia
+- położenie: Okolice starej wieży Xardasa
+- mieszkańcy: Pełzacze
+- zarządca: Silvestro
+- ważne postacie: Brak
+- występowanie: Gothic II
+- teleportacja: Brak
+- waypoint: ow_mine3_out

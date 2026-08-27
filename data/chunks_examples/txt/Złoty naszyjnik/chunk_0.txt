@@ -1,0 +1,16 @@
+Tytuł: Złoty naszyjnik
+Podstawowe informacje:
+- nazwa: Złoty naszyjnik
+- nazwa angielska: Gold necklace
+- podnazwa: Gothic II,Gothic 3
+- typ: Kosztowność
+- właściciel: Den
+- rzadkość: Bardzo rzadki
+- wartość kupna: 300 złoto
+- wartość sprzedaży: GII: 90 złoto, NK: 45 złoto
+- handlarze: Brak
+- występowanie: Gothic II, Gothic 3
+- questowy: Nie
+- kod: ItMi_GoldNecklace
+Inne języki:
+- ru: Золотое ожерелье

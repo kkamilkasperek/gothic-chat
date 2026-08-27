@@ -1,0 +1,4 @@
+Tytuł: Maczuga
+Sekcja: Ciekawostki
+
+W pierwszej części jedna maczuga powinna leżeć w świątyni Śniącego obok środkowego przełącznika w komnacie Varraga-Kasorga, lecz z powodu współrzędnej wysokości równej 0 znajduje się ona ponad modelem sufitu i można ją zdobyć jedynie za pomocą kodów.

@@ -1,0 +1,6 @@
+Tytuł: Kopalnia Silvestra
+Sekcja: Ciekawostki
+
+Wewnątrz głazu znajdującego się po prawej stronie wejścia do kopalni ukryty jest kufer (o kombinacji zamka: ), do którego można się dostać tylko za pomocą kodów. Zawiera on 50 sztuk złota, kawałek smażonego mięsa oraz butelkę ginu.
+ Wewnątrz jednej z beczek znajdujących się po prawej stronie wejścia do kopalni ukryty jest posążek Innosa. Można go zauważyć z pomocą widoku siatki.
+ Jeżeli gracz za pomocą kodu wolnej kamery (F6) przeniesie się do kopalni Silvestra przed uruchomieniem przerywnika filmowego przedstawiającego atak smoków na zamek, okaże się, że wszyscy z oddziału Silvestra żyją.

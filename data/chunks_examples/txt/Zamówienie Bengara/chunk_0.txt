@@ -1,0 +1,14 @@
+Tytuł: Zamówienie Bengara
+Podstawowe informacje:
+- nazwa: Zamówienie Bengara
+- zleceniodawca: Lutero
+- start: Górne miasto w Khorinis
+- koniec: Plac targowy w Khorinis
+- poprzednie: Brak
+- część zadania: Brak
+- następne: Handel w klasztorze
+- dostępność: Wszyscy
+- nagroda: Doświadczenie
+- występowanie: Returning
+Dodatkowe informacje:
+- Niekanon

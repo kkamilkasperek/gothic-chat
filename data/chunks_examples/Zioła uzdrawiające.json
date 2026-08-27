@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nPodstawowe informacje:\n- nazwa: Zioła uzdrawiające\n- nazwa angielska: Healing Herbs\n- typ: Roślina\n- działanie: Słabe: przywraca 30 punktów życia, Średnie: przywraca 39 punktów życia, Mocne: przywraca 49 punktów życia\n- status: Słabe: 40 sztuk, Średnie: 17 sztuk, Mocne: 41 sztuk\n- wartość kupna: Słabe: 14 bryłek rudy, Średnie: 19 bryłek rudy, Mocne: 24 bryłki rudy\n- wartość: Słabe: 7 bryłek rudy, Średnie: 10 bryłek rudy, Mocne: 12 bryłek rudy\n- występowanie: Gothic\n- questowy: Słabe i średnie: nie, Mocne: Lecznicze zioła dla Y'Beriona\n- kod: Słabe: ItFo_Plants_Herb_01, Średnie: ItFo_Plants_Herb_02, Mocne: ItFo_Plants_Herb_03\nInne języki:\n- ru: Целительные травы",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nSekcja: Wstęp\n\nZioła uzdrawiające – rośliny występujące w Gothic.",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nSekcja: Gothic\n\nW grze występują 3 rodzaje ziół uzdrawiających przywracających punkty życia: słabe, średnie oraz mocne. Różnią się od siebie wyglądem, statystykami oraz licznością i miejscem występowania.",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Gothic",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nSekcja: Gothic > Słabe zioła\n\nŁącznie można zdobyć 40 sztuk. 32 okazy rosną na terenie kolonii. Najczęściej można je spotkać na bagnach koło Obozu Bractwa oraz w takich miejscach jak: jaskinia z ciałem Neka, jaskinia koło chaty Cavalorna, okolice obozu Aidana, przed i w jaskini nieopodal bramy obozu Bractwa, a także przy jeziorku pod wieżą Xardasa. Dodatkowo 5 sztuk znajduje się w skrzyni w Starym Obozie, w zamkniętej chacie obok tej należącej do Fiska oraz 3 egzemplarze w Nowym Obozie, w skrzyniach na platformie przy wewnętrznej bramie, na piętrze karczmy na jeziorze oraz ostatnia na dole Wolnej Kopalni, na jednym z wysokich rusztowań.\n\nSą to trzy symetrycznie rozłożone podłużne liście wyrastające z ziemi.\n\nPo zjedzeniu przywracają 30 punktów życia. Nie są wymagane do żadnego zadania. Ich wartość kupna wynosi 14 bryłek rudy, przy sprzedaży cena spada do 7 bryłek.",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Gothic > Słabe zioła",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nSekcja: Gothic > Średnie zioła\n\nŁącznie można zdobyć 17 okazów. W naturze rośnie 14 egzemplarzy. Można je znaleźć pospolicie na bagnach koło Obozu Bractwa, w pobliżu jaskiń nieopodal bramy obozu Bractwa, przy wejściu na ziemie orków, przy drogach w okolicach krypty pod kamiennym kręgiem i przy jeziorku pod wieżą Xardasa. Dodatkowo 3 okazy przechowują w swoich skrzyniach magowie wody z Nowego Obozu.\n\nRównież składa się z trzech symetrycznie rozłożonych podłużnych liści, ale na roślinę składają się również podobnie wyrastające liście koloru pomarańczowego.\n\nPo zjedzeniu przywracają 39 punktów życia. Nie są wymagane do żadnego zadania. Ich wartość kupna wynosi 19 bryłek rudy, przy sprzedaży cena spada do 10 bryłek.",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Gothic > Średnie zioła",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nSekcja: Gothic > Mocne zioła\n\nŁącznie można zdobyć 41 sztuk. Na terenie Górniczej Doliny rośnie 29 okazów. Większość z nich można znaleźć na bagnach koło Obozu Bractwa, ale można je też napotkać przy drodze prowadzącej do krypty oraz w pobliskiej jaskini cieniostwora, a także na ziemiach orków nieopodal jednej ze strażnic i przy jeziorku pod wieżą Xardasa. Jedna sztuka znajduje się w skrzyni w Starym Obozie, w zamkniętej chacie obok tej należącej do Fiska; 4 w jaskini szamanów z miasta orków oraz 2 w Wolnej Kopalni, w pobliżu rozdrabniacza i dwóch pełzaczy-wojowników.\n\nRoślina składa się z ośmiu podłużnych liści wyrastających symetrycznie z ziemi. Cztery z nich są koloru zielonego, a cztery pozostałe pomarańczowe.\n\nCor Angar w III rozdziale zleca Bezimiennemu przyniesienie 5 takich ziół dla umierającego Y'Beriona. Jeśli bohater będzie miał problem z ich znalezieniem i powie o tym strażnikowi, ten skieruje go do Fortuno. Od tego momentu handlarz będzie miał w asortymencie właśnie 5 sztuk mocnych ziół.\n\nPo zjedzeniu przywracają 49 punktów życia. Ich wartość kupna wynosi 24 bryłek rudy, przy sprzedaży cena spada do 12 bryłek.",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Gothic > Mocne zioła",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nSekcja: Modyfikacje > Carnage Graphic Patch\n\nWygląd ziół uzdrawiających został zmieniony.",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Modyfikacje > Carnage Graphic Patch",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Tytuł: Zioła uzdrawiające\nSekcja: Ciekawostki\n\nNa bagnach dwa słabe zioła (nieopodal Virana) oraz jedno mocne (przy ścianie skalnej) są położone za granicą bariery i można je zdobyć tylko za pomocą telekinezy lub poprzez wykorzystanie kodów i błędów w grze.\n Jeśli bohater znajdzie wszystkie mocne zioła w grze oraz kupi pozostałe 5 od Fortuno, a następnie je zje lub w inny sposób zniszczy, to dalsza rozgrywka nie będzie możliwa bez pomocy kodów (tzw. softlock).",
+    "metadata": {
+      "title": "Zioła uzdrawiające",
+      "type": "Jedzenie",
+      "categories": [
+        "Rośliny z Gothic"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 7
+    }
+  }
+]

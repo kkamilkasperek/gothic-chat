@@ -1,0 +1,17 @@
+Tytuł: Cmentarzysko orków (zadanie)
+Podstawowe informacje:
+- nazwa: Cmentarzysko orków
+- nazwa angielska: Orc Cemetery
+- zleceniodawca: Cor Angar
+- start: Obóz Bractwa
+- koniec: Obóz Bractwa
+- poprzednie: Almanach
+- część zadania: Brak
+- następne: Lecznicze zioła dla Y'Beriona
+- dostępność: Wszyscy (w III rozdziale)
+- nagroda: 2750 punktów doświadczenia, Pierścień drewnianej skóry, 100 Ruda (opcjonalnie)
+- występowanie: Gothic
+Dodatkowe informacje:
+- Inne znaczenia (1: zadania występującego w Gothic, 2: Cmentarzysko orków)
+Inne języki:
+- ru: Кладбище орков (квест)

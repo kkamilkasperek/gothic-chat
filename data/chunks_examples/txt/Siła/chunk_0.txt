@@ -1,0 +1,10 @@
+Tytuł: Siła
+Podstawowe informacje:
+- nazwa: Siła
+- nazwa angielska: Strength
+- podnazwa: Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,GPT
+- wpływa na: Noszenie broni białej, Liczbę punktów obrażeń zadawanych bronią białą
+- nauczyciele: Lista nauczycieli
+- koszt nauki: 1 punkt nauki
+- występowanie: Gothic, Gothic II, Gothic 3, Gothic 3: Zmierzch Bogów, Gothic Playable Teaser
+- kod: edit abilities → attributes → 4 = wartość

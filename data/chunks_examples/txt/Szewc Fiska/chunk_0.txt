@@ -1,0 +1,13 @@
+Tytuł: Szewc Fiska
+Podstawowe informacje:
+- nazwa: Szewc Fiska
+- zleceniodawca: Fisk
+- start: Stary Obóz
+- koniec: Stary Obóz
+- poprzednie: Brak
+- następne: Brak
+- dostępność: Wszyscy, 1-3 Rozdział
+- nagroda: 200 punktów doświadczenia, Lekkie spodnie kopacza
+- występowanie: Mroczne Tajemnice
+Dodatkowe informacje:
+- Niekanon

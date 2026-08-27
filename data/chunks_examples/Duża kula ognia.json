@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tytuł: Duża kula ognia\nPodstawowe informacje:\n- nazwa: Duża kula ognia\n- nazwa angielska: Large Fireball\n- podnazwa: Gothic II,GII:NK\n- bóg: Innos\n- krąg: Czwarty\n- obrażenia: 100-300\n- wymagana mana: 15-72\n- działanie: Podpala cel zaklęcia; zadając obrażenia zależne od zużytej many\n- wartość kupna: 2000 złoto (runa), 300 złoto (zwój)\n- wartość sprzedaży: 600 złoto (runa), 90 złoto (zwój)\n- występowanie: Gothic II\n- kod: ItRu_ChargeFireball (runa), ItSc_ChargeFireball (zwój)\nInne języki:\n- ru: Большой огненный шар",
+    "metadata": {
+      "title": "Duża kula ognia",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic II"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Duża kula ognia\nSekcja: Wstęp\n\nDuża kula ognia – czar występujący w Gothic II.",
+    "metadata": {
+      "title": "Duża kula ognia",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic II"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Duża kula ognia\nSekcja: Gothic II\n\nJest to czar czwartego kręgu magii stanowiący ulepszoną wersję zwykłej kuli ognia. Po wypowiedzeniu zaklęcia i odepchnięciu ręki maga w przód do jego wroga leci ognista kula magicznej energii, która po trafieniu zadaje mu od 100 do 300 punktów obrażeń od magii w zależności od zużytej many (15-72 punktów), a także podpala go (jest to jednak tylko wizualny efekt).\n\nZaklęcie to jest znane wyłącznie na wyspie Khorinis. Wytwarzania jego runy uczy mag ognia Hyglas z klasztoru. Do jej stworzenia potrzebne są oprócz pustego kamienia runicznego i zwoju z czarem także po jednym egzemplarzu smoły i siarki.\n\nZwoje z tym zaklęciem w IV rozdziale sprzedają magowie ognia Gorax (3 sztuki) i Isgaroth (2 sztuki). Dokładne miejsca występowania zwojów można sprawdzić tutaj.\n\nRuna i zwój dużej kuli ognia mają wartość nominalną odpowiednio 2000 i 300 sztuk złota. Bezimienny może je sprzedać za odpowiednio 600 i 90 złotych monet.",
+    "metadata": {
+      "title": "Duża kula ognia",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic II"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Duża kula ognia\nSekcja: Gothic II: Noc Kruka\n\nZmieniły się statystyki czaru. Minimalne obrażenia zostały zmniejszone do 75 punktów. W zależności od poziomu naładowania czar zużywa teraz od 40 do 160 punktów many.\n\nOprócz Goraxa i Isgarotha, 3 egzemplarze zwoju można teraz zakupić w IV rozdziale również od Cronosa.\n\nWartość nominalna zwoju spadła do 60 sztuk złota. Teraz runę i zwój bohater może sprzedać odpowiednio za 300 i 9 złotych monet.",
+    "metadata": {
+      "title": "Duża kula ognia",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic II"
+      ],
+      "section": "Gothic II: Noc Kruka",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Duża kula ognia\nSekcja: Modyfikacje > Returning\n\nUżywają jej orkowi szamani.",
+    "metadata": {
+      "title": "Duża kula ognia",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic II"
+      ],
+      "section": "Modyfikacje > Returning",
+      "chunk_index": 4
+    }
+  }
+]

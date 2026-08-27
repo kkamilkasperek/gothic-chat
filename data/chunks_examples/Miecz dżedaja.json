@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Tytuł: Miecz dżedaja\nPodstawowe informacje:\n- nazwa: Miecz dżedaja\n- typ: Miecz dwuręczny\n- opis: Miecz przeciętnego dżedaja\n- wymagane atrybuty: Siła: 120\n- obrażenia: 120\n- handlarze: Wowan Biały\n- wartość kupna: 2000 ruble\n- wartość sprzedaży: 300 ruble\n- występowanie: Podróżnik – Za liniami wroga\n- kod: ItMw_2H_Blessed_01\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Miecz dżedaja",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Podróżnik – Za liniami wroga",
+        "Easter eggi z Podróżnik – Za liniami wroga"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Miecz dżedaja\nSekcja: Wstęp\n\nMiecz dżedaja – broń dwuręczna występująca w modyfikacji Podróżnik – Za liniami wroga do Gothic II: Noc Kruka.",
+    "metadata": {
+      "title": "Miecz dżedaja",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Podróżnik – Za liniami wroga",
+        "Easter eggi z Podróżnik – Za liniami wroga"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Miecz dżedaja\nSekcja: Podróżnik – Za liniami wroga\n\nJest to bardzo dobry miecz dwuręczny. Ma pofalowane ostrze oraz uchwyt nad rękojeścią wspomagający walkę, wąsaty jelec i kwadratową głowicę. Podróżnik może znaleźć go podczas przeprawy przez opuszczony szyb lub kupić u Wowana Białego za 2000 rubli. W momencie sprzedaży dowolnemu handlarzowi cena spada do 300. Broń wymaga 120 punktów siły i zadaje tyle samo obrażeń.",
+    "metadata": {
+      "title": "Miecz dżedaja",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Podróżnik – Za liniami wroga",
+        "Easter eggi z Podróżnik – Za liniami wroga"
+      ],
+      "section": "Podróżnik – Za liniami wroga",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Miecz dżedaja\nSekcja: Ciekawostki\n\nNazwa miecza nawiązuje do Rycerzy Jedi (czyt. Dżedaj) znanych z uniwersum Gwiezdnych Wojen.",
+    "metadata": {
+      "title": "Miecz dżedaja",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Podróżnik – Za liniami wroga",
+        "Easter eggi z Podróżnik – Za liniami wroga"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 3
+    }
+  }
+]

@@ -1,0 +1,4 @@
+Tytuł: Starożytna zbroja magiczna_Modyfikacje
+Sekcja: Rüstungsmod Small
+
+Zbroję można odzyskać, wchodząc do obozu orków, gdyż została przez nich wydobyta z ruin świątyni Śniącego razem z Urizielem.

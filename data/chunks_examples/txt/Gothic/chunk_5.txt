@@ -1,0 +1,8 @@
+Tytuł: Gothic
+Sekcja: Główne gildie > Stary Obóz
+
+Magnaci – najbogatsi mieszkańcy kolonii odpowiedzialni za handel magiczną rudą z królem (Dialog z bezimiennym kopaczem: „Magnaci. To oni organizują wymianę rudy z królem.”).
+ Magowie ognia – magowie kręgu ognia biorący udział w tworzeniu bariery.
+ Strażnicy Starego Obozu – grupa wojowników zajmująca się dbaniem o porządek w Starym Obozie i kopalni.
+ Cienie – wyszkoleni ludzie na usługach Gomeza.
+ Kopacze – pracownicy wydobywający magiczną rudę ze Starej Kopalni.

@@ -1,0 +1,19 @@
+Tytuł: Hurit
+Podstawowe informacje:
+- imię: Hurit
+- gildia: Koczownik
+- zawód: Myśliwy
+- poziom: 15
+- miejsce zamieszkania: Oaza Hurita
+- miejsce urzędowania: Obóz Hurita
+- posiadana broń: Miecz asasyna, Łuk kompozytowy
+- posiadana zbroja: Ciężkie ubranie koczownika
+- występowanie: Gothic 3
+- status: Zależny od decyzji Bezimiennego
+- dubbing: Krzysztof Banaszyk
+- kod: Hurit
+- przedmiot kradzieży: Kradzież niemożliwa
+Inne języki:
+- cs: Hurit
+- it: Hurit
+- ru: Хьюрит

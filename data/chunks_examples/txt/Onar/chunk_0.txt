@@ -1,0 +1,19 @@
+Tytuł: Onar
+Podstawowe informacje:
+- imię: Onar
+- podnazwa: Gothic II,GII:NK
+- gildia: Farmer
+- poziom: 24
+- miejsce zamieszkania: Farma Onara
+- miejsce urzędowania: Lewe skrzydło w domu Onara
+- posiadana broń: Laga
+- posiadana zbroja: Strój obywatela
+- status: Nieznany
+- dubbing: Tomasz Marzecki
+- kod: Bau_900_Onar
+- przedmiot kradzieży: Kradzież niemożliwa
+Inne języki:
+- cs: Onar
+- de: Onar
+- it: Onar
+- ru: Онар

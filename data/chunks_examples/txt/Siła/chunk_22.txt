@@ -1,0 +1,23 @@
+Tytuł: Siła
+Sekcja: Gothic 3 > Umiejętności
+
+Poniższe umiejętności wymagają posiadania określonej siły, by móc je opanować.
+
+| Nazwa | Siła |
+| --- | --- |
+| Regeneracja | 300 |
+| Duży oręż III | 250 |
+| Duży oręż II | 200 |
+| Mistrz dwóch ostrzy | 200 |
+| Mistrz strzelectwa | 200 |
+| Mistrz walki mieczem | 200 |
+| Duży oręż | 150 |
+| Kusznik | 150 |
+| Lepsza walka mieczem | 150 |
+| Paladyn | 150 |
+| Silne parowanie tarczą | 150 |
+| Walka dwoma ostrzami | 150 |
+| Zabójca orków | 150 |
+| Parowanie tarczą | 125 |
+| Ciężka kusza | 100 |
+| Walka mieczem | 100 |

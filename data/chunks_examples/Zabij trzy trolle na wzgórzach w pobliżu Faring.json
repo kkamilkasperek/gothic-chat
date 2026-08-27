@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Tytuł: Zabij trzy trolle na wzgórzach w pobliżu Faring\nPodstawowe informacje:\n- nazwa: Zabij trzy trolle na wzgórzach w pobliżu Faring\n- nazwa angielska: Kill the three trolls in the hills near Faring\n- zleceniodawca: Zakosh\n- start: Zamek w Faring\n- koniec: Las nieopodal Faring\n- poprzednie: Brak\n- część zadania: Brak\n- następne: Brak\n- dostępność: Wszyscy\n- nagroda: 2500 punktów doświadczenia (+500 po rozmowie z Zakoshem po wykonaniu zadania), Reputacja w Faring: +12, Możliwość handlu z Zakoshem\n- występowanie: Gothic 3\nInne języki:\n- ru: Убей трех троллей в холмах возле Фаринга",
+    "metadata": {
+      "title": "Zabij trzy trolle na wzgórzach w pobliżu Faring",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Faring z Gothic 3"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Zabij trzy trolle na wzgórzach w pobliżu Faring\nSekcja: Wstęp\n\nZabij 3 trolle na wzgórzach w pobliżu Faring – zadanie poboczne występujące w Gothic 3. Jest zlecane Bezimiennemu przez Zakosha",
+    "metadata": {
+      "title": "Zabij trzy trolle na wzgórzach w pobliżu Faring",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Faring z Gothic 3"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Zabij trzy trolle na wzgórzach w pobliżu Faring\nSekcja: Krok po kroku\n\nPorozmawiaj z Zakoshem, który przebywa na zamku w Faring.\n Zabij 3 trolle, które żyją w lesie nieopodal miasta.\n Ponownie porozmawiaj z Zakoshem (opcjonalnie).",
+    "metadata": {
+      "title": "Zabij trzy trolle na wzgórzach w pobliżu Faring",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Faring z Gothic 3"
+      ],
+      "section": "Krok po kroku",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Zabij trzy trolle na wzgórzach w pobliżu Faring\nSekcja: Przebieg zadania > Dowód siły\n\nBezimienny po dotarciu na zamek w Faring, rozmawia z orkiem Zakoshem i pyta go, czy można z nim pohandlować. Ten odpowiada, że nie handluje z ludźmi, a jedynym sposobem, aby go przekonać jest udowodnienie swojej siły i wartości. Każe on bohaterowi zabić 3 trolle, które przebywają w lesie za miastem.",
+    "metadata": {
+      "title": "Zabij trzy trolle na wzgórzach w pobliżu Faring",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Faring z Gothic 3"
+      ],
+      "section": "Przebieg zadania > Dowód siły",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Zabij trzy trolle na wzgórzach w pobliżu Faring\nSekcja: Przebieg zadania > Walka z olbrzymami\n\nBezimienny udaje się do wskazanego lasu i stacza ciężką walkę z trzema olbrzymami. Kiedy ostatnia bestia pada na ziemię, bohater wraca do Zakosha i informuje go o powodzeniu misji. Ork jest pod wrażeniem i chętnie handluje z bohaterem. Zadanie kończy się powodzeniem.",
+    "metadata": {
+      "title": "Zabij trzy trolle na wzgórzach w pobliżu Faring",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic 3",
+        "Zadania w Faring z Gothic 3"
+      ],
+      "section": "Przebieg zadania > Walka z olbrzymami",
+      "chunk_index": 4
+    }
+  }
+]

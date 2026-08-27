@@ -1,0 +1,4 @@
+Tytuł: Piorun kulisty
+Sekcja: Modyfikacje > Prinson Mod
+
+Runę zaklęcia Articuno może kupić od autora modyfikacji przy pierwszym spotkaniu przed Obozem Bractwa, który może też jej użyć przeciw bohaterowi, jeśli zostanie zaatakowany.

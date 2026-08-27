@@ -1,0 +1,11 @@
+Tytuł: Gothic
+Sekcja: Świat gry > Ważne lokacje
+
+Wieża Xardasa – wieża wybudowana na ziemiach orków, zamieszkana przez nekromantę Xardasa, który opuścił Stary Obóz.
+ Miasto orków – osada zamieszkana przez orków położona na ich terenach. Znajduje się tutaj wejście do świątyni Śniącego.
+ Stara Kopalnia – kopalnia należąca do Starego Obozu.
+ Wolna Kopalnia – kopalnia należąca do Nowego Obozu.
+ Kanion trolli – kanion zamieszkany przez trolla i gobliny. Miejsce ukrycia jednego z kamieni ogniskujących.
+ Stara cytadela – ruiny budowli położone na szycie jednej z gór kolonii. Miejsce ukrywania się Ur-Shaka po opuszczeniu przez niego miasta orków.
+ Stary klasztor – opuszczony klasztor zamieszkany niegdyś przez tajemniczych mnichów. Miejsce ukrycia jednego z kamieni ogniskujących.
+ Górska forteca – stara budowla położona w górach. Miejsce ukrycia jednego z kamieni ogniskujących.

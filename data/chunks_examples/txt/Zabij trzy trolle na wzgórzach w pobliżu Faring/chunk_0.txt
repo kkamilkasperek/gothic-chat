@@ -1,0 +1,15 @@
+Tytuł: Zabij trzy trolle na wzgórzach w pobliżu Faring
+Podstawowe informacje:
+- nazwa: Zabij trzy trolle na wzgórzach w pobliżu Faring
+- nazwa angielska: Kill the three trolls in the hills near Faring
+- zleceniodawca: Zakosh
+- start: Zamek w Faring
+- koniec: Las nieopodal Faring
+- poprzednie: Brak
+- część zadania: Brak
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 2500 punktów doświadczenia (+500 po rozmowie z Zakoshem po wykonaniu zadania), Reputacja w Faring: +12, Możliwość handlu z Zakoshem
+- występowanie: Gothic 3
+Inne języki:
+- ru: Убей трех троллей в холмах возле Фаринга

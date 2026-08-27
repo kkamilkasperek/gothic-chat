@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Tytuł: List dla Cronosa\nPodstawowe informacje:\n- nazwa: List dla Cronosa\n- typ: List\n- nadawca: Gor Na Shan\n- odbiorca: Cronos\n- posiadacz: Gor Na Shan\n- wartość kupna: 0 ruda\n- wartość sprzedaży: 0 ruda\n- występowanie: Gothic Edycja rozszerzona\n- questowy: Nie\n- kod: ItMi_ListdoCronosa\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "List dla Cronosa",
+      "type": "Dokument",
+      "categories": [
+        "Dokumenty z Gothic Edycja rozszerzona",
+        "Nieużywana zawartość z Gothic Edycja rozszerzona"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: List dla Cronosa\nSekcja: Wstęp\n\nList dla Cronosa – dokument występujący w modyfikacji Gothic Edycja rozszerzona, niedostępny podczas rozgrywki.",
+    "metadata": {
+      "title": "List dla Cronosa",
+      "type": "Dokument",
+      "categories": [
+        "Dokumenty z Gothic Edycja rozszerzona",
+        "Nieużywana zawartość z Gothic Edycja rozszerzona"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: List dla Cronosa\nSekcja: Gothic Edycja Rozszerzona\n\nW dawniejszej wersji modyfikacji Bezimienny po zostaniu guru i odkryciu sprawcy zabójstw w Obozie Bractwa informował o wszystkim Gor Na Shana. Ten zaś, słysząc o opętaniu mordercy, polecał przekazać wiadomość Cronosowi z prośbą, by magowie wody wsparli Bractwo w ustaleniu przyczyn tych demonicznych wpływów. Ostatecznie przyczyna zabójstw została zmieniona, cały wątek opętań wycięty, a list można jedynie przyzwać za pomocą kodów.\n\nNie ma on żadnej wartości w rudzie.",
+    "metadata": {
+      "title": "List dla Cronosa",
+      "type": "Dokument",
+      "categories": [
+        "Dokumenty z Gothic Edycja rozszerzona",
+        "Nieużywana zawartość z Gothic Edycja rozszerzona"
+      ],
+      "section": "Gothic Edycja Rozszerzona",
+      "chunk_index": 2
+    }
+  }
+]

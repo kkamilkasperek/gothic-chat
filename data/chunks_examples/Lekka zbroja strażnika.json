@@ -1,0 +1,106 @@
+[
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nPodstawowe informacje:\n- nazwa: Lekka zbroja strażnika\n- nazwa angielska: Light Guard's Armor\n- typ: Pancerz\n- gildia: Strażnicy Starego Obozu\n- ochrona: Broń: 45, Pociski: 5, Ogień: 20\n- posiadacz: Kirgo, Nek, Orry, Pacho, Ulbert, Strażnicy mostu\n- handlarze: Brak\n- wartość kupna: 1350 Ruda\n- wartość sprzedaży: 675 Ruda\n- występowanie: Gothic\n- kod: Grd_Armor_L\nInne języki:\n- cs: Lehká zbroj strážce\n- ru: Легкие доспехи стражника",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nSekcja: Wstęp\n\nLekka zbroja strażnika – pancerz występujący w Gothic.",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nSekcja: Przed akcją gry\n\nZbroja ta była noszona przez strażników królewskich. Po wybuchu wielkiego buntu i przejęciu władzy przez Gomeza oraz jego zwolenników w Starym Obozie pancerz został przydzielony strażnikom Thorusa (Dialog z Guyem: „Strażnicy zdjęli zbroje z zabitych królewskich rycerzy”.).",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Przed akcją gry",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nSekcja: Gothic > Wygląd\n\nNa zbroję składa się czerwona tunika w barwach Starego Obozu, wysokie, skórzane buty oraz wykonane z czarnego, ćwiekowanego materiału: naramienniki, pas oraz nabiodrniki.",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Gothic > Wygląd",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nSekcja: Gothic > Występowanie\n\nJest to standardowy pancerz na wyposażeniu strażników Starego Obozu, który jest przyznawany nowym rekrutom. Korzystają z niego niektórzy przedstawiciele tej gildii. Bezimienny może zdobyć strój jedynie od Stone'a po dołączeniu do straży.\n\nZnani posiadacze\n Kirgo;\n Nek;\n Orry;\n Pacho;\n Ulbert;\n strażnicy mostu.",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Gothic > Występowanie",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nSekcja: Gothic > Statystyki\n\nJest to najsłabszy pancerz strażników o gorszych statystykach niż zbroja strażnika i jej ciężki wariant. Zwiększa ochronę przed bronią o 45 punktów, przed pociskami o 5 punktów oraz przed ogniem o 20 punktów, czyli tyle samo co lekka zbroja najemnika oraz lekka zbroja świątynna. Wartość nominalna stroju wynosi 1350 bryłek rudy, przy sprzedaży spada do 675 bryłek.",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Gothic > Statystyki",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nSekcja: Gothic Sequel\n\nNazwa zbroi została zmieniona na lekki pancerz milicji. Wygląd i wszystkie statystyki pozostały niezmienione. Noszą go tylko dwaj rekruci milicji: Wylfern i Calgor.",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Gothic Sequel",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Tytuł: Lekka zbroja strażnika\nSekcja: Ciekawostki\n\nModel tej zbroi wykorzystuje lekki pancerz straży z Gothic II.\n Lekka zbroja strażnika występuje jako nieinteraktywny obiekt w Gothic II, wisząc na ścianach w koszarach miasta Khorinis oraz zamku w Górniczej Dolinie.",
+    "metadata": {
+      "title": "Lekka zbroja strażnika",
+      "type": "Pancerz",
+      "categories": [
+        "Pancerze z Gothic",
+        "Pancerze z Gothic Sequel"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 7
+    }
+  }
+]

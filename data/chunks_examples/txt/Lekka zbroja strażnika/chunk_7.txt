@@ -1,0 +1,5 @@
+Tytuł: Lekka zbroja strażnika
+Sekcja: Ciekawostki
+
+Model tej zbroi wykorzystuje lekki pancerz straży z Gothic II.
+ Lekka zbroja strażnika występuje jako nieinteraktywny obiekt w Gothic II, wisząc na ścianach w koszarach miasta Khorinis oraz zamku w Górniczej Dolinie.

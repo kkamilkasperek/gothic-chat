@@ -1,0 +1,14 @@
+Tytuł: Miecz dżedaja
+Podstawowe informacje:
+- nazwa: Miecz dżedaja
+- typ: Miecz dwuręczny
+- opis: Miecz przeciętnego dżedaja
+- wymagane atrybuty: Siła: 120
+- obrażenia: 120
+- handlarze: Wowan Biały
+- wartość kupna: 2000 ruble
+- wartość sprzedaży: 300 ruble
+- występowanie: Podróżnik – Za liniami wroga
+- kod: ItMw_2H_Blessed_01
+Dodatkowe informacje:
+- Niekanon

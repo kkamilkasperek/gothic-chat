@@ -1,0 +1,16 @@
+Tytuł: Gothic
+Sekcja: Umiejętności
+
+Bezimienny zostaje zrzucony pod barierę, nie mając żadnych zdolności. Zdobywając punkty doświadczenia, bohater osiąga kolejne poziomy, za które dostaje punkty nauki. Następnie protagonista może wydać te punkty u jednego z nauczycieli, ucząc się nowych zdolności lub zwiększając swoje atrybuty. Umiejętności dostępne w grze to:
+
+ umiejętność walki bronią jednoręczną;
+ umiejętność walki bronią dwuręczną;
+ umiejętność walki łukiem;
+ umiejętność walki kuszą;
+ otwieranie zamków;
+ kradzież kieszonkowa;
+ 6 kręgów magii;
+ skradanie;
+ akrobatyka.
+
+Oprócz tego Bezimienny może zwiększać swoją siłę, zręczność i liczbę punktów many, a także uczyć się pozyskiwania rozmaitych trofeów łowieckich.

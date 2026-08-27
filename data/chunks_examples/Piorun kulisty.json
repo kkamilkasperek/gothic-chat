@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Tytuł: Piorun kulisty\nPodstawowe informacje:\n- nazwa: Piorun kulisty\n- nazwa angielska: Ball Lightning\n- podnazwa: Gothic,Gothic II,GII:NK\n- bóg: Adanos\n- krąg: Trzeci\n- obrażenia: 20-80\n- wymagana mana: 1-5\n- działanie: Zadaje średnie obrażenia i na chwilę paraliżuje cel\n- wartość kupna: 900 ruda (runa), 90 ruda (zwój)\n- wartość sprzedaży: 450 ruda (runa), 45 ruda (zwój)\n- występowanie: Gothic, Gothic II\n- kod: itarrunethunderball (runa), itarscrollthunderball (zwój)\nInne języki:\n- ru: Шаровая молния",
+    "metadata": {
+      "title": "Piorun kulisty",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic",
+        "Czary z Gothic II"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Piorun kulisty\nSekcja: Wstęp\n\nPiorun kulisty – zaklęcie trzeciego kręgu magii Adanosa występujące w Gothic i Gothic II.",
+    "metadata": {
+      "title": "Piorun kulisty",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic",
+        "Czary z Gothic II"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Piorun kulisty\nSekcja: Gothic\n\nPo krótkiej inkantacji czaru w cel uderza piorun, który na chwilę paraliżuje go i zadaje obrażenia, tym większe, im więcej mag poświęci many do jego użycia. Maksymalnie można zadać 80 punktów obrażeń przy 5 punktach zainwestowanej energii magicznej.\n\nZwoje zaklęcia można kupić od II rozdziału u Cronosa (ma wówczas 4 sztuki, w rozdziale IV zyskuje dodatkowe 10). Od III rozdziału mag oferuje na sprzedaż także runę.\n\nRuną posługuje się nieumarły szaman Varrag-Kasorg w świątyni Śniącego, a także magowie wody – Nefarius i Riordian. Ponieważ ten ostatni nie używa swojego egzemplarza, można ją od niego kupić od samego początku gry. Dodatkowy skrypt sprawia, że jeśli nie ma on tej runy przy sobie, po każdym zakończeniu rozmowy z nim w jego ekwipunku pojawia się kolejna. Można więc kupować nieskończoną ich liczbę, dopóki mag nie zostanie zmuszony do rzucenia czaru (np. poprzez zaatakowanie go).\n\nWartość kupna runy wynosi 900 bryłek rudy, zaś zwoju 90 bryłek, przy sprzedaży spada odpowiednio do 450 i 45 bryłek.",
+    "metadata": {
+      "title": "Piorun kulisty",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic",
+        "Czary z Gothic II"
+      ],
+      "section": "Gothic",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Piorun kulisty\nSekcja: Gothic II\n\nCzar działa podobnie, lecz teraz nie paraliżuje już celu. Nadal można naładować zaklęcie (zużywając maksymalnie 60 punktów many), żeby zadać większe obrażenia (do 180 punktów obrażeń). Aby móc skorzystać ze zwoju, trzeba posiadać co najmniej 18 punktów maksymalnej many.\n\nBezimienny może nauczyć się tworzenia tej runy od maga ognia imieniem Marduk. Do jej stworzenia bohater potrzebuje kamienia runicznego, zwoju z zaklęciem, skały krystalicznej oraz siarki.\n\nWartość kupna runy wynosi 1500, zaś zwoju 250 sztuk złota, przy sprzedaży spada odpowiednio do 450 i 75 sztuk złota.",
+    "metadata": {
+      "title": "Piorun kulisty",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic",
+        "Czary z Gothic II"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Piorun kulisty\nSekcja: Gothic II: Noc Kruka\n\nEfekt działania oraz składniki potrzebne do stworzenia runy zaklęcia nie zmieniły się, natomiast można zużyć maksymalnie 40 punktów many, aby zadać do 120 punktów obrażeń. Nie ma już ograniczeń w korzystaniu ze zwojów. Bohater może nauczyć się tworzenia tej runy również u maga wody Nefariusa po dotarciu do Jarkendaru.\n\nWartość kupna runy nie zmieniła się, natomiast zwoju spadła do 75 sztuk złota. Teraz sprzedać je można odpowiednio za 225 i 11 sztuk złota.",
+    "metadata": {
+      "title": "Piorun kulisty",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic",
+        "Czary z Gothic II"
+      ],
+      "section": "Gothic II: Noc Kruka",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Piorun kulisty\nSekcja: Modyfikacje > Prinson Mod\n\nRunę zaklęcia Articuno może kupić od autora modyfikacji przy pierwszym spotkaniu przed Obozem Bractwa, który może też jej użyć przeciw bohaterowi, jeśli zostanie zaatakowany.",
+    "metadata": {
+      "title": "Piorun kulisty",
+      "type": "Czar",
+      "categories": [
+        "Czary z Gothic",
+        "Czary z Gothic II"
+      ],
+      "section": "Modyfikacje > Prinson Mod",
+      "chunk_index": 5
+    }
+  }
+]

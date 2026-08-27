@@ -1,0 +1,9 @@
+Tytuł: Siła
+Sekcja: Gothic 3 > Bonusy tymczasowe
+
+W grze można znaleźć przedmioty, które podnoszą liczbę punktów siły, gdy są założone. Są to:
+ amulet wojownika (5 punktów);
+ amulet paladyna (5 punktów);
+ amulet siły (10 punktów);
+ Artefakt Kamaka (5 punktów);
+ pierścień siły (5 punktów).

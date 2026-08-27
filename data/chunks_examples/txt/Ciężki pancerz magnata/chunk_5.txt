@@ -1,0 +1,4 @@
+Tytuł: Ciężki pancerz magnata
+Sekcja: Ciekawostki
+
+Mimo że nosi nazwę „ciężki pancerz”, w grze nie występuje jego lekka wersja, zaś kod na przywołanie wskazuje, że średnią wersją pancerza magnata jest ozdobna szata.

@@ -1,0 +1,24 @@
+Tytuł: Cieniostwór
+Podstawowe informacje:
+- nazwa: Cieniostwór
+- nazwa angielska: Shadowbeast
+- podnazwa: Gothic,Gothic II,GII:NK,Gothic 3,G3:ZB,ArcaniA
+- gromada: Ssaki
+- odmiany: Brak
+- środowisko życia: Zacienione lasy, Jaskinie
+- punkty doświadczenia: 400
+- siła/zręczność: 110/110
+- punkty życia: 200
+- pancerz: Broń: 100, Pociski: 50, Ogień: 50, Magia: 50, Odrzut: 100
+- specjalne: Brak
+- rzadkość: Rzadki (6 osobników)
+- nastawienie do gracza: Agresywne
+- pozyskiwane przedmioty: 4x surowe mięso, 4x kły, 1x skóra cieniostwora, 1x róg cieniostwora
+- występowanie: Gothic, Gothic II, Gothic 3, Gothic 3: Zmierzch Bogów, ArcaniA, Nyras Prologue (wzmianki)
+- kod: Shadowbeast
+Dodatkowe informacje:
+- Cytat (1: Większość z tych stworzeń to zaszyci głęboko w lasach samotnicy. Pozostało ich na świecie bardzo niewiele, nie stanowią więc zagrożenia dla ludzi – chyba że wkroczy się na ich tereny łowieckie. Dobrze wiedzieć, gdzie znajdują się te tereny – róg cieniostwora to cenne trofeum myśliwskie, które jednak trzeba umieć odpowiednio preparować., 2: Wpis o cieniostworze w księdze ''[[Łowy i zwierzyna]]'')
+Inne języki:
+- en: Shadowbeast
+- it: Bestia d'ombra
+- ru: Мракорис

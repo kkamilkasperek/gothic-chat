@@ -1,0 +1,12 @@
+Tytuł: MobsiBrief
+Podstawowe informacje:
+- nazwa: MobsiBrief
+- typ: Przedmiot pomocniczy / testowy
+- posiadacz: Brak
+- wartość kupna: 0 złoto
+- wartość sprzedaży: 0 złoto
+- występowanie: Gothic II (tylko za pomocą kodów)
+- questowy: Nie
+- kod: MobsiBrief
+Dodatkowe informacje:
+- Nieużywana zawartość

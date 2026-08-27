@@ -1,0 +1,15 @@
+Tytuł: Albart
+Podstawowe informacje:
+- imię: Albart
+- gildia: Strażnik
+- zawód: Wojownik
+- miejsce zamieszkania: Stara Kopalnia
+- miejsce urzędowania: Stara Kopalnia
+- posiadana broń: Miecz strażnika
+- posiadana zbroja: Zbroja strażnika
+- występowanie: Kopalnia
+- status: Żyje
+- poziom: 13
+- kod: MNW_006_ALBART
+Dodatkowe informacje:
+- Niekanon

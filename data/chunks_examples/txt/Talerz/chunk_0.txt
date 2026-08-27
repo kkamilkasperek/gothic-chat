@@ -1,0 +1,13 @@
+Tytuł: Talerz
+Podstawowe informacje:
+- nazwa: Talerz
+- nazwa angielska: Plate
+- podnazwa: Gothic,NP
+- typ: Naczynie
+- właściciel: Zbieracze, Krety, Szkodnicy
+- rzadkość: Pospolity
+- wartość kupna: 4 ruda
+- wartość sprzedaży: 2 ruda
+- występowanie: Gothic, Nyras Prologue
+- questowy: Nie
+- kod: itmi_stuff_plate_01

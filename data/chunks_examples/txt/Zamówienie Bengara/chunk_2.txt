@@ -1,0 +1,6 @@
+Tytuł: Zamówienie Bengara
+Sekcja: Krok po kroku
+
+Po dołączeniu do gildii kupców porozmawiaj z Lutero.
+ Zanieś przesyłkę od Lutero farmerowi Bengarowi.
+ Oddaj pieniądze otrzymane od Bengara Jorze.

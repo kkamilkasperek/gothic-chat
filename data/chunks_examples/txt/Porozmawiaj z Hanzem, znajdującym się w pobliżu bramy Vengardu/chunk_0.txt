@@ -1,0 +1,13 @@
+Tytuł: Porozmawiaj z Hanzem, znajdującym się w pobliżu bramy Vengardu
+Podstawowe informacje:
+- nazwa: Porozmawiaj z Hanzem, znajdującym się w pobliżu bramy Vengardu
+- nazwa angielska: Talk to Hanz near Vengard's town gate
+- zleceniodawca: Lee
+- start: Zamek w Vengardzie
+- koniec: Zamek w Vengardzie
+- poprzednie: Lee musi wysłać dodatkowe siły do Gothy
+- część zadania: Brak
+- następne: Przygotuj się do wymarszu na Gothę
+- dostępność: Wszyscy
+- nagroda: 500 punktów doświadczenia
+- występowanie: Gothic 3: Zmierzch Bogów

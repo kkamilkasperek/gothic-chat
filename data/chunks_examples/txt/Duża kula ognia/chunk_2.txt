@@ -1,0 +1,10 @@
+Tytuł: Duża kula ognia
+Sekcja: Gothic II
+
+Jest to czar czwartego kręgu magii stanowiący ulepszoną wersję zwykłej kuli ognia. Po wypowiedzeniu zaklęcia i odepchnięciu ręki maga w przód do jego wroga leci ognista kula magicznej energii, która po trafieniu zadaje mu od 100 do 300 punktów obrażeń od magii w zależności od zużytej many (15-72 punktów), a także podpala go (jest to jednak tylko wizualny efekt).
+
+Zaklęcie to jest znane wyłącznie na wyspie Khorinis. Wytwarzania jego runy uczy mag ognia Hyglas z klasztoru. Do jej stworzenia potrzebne są oprócz pustego kamienia runicznego i zwoju z czarem także po jednym egzemplarzu smoły i siarki.
+
+Zwoje z tym zaklęciem w IV rozdziale sprzedają magowie ognia Gorax (3 sztuki) i Isgaroth (2 sztuki). Dokładne miejsca występowania zwojów można sprawdzić tutaj.
+
+Runa i zwój dużej kuli ognia mają wartość nominalną odpowiednio 2000 i 300 sztuk złota. Bezimienny może je sprzedać za odpowiednio 600 i 90 złotych monet.

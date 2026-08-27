@@ -1,0 +1,10 @@
+Tytuł: Bryła lodu
+Sekcja: Ciekawostki
+
+W Gothic czar ten nie działa na ognistego golema, pomimo iż jest zaklęciem lodu.
+ Jeżeli w Gothic bohater posiada tylko jeden zwój bryły lodu w ekwipunku, to czar w ogóle nie zadziała po rzuceniu go na przeciwnika. Przy identycznej sytuacji w podstawie drugiej części gry czar zada tylko pierwsze obrażenia, natomiast nie zamrozi celu ani nie zada dodatkowych ran (w Nocy Kruka ten błąd został naprawiony).
+ W Gothic jeżeli cel zaklęcia ma 51 punktów życia lub mniej, wówczas czar nie zada żadnych obrażeń, a jedynie zamrozi przeciwnika.
+ W Gothic II i Nocy Kruka postaciom, które zginą unieruchomione w bryle lodu, można zaraz po śmierci zabrać pełen ekwipunek, którego normalnie nie da się zdobyć, np. runy używane przez poszukiwaczy lub szkieletów-magów, czy towary handlarzy. Dzieje się tak, ponieważ skrypt zmienia ekwipunek postaciom dopiero w momencie, gdy te padają martwe lub nieprzytomne na ziemię.
+ Jeśli w Gothic II i Nocy Kruka Bezimienny spróbuje stworzyć runę z tym czarem, a nie będzie posiadał wszystkich składników, to pusta runa wciąż zostanie zużyta.
+ Jeśli w Gothic II: Noc Kruka przeciwnik zamrozi Bezimiennego w trakcie wyciągania broni długodystansowej, to ten będzie mógł chować i wyciągać bronie oraz czary, będąc zamrożonym. Nie będzie mógł ich jednak używać.
+ Choć w Gothic 3 czar ten nie występuje, zaklęcie lodowej lancy przy dłuższej inkantacji ma podobne właściwości.

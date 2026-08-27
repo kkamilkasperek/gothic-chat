@@ -1,0 +1,6 @@
+Tytuł: Paczka
+Sekcja: Gothic II
+
+Nie pojawia się w rozgrywce, jest dostępna jedynie za pomocą kodów. Paczkę tę można otworzyć, lecz nie posiada ona żadnej zawartości. Przedmiot ten prawdopodobnie służył twórcom jako prototyp do zaimplementowania do gry innych paczek.
+
+Paczka ta nie ma żadnej wartości w złocie.

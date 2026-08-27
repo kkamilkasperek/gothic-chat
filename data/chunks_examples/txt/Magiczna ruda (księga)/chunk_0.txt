@@ -1,0 +1,13 @@
+Tytuł: Magiczna ruda (księga)
+Podstawowe informacje:
+- nazwa: Magiczna ruda
+- nazwa angielska: Magic ore
+- posiadacz: Magnaci, Magowie wody
+- autor: Nieznany
+- ilość tomów: Jeden
+- występowanie: Gothic
+- wartość kupna: 100 ruda
+- wartość sprzedaży: 50 ruda
+- kod: das_magische_erz
+Inne języki:
+- ru: Магическая руда (книга)

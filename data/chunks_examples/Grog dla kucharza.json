@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tytuł: Grog dla kucharza\nPodstawowe informacje:\n- nazwa: Grog dla kucharza\n- nazwa angielska: Grog for the cook\n- zleceniodawca: Pirat (kucharz)\n- start: Obóz piratów\n- koniec: Obóz piratów\n- poprzednie: Brak\n- następne: Brak\n- dostępność: Wszyscy\n- nagroda: 100 punktów doświadczenia, Możliwość zabrania kucharza na polowanie na brzytwiaki\n- występowanie: Gothic II: Noc Kruka\nInne języki:\n- ru: Грог для повара",
+    "metadata": {
+      "title": "Grog dla kucharza",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic II: Noc Kruka"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Grog dla kucharza\nSekcja: Wstęp\n\nGrog dla kucharza – zadanie poboczne występujące w Gothic II: Noc Kruka. Jest zlecane Bezimiennemu przez kucharza w obozie piratów.",
+    "metadata": {
+      "title": "Grog dla kucharza",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic II: Noc Kruka"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Grog dla kucharza\nSekcja: Krok po kroku\n\nPorozmawiaj z kucharzem piratów.\n Zdobądź grog prawdziwego marynarza.\n Wróć do kucharza i daj mu butelkę grogu.",
+    "metadata": {
+      "title": "Grog dla kucharza",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic II: Noc Kruka"
+      ],
+      "section": "Krok po kroku",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Grog dla kucharza\nSekcja: Przebieg zadania > Spragniony kucharz\n\nPo wejściu do obozu piratów, Bezimienny rozpoczyna rozmowę z kucharzem. Już na początku rozmowy pyta on bohatera, czy nie ma przy sobie butelki grogu. Bezimienny widząc, że pirat zajęty pracą nie może sam zdobyć trunku, postanawia zorganizować napój dla kucharza.",
+    "metadata": {
+      "title": "Grog dla kucharza",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic II: Noc Kruka"
+      ],
+      "section": "Przebieg zadania > Spragniony kucharz",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Grog dla kucharza\nSekcja: Przebieg zadania > Zdobycie grogu i powrót do kucharza\n\nJeżeli bohater nie posiada przy sobie ani jednej butelki grogu, może szybko zdobyć trunek w obozie piratów. Napój przygotować może Samuel za 10 sztuk złota. Bohater może także wziąć butelkę alkoholu leżącą obok łóżka, na którym śpi Morgan. Niezależnie od sposobu otrzymania grogu, Bezimienny wraca do kucharza. Pirat dziękuje bohaterowi, a po chwili może uciąć z nim krótką pogawędkę. Po przyniesieniu trunku kucharz może także wziąć udział w polowaniu na brzytwiaki. Zadanie kończy się powodzeniem.",
+    "metadata": {
+      "title": "Grog dla kucharza",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Gothic II: Noc Kruka"
+      ],
+      "section": "Przebieg zadania > Zdobycie grogu i powrót do kucharza",
+      "chunk_index": 4
+    }
+  }
+]

@@ -1,0 +1,14 @@
+Tytuł: Słownik przekleństw
+Podstawowe informacje:
+- nazwa: Słownik przekleństw Tom I
+- podnazwa: I, II, III, IV
+- nadawca: Nieznany
+- odbiorca: Wszyscy
+- posiadacz: Pietrowicz
+- występowanie: Podróżnik – Za liniami wroga
+- wartość kupna: Brak możliwości kupna
+- wartość: 100 rubli
+- kod: itwr_mat1
+Dodatkowe informacje:
+- Wulgarne
+- Niekanon

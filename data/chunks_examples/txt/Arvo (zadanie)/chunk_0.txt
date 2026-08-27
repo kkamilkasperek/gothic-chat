@@ -1,0 +1,14 @@
+Tytuł: Arvo (zadanie)
+Podstawowe informacje:
+- nazwa: Arvo
+- zleceniodawca: Tom
+- start: Karczma Lou
+- koniec: Jaskinia niedaleko obozu bandytów
+- poprzednie: Choroba
+- następne: Brak
+- dostępność: Rozdział III
+- nagroda: Brak
+- występowanie: Bandyci
+Dodatkowe informacje:
+- Inne znaczenia (1: zadania występującego w modyfikacji Bandyci, 2: Arvo (postać), 3: Arvo (postać))
+- Niekanon

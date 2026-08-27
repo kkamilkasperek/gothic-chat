@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Tytuł: Kamień teleportacyjny do Mora Sul\nPodstawowe informacje:\n- nazwa: Kamień teleportacyjny do Mora Sul\n- typ: Kamień teleportacyjny\n- opis: Teleport do Mora Sul.\n- właściciel: Ilja\n- rzadkość: Bardzo rzadkie (2 sztuki)\n- dodatkowe: Po użyciu przenosi do Mora Sul\n- wartość kupna: 1000 złoto\n- wartość sprzedaży: 300 złoto\n- występowanie: Gothic 3\n- questowy: Nie\n- kod: It_Teleport_MoraSul\nInne języki:\n- ru: Камень телепортации в Мора Сул",
+    "metadata": {
+      "title": "Kamień teleportacyjny do Mora Sul",
+      "type": "Przedmiot",
+      "categories": [
+        "Przedmioty z Gothic 3",
+        "Przedmioty teleportacyjne"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Kamień teleportacyjny do Mora Sul\nSekcja: Wstęp\n\nKamień teleportacyjny do Mora Sul – jeden z kamieni teleportacyjnych oraz przedmiot występujący w Gothic 3.",
+    "metadata": {
+      "title": "Kamień teleportacyjny do Mora Sul",
+      "type": "Przedmiot",
+      "categories": [
+        "Przedmioty z Gothic 3",
+        "Przedmioty teleportacyjne"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Kamień teleportacyjny do Mora Sul\nSekcja: Gothic 3\n\nKamień można użyć do teleportacji do miasta Mora Sul. Po użyciu, wokół Bezimiennego zaczynają się wydzielać kłęby różowo-fioletowego dymu, a bohater wykonuje charakterystyczną inkantację, po której zostaje przeniesiony do konkretnego punktu w mieście. Korzystanie z kamienia nie zużywa punktów many.\n\nKamień można znaleźć na stole koło Bandaro. Drugi znajduje się w posiadaniu Ilji.\n\nKamień można sprzedać za 300 sztuk złota. Przy odkupie jego wartość rośnie do 1000 sztuk złota.",
+    "metadata": {
+      "title": "Kamień teleportacyjny do Mora Sul",
+      "type": "Przedmiot",
+      "categories": [
+        "Przedmioty z Gothic 3",
+        "Przedmioty teleportacyjne"
+      ],
+      "section": "Gothic 3",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Kamień teleportacyjny do Mora Sul\nSekcja: Zobacz także\n\nLista wszystkich kamieni teleportacyjnych",
+    "metadata": {
+      "title": "Kamień teleportacyjny do Mora Sul",
+      "type": "Przedmiot",
+      "categories": [
+        "Przedmioty z Gothic 3",
+        "Przedmioty teleportacyjne"
+      ],
+      "section": "Zobacz także",
+      "chunk_index": 3
+    }
+  }
+]

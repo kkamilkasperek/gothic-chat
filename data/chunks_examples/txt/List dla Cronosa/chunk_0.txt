@@ -1,0 +1,14 @@
+Tytuł: List dla Cronosa
+Podstawowe informacje:
+- nazwa: List dla Cronosa
+- typ: List
+- nadawca: Gor Na Shan
+- odbiorca: Cronos
+- posiadacz: Gor Na Shan
+- wartość kupna: 0 ruda
+- wartość sprzedaży: 0 ruda
+- występowanie: Gothic Edycja rozszerzona
+- questowy: Nie
+- kod: ItMi_ListdoCronosa
+Dodatkowe informacje:
+- Niekanon

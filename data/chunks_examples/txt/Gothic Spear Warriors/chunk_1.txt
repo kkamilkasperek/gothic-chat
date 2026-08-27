@@ -1,0 +1,4 @@
+Tytuł: Gothic Spear Warriors
+Sekcja: Wstęp
+
+Gothic Spear Warriors – gra autorstwa evampire, stworzona w technologii Flash, osadzona w realiach Gothic II. Umożliwia potyczkę między dwoma graczami przy jednym komputerze. System animacji jest wysoko rozwinięty, a odwzorowanie elementów graficznych – dokładne. Można atakować za pomocą włóczni lub kuli ognia, a także przywołać ożywieńca.

@@ -1,0 +1,15 @@
+Tytuł: Ciężkie magiczne ostrze bojowe
+Podstawowe informacje:
+- nazwa: Ciężkie magiczne ostrze bojowe
+- nazwa angielska: Heavy Ore Battle Blade
+- podnazwa: Gothic II,GII:NK
+- typ: Miecz dwuręczny z rudy
+- opis: Brak
+- wymagane atrybuty: Siła: 90
+- obrażenia: 90 (sieczne)
+- wartość kupna: 1200 złoto
+- wartość sprzedaży: 360 złoto
+- występowanie: Gothic II
+- kod: ItMw_2H_Special_03
+Inne języki:
+- ru: Тяжелый рудный боевой клинок орков

@@ -1,0 +1,15 @@
+Tytuł: Ciężki pancerz magnata
+Podstawowe informacje:
+- nazwa: Ciężki pancerz magnata
+- nazwa angielska: Heavy Ore Baron's Armor
+- typ: Pancerz
+- gildia: Magnaci
+- ochrona: Broń: 80, Pociski: 8, Ogień: 40, Magia: 3
+- posiadacz: Arto, Blizna, Kruk
+- handlarze: Brak
+- wartość kupna: 2400 Ruda
+- wartość sprzedaży: 1200 Ruda
+- występowanie: Gothic
+- kod: Ebr_Armor_H2
+Inne języki:
+- ru: Тяжелые доспехи барона

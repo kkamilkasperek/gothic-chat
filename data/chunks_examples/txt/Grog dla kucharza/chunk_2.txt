@@ -1,0 +1,6 @@
+Tytuł: Grog dla kucharza
+Sekcja: Krok po kroku
+
+Porozmawiaj z kucharzem piratów.
+ Zdobądź grog prawdziwego marynarza.
+ Wróć do kucharza i daj mu butelkę grogu.

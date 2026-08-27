@@ -1,0 +1,9 @@
+Tytuł: Gothic Spear Warriors
+Podstawowe informacje:
+- nazwa: Gothic Spear Warriors
+- okładka: Gothic Spear Warriors.png
+- gatunek: Bijatyka
+- producent: Evampire
+- data wydania: 2009
+- wymagania: Flash Player
+- aktualna wersja: 0.76b

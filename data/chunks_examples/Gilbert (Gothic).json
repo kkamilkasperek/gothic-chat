@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Tytuł: Gilbert (Gothic)\nPodstawowe informacje:\n- imię: Gilbert\n- gildia: Kopacz (przed akcją gry), Brak\n- poziom: 4\n- miejsce zamieszkania: Jaskinia Gilberta\n- miejsce urzędowania: Jaskinia Gilberta\n- posiadana broń: Wyszczerbiony topór\n- posiadana zbroja: Spodnie kopacza\n- występowanie: Gothic, Gothic II (wzmianki)\n- status: Nieznany\n- dubbing: Andrzej Tomecki\n- kod: Non_1500_Gilbert\n- przedmiot kradzieży: Kradzież niemożliwa\nDodatkowe informacje:\n- Inne znaczenia (1: postaci występującej w Gothic, 2: Gilbert)\nInne języki:\n- en: Gilbert\n- it: Gilbert\n- ru: Гилберт",
+    "metadata": {
+      "title": "Gilbert (Gothic)",
+      "type": "Postać",
+      "categories": [
+        "Kopacze",
+        "Postacie z Gothic"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Gilbert (Gothic)\nSekcja: Wstęp\n\nGilbert – postać występująca w Gothic oraz wspominana w Gothic II. Jest to były kopacz, który postanowił opuścić Stary Obóz.",
+    "metadata": {
+      "title": "Gilbert (Gothic)",
+      "type": "Postać",
+      "categories": [
+        "Kopacze",
+        "Postacie z Gothic"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Gilbert (Gothic)\nSekcja: Gothic\n\nMieszka w jaskini położonej wysoko na klifie na południe od Starego Obozu. Jest zaskoczony, że Bezimienny odnalazł jego kryjówkę, dodając, że rzadko miewa tu gości. Mówi bohaterowi, że dawno temu opuścił obóz, ponieważ miał już go dość, a na dodatek podpadł ludziom Gomeza. Sądzi, że nikt już o nim nie pamięta, ale nie zamierza wracać do Starego Obozu, ponieważ, jak sam to określa, wciąż jest tam za dużo tępych osiłków.",
+    "metadata": {
+      "title": "Gilbert (Gothic)",
+      "type": "Postać",
+      "categories": [
+        "Kopacze",
+        "Postacie z Gothic"
+      ],
+      "section": "Gothic",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Gilbert (Gothic)\nSekcja: Gothic II\n\nJaskinia Gilberta jest pusta, lecz kopacz zostawił po sobie wiadomość. Można się z niej dowiedzieć, że Gilbert przeżył upadek magicznej bariery, jednak długo zwlekał, zanim opuścił swoją pieczarę. Siedząc na górze, nie był do końca pewien, czy bariera naprawdę upadła. Doszedł do wniosku, że po tak długim czasie nikt go nie będzie szukał, dlatego postanowił opuścić jaskinię i wrócić do domu.",
+    "metadata": {
+      "title": "Gilbert (Gothic)",
+      "type": "Postać",
+      "categories": [
+        "Kopacze",
+        "Postacie z Gothic"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Gilbert (Gothic)\nSekcja: Ciekawostki\n\nW Gothic po rozmowie z Gilbertem Bezimienny otrzymuje 100 punktów doświadczenia.\n Występuje w wersji demonstracyjnej Gothic, chociaż znajduje się poza terenem dostępnym w demo. Nie ma również dubbingu.\n Gilbert jako jedyny imienny kopacz nosi granatowe ubranie.\n W wersji beta gry w III rozdziale powraca do Starego Obozu i zamieszkuje obok chaty Snafa, jednak nie ma z nim żadnych dodatkowych opcji dialogowych. Prawdopodobnie twórcom nie starczyło czasu na ukończenie jego wątku, przez co w finalnej wersji gry cały czas przebywa w jaskini poza obozem.",
+    "metadata": {
+      "title": "Gilbert (Gothic)",
+      "type": "Postać",
+      "categories": [
+        "Kopacze",
+        "Postacie z Gothic"
+      ],
+      "section": "Ciekawostki",
+      "chunk_index": 4
+    }
+  }
+]

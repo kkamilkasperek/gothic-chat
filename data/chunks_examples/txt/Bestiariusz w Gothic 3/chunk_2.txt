@@ -1,0 +1,62 @@
+Tytuł: Bestiariusz w Gothic 3
+Sekcja: Bestiariusz
+
+| Nazwa | PD | Nastawienie |
+| --- | --- | --- |
+| Bagienny topielec | 150 | Agresywny |
+| Bizon | 200 | Pasywny (Atakuje po sprowokowaniu.) |
+| Chrząszcz | 25 | Pasywny |
+| Cieniostwór | 300 | Agresywny |
+| Czarny goblin | 100 | Agresywny |
+| Czarny troll | 500 | Agresywny |
+| Demon | 500 | Agresywny |
+| Dzik | 100 | Agresywny |
+| Gargulec | 200 | Agresywny |
+| Goblin | 50 | Agresywny |
+| Główny kapłan ożywieńców | 400 | Agresywny |
+| Gobliński szaman | 50 | Agresywny |
+| Jaszczur | 100 | Agresywny |
+| Jaszczurka | 25 | Pasywny |
+| Jeleń | 50 | Pasywny (Dodatkowo ucieka przed bohaterem.) |
+| Kamienny golem | 400 | Agresywny |
+| Krokodyl | 200 | Agresywny |
+| Krowa | 50 | Pasywny |
+| Krwiopijca | 50 | Agresywny |
+| Kura | 25 | Pasywny |
+| Lew | 300 | Agresywny |
+| Lodowy golem | 400 | Agresywny |
+| Lodowy wilk | 100 | Agresywny |
+| Lwica | 250 | Agresywny |
+| Mroczny zębacz | 150 | Agresywny |
+| Mumia | 300 | Agresywny |
+| Nosorożec | 200 | Agresywny |
+| Ognisty golem | 400 | Agresywny |
+| Ognisty jaszczur | 150 | Agresywny |
+| Ogr | 400 | Agresywny |
+| Pełzacz | 200 | Agresywny |
+| Pełzacz piaskowy | 150 | Agresywny |
+| Pełzacz wojownik | 300 | Agresywny |
+| Piaskowy topielec | 100 | Agresywny |
+| Potwór | 500 | Agresywny |
+| Pustynny cieniostwór | 300 | Agresywny |
+| Rozpruwacz | 200 | Agresywny |
+| Schrat | 300 | Agresywny |
+| Sęp (Został usunięty w Community Patchu.) | 25 | Pasywny |
+| Smok | 500 | Agresywny |
+| Strażnik świątynny | 400 | Agresywny |
+| Szabloząb | 300 | Agresywny |
+| Szakal | 50 | Agresywny |
+| Szkielet | 200 | Agresywny |
+| Ścierwojad | 50 | Agresywny |
+| Świnia | 50 | Pasywny |
+| Topielec | 100 | Agresywny |
+| Troll | 500 | Agresywny |
+| Warg | 100 | Agresywny |
+| Wąż | 25 | Pasywny |
+| Wilk | 50 | Agresywny |
+| Włochaty bizon | 200 | Pasywny |
+| Włochaty nosorożec | 250 | Agresywny |
+| Zając | 25 | Pasywny |
+| Zębacz | 150 | Agresywny |
+| Zombie | 200 | Agresywny |
+| Żółw | 25 | Pasywny |

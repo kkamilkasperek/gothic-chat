@@ -1,0 +1,56 @@
+Tytuł: Bestiariusz w Gothic 3
+Sekcja: Imienne/związane z zadaniami
+
+| Nazwa | PD | Nastawienie |
+| --- | --- | --- |
+| Agresywny dzik | 100 | Agresywny |
+| Agresywny rozpruwacz | 200 | Agresywny |
+| Bak Arash | 500 | Agresywny |
+| Bezimienny | 300 | Agresywny |
+| Biały cieniostwór | 400 | Agresywny |
+| Biały rozpruwacz | 300 | Agresywny |
+| Boski pomocnik | 300 | Agresywny |
+| Cierpiący na zatwardzenie jaszczur | 100 | Agresywny |
+| Czarnopióry | 300 | Agresywny |
+| Demon z Gothy | 500 | Agresywny |
+| Dowódca ożywieńców | 200 | Agresywny |
+| Duży szabloząb | 300 | Agresywny |
+| Dziesiąty Człowiek | 300 | Agresywny |
+| Dziki lew | 300 | Agresywny |
+| Dziwny topielec | 100 | Agresywny |
+| Fanatyczne zwierzę | 300 | Agresywny |
+| Furtrapper | 300 | Agresywny |
+| Goblin jaskiniowy | 50 | Agresywny |
+| Golem-strażnik | 50 | Pasywny |
+| Groźny zębacz | 150 | Agresywny |
+| Górski jeleń | 50 | Pasywny<ref name="b"> |
+| Głodny wilk | 50 | Agresywny |
+| Krowa mleczna | 50 | Pasywny |
+| Księgo-gromca | 300 | Agresywny |
+| McAdam | 300 | Agresywny |
+| Nasycony topielec | 100 | Agresywny |
+| Niespokojny zwiadowca | 200 | Agresywny |
+| Nieustraszony goniec pustynny | 300 | Agresywny |
+| Parskający potwór | 500 | Agresywny |
+| Paskudny cieniostwór | 300 | Agresywny |
+| Paskudny dzik | 100 | Agresywny |
+| Podejrzany tygrys szablozęby | 300 | Agresywny |
+| Podwójny Sobowtór | 300 | Agresywny |
+| Przeklęty niewolnik | 200 | Agresywny |
+| Przyboczny generała | 300 | Agresywny |
+| Przywódca Niczego | 50 | Agresywny |
+| Przywódca stada | 100 | Agresywny |
+| Płochliwy jeleń | 50 | Pasywny |
+| Ranny pełzacz piaskowy | 150 | Agresywny |
+| Rozbudzone zombie | 200 | Agresywny |
+| Rozbudzony szkielet | 200 | Agresywny |
+| Rozkładająca się bestia | 300 | Agresywny |
+| Rycerz Okrągłego Stołu | 300 | Agresywny |
+| Skowyczący szkielet | 200 | Agresywny |
+| Skradający się ogr | 400 | Agresywny |
+| Srebrny wilk | 50 | Agresywny |
+| Szaroskóry | 250 | Pasywny |
+| Tchórzliwy goblin | 50 | Agresywny |
+| Twardy pełzacz piaskowy | 200 | Agresywny |
+| Tytan | 300 | Agresywny |
+| Ugluz brzuchaty | 500 | Agresywny |

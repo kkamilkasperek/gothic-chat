@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Tytuł: Szewc Fiska\nPodstawowe informacje:\n- nazwa: Szewc Fiska\n- zleceniodawca: Fisk\n- start: Stary Obóz\n- koniec: Stary Obóz\n- poprzednie: Brak\n- następne: Brak\n- dostępność: Wszyscy, 1-3 Rozdział\n- nagroda: 200 punktów doświadczenia, Lekkie spodnie kopacza\n- występowanie: Mroczne Tajemnice\nDodatkowe informacje:\n- Niekanon",
+    "metadata": {
+      "title": "Szewc Fiska",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Mrocznych Tajemnic"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Szewc Fiska\nSekcja: Wstęp\n\nSzewc Fiska – zadanie poboczne występujące w modyfikacji Mroczne Tajemnice do Gothic. Jest zlecane przez cienia Fisk.",
+    "metadata": {
+      "title": "Szewc Fiska",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Mrocznych Tajemnic"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Szewc Fiska\nSekcja: Krok po kroku\n\nPorozmawiaj z Fiskiem na targowisku.\n Porozmawiaj z Draxem przy drodze do placu wymian.\n Wróć do Fiska.",
+    "metadata": {
+      "title": "Szewc Fiska",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Mrocznych Tajemnic"
+      ],
+      "section": "Krok po kroku",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Szewc Fiska\nSekcja: Przebieg zadania > Tajemnicze zniknięcie\n\nKiedy Bezimienny pyta się Fiska, czy ma jakąś zbroję, cień odpowiada, że nie. Podobno zniknął jego dostawca spodni dla kopaczy. Bohater uważa, że handlarz za mało mu płacił i zmienił odbiorcę, Fisk jednak wszystkiemu zaprzecza, gdyż co 10 dni otrzymywał świeżą dostawę spodni. Cień prosi Bezimiennego o odnalezienie poszukiwanego.",
+    "metadata": {
+      "title": "Szewc Fiska",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Mrocznych Tajemnic"
+      ],
+      "section": "Przebieg zadania > Tajemnicze zniknięcie",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Szewc Fiska\nSekcja: Przebieg zadania > Poszukiwania\n\nBezimienny wychodzi ze Starego Obozu, by znaleźć ślad. Pyta się Draxa, czy nie widział dostawcę Fiska. Myśliwy wie, o kogo chodzi, ale obawia się, że dopadły go zębacze. Szkodnik opowiada bohaterowi swoją historię przed wrzuceniem za barierę: był kiedyś rymarzem, ale zaczynał jako zwyczajny szwacz. Drax domyśla się, że Fiskowi chodzi o najzwyklejsze spodnie dla kopaczy, a z nimi da sobie radę. Stawia jednak dwa warunki: cień ma osobiście odbierać dostawę, gdyż Drax nie wejdzie dobrowolnie do Starego Obozu. A zapłatą ma być piwo i wino, gdyż myśliwy ma dość ryżówki.",
+    "metadata": {
+      "title": "Szewc Fiska",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Mrocznych Tajemnic"
+      ],
+      "section": "Przebieg zadania > Poszukiwania",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Tytuł: Szewc Fiska\nSekcja: Przebieg zadania > Wieści dla Fiska\n\nW końcu Bezimienny wraca do Fiska z wiadomościami. Cień wydaje się zaskoczony, że Drax chce pomóc. Bohater wyjaśnia handlarzowi, że szkodnik był kiedyś rymarzem, a zapłatą ma być piwo i wino. Fisk godzi się na takie warunki i oddaje Bezimiennemu lekkie spodnie kopacza, które przechowywał w razie potrzeby. Po tym wszystkim zadanie kończy się.",
+    "metadata": {
+      "title": "Szewc Fiska",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Mrocznych Tajemnic"
+      ],
+      "section": "Przebieg zadania > Wieści dla Fiska",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Tytuł: Szewc Fiska\nSekcja: Zapisy w dzienniku\n\nFiskowi gdzieś wcięło krawca, który szył spodnie dla kopaczy. Poprosił mnie, bym znalazł dla niego jakiegoś krawca.\n\nZnalazłem krawca dla Fiska. Okazało się, że Drax chętnie pomoże kupcowi. Oczywiście nie za darmo. Za swoją pracę chce wina i piwa. Ale na to pewnie Fisk przystanie.\n\nFisk w zamian za znalezienie krawca podarował mi spodnie kopacza.",
+    "metadata": {
+      "title": "Szewc Fiska",
+      "type": "Zadanie",
+      "categories": [
+        "Zadania poboczne z Mrocznych Tajemnic"
+      ],
+      "section": "Zapisy w dzienniku",
+      "chunk_index": 6
+    }
+  }
+]

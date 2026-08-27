@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tytuł: Ciężkie magiczne ostrze bojowe\nPodstawowe informacje:\n- nazwa: Ciężkie magiczne ostrze bojowe\n- nazwa angielska: Heavy Ore Battle Blade\n- podnazwa: Gothic II,GII:NK\n- typ: Miecz dwuręczny z rudy\n- opis: Brak\n- wymagane atrybuty: Siła: 90\n- obrażenia: 90 (sieczne)\n- wartość kupna: 1200 złoto\n- wartość sprzedaży: 360 złoto\n- występowanie: Gothic II\n- kod: ItMw_2H_Special_03\nInne języki:\n- ru: Тяжелый рудный боевой клинок орков",
+    "metadata": {
+      "title": "Ciężkie magiczne ostrze bojowe",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic II"
+      ],
+      "section": "Informacje Podstawowe",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Tytuł: Ciężkie magiczne ostrze bojowe\nSekcja: Wstęp\n\nCiężkie magiczne ostrze bojowe – oręż występujący w Gothic II. W Gothic występuje identyczna broń o nazwie mściwa stal.",
+    "metadata": {
+      "title": "Ciężkie magiczne ostrze bojowe",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic II"
+      ],
+      "section": "Wstęp",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Tytuł: Ciężkie magiczne ostrze bojowe\nSekcja: Gothic II\n\nMiecz ten jest bronią dwuręczną, posiada 6 par charakterystycznych ostrych kolców, zmniejszających swój rozmiar wraz z odległością od rękojeści. Bezimienny może nauczyć się wykuwać ten miecz u kowala Benneta, mieszkającego na farmie Onara, lecz dopiero w IV rozdziale i tylko jeśli został łowcą smoków.",
+    "metadata": {
+      "title": "Ciężkie magiczne ostrze bojowe",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic II"
+      ],
+      "section": "Gothic II",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Tytuł: Ciężkie magiczne ostrze bojowe\nSekcja: Gothic II > Składniki\n\n1 pręt gorącej stali;\n 4 bryłki rudy.",
+    "metadata": {
+      "title": "Ciężkie magiczne ostrze bojowe",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic II"
+      ],
+      "section": "Gothic II > Składniki",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Tytuł: Ciężkie magiczne ostrze bojowe\nSekcja: Gothic II: Noc Kruka\n\nW dodatku Noc Kruka zwiększono obrażenia zadawane przez oręż do 160 punktów, ostrze zwiększa także umiejętność posługiwania się bronią dwuręczną. Podniesienie broni wymaga 140 puntów siły. Jej wartość wzrasta do 1800 sztuk złota, lecz sprzedać ją można tylko za 270.",
+    "metadata": {
+      "title": "Ciężkie magiczne ostrze bojowe",
+      "type": "Broń",
+      "categories": [
+        "Broń dwuręczna z Gothic II"
+      ],
+      "section": "Gothic II: Noc Kruka",
+      "chunk_index": 4
+    }
+  }
+]

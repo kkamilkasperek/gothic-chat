@@ -1,0 +1,10 @@
+Tytuł: Bestiariusz w Gothic 3
+Sekcja: Imienne/związane z zadaniami
+
+| Wilk tunelowy | 50 | Agresywny |
+| Włochacz | 50 | Agresywny |
+| Zabłąkany wilk | 50 | Agresywny |
+| Zegar | 300 | Agresywny |
+| Zegarynka | 300 | Agresywny |
+| Zleceniodawca | 300 | Agresywny |
+| Złodziejski goblin | 50 | Agresywny |

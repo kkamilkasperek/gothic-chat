@@ -1,0 +1,26 @@
+Tytuł: Gothic
+Podstawowe informacje:
+- nazwa: Gothic
+- okładka: Gothic 1 box.png
+- gatunek: Action RPG
+- producent: Piranha Bytes
+- wydawca: Europa: Egmont Interactive, USA: Xicat Interactive
+- dystrybutor w polsce: CD Projekt
+- data wydania: Świat: 15 marca 2001, Polska: 28 marca 2002
+- sprzedaż: Nieznana
+- odbiór: 8;9/10 (IMDB) (https://www.imdb.com/title/tt0889068/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Gothic%25202001), 8;7/10 (Metacritic) (https://www.metacritic.com/game/gothic/), 9;0/10 (Gry-online) (https://www.gry-online.pl/gra-ocena.asp?ID=5012#pc)
+- platformy: PC, Nintendo Switch (W wydaniu Gothic Classic.)
+- silnik: ZenGin
+- wymagania: Procesor Intel Pentium III 700 MHz (zalecane 1;2 GHz dla kart graficznych bez T&L), 256 MB RAM (dla Windows XP zalecane 512 MB), Karta graficzna 3D z 32 MB z obsługą DirectX 7 (zalecana 64 MB), 2;2 GB wolnego miejsca na twardym dysku, Karta dźwiękowa zgodna z DirectX 8, System operacyjny: Microsoft Windows 98/2000/XP
+- nośnik: 3 płyty CD, 1 płyta DVD, Cyfrowy
+- aktualna wersja: 1.08k
+Dodatkowe informacje:
+- Inne znaczenia (1: gry z 2001 roku, 2: Seria Gothic, 3: Seria Gothic)
+- Muzyka do artykułu (1: Gothic (muzyka).ogg)
+Inne języki:
+- cs: Gothic
+- de: Gothic
+- en: Gothic 1
+- it: Gothic
+- ru: Gothic
+- uk: Gothic I

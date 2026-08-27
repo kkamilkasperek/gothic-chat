@@ -1,0 +1,15 @@
+Tytuł: Polowanie na demony z Gornem
+Podstawowe informacje:
+- nazwa: Polowanie na demony z Gornem
+- nazwa angielska: Hunting demons with Gorn
+- zleceniodawca: Gorn
+- start: Wieża strażnicza w posterunku Gotha
+- koniec: Gotha
+- poprzednie: Uratuj Gorna z łap orków
+- część zadania: Uwolnij Gothę od klątwy
+- następne: Brak
+- dostępność: Wszyscy
+- nagroda: 1000 punktów doświadczenia
+- występowanie: Gothic 3
+Inne języki:
+- ru: Охота на демона с Горном

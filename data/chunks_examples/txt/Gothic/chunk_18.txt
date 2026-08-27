@@ -1,0 +1,24 @@
+Tytuł: Gothic
+Sekcja: Wersja polska
+
+Głosu użyczyli:
+
+| Aktor dubbingowy | Dubbingowane postacie |
+| --- | --- |
+| Jacek Mikołajczak | Bezimienny |
+| Adam Bauman | Diego | Lares | Gomez | Mordrag | Okyl | Baal Tyon | Darrion | Kosa | Świstak | Gor Na Toth | Drake | Wąż |
+| Piotr Bąk | Arto | Drago | Skorpion | Pacho | Aidan | Butch | Baal Kagan | Baal Tondral | Caine | Gor Na Ran | Baal Lukor | Gor Na Vid | Gor Na Kosh | Ian | Szantażysta |
+| Jarosław Domin | Y'Berion | Bartholo | Cipher | Fisk | Cavalorn | Ryżowy Książę | Rodriguez | Skip | Baal Orun | Sędzia | Alberto |
+| Agata Gawrońska-Bauman | Serafia | Sira | Velaya | Natalia | Chani |
+| Paweł Iwanicki | Baal Cadar | Baal Namib | Buster | Ghorim | Glen | Graham | Homer | Milten | Rufus | Shrat | Talas |
+| Jacek Kopczyński | Lee | Cor Angar | Gor Hanis | Gor Boba | Orik | Blizna | Cronos | Bloodwyn | Jarvis | Siekacz |
+| Tomasz Marzecki | Xardas | Saturas | Corristo | Riordian | Damarok | Cord | Merdarion |
+| Przemysław Nikiel | Thorus | Gorn | Wilk | Horacy | Aaron | Gor Na Bar | Gor Na Drak | Huno | Kharim | Swiney |
+| Łukasz Nowicki | Snaf | Scatty | Balor | Herek | Harlok | Senyan | Garp |
+| Marek Obertyn | Bullit | Stone | Brandick | Asghan | Fletcher | Silas | Orry | Drax | Jacko | Grim |
+| Jacek Sołtysiak | Jesse | Guy | Melvin | Dusty | Baal Isidro | Nyras | Baal Netbek |
+| Paweł Szczesny | Lester | Fortuno | Kirgo | Rączka | Baal Taran | Klin | Aleph |
+| Andrzej Tomecki | Grimes | Gravo | Torrez | Nefarius | Jeremiasz | Gilbert | Torlof | Pock |
+| Robert Tondera | Wrzód | Snipes | Szakal | Ratford | Krzykacz | Joru | Lewus | Viran | Ulbert | Santino |
+| Janusz Wituch | Cor Kalom | Kruk | Baal Parvez | Kyle | Dexter | Zły | Roscoe | Sharky | Pyrokar |
+| Mirosław Zbrojewicz | Ur-Shak | Tarrok | Varrag-Hashor | Varrag-Kasorg | Varrag-Unhilqt | Varrag-Ruuushk | Grash-Varrag-Arushat |

@@ -1,0 +1,15 @@
+Tytuł: Siła
+Sekcja: Gothic II > Bonusy trwałe
+
+Bohater może trwale zwiększyć swoją siłę po zjedzeniu lub wypiciu odpowiednich potraw czy mikstur (niektóre dostępne tylko dla wybranych gildii):
+ 25 jabłek – 1 punkt (bonus jednorazowy);
+ smoczy korzeń – 1 punkt;
+ gulasz Thekli – 1 punkt;
+ eliksir siły – 5 punktów;
+ mikstura wydzieliny ze smoczych jaj – 5 punktów (tylko paladyn/mag ognia);
+ Łzy Innosa – 5 punktów (tylko mag ognia);
+ Embarla Firgasto – 15 punktów.
+
+Dodatkowo składając ofiarę 100 sztuk złota przy posągu Innosa, bohater ma pewną szansę (Występuje to losowo: 
+ paladyn – po 25% szans na zyskanie +4 do maksymalnych punktów many, +8 do maksymalnych punktów trafień, +2 do siły lub +2 do zręczności;
+ pozostałe gildie (prócz maga)/brak gildii – po 50% szans na zyskanie +2 do maksymalnych punktów trafień lub +1 do siły.) na otrzymanie maksymalnie 10 razy bonusu +2 do siły (jeśli jest paladynem) lub +1 (jeśli należy do każdej innej gildii oprócz maga ognia lub nie posiada żadnej).

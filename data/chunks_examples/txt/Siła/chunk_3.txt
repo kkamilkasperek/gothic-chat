@@ -1,0 +1,10 @@
+Tytuł: Siła
+Sekcja: Gothic > Nauka
+
+System nauki jest bardzo prosty: jeden punkt siły kosztuje Bezimiennego jeden punkt nauki. Nauczyciele mogą zwiększyć siłę maksymalnie do 100 punktów, niektórzy będą uczyć bohatera wyłącznie po dołączeniu do konkretnej gildii. Są to:
+ Diego;
+ Lares;
+ Cor Angar – tylko jako nowicjusz/strażnik świątynny;
+ Gor Na Toth – tylko jako nowicjusz/strażnik świątynny;
+ Lee – tylko jako najemnik;
+ Thorus – tylko jako strażnik Starego Obozu.

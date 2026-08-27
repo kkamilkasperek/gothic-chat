@@ -1,0 +1,4 @@
+Tytuł: Starożytna zbroja magiczna_Modyfikacje
+Sekcja: Mroczne Tajemnice
+
+Jej ochrona znacząco wzrosła względem podstawowej wersji gry. Pancerz oferuje ochronę przed magią na poziomie 120 punktów, przed strzałami chroni o 105 punktów, przed bronią na 125 punktów, a przed ogniem na 120 punktów.

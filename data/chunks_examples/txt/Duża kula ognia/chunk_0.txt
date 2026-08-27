@@ -1,0 +1,16 @@
+Tytuł: Duża kula ognia
+Podstawowe informacje:
+- nazwa: Duża kula ognia
+- nazwa angielska: Large Fireball
+- podnazwa: Gothic II,GII:NK
+- bóg: Innos
+- krąg: Czwarty
+- obrażenia: 100-300
+- wymagana mana: 15-72
+- działanie: Podpala cel zaklęcia; zadając obrażenia zależne od zużytej many
+- wartość kupna: 2000 złoto (runa), 300 złoto (zwój)
+- wartość sprzedaży: 600 złoto (runa), 90 złoto (zwój)
+- występowanie: Gothic II
+- kod: ItRu_ChargeFireball (runa), ItSc_ChargeFireball (zwój)
+Inne języki:
+- ru: Большой огненный шар

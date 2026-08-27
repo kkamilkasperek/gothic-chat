@@ -261,11 +261,10 @@ Wstęp.
 """
     result = parse_wikitext_to_dict("Tabela 1", wikitext)
     text = result["sections"][0]["text"]
-    assert "TABLE" in text
-    assert "END_TABLE" in text
-    assert "Broń, Obrażenia" in text
-    assert "Miecz, 40" in text
-    assert "Topór, 50" in text
+    assert "| Broń | Obrażenia |" in text
+    assert "| --- | --- |" in text
+    assert "| Miecz | 40 |" in text
+    assert "| Topór | 50 |" in text
 
 def test_parse_wikitext_table_without_headers():
     wikitext = """{{Przedmiot
@@ -285,11 +284,11 @@ Wstęp.
 """
     result = parse_wikitext_to_dict("Tabela 2", wikitext)
     text = result["sections"][0]["text"]
-    assert "TABLE" in text
-    assert "END_TABLE" in text
-    assert "Miecz, 40" in text
-    assert "Topór, 50" in text
-    assert "Broń, Obrażenia" not in text
+    assert "| Miecz | 40 |" in text
+    assert "| --- | --- |" in text
+    assert "| Topór | 50 |" in text
+    assert "| Broń | Obrażenia |" not in text
+
 def test_parse_wikitext_inline_images_removed():
     wikitext = """{{Przedmiot
  |Nazwa = Artefakt
@@ -323,9 +322,9 @@ def test_parse_wikitext_table_image_header_removed():
 """
     result = parse_wikitext_to_dict("Artefakt", wikitext)
     text = result["sections"][0]["text"]
-    assert "TABLE" in text
-    assert "Broń, Obrażenia" in text
-    assert "Miecz, 40" in text
+    assert "| Broń | Obrażenia |" in text
+    assert "| --- | --- |" in text
+    assert "| Miecz | 40 |" in text
     assert "Obraz" not in text
     assert "miecz" not in text
 
@@ -348,9 +347,9 @@ def test_parse_wikitext_table_empty_column_removed():
 """
     result = parse_wikitext_to_dict("Artefakt", wikitext)
     text = result["sections"][0]["text"]
-    assert "TABLE" in text
-    assert "Miecz, 40" in text
-    assert "Topór, 50" in text
+    assert "| Miecz | 40 |" in text
+    assert "| --- | --- |" in text
+    assert "| Topór | 50 |" in text
     assert "miecz" not in text
 
 def test_parse_wikitext_infobox_image_keys_ignored():

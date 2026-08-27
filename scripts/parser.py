@@ -154,18 +154,28 @@ def process_wikicode_inline(wikicode: mwparserfromhell.wikicode.Wikicode) -> tup
                     filtered_rows.append(filtered_row)
             rows = filtered_rows
                 
-            # Construct CSV text
-            lines = ["\nTABLE"]
-            if headers:
-                lines.append(", ".join(headers))
-            for row in rows:
-                lines.append(", ".join(row))
-            lines.append("END_TABLE\n")
+            # Construct MD text
+            lines = ["\n"]
+            
+            if not headers and rows:
+                headers = rows[0]
+                rows = rows[1:]
                 
-            csv_text = "\n".join(lines) + "\n"
+            if headers:
+                lines.append("| " + " | ".join(headers) + " |")
+                lines.append("| " + " | ".join(["---"] * len(headers)) + " |")
+                
+            for row in rows:
+                if headers:
+                    row = row + [""] * max(0, len(headers) - len(row))
+                lines.append("| " + " | ".join(row) + " |")
+                
+            lines.append("\n")
+                
+            md_text = "\n".join(lines)
             
             try:
-                wikicode.replace(tag, csv_text)
+                wikicode.replace(tag, md_text)
             except ValueError:
                 pass
                 

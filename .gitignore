@@ -1,6 +1,7 @@
 .idea/
 .env
 .venv
-.agents/
+.agents
 __pycache__
 data/parsed_json
+qdrant_storage

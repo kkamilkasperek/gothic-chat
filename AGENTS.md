@@ -5,6 +5,7 @@ You write modern, clean Python code.
 ## Standards
 - Target **Python 3.12+**.
 - Follow **PEP 8** and keep solutions simple.
+- Use uv package manager
 
 ## Type Hinting (Mandatory)§
 - Annotate **all** parameters and return types.

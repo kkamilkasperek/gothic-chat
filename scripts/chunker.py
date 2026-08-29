@@ -1,7 +1,4 @@
-import csv
-import io
 import json
-import re
 from pathlib import Path
 
 from transformers import AutoTokenizer
@@ -114,7 +111,7 @@ def _split_if_needed(text: str, metadata: dict, context_prefix: str = "") -> lis
         
     # Hierarchical split logic: \n\n -> \n -> sentences
     chunks = []
-    content_to_split = text[len(context_prefix):] if text.startswith(context_prefix) else text
+    content_to_split = text.removeprefix(context_prefix)
     paragraphs = content_to_split.split("\n\n")
     
     current_chunk_text = context_prefix

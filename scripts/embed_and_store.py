@@ -33,8 +33,15 @@ def main() -> None:
 
     # 2. Initialize Embedding Model
     print(f"Loading embedding model: {MODEL_NAME}")
-    # mps (Metal Performance Shaders) for Mac M-series only
-    model = SentenceTransformer(MODEL_NAME, device="mps")
+
+    if torch.cuda.is_available():
+        device = "cuda"
+    elif torch.backends.mps.is_available():
+        device = "mps"
+    else:
+        device = "cpu"
+
+    model = SentenceTransformer(MODEL_NAME, device=device)
 
     # 3. Process Files
     json_files = list(INPUT_DIR.glob("*.json"))

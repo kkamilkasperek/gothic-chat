@@ -4,6 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "mwparserfromhell>=0.7.2",
+    "ollama>=0.6.2",
     "pytest>=9.1.1",
     "qdrant-client>=1.19.0",
     "requests>=2.34.2",

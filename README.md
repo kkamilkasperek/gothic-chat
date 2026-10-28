@@ -114,15 +114,25 @@ the embedding pipeline.
 ## Optional local chat example
 
 Install [Ollama](https://ollama.com/), make sure its local service is running,
-and download the model used by `bot/test_llm.py`:
+and download the model used by the bot:
 
 ```bash
 ollama pull qwen3.5:4b
-uv run python bot/test_llm.py
+uv run python bot/chat_with_retrieval.py
 ```
 
-The chat example is a standalone terminal conversation and currently does not
-query the Qdrant collection.
+The RAG chat retrieves up to 10 relevant chunks from the `gothicpedia` Qdrant
+collection before each answer. The Qdrant URL and collection can be overridden
+with `QDRANT_URL` and `QDRANT_COLLECTION`.
+
+To start the Streamlit web interface:
+
+```bash
+uv run streamlit run bot/chat_with_streamlit.py
+```
+
+It provides a ChatGPT-like conversation view with a message input and chat
+bubbles.
 
 ## Development commands
 
@@ -147,6 +157,8 @@ uv run ruff check .
 | `scripts/parser.py` | Converts MediaWiki markup into structured data |
 | `scripts/chunker.py` | Splits parsed articles into embedding-sized chunks |
 | `scripts/embed_and_store.py` | Embeds chunks and uploads them to Qdrant |
-| `bot/test_llm.py` | Optional Ollama terminal chat |
+| `bot/test_llm.py` | Optional Ollama terminal chat without retrieval |
+| `bot/chat_with_retrieval.py` | Ollama terminal chat with Qdrant retrieval |
+| `bot/chat_with_streamlit.py` | Streamlit web chat with Qdrant retrieval |
 | `tests/` | Parser tests |
 | `data/parsed_json/` | Generated parsed articles |

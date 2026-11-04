@@ -1,0 +1,73 @@
+{"question": "Jak nazywał się myśliwy, który pracował dla Bospera?", "expected_answer": "Myśliwy, który pracował dla Bospera nazywał się Bartok", "must_contain": ["Bartok"]}
+{"question": "U których z mistrzów w Khorinis nie możemy praktykować?", "expected_answer": "Nie możemy praktykować u stolarza Thorbena oraz kupca Matteo, mogą jedynie udzielić zgody na praktykę u innych mistrzów", "must_contain": ["Thorben|Thorbena", "Matteo"]}
+{"question": "Który z mistrzów z dolnego miasta Khorinis ma największe kłopoty finansowe?", "expected_answer": "Największe kłopoty ma Thorben, musiał zapożyczyć się u Lehmara", "must_contain": ["Thorben"]}
+{"question": "Jak nazywa się orkowy szaman z którym możemy porozmawiać w Gothicu I?", "expected_answer": "Orkowy szaman z którym możemy porozmawiać w Gothicu I nazywa się Ur-Shak", "must_contain": ["Ur-Shak|Ur Shak"]}
+{"question": "Jak nazywa się najemnik z nowego obozu, który nie ma własnej ścieżki dialogowej, ma takie same jak najemnicy bez podanego imienia?", "expected_answer": "Najemnik bez unikalnych dialogów nazywa się Kosa", "must_contain": ["Kosa"]}
+{"question": "Jak nazywa się pirat z którym możemy iść na polowanie w Jarkendarze?", "expected_answer": "W Jarkendarze możemy iść na polowanie z Jackiem Aligatorem", "must_contain": ["Jack|Jackiem", "Aligator|Aligatorem"]}
+{"question": "Ile punktów doświadczenia dostajemy za zabicie warga w Gothic II a ile w dodatku Noc Kruka?", "expected_answer": "W podstawowej wersji za zabicie warga dostajemy 150 punktów doświadczenia, a w Nocy Kruka 300", "must_contain": ["150", "300"]}
+{"question": "Jakiego rodzaju skór Bosper nie odkupi od nas?", "expected_answer": "Bosper nie odkupi od nas skór topielca", "must_contain": ["topielec|topielca"]}
+{"question": "Jak nazywa się największy obóz buntowników na wybrzeżu?", "expected_answer": "Największy obóz buntowników na wybrzeżu nazywa się Reddock", "must_contain": ["Reddock"]}
+{"question": "Jak nazywa się główny sekretarz gubernatora Khorinis", "expected_answer": "Głównym sekretarzem gubernatora jest Cornelius", "must_contain": ["Cornelius"]}
+{"question": "Jak nazywa się przywódca gildii złodziei w Khorinis?", "expected_answer": "Przywódczynią gildii złodziei jest Cassia", "must_contain": ["Cassia"]}
+{"question": "Jak nazywa się członek gildii złodziei zamknięty w wieży?", "expected_answer": "Złodziej zamknięty w wieży przed domem Thorbena nazywa się Joe", "must_contain": ["Joe"]}
+{"question": "Kto handluje bagiennym ziele w Starym Obozie?", "expected_answer": "W Starym Obozie zielem handluje jeden z nowicjuszy bractwa Baal Parvez", "must_contain": ["Parvez"]}
+{"question": "Jak nazywają się nowicjusze znajdujący się w Starym Obozie?", "expected_answer": "W Starym Obozie jest dwóch nowicjuszy bractwa śniącego Baal Parvez oraz Baal Taran", "must_contain": ["Parvez", "Taran"]}
+{"question": "Która z modyfikacji pozwala na dołączenie do magnatów", "expected_answer": "Kilka modyfikacji pozwala na dołączenie do magnatów między innymi Mroczne Tajemnice oraz Świat Skazańców", "must_contain": ["Mroczne Tajemnice"]}
+{"question": "Jakie obrażenia zadaje topór Pięść Trolla w pierwszej części Gothica?", "expected_answer": "W pierwszej części gothica Pieść Trolla zadaje 100 punktów obrażeń", "must_contain": ["100"]}
+{"question": "Jaką populację posiada Stary Obóz?", "expected_answer": "W Starym Obozie żyje około 120 ludzi", "must_contain": ["120|sto dwadzieścia"]}
+{"question": "Wymień trzech strażników patrolujących zewnętrzny pierścień Starego Obozu", "expected_answer": "Strażnicy patrolujący zewnętrzny pierścień to między innymi Bloodwyn, Szakal i Fletcher", "must_contain": ["Bloodwyn", "Szakal", "Fletcher"]}
+{"question": "Jak nazywa się centrum wszechświata opisane w księdze magów wody pod tytułem 'Astronomia'?", "expected_answer": "Według tej księgi centrum wszechświata nosi nazwę Morgrad", "must_contain": ["Morgrad"]}
+{"question": "Jakie imię nosi najwyższy stopniem mag ognia zasiadający w Vengardzie?", "expected_answer": "Najwyższym stopniem magiem ognia jest Karrypto", "must_contain": ["Karrypto"]}
+{"question": "Jak nazywa się mag który dowodził podczas tworzenia bariery w Gothicu I?", "expected_answer": "Przywódcą magów tworzących barierę był Xardas", "must_contain": ["Xardas|Xardasa"]}
+{"question": "Jak nazywa się stworzenie przypominające dinozaura występujące w Myrtanie za 500 punktów doświadczenia?", "expected_answer": "To stworzenie nosi nazwę Potwór", "must_contain": ["Potwór|Potwora"]}
+{"question": "Jakie imiona noszą druidzi których możemy spotkać w Myrtanie?", "expected_answer": "Druidzi których można spotkać to Runak, Porgan, Torn, Bogir (mieszka w Nordmarze) i Akor", "must_contain": ["Runak|Runaka", "Porgan|Porgana", "Torn|Torna"]}
+{"question":  "Jak nazywa się miecz który dzierży Kruk w Gothicu II Noc Kruka?", "expected_answer":  "Kruk używa Szponu Beliara", "must_contain":  ["Szpon|Szponu", "Beliara"]}
+{"question": "Z jakimi krainami sąsiaduje Myrtana na północy i południu?", "expected_answer": "Myrtana sąsiaduje od południa z Varantem oraz od północy z Nordmarem", "must_contain": ["Varant|Varantem|Varantu", "Nordmar|Nordmarem|Nordmarze"]}
+{"question": "Miecz z gothica II Noc Kruka, siła 115, obrażenia 115, można go znaleźć na drodze do ognistego smoka. O jakim mieczu mowa?", "expected_answer": "Miecz zgodny z opisen to Runa Mocy, jest wbity w pień na drodze do smoka Feomathara", "must_contain": ["Runa|Runie", "Mocy"]}
+{"question": "Jak nazywa się czeladnik oraz siostrzeniec Thorbena?", "expected_answer": "Siostrzeńcem oraz czeladnikiem Thorbena nazywa się Elvrich", "must_contain": ["Elvrich|Elvrichu"]}
+{"question": "Który z zbieraczy ryżu w Gothicu I, obiłby Ryżowemu Księciowi mordę jeśli tylko by chciał?", "expected_answer": "Mowa o Horacym", "must_contain": ["Horacy|Horacym|Horacego"]}
+{"question": "Ilu pomocników potrzebuje Bezimienny w misji Komnata Nowicjuszy w Gothicu 2?", "expected_answer": "Bohater potrzebuje czterech pomocników", "must_contain": ["czterech|4|czworo|cztery"]}
+{"question": "Jaką stawkę chcę otrzymać od Orlana Gorax za 12 butelek klasztornego wina?", "expected_answer": "Gorax oczekuje 240 sztuk złota", "must_contain": ["240"]}
+{"question": "Jaka jest najsilniejsza broń w Gothic 2 Noc Kruka?", "expected_answer": "Najsilniejsza bronią w Nocy Kruka jest Topór Berserkera, zadający 200 obrażeń", "must_contain": ["Topór", "Berserkera"]}
+{"question": "Jaka jest najsilniejsza broń w Gothic I?", "expected_answer": "Najsilniejszą bronią jest miecz Gomeza - Gniew Innosa", "must_contain": ["Gniew", "Innosa"]}
+{"question": "Jak nazywa się główny dowódca orków w Gothicu 3?", "expected_answer": "Głównym wodzem orków jest Kan, który przesiaduje na zamku w Faring", "must_contain": ["Kan"]}
+{"question": "Jak nazywa się dowódca buntowników w Reddock?", "expected_answer": "Szefem obozu Reddock jest Javier", "must_contain": ["Javier"]}
+{"question": "W jakim mieście znajduje się porwany Vatras w Gothicu 3?", "expected_answer": "Vatras jest więziony w Lago", "must_contain": ["Lago"]}
+{"question": "Jak nazywają się 3 zaklęcia w Gothicu 3, które wymagają 250 prastarej wiedzy?", "expected_answer": "Czary wymagające 250 prastarej wiedzy to: Armia Ciemności, Burza Gradowa, Ognisty Deszcz", "must_contain": ["Armia|Armię", "Ciemności", "Burza", "Gradowa"]}
+{"question": "Jak nazywa się paladyn informujący nas o zasadach panujących w Khorinis po wejściu przez bramę?", "expected_answer": "Paladyn, który informuje nas o zasadach w mieście nazywa się Lothar", "must_contain": ["Lothar"]}
+{"question": "Ile skrzyń rudy udało się uzbierać paladynom wysłanym do górniczej doliny?", "expected_answer": "Ekspedycji pod przywództwem Garonda, udało się uzbierać 10 skrzyń rudy", "must_contain": ["dziesięć|10"]}
+{"question": "Jak nazywał się zarządca Wolnej Kopalni w Gothicu I?", "expected_answer": "Zarządcą wolnej kopalni pod barierą był Okyl", "must_contain": ["Okyl"]}
+{"question": "Czy mag ognia Torrez był jednym z magów tworzących barierę?", "expected_answer": "Tak, Torrez był jednym z magów tworzących barierę", "must_contain": ["Tak|Prawda"]}
+{"question": "Co dostaniemy od Mordraga, jeżeli pójdziemy z nim do Nowego Obozu?", "expected_answer": "Mordgrad da nam swój pierścień", "must_contain": ["pierścień"]}
+{"question": "Kto pomoże nam zdobyć kamień ogniskujący w kanione trolli?", "expected_answer": "W kanionie trolli w zdobyciu kamienia, pomaga nam Diego", "must_contain": ["Diego"]}
+{"question": "Ile obrażeń zadaje miecz świstaka?", "expected_answer": "Miecz świstaka zadaje 20 punktów obrażeń", "must_contain": ["20|dwadzieścia"]}
+{"question": "Ile obrażeń zadaje sierp w Gothicu I?", "expected_answer": "Sierp w gothicu I zadaje 7 punktów obrażeń", "must_contain": ["7|siedem"]}
+{"question": "Ile obrażeń zadaje niewykończony miecz w Gothicu I?", "expected_answer": "Niewykończony miecz w gothicu I zadaje 20 punktów obrażeń", "must_contain": ["20|dwadzieścia"]}
+{"question": "Czy w gothicu 2 istnieje zwój telekineza?", "expected_answer": "Nie, w gothicu 2 nie ma takiego zwoju", "must_contain": ["nie"]}
+{"question": "Wymień czary VI kręgu magii W Gothicu 2 Noc Kruka", "expected_answer": "Czary szóśtego kręgu to: Deszcz Ognia, Armia Ciemności, Zmniejszenie Potwora, Tchnienie Śmierci, Śmiertelna fala, Święty Pocisk", "must_contain": ["Deszcz|Deszczu", "Ognia", "Armia|Armię", "Ciemności", "Zmniejszenie|Zmniejszenia", "Potwora", "Tchnienie|Tchnienia", "Śmierci", "Śmiertalna|Śmiertelnej", "Fala|Fali", "Święty|Świętego", "Pocisk|Pocisku"]}
+{"question": "Ile dostajemy doświadczenia za zabicie orka elity w Gothic 2 Noc Kruka?", "expected_answer": "Za orkę elitę dostajemy 450 punktów doświadczenia", "must_contain": ["450|czterysta pięćdziesiąt"]}
+{"question": "Ile dostajemy doświadczenia za zabicie orka szamana w Gothic 2 Noc Kruka?", "expected_answer": "Za orka szamana dostajemy 350 punktów doświadczenia", "must_contain": ["350|trzysta pięćdziesiąt"]}
+{"question": "Wymień baalów przebywających w obozie na bagnie", "expected_answer": "Baalowie z obozu na bagnie to: Namib, Tondral, Cadar, Tyon, Lukor, Orun", "must_contain": ["Namib|Namiba", "Tondral|Tondrala", "Cadar|Cadara", "Tyon|Tyona", "Lukor|Lukora", "Orun|Oruna"]}
+{"question": "Jakie hasło należy podać, aby dostać się do magów wody w nowym obozie?", "expected_answer": "Hasło brzmi: TETRIANDOCH", "must_contain": ["TETRIANDOCH"]}
+{"question": "Jakie jest hasło do świątyni Adanosa, które podaje nam Quahodron?", "expected_answer": "Hasło brzmi: Jhehedra Akhantar", "must_contain": ["Jhehedra Akhantar"]}
+{"question": "Jak nazywa się nowicjusz z obozu bractwa któremu szukamy zastępstwa przy pracy?", "expected_answer": "Nowicjusz czekający na zastępstwo nazywa się Ghorim", "must_contain": ["Ghorim|Ghorimowi|Ghorima"]}
+{"question": "W jakim mieście spotykamy Thorusa w Gothicu 3?", "expected_answer": "W Gothicu 3 Thorusa można spotkać przy bramie do Trelis", "must_contain": ["Trelis"]}
+{"question": "Jaką ilość doświadczenia dostaniemy za zabicie topielca spod tamy w Gothicu I?", "expected_answer": "Topielec spod tamy daję nam 200 doświadczenia", "must_contain": ["200|dwieście"]}
+{"question": "Jak nazywa się przywódca strażników świątynnych w obozie na bagnie?", "expected_answer": "Przywództwą straży świątynnej w obozie na bagnie to Cor Angar", "must_contain": ["Angar|Angara"]}
+{"question": "Wymień klany znajdujące się w Nordmarze w Gothicu 3", "expected_answer": "Nordmarskie klany to: klan wilka, klan młota i klan ognia", "must_contain": ["wilka", "młota", "ognia"]}
+{"question": "Do jakiego miasta prowadzi runa w Gothicu 3, która ma symbol kowadła?", "expected_answer": "Runa teleportacyjna z kowadłem prowadzi do Ben Sali", "must_contain": ["Ben", "Sala|Sali"]}
+{"question": "Jakie jest hasło Iana do Ashgana, które zezwala na otwarcie bramy za którą są pełzacze?", "expected_answer": "To hasło brzmi: Wszystko będzie w porządku", "must_contain": ["Wszystko", "będzie", "w porządku"]}
+{"question": "Ile dostajemy doświadczenia za zlikwidowanie chrząszcza w Gothicu I i II?", "expected_answer": "Dostajemy 10 punktów doświadczenia za zabicie chrząszcza", "must_contain": ["10|dziesięć"]}
+{"question": "Ile doświadczenia dostaniemy za preriowego ścierwojada w jarkendarze?", "expected_answer": "Preriowy ścierwojad daje 120 punktów doświadczenia", "must_contain": ["120|sto dwadzieścia"]}
+{"question": "Jakie statystyki daję nam pierścień mordraga w Gothicu I?", "expected_answer": "Pierścień Mordraga daję 5 punktów zręczności", "must_contain": ["5|pięć"]}
+{"question": "Ile bryłek rudy chcę Lares od bohatera za handel bagiennym zielem w Gothicu I?", "expected_answer": "Lares oczekuję 400 bryłek rudy", "must_contain": ["400|czterysta"]}
+{"question": "Jak nazywa się król Myrtany zasiadający w Vengardzie?", "expected_answer": "Królem Myrtany jest Rhobar II", "must_contain": ["Rhobar|Rhobara", "II|drugi|drugiego"]}
+{"question": "Jak nazywa się przywódca asasynów zasiadający w Ishtar?", "expected_answer": "Władcą asasynów jest Zuben", "must_contain": ["Zuben|Zubena"]}
+{"question": "Jakie imię nosi kopacz, który ukrywa się w jaskinii nieopodal starego obozu?", "expected_answer": "Ukrywającym kopaczem jest samotnik Gilbert", "must_contain": ["Gilbert"]}
+{"question": "Jak nazywa się kowal w obozie na bagnie?", "expected_answer": "Kowalem w obozie na bagnie jest Darrion", "must_contain": ["Darrion"]}
+{"question": "Z ilu ksiąg składa się chromanin związany z zadaniem Nieznajomy w Gothicu I?", "expected_answer": "W zadaniu trzeba zebrać 6 ksiąg", "must_contain": ["6|sześć|sześciu"]}
+{"question": "Podaj imiona dwóch nauczycieli z kolonii karnej, którzy mogą nauczyć bohatera skradania się", "expected_answer": "Bohatera mogą nauczyć skradania, Cavalorn i Klin", "must_contain": ["Cavalorn", "Klin"]}
+{"question": "Jaką plotkę może o bohaterze rozpuścić Canthar, gdy wyjdzie z więzienia w III rozdziale?", "expected_answer": "Canthar zaczyna mówić, że bohater jest byłym skazańcem z kolonii górniczej", "must_contain": ["skazańcem|skazaniec|więźniem|więzień"]}
+{"question": "Jaki miecz otrzymamy od Sary, jeżeli jej nie wrobimy w handel bronią z Onarem?", "expected_answer": "Otrzymamy od niej piracki kordelas", "must_contain": ["piracki", "kordelas"]}
+{"question": "", "expected_answer": "", "must_contain": []}
+{"question": "", "expected_answer": "", "must_contain": []}

@@ -1,0 +1,3 @@
+Zbiór pytań do ewaluacji chatbota odpowiadającego na pytania z serii Gothic,
+stworzony na podstawie serii "Bitwa na wiedzę - Gothic" autorstwa StaryKijTV
+https://www.youtube.com/@StaryKijTV

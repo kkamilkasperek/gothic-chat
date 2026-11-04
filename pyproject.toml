@@ -3,6 +3,7 @@ name = "gothic-bot"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "google-genai>=2.34.0",
     "mwparserfromhell>=0.7.2",
     "ollama>=0.6.2",
     "pytest>=9.1.1",

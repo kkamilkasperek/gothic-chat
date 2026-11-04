@@ -4,8 +4,8 @@ Gothic Bot is a Python project for collecting knowledge from the Polish
 Gothic Wiki and preparing it for semantic search. It downloads wiki articles,
 parses their MediaWiki markup into structured JSON, creates text chunks and
 embeddings, and stores the resulting vectors in Qdrant. The repository also
-contains a small optional terminal chat example powered by a local Ollama
-model.
+contains optional chat examples powered by either a local Ollama model or the
+Gemini API.
 
 ## Requirements
 
@@ -17,8 +17,9 @@ model.
   - the data collection scripts access the Gothic Wiki API;
   - `BAAI/bge-m3` is downloaded from Hugging Face on first use.
 
-Ollama is only required for the optional chat example. It is not required to
-download the wiki data or build the Qdrant collection.
+Ollama and a Gemini API key are only required for their respective optional
+chat examples. Neither is required to download the wiki data or build the
+Qdrant collection.
 
 ## Installation
 
@@ -134,6 +135,22 @@ uv run streamlit run bot/chat_with_streamlit.py
 It provides a ChatGPT-like conversation view with a message input and chat
 bubbles.
 
+## Optional Gemini chat example
+
+Set a Gemini API key and run the terminal version:
+
+```bash
+export GEMINI_API_KEY="your-api-key"
+uv run python bot/chat_with_retrieval_gemini.py
+```
+
+The Gemini variant uses `gemini-3.5-flash`, keeps the complete conversation
+history, and does not require Ollama. To start its Streamlit interface:
+
+```bash
+uv run streamlit run bot/chat_with_streamlit_gemini.py
+```
+
 ## Development commands
 
 Run the test suite:
@@ -160,5 +177,7 @@ uv run ruff check .
 | `bot/test_llm.py` | Optional Ollama terminal chat without retrieval |
 | `bot/chat_with_retrieval.py` | Ollama terminal chat with Qdrant retrieval |
 | `bot/chat_with_streamlit.py` | Streamlit web chat with Qdrant retrieval |
+| `bot/chat_with_retrieval_gemini.py` | Gemini terminal chat with Qdrant retrieval |
+| `bot/chat_with_streamlit_gemini.py` | Gemini Streamlit web chat with Qdrant retrieval |
 | `tests/` | Parser tests |
 | `data/parsed_json/` | Generated parsed articles |
